@@ -25,9 +25,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -40,9 +38,12 @@ class AbstractDocDownloader:
             file_path = self.get_pdf_path(lang)
             if not os.path.exists(file_path):
                 page = WebPage(url)
-                os.makedirs(self.dir_temp_data, exist_ok=True)
-                page.download_binary(file_path)
-                did_hot_download = True
+                try:
+                    os.makedirs(self.dir_temp_data, exist_ok=True)
+                    page.download_binary(file_path)
+                    did_hot_download = True
+                except Exception as e:
+                    log.error(f"Download {url} failed: {e}")
 
         return did_hot_download
 
@@ -90,9 +91,5 @@ class AbstractDocDownloader:
     @staticmethod
     @cache
     def get_temp_data_summary():
-        assert os.path.exists(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        )
-        return TSVFile(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        ).read()
+        assert os.path.exists(AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH)
+        return TSVFile(AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH).read()
