@@ -44,7 +44,7 @@ class AbstractScraper:
             if delta_t > max_delta_t:
                 log.debug(f"{n_hot=:,}")
                 log.warning(
-                    f"⛔️ Stopping. ⏰ {delta_t:.2f}s > {max_delta_t:.2f}s."
+                    f"⛔️ Stopping. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
                 )
                 log.debug("-" * 80)
                 return n_hot

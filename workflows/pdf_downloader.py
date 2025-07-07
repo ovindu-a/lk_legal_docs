@@ -4,7 +4,8 @@ import sys
 import time
 
 from utils import Log
-from lld import DocFactory, AbstractDoc
+
+from lld import AbstractDoc, DocFactory
 
 DEFAULT_MAX_DELTA_T = 120
 GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
@@ -23,19 +24,21 @@ def testing_git_clone():
 def downloader(max_delta_t):
     log.debug(f"{max_delta_t=}")
 
-    assert os.path.exists(
-        AbstractDoc.DIR_TEMP_DATA
-    )
+    assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     t_start = time.time()
     doc_list = DocFactory.list_all()
     for doc in doc_list:
         doc.download_all()
-        log.info(f"Downloaded pdfs for {doc.id}.")
+
         delta_t = time.time() - t_start
+        log.info(
+            f"[{delta_t:.1f}s/{max_delta_t:.1f}s]"
+            + f" Downloaded pdfs for {doc.id}"
+        )
         if delta_t > max_delta_t:
             log.warning(
-                f"⛔️ Stopping. ⏰ {delta_t:.2f}s > {max_delta_t:.2f}s."
+                f"⛔️ Stopping. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
             )
             return
 
