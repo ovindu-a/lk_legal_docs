@@ -7,7 +7,7 @@ from utils import Log
 
 from lld import AbstractDoc, DocFactory
 
-DEFAULT_MAX_DELTA_T = 120
+DEFAULT_MAX_DELTA_T = 600
 GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
 
 log = Log("pdf_downloader")
