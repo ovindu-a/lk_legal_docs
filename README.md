@@ -1,8 +1,8 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-07 09:09:23**.*
+*Last Updated **2025-07-07 09:27:43**.*
 
-**43,941** documents (42.1 MB), from 1981-01-22 to 2025-07-04.
+**43,941** documents (58.9 MB), from 1981-01-22 to 2025-07-04.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -18,10 +18,10 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,266 | 2006-03-03 | 2025-07-04 |
-| 🚨 Extraordinary Gazettes | 34,681 | 2010-01-01 | 2025-07-04 |
-| 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 | ✍️ Bills | 1,347 | 2010-05-10 | 2025-07-04 |
+| 🚨 Extraordinary Gazettes | 34,681 | 2010-01-01 | 2025-07-04 |
+| 📢 Gazettes | 6,266 | 2006-03-03 | 2025-07-04 |
+| 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
 
@@ -93,4 +93,4 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 ## Pipeline Information
 
-- HTML-Cache = 28.5 MB 
+- HTML-Cache = 0.0 MB 
