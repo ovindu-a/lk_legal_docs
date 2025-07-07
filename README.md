@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-07 17:57:22**.*
+*Last Updated **2025-07-07 18:12:03**.*
 
 **43,947** documents (58.9 MB), from 1981-01-22 to 2025-07-04.
 
@@ -101,4 +101,4 @@ Currently, PDFs for **260** documents have been downloaded.
 
 ## Scraper Information
 
-- HTML-Cache = 0.0 MB 
+- HTML-Cache = 28.5 MB 
