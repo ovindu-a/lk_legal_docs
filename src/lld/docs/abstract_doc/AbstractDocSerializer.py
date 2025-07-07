@@ -20,31 +20,37 @@ class AbstractDocSerializer:
 
     def to_dict(self):
         return dict(
-            # properties
+            # properties (1)
             doc_type_name=self.get_doc_type_name(),
-            id=self.id,
-            dir_data=self.dir_data,
             # attributes
-            doc_num=self.doc_num,
             date=self.date,
             description=self.description,
             lang_to_source_url=self.lang_to_source_url,
+            doc_num=self.doc_num,
+            # properties (2)
+            id=self.id,
+            dir_data=self.dir_data,
         )
 
     def to_dict_flat(self):
         d = dict(
-            # properties
+            # properties (1)
             doc_type_name=self.get_doc_type_name(),
-            id=self.id,
-            dir_data=self.dir_data,
-            # attributes
-            doc_num=self.doc_num,
+            # attributes (1)
             date=self.date,
             description=self.description,
         )
         for lang in Lang.list_all():
             source_url = self.lang_to_source_url.get(lang.code, "None")
             d["source_url_" + lang.code] = source_url
+
+        d |= dict(
+            # attributes (2)
+            doc_num=self.doc_num,
+            # properties (2)
+            id=self.id,
+            dir_data=self.dir_data,
+        )
 
         return d
 
