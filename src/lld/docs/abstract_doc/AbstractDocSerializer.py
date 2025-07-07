@@ -1,4 +1,5 @@
 import os
+import tempfile
 from functools import cached_property
 
 from utils import JSONFile, Log
@@ -13,6 +14,12 @@ class AbstractDocSerializer:
     def dir_data(self):
         dir_data = os.path.join(self.get_doc_type_dir(), self.year, self.id)
         return dir_data
+
+    @cached_property
+    def dir_temp_data(self):
+        return os.path.join(
+            tempfile.gettempdir(), "lk_legal_docs_data", self.dir_data
+        )
 
     @cached_property
     def metadata_file_path(self):

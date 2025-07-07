@@ -21,8 +21,6 @@ class AbstractPipelineRunner:
         if is_hot:
             doc.write_metadata()
             doc.write_readme()
-            # doc.download_all()
-            # doc.extract_text()
 
         # HACK-Cleanup
         if not doc.has_sources() and doc.is_stored_in_data():
