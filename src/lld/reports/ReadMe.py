@@ -221,7 +221,7 @@ class ReadMe:
             + self.get_lines_for_sample_docs()
             + self.get_lines_for_interesting_docs()
             + self.get_lines_for_temp_data()
-            + self.get_lines_for_system_info(),
+            + self.get_lines_for_system_info()
         )
 
     def build(self):
