@@ -25,9 +25,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -52,10 +50,16 @@ class AbstractDocDownloader:
         d_list = []
         for doc_type_name in os.listdir(dir_data):
             dir_data_doc_type = os.path.join(dir_data, doc_type_name)
+            if not os.path.isdir(dir_data_doc_type):
+                continue
             for year in os.listdir(dir_data_doc_type):
                 dir_data_year = os.path.join(dir_data_doc_type, year)
+                if not os.path.isdir(dir_data_year):
+                    continue
                 for doc_id in os.listdir(dir_data_year):
                     dir_data_doc = os.path.join(dir_data_year, doc_id)
+                    if not os.path.isdir(dir_data_doc):
+                        continue
 
                     has_pdf_idx = {}
                     for lang in Lang.list_all():
