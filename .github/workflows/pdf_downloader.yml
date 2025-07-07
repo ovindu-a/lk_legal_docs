@@ -46,7 +46,7 @@ jobs:
       - name: Clone lk_legal_docs_data
         run: |
           git clone https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
-          cd /tmp/lk_legal_docs_data/
+          ls /tmp/lk_legal_docs_data/
 
       - name: "python workflows/pdf_downloader.py"
         run: |
@@ -58,6 +58,7 @@ jobs:
 
       - name: Update and push lk_legal_docs_data
         run: |
+          ls /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
