@@ -16,9 +16,7 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -72,19 +70,15 @@ class ReadMe:
         n = len(doc_list)
         sampled_doc_list = ReadMe.__sample__(doc_list, n_sample)
         d_list = ReadMe.get_d_list(sampled_doc_list)
-        return (
-            [title, ""]
-            + Markdown.table(d_list)
-            + [
+        footer_lines = [""]
+        if n > n_sample:
+            footer_lines = [
                 "",
-                (
-                    f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*"
-                    if n_sample < n
-                    else ""
-                ),
+                f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*",
                 "",
             ]
-        )
+
+        return [title, ""] + Markdown.table(d_list) + footer_lines
 
     def get_lines_for_latest_docs(self):
         return ReadMe.__get_lines_for_docs__(
@@ -167,8 +161,6 @@ class ReadMe:
             lines.extend(
                 [f"![Coverage Chart-{t_label.title()}]({image_path})", ""]
             )
-            # lines.extend(lines_stat_sig + [""])
-
         return lines
 
     def get_lines_for_system_info(self):
