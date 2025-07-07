@@ -32,10 +32,7 @@ def downloader(max_delta_t):
         doc.download_all()
 
         delta_t = time.time() - t_start
-        log.info(
-            f"[{delta_t:.1f}s/{max_delta_t:.1f}s]"
-            + f" Downloaded pdfs for {doc.id}"
-        )
+        log.info(f"[{delta_t:.1f}s]" + f" Downloaded pdfs for {doc.id}")
         if delta_t > max_delta_t:
             log.warning(
                 f"⛔️ Stopping. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
