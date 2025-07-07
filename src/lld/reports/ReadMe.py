@@ -145,7 +145,7 @@ class ReadMe:
             chart = ChartDocumentCountByTime(
                 self.doc_list, func_get_t, t_label, func_filter_documents
             )
-            image_path, lines_stat_sig = chart.draw_chart()
+            image_path, _ = chart.draw_chart()
             lines.extend(
                 [f"![Coverage Chart-{t_label.title()}]({image_path})", ""]
             )
