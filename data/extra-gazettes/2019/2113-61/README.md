@@ -1,0 +1,9 @@
+# [2113/61] Kalmunai Municipal Council - Notify the repealing of Notice that published in Gaz. Ex. No. 1725/22 of 30.11.2011 and an amendment to the Gaz. Ex. No. 1808 of 27.03.2013
+
+**Date:** 2019-03-08
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2019/3/2113-61_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/3/2113-61_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/3/2113-61_T.pdf)

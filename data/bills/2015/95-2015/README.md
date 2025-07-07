@@ -1,0 +1,9 @@
+# [95/2015] Seyyed Sheikh Koya Thangal Mowlana Foundation  (Incorporation) - Bill
+
+**Date:** 2015-12-11
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/bills/2015/12/95-2015_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/bills/2015/12/95-2015_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/bills/2015/12/95-2015_T.pdf)

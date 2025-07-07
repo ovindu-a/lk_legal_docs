@@ -1,0 +1,9 @@
+# [1700/10] Ministry of Economic Development - Amendment to the Botanic Gardens (Admission Fees) Regulation 2010 Published in Gaz. Ex. No. 1685/17 of 22.12.2010
+
+**Date:** 2011-04-06
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2011/4/1700-10_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2011/4/1700-10_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2011/4/1700-10_T.pdf)

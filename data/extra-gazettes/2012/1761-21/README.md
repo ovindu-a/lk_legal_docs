@@ -1,0 +1,8 @@
+# [1761/21] Ministry of Labour & Labour Relations - Revocation of Order Published in Gaz. Ex. No. 1709/49 of 10.06.2011 - Appointed Mr. S. Liyanage as arbitrator for settle the dispute between Mrs. M. Vaidayaratne & Mahawelia Authority - Appointed Mr. S. M. S. Jayawardana as arbitrator for settle the dispute between Mr. W. P. T. R. Silva and Colombo Communication (Pvt.) Ltd. - Appointed Mr. P. Weerasekara as Arbitrator for settle the dispute between Mr. R. D. Dhanapala and Cey. Electricity Board
+
+**Date:** 2012-06-08
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2012/6/1761-21_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2012/6/1761-21_S.pdf)

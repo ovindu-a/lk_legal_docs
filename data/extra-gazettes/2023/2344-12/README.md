@@ -1,0 +1,7 @@
+# [2344/12] Ministry of Labour and Foreign Employment - The Industrial Disputes between I. D. S. Samaranayaka, Thummodara and other Part Sri Lanka Fishing Part Coorporation Colombo 15 - The Industrial Disputes between Combined Vocational Union of Land Social and Environmental Affairs Battaramulla and other Part Road Development Authority Battaramulla (S Only)
+
+**Date:** 2023-08-07
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/8/2344-12_S.pdf)

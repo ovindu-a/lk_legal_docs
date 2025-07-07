@@ -1,0 +1,9 @@
+# [1766/35] Ministry of Finance and Planning - Special Commodity Levy Act No. 48 of 2007 - Special Commodity Levy for fish, dried fish, sprat, potatoes, onions and canned fish - Gaz. Ex. No. 1757/23 of 11.05.2012 is rescinded w.e.f. 14.07.2012
+
+**Date:** 2012-07-13
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2012/7/1766-35_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2012/7/1766-35_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2012/7/1766-35_T.pdf)

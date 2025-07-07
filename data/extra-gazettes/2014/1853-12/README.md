@@ -1,0 +1,7 @@
+# [1853/12] Land Acquisition -Katukampu Division 2 and 3 Sea Street, Negombo D/S Division, Gampaha District - Hunupitiya Division 6 and Kundanwila Division 8, Grand Street Division 10, Kundanwila No. 8, Negombo D/S Division, Gampaha District
+
+**Date:** 2014-03-10
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/3/1853-12_S.pdf)

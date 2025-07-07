@@ -1,0 +1,9 @@
+# [2126/01] Sri Lanka Customs - Rates of Exchange effective from 03.06.2019 to 2019.06.09
+
+**Date:** 2019-06-03
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2019/6/2126-01_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/6/2126-01_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/6/2126-01_T.pdf)

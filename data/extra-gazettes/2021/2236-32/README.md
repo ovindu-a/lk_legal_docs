@@ -1,0 +1,9 @@
+# [2236/32] Land Title Settlement Department - Kandawala, Ratmalana D/S Division, Colombo District - Cad. Map No.521000
+
+**Date:** 2021-07-14
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2021/7/2236-32_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2021/7/2236-32_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2021/7/2236-32_T.pdf)

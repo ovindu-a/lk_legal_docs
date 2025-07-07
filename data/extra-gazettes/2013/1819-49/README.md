@@ -1,0 +1,7 @@
+# [1819/49] Ministry of Labour and Labour Relations - Collective Agreement No. 5 of 2013 for the Industrial Dispute between Unilever Sri Lanka Limited and the Ceylon Mercantile Industrial & General Workers' Union
+
+**Date:** 2013-07-19
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2013/7/1819-49_E.pdf)

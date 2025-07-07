@@ -1,0 +1,9 @@
+# [1989/32] Land Acquisition - Parana Halpe, Divulapitiya D/S Division, Gampaha District
+
+**Date:** 2016-10-19
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2016/10/1989-32_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2016/10/1989-32_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2016/10/1989-32_T.pdf)

@@ -1,0 +1,9 @@
+# [2345/52] National Physical Planning Department - Declare that Shanthi Viharaya Area  as an Urban Development Area
+
+**Date:** 2023-08-17
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2023/8/2345-52_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/8/2345-52_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2023/8/2345-52_T.pdf)

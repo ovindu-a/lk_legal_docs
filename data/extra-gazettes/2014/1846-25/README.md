@@ -1,0 +1,7 @@
+# [1846/25] Land Acquisition - Wanawasala, Kelaniya D/S Division, Gampaha District - Deddugoda, Medawalamulla South, Dangedara North, Weliwatta and Thalapitiya, Galle Four Gravets D/S Division, Galle District - Amendment to the Notice published in Gaz. Ex. Ord. No. 1820/10 of 24.07.2013 - Land Redemption - Redemption Notice to the Land in Pagoda, Sri Jayewardenepura Kotte D/S Division, Colombo District
+
+**Date:** 2014-01-22
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/1/1846-25_S.pdf)

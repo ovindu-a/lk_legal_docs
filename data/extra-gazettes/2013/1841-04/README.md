@@ -1,0 +1,9 @@
+# [1841/04] Board of Investments - Identifying as a Strategic Development Project of Lake Leisure Holding (Private) Limited to establish and operate an integrated Super Luxury Tourist Resort at D. R. Wijewardane Mawatha, Colombo 10
+
+**Date:** 2013-12-17
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2013/12/1841-04_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/12/1841-04_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/12/1841-04_T.pdf)

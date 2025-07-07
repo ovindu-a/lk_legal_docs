@@ -1,0 +1,9 @@
+# [2081/42] Department of Trade & Investment Policy - Notify the Revenue Protection Order No. 04 of 2018, which specified the Import Duties on Beedi Leaves
+
+**Date:** 2018-07-25
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2018/7/2081-42_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2018/7/2081-42_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2018/7/2081-42_T.pdf)

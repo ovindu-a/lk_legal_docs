@@ -1,0 +1,9 @@
+# [44/2011] National Police Academy
+
+**Date:** 2011-11-21
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/acts/2011/11/44-2011_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/acts/2011/11/44-2011_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/acts/2011/11/44-2011_T.pdf)

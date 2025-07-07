@@ -1,0 +1,7 @@
+# [1833/02] Ministry of Labour and Labour Relations - Memorandum of understanding No. 3 of 2013 for the Industrial Dispute between I. D. Lanka Ltd., and Food Beverages and Tobacco Industries Employees' Union; Repudiation of a Collective Agreement between Employers' Federation of Ceylon and Ceylon Mercantile, Industrial and General Workers' Union (CMU) - Collectice Agreements No. 35 of 2012 between Commercial Bank of Ceylon PLC and the Ceylon Bank Employees' Union and No. 15 of 2013 between Coca-Cola Beverages Sri Lanka Limited and Food Beverages and Tobacco Industries Employees' Union
+
+**Date:** 2013-10-21
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2013/10/1833-02_E.pdf)

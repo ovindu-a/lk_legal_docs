@@ -1,0 +1,9 @@
+# [1771/17] Divisional Secretariat Mahiyanganaya - Esala Festival of Mahiyanganaya 2012 - 15th Regulation (Pilgrimages Ordinance) - Esala Festival of Mahiyanganaya 2012
+
+**Date:** 2012-08-15
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2012/8/1771-17_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2012/8/1771-17_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2012/8/1771-17_T.pdf)

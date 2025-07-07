@@ -1,0 +1,9 @@
+# [1947/05] Ministry of Defence - Order to establish firing ranges in Kahagolla, Haputhale D/S Division, Badulla District be known as 100 meters Small Arms Firing at Diyathalawa Air Force Training School and in Morawewa, Morawewa D/S Division, Trincomalee District be known as 300 meters Small Arms Firing Range at Morawewa Air Force Camp and the Firing Range Regulations - 1983
+
+**Date:** 2015-12-28
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2015/12/1947-05_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2015/12/1947-05_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2015/12/1947-05_T.pdf)

@@ -1,0 +1,9 @@
+# [05/2020] Minimum Age of Marriage - Bill
+
+**Date:** 2020-01-08
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/bills/2020/1/05-2020_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/bills/2020/1/05-2020_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/bills/2020/1/05-2020_T.pdf)

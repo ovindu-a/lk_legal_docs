@@ -1,0 +1,7 @@
+# [1802/13] Land Acquisition - Suduwella, Colombo D/S Division, Colombo District - Pitiwella, Hikkaduwa D/S Division, Galle District - Matara, Thudawa, Gabadaweediya, Matara D/S Division, Matara District - Heenapahuwa, Wellawaya D/S Division, Monaragala District
+
+**Date:** 2013-03-20
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/3/1802-13_S.pdf)

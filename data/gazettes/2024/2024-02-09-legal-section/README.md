@@ -1,0 +1,7 @@
+# [2024-02-09-legal-section] Legal Section
+
+**Date:** 2024-02-09
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/gazettes/2024/2/2024-02-09(II-0)S.pdf)

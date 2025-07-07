@@ -1,0 +1,9 @@
+# [06/2019] Appropriation
+
+**Date:** 2019-04-05
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/acts/2019/4/06-2019_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/acts/2019/4/06-2019_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/acts/2019/4/06-2019_T.pdf)

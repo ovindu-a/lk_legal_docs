@@ -1,0 +1,9 @@
+# [2115/48] Land Acquisition - Weliweriya, Gampaha D/S Division, Gampaha District
+
+**Date:** 2019-03-22
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2019/3/2115-48_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/3/2115-48_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/3/2115-48_T.pdf)

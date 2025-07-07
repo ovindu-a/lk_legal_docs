@@ -1,0 +1,9 @@
+# [1886/40] Land Acquisition - Ellathanabaddegama, Elpitiya D/S Division, Galle District - Amendment to the notices for P.P. No. 3891 - Lot Nos. 94, 133 and 192 published in Gaz. Ex. Ord. No. 1822/23 of 08.08.2013 by Attanagalla D/S Division
+
+**Date:** 2014-10-29
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2014/10/1886-40_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/10/1886-40_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2014/10/1886-40_T.pdf)

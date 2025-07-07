@@ -1,0 +1,9 @@
+# [2023/16] Land Title Settlement Department - Pothupitigama, Suchanithagama, Nuwaragam Palalatha East, Anuradhapura District  -  Cad. Map No. 110192
+
+**Date:** 2017-06-12
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2017/6/2023-16_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/6/2023-16_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2017/6/2023-16_T.pdf)

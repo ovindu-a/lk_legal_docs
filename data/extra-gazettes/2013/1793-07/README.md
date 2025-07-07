@@ -1,0 +1,8 @@
+# [1793/07] Ministry of Labour & Labour Relations - Appointed Mr. S. Withanamulla as Arbitrator for Settle the dispute Between Mr. R. Liyanage and National Gam and Jewellery Authority. Revocation of Order Published in Gaz. Ex. 1749/18 of 14.03.2012. Appointed Mr. P Weerasekara - Arbitrator for Settle the dispute between 47 employees Inclusive of Mr. S. Withanachchi and Sri lanka ports Authority. Appointed Mrs. N. A. Jayawickrema as Arbitrafor for Settle the dispute between Mr. W. V. D. Harischandra & Chilaw Plantations Ltd. Revocation of order Published in 1768/7 on 23.07.2012. Appointed Mrs. N. A. Jayawickrema as Arbitrafor for Settle the dispute between Mr. W. M. Dhanansooriya, Mr. A. M. de Soyza, Mr. K. D. G. Perera & Mr. E. M. J. P. Edanayaka of the One Part and National Housing Development Authority.
+
+**Date:** 2013-01-16
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2013/1/1793-07_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/1/1793-07_S.pdf)

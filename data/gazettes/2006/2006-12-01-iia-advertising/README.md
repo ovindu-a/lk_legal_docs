@@ -1,0 +1,8 @@
+# [2006-12-01-iia-advertising] (IIA) - Advertising
+
+**Date:** 2006-12-01
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/gazettes/2006/12/2006-12-01(I-IIA)E.pdf)
+- [தமிழ்](https://documents.gov.lk/view/gazettes/2006/12/2006-12-01(I-IIA)T.pdf)

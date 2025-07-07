@@ -1,0 +1,7 @@
+# [2021-10-15-legal-section] Legal Section
+
+**Date:** 2021-10-15
+
+## Original Sources
+
+- [සිංහල](https://documents.gov.lk/view/gazettes/2021/10/2021-10-15(II-0)S.pdf)

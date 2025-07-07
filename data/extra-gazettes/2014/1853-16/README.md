@@ -1,0 +1,9 @@
+# [1853/16] Ministry of Labour and Labour Relations -Appointed Mr. Prasad de Silva as the Employer's Representative member of the wages Board for the Tea Growing & Manufacturing Trade up to 01.01.2015
+
+**Date:** 2014-03-11
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2014/3/1853-16_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/3/1853-16_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2014/3/1853-16_T.pdf)

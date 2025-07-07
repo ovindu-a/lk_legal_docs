@@ -1,0 +1,9 @@
+# [2065/39] Land Acquisition - Pallolpitiya, Kamburupitiya D/S Division, Matara District and 4 other amendments to the Gaz. Ex. Nos. 2046/70, 2027/14, 2046/71 and 1873/36
+
+**Date:** 2018-04-05
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2018/4/2065-39_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2018/4/2065-39_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2018/4/2065-39_T.pdf)

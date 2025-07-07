@@ -1,0 +1,9 @@
+# [36/2000] Finance (Amendment)
+
+**Date:** 2000-07-27
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/acts/2000/7/36-2000_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/acts/2000/7/36-2000_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/acts/2000/7/36-2000_T.pdf)

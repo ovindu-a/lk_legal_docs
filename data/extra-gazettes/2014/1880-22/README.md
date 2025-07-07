@@ -1,0 +1,9 @@
+# [1880/22] Land Acquisition - Thopputhota, Wennappuwa D/S Division, Puttalam District - Amendments to the notices published in Gaz. Ex. Ord. No. 1859/7 of 22.04.2014, No. 1868/4 of 23.06.2014 and No. 1844/59 of 09.01.2014 by Road Development Authority - Amendment to the notice published in Gaz. Ex. Ord. No. 1168/13 of 23.01.2001 by Kurunegala D/S Division
+
+**Date:** 2014-09-17
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2014/9/1880-22_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/9/1880-22_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2014/9/1880-22_T.pdf)

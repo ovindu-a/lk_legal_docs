@@ -1,0 +1,9 @@
+# [2137/49] Elections Commission - Declare that M. S. Nijamdeen as a member to the Kinniya Pradisiya Sabha
+
+**Date:** 2019-08-21
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2019/8/2137-49_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/8/2137-49_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/8/2137-49_T.pdf)

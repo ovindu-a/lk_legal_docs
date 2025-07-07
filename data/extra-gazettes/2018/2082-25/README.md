@@ -1,0 +1,9 @@
+# [2082/25] Land Title Settlement Department - Nallachchiya, Tambuththegama D/S Division, Anuradhapura District - Cad. Map No. 110073
+
+**Date:** 2018-07-31
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2018/7/2082-25_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2018/7/2082-25_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2018/7/2082-25_T.pdf)

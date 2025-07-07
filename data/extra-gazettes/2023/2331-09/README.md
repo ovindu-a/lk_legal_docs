@@ -1,0 +1,9 @@
+# [2331/09] Land Acquisition - Paragala, Ayagama D/S Division, Rathnapura District - Atanwala, Laggala D/S Division, Matale District - Deliwala, Walapane D/S Division, Nuwara Eliya District
+
+**Date:** 2023-05-08
+
+## Original Sources
+
+- [English](https://documents.gov.lk/view/extra-gazettes/2023/5/2331-09_E.pdf)
+- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/5/2331-09_S.pdf)
+- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2023/5/2331-09_T.pdf)
