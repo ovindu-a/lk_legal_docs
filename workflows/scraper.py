@@ -6,7 +6,7 @@ from lld import ByYearPage, DocFactory, ReadMe, WebPage
 
 log = Log("scraper")
 
-DEFAULT_MAX_DELTA_T = 120
+DEFAULT_MAX_DELTA_T = 150
 
 
 def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
