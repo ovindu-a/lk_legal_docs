@@ -68,7 +68,11 @@ class ReadMe:
     @staticmethod
     def __get_lines_for_docs__(title, doc_list, n_sample):
         n = len(doc_list)
-        sampled_doc_list = ReadMe.__sample__(doc_list, n_sample)
+        if n > n_sample:
+            sampled_doc_list = ReadMe.__sample__(doc_list, n_sample)
+        else:
+            sampled_doc_list = doc_list
+
         d_list = ReadMe.get_d_list(sampled_doc_list)
         footer_lines = [""]
         if n > n_sample:
