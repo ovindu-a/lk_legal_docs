@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-07 12:44:29**.*
+*Last Updated **2025-07-07 13:51:10**.*
 
 **43,946** documents (58.9 MB), from 1981-01-22 to 2025-07-04.
 
@@ -93,4 +93,4 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 ## Scraper Information
 
-- HTML-Cache = 28.5 MB 
+- HTML-Cache = 28.4 MB 
