@@ -2,7 +2,7 @@ import random
 
 from utils import Log
 
-from lld.www.pages.AbstractScraperRunner import AbstractScraperRunner
+from lld.www.pages.AbstractScraper import AbstractScraper
 from lld.www.pages.ForYearPage import ForYearPage
 from lld.www.pages.GazettePages import GazettePages
 from lld.www_common import WebPage
@@ -10,7 +10,7 @@ from lld.www_common import WebPage
 log = Log("ByYearPage")
 
 
-class ByYearPage(WebPage, AbstractScraperRunner):
+class ByYearPage(WebPage, AbstractScraper):
 
     def get_scraper_name(self):
         return self.doc_cls.get_doc_type_name()
