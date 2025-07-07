@@ -47,6 +47,8 @@ def main(max_delta_t):
     # __testing_git_clone__()
     downloader(max_delta_t)
 
+    AbstractDoc.summarize_temp_data()
+
 
 if __name__ == "__main__":
     main(
