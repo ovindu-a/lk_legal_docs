@@ -4,7 +4,7 @@ from utils import Log
 
 from lld import ByYearPage, DocFactory, ReadMe, WebPage
 
-log = Log("pipeline")
+log = Log("scraper")
 
 DEFAULT_MAX_DELTA_T = 120
 
@@ -20,7 +20,7 @@ def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
     name_to_n_hot = {}
     if max_delta_t > 0:
         for doc_cls in DocFactory.cls_list_all():
-            n_hot = ByYearPage(doc_cls).run_pipeline(
+            n_hot = ByYearPage(doc_cls).run_scraper(
                 max_delta_t, traverse_random
             )
             name = doc_cls.get_doc_type_name()

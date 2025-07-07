@@ -4,18 +4,18 @@ import re
 from utils import Log
 
 from lld.docs.custom_docs.Gazette import Gazette
-from lld.www.pages import AbstractPipelineRunner
+from lld.www.pages import AbstractScraperRunner
 from lld.www.pages.ForYearPage import ForYearPage
 from lld.www_common import WebPage
 
 log = Log("GazettePages")
 
 
-class GazettePages(AbstractPipelineRunner):
+class GazettePages(AbstractScraperRunner):
 
     BASE_URL = "https://documents.gov.lk/view/gazettes"
 
-    def get_pipeline_name(self):
+    def get_scraper_name(self):
         return "gazettes"
 
     def gen_year_pages(self, traverse_random):

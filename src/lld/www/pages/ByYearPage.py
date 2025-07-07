@@ -2,7 +2,7 @@ import random
 
 from utils import Log
 
-from lld.www.pages.AbstractPipelineRunner import AbstractPipelineRunner
+from lld.www.pages.AbstractScraperRunner import AbstractScraperRunner
 from lld.www.pages.ForYearPage import ForYearPage
 from lld.www.pages.GazettePages import GazettePages
 from lld.www_common import WebPage
@@ -10,9 +10,9 @@ from lld.www_common import WebPage
 log = Log("ByYearPage")
 
 
-class ByYearPage(WebPage, AbstractPipelineRunner):
+class ByYearPage(WebPage, AbstractScraperRunner):
 
-    def get_pipeline_name(self):
+    def get_scraper_name(self):
         return self.doc_cls.get_doc_type_name()
 
     @staticmethod
@@ -46,7 +46,7 @@ class ByYearPage(WebPage, AbstractPipelineRunner):
             for doc in for_year_page.gen_docs():
                 yield doc
 
-    def run_pipeline(self, max_n_hot, traverse_random):
+    def run_scraper(self, max_n_hot, traverse_random):
         if self.doc_cls.get_doc_type_name() == "gazettes":
-            return GazettePages().run_pipeline(max_n_hot, traverse_random)
-        return super().run_pipeline(max_n_hot, traverse_random)
+            return GazettePages().run_scraper(max_n_hot, traverse_random)
+        return super().run_scraper(max_n_hot, traverse_random)

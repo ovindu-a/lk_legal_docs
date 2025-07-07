@@ -91,6 +91,6 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 *(Uniformly Spaced Sample of 10 from 233)*
 
-## Pipeline Information
+## Scraper Information
 
 - HTML-Cache = 28.5 MB 

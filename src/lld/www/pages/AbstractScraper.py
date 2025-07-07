@@ -3,12 +3,12 @@ import time
 
 from utils import Log
 
-log = Log("AbstractPipelineRunner")
+log = Log("AbstractScraperRunner")
 
 
-class AbstractPipelineRunner:
+class AbstractScraperRunner:
 
-    def get_pipeline_name(self):
+    def get_scraper_name(self):
         raise NotImplementedError
 
     def gen_docs(self, traverse_random):
@@ -29,9 +29,9 @@ class AbstractPipelineRunner:
 
         return is_hot
 
-    def run_pipeline(self, max_delta_t, traverse_random):
+    def run_scraper(self, max_delta_t, traverse_random):
         log.debug("-" * 80)
-        log.info(f'🤖 Running Pipeline for "{self.get_pipeline_name()}".')
+        log.info(f'🤖 Running Scraper for "{self.get_scraper_name()}".')
         n_hot = 0
         t_start = time.time()
         for doc in self.gen_docs(traverse_random):
@@ -49,6 +49,6 @@ class AbstractPipelineRunner:
                 log.debug("-" * 80)
                 return n_hot
         log.debug(f"{n_hot=:,}")
-        log.info(f"⛔️🛑 Downloaded ALL {self.get_pipeline_name()}.")
+        log.info(f"⛔️🛑 Downloaded ALL {self.get_scraper_name()}.")
         log.debug("=" * 80)
         return n_hot
