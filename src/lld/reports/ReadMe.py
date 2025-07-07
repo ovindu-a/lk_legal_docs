@@ -77,9 +77,18 @@ class ReadMe:
             + Markdown.table(d_list)
             + [
                 "",
-                f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*",
+                (
+                    f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*"
+                    if n_sample < n
+                    else ""
+                ),
                 "",
             ]
+        )
+
+    def get_lines_for_latest_docs(self):
+        return ReadMe.__get_lines_for_docs__(
+            "## Latest Documents", self.doc_list[:30], n_sample=30
         )
 
     def get_lines_for_sample_docs(self):
@@ -220,6 +229,7 @@ class ReadMe:
             ]
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
+            + self.get_lines_for_latest_docs()
             + self.get_lines_for_sample_docs()
             + self.get_lines_for_interesting_docs()
             + self.get_lines_for_temp_data()
