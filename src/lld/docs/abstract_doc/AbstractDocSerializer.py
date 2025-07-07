@@ -3,6 +3,8 @@ from functools import cached_property
 
 from utils import JSONFile, Log
 
+from utils_future import Lang
+
 log = Log("AbstractDocSerializer")
 
 
@@ -27,6 +29,35 @@ class AbstractDocSerializer:
             date=self.date,
             description=self.description,
             lang_to_source_url=self.lang_to_source_url,
+        )
+
+    def to_dict_flat(self):
+        d = dict(
+            # properties
+            doc_type_name=self.get_doc_type_name(),
+            id=self.id,
+            dir_data=self.dir_data,
+            # attributes
+            doc_num=self.doc_num,
+            date=self.date,
+            description=self.description,
+        )
+        for lang in Lang.list_all():
+            source_url = self.lang_to_source_url.get(lang.code, "None")
+            d["source_url_" + lang.code] = source_url
+
+        return d
+
+    @classmethod
+    def from_dict_flat(cls, data):
+        lang_to_source_url = {}
+        for lang in Lang.list_all():
+            source_url = data.get("source_url_" + lang.code)
+            if source_url and source_url != "None":
+                lang_to_source_url[lang.code] = source_url
+
+        return cls.from_dict(
+            data | dict(lang_to_source_url=lang_to_source_url)
         )
 
     @classmethod
