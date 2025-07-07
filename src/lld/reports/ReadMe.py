@@ -16,9 +16,7 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -101,14 +99,21 @@ class ReadMe:
 
     def get_summary_statistics(self):
         d_list = []
-        for doc_cls in DocFactory.list_all_cls():
-            doc_list_for_cls = doc_cls.list_all()
-            n = len(doc_list_for_cls)
-            dates = [doc.date for doc in doc_list_for_cls]
+
+        doc_type_to_doc_list = {}
+        for doc in self.doc_list:
+            doc_type = doc.get_doc_type_name_long_with_emoji()
+            if doc_type not in doc_type_to_doc_list:
+                doc_type_to_doc_list[doc_type] = []
+            doc_type_to_doc_list[doc_type].append(doc)
+
+        for doc_type, doc_list in doc_type_to_doc_list.items():
+            n = len(doc_list)
+            dates = [doc.date for doc in doc_list]
             min_date = min(dates)
             max_date = max(dates)
             d = dict(
-                doc_type=doc_cls.get_doc_type_name_long_with_emoji(),
+                doc_type=doc_type,
                 n=f"{n:,}",
                 min_date=min_date,
                 max_date=max_date,
