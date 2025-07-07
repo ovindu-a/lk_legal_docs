@@ -25,7 +25,9 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
+        return os.path.join(
+            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
+        )
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")

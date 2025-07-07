@@ -1,5 +1,4 @@
 import os
-import tempfile
 from functools import cached_property
 
 from utils import JSONFile, Log
