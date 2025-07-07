@@ -16,9 +16,7 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -143,7 +141,6 @@ class ReadMe:
                 None,
             ),
             (lambda doc: doc.weekday, "weekday", None),
-            (lambda doc: doc.month_only, "month", None),
         ]:
             chart = ChartDocumentCountByTime(
                 self.doc_list, func_get_t, t_label, func_filter_documents
