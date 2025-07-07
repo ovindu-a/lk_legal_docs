@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-07 17:36:42**.*
+*Last Updated **2025-07-07 17:57:22**.*
 
 **43,947** documents (58.9 MB), from 1981-01-22 to 2025-07-04.
 
@@ -97,8 +97,8 @@ This repository contains only metadata about the documents, to save space and av
 
 The actual PDFs are downloaded in parallel and stored in the companion repository, [lk_legal_docs_data](https://github.com/nuuuwan/lk_legal_docs_data).
 
-Currently, PDFs for **221** documents have been downloaded.
+Currently, PDFs for **260** documents have been downloaded.
 
 ## Scraper Information
 
-- HTML-Cache = 28.6 MB 
+- HTML-Cache = 0.0 MB 
