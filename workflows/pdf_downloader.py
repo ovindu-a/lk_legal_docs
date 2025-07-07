@@ -13,7 +13,7 @@ GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
 log = Log("pdf_downloader")
 
 
-def testing_git_clone():
+def __testing_git_clone__():
     dir_temp_data = AbstractDoc.DIR_TEMP_DATA
     if os.path.exists(dir_temp_data):
         shutil.rmtree(dir_temp_data, ignore_errors=True)
@@ -44,7 +44,7 @@ def downloader(max_delta_t):
 
 
 def main(max_delta_t):
-    # testing_git_clone()
+    # __testing_git_clone__()
     downloader(max_delta_t)
 
 
