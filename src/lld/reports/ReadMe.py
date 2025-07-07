@@ -2,7 +2,7 @@ import shutil
 
 from utils import File, Log, Time, TimeFormat
 
-from lld.docs import DocFactory
+from lld.docs import AbstractDoc, DocFactory
 from lld.reports.ChartDocumentCountByTime import ChartDocumentCountByTime
 from lld.www_common import WebPage
 from utils_future import Lang, Markdown
@@ -16,13 +16,13 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
         self.max_date = max(dates)
+        self.temp_data_summary = AbstractDoc.get_temp_data_summary()
+        self.n_temp_data = len(self.temp_data_summary)
 
     def get_doc_legend(self):
         doc_cls_list = DocFactory.cls_list_all()
@@ -169,6 +169,23 @@ class ReadMe:
         ]
         return lines
 
+    def get_lines_for_temp_data(self):
+        return [
+            "## PDF Data",
+            "",
+            "This repository contains only metadata about the documents,"
+            + " to save space and avoid issues with large files.",
+            "",
+            "The actual PDFs are downloaded in parallel and stored"
+            + " in the companion repository,"
+            + " [lk_legal_docs_data]"
+            + "(https://github.com/nuuuwan/lk_legal_docs_data).",
+            "",
+            f"Currently, PDFs for **{self.n_temp_data:,}** documents"
+            + " have been downloaded.",
+            "",
+        ]
+
     def get_lines(self):
         n = len(self.doc_list)
         doc_name_list = ", ".join(
@@ -203,7 +220,8 @@ class ReadMe:
             + self.get_lines_summary_charts()
             + self.get_lines_for_sample_docs()
             + self.get_lines_for_interesting_docs()
-            + self.get_lines_for_system_info()
+            + self.get_lines_for_temp_data()
+            + self.get_lines_for_system_info(),
         )
 
     def build(self):
