@@ -5,7 +5,7 @@ import time
 
 from utils import Log
 
-from lld import AbstractDoc, DocFactory
+from lld import AbstractDoc, DocFactory, ReadMe
 
 DEFAULT_MAX_DELTA_T = 600
 GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
@@ -46,8 +46,8 @@ def downloader(max_delta_t):
 def main(max_delta_t):
     # __testing_git_clone__()
     downloader(max_delta_t)
-
     AbstractDoc.summarize_temp_data()
+    ReadMe().build()
 
 
 if __name__ == "__main__":
