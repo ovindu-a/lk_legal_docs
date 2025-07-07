@@ -10,6 +10,8 @@ log = Log("AbstractDocSerializer")
 
 
 class AbstractDocSerializer:
+    DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
+
     @cached_property
     def dir_data(self):
         dir_data = os.path.join(self.get_doc_type_dir(), self.year, self.id)
@@ -18,7 +20,7 @@ class AbstractDocSerializer:
     @cached_property
     def dir_temp_data(self):
         return os.path.join(
-            tempfile.gettempdir(), "lk_legal_docs_data", self.dir_data
+            AbstractDocSerializer.DIR_TEMP_DATA, self.dir_data
         )
 
     @cached_property
