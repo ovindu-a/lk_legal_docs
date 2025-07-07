@@ -12,7 +12,7 @@ GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
 log = Log("pdf_downloader")
 
 
-def git_clone():
+def testing_git_clone():
     dir_temp_data = AbstractDoc.DIR_TEMP_DATA
     if os.path.exists(dir_temp_data):
         shutil.rmtree(dir_temp_data, ignore_errors=True)
@@ -22,6 +22,10 @@ def git_clone():
 
 def downloader(max_delta_t):
     log.debug(f"{max_delta_t=}")
+
+    assert os.path.exists(
+        AbstractDoc.DIR_TEMP_DATA
+    )
 
     t_start = time.time()
     doc_list = DocFactory.list_all()
@@ -40,7 +44,7 @@ def downloader(max_delta_t):
 
 
 def main(max_delta_t):
-    git_clone()
+    # testing_git_clone()
     downloader(max_delta_t)
 
 
