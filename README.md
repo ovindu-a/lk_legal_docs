@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-07 19:18:30**.*
+*Last Updated **2025-07-07 19:21:01**.*
 
 **43,949** documents (58.9 MB), from 1981-01-22 to 2025-07-07.
 
@@ -37,7 +37,6 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 | type | date | title | sources | doc_num |
 | :-- | :-- | :-- | :-- | :-- |
-| 🚨 | 2025-07-07 | Elections Commission Declare Elected as a Member of Parliament under Article 99A of the Constitution Elected Mr UDN Jayaweera as a Member of the Tenth Parliament | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/7/2444-07_S.pdf) | [2444/07](data/extra-gazettes/2025/2444-07) |
 | 🚨 | 2025-07-07 | Elections Commission Declare Elected as a Member of Parliament under Article 99A of the Constitution Elected Mr UDN Jayaweera as a Member of the Tenth Parliament | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/7/2444-07_S.pdf) | [2444/07](data/extra-gazettes/2025/2444-07) |
 | 🚨 | 2025-07-07 | Election Commission Local Authorities Elections Ordinance Chapter 262 Notice under Section 66 2 Elected to the Members of Akmeemana PS and Bandarawela PS | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_S.pdf) [`த`](https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_T.pdf) [`E`](https://documents.gov.lk/view/extra-gazettes/2025/7/2444-02_E.pdf) | [2444/02](data/extra-gazettes/2025/2444-02) |
 | ✍️ | 2025-07-04 | Land Development Amendment GS | [`සි`](https://documents.gov.lk/view/bills/2025/7/617-2025_S.pdf) [`த`](https://documents.gov.lk/view/bills/2025/7/617-2025_T.pdf) [`E`](https://documents.gov.lk/view/bills/2025/7/617-2025_E.pdf) | [617/2025](data/bills/2025/617-2025) |
