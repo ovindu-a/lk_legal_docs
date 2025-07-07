@@ -16,14 +16,16 @@ class ReadMe:
     def __init__(self):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
         self.max_date = max(dates)
 
     def get_doc_legend(self):
-        doc_cls_list = DocFactory.list_all_cls()
+        doc_cls_list = DocFactory.cls_list_all()
         inner = ", ".join(
             f"{doc_cls.get_emoji()} = {doc_cls.get_doc_type_name_long()}"
             for doc_cls in doc_cls_list
@@ -167,7 +169,7 @@ class ReadMe:
         n = len(self.doc_list)
         doc_name_list = ", ".join(
             doc_cls.get_doc_type_name_long_with_emoji()
-            for doc_cls in DocFactory.list_all_cls()
+            for doc_cls in DocFactory.cls_list_all()
         )
         return (
             [

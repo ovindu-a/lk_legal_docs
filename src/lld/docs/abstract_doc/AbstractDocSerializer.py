@@ -1,5 +1,4 @@
 import os
-import shutil
 from functools import cached_property
 
 from utils import JSONFile, Log
@@ -32,6 +31,7 @@ class AbstractDocSerializer:
 
     @classmethod
     def from_dict(cls, data):
+        assert data["doc_type_name"] == cls.get_doc_type_name()
         return cls(
             doc_num=data["doc_num"],
             date=data["date"],
@@ -43,38 +43,6 @@ class AbstractDocSerializer:
     def from_file(cls, file_path):
         data = JSONFile(file_path).read()
         return cls.from_dict(data)
-
-    @classmethod
-    def __get_doc_file_path_lists__(cls):
-        dir_doc_type = cls.get_doc_type_dir()
-        if not os.path.exists(dir_doc_type):
-            return []
-
-        file_path_lists = []
-        for year in os.listdir(dir_doc_type):
-            dir_data_for_year = os.path.join(dir_doc_type, year)
-            for child_dir in os.listdir(dir_data_for_year):
-                dir_data = os.path.join(dir_data_for_year, child_dir)
-                file_path = os.path.join(dir_data, "metadata.json")
-
-                if not os.path.exists(file_path):
-                    # raise FileNotFoundError(f"{file_path} not found.")
-                    shutil.rmtree(dir_data, ignore_errors=True)
-                    log.warning(
-                        f"[ HACK] ❌ Deleted {dir_data}. No metadata.json."
-                    )
-                else:
-                    file_path_lists.append(file_path)
-        return file_path_lists
-
-    @classmethod
-    def list_all(cls):
-        doc_file_path_lists = cls.__get_doc_file_path_lists__()
-        doc_doc_list = [
-            cls.from_file(file_path) for file_path in doc_file_path_lists
-        ]
-        doc_doc_list.sort(key=lambda x: x.id, reverse=True)
-        return doc_doc_list
 
     def write_metadata(self, force=False):
         file_path = self.metadata_file_path
