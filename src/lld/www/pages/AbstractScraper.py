@@ -20,7 +20,6 @@ class AbstractScraper:
         is_hot = doc.is_hot()
         if is_hot:
             doc.write_metadata()
-            doc.write_readme()
 
         # HACK-Cleanup
         if not doc.has_sources() and doc.is_stored_in_data():

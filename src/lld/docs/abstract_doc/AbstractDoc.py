@@ -3,7 +3,6 @@ from utils import Log
 from lld.docs.abstract_doc.AbstractDocBase import AbstractDocBase
 from lld.docs.abstract_doc.AbstractDocDownloader import AbstractDocDownloader
 from lld.docs.abstract_doc.AbstractDocExtract import AbstractDocExtract
-from lld.docs.abstract_doc.AbstractDocReadMe import AbstractDocReadMe
 from lld.docs.abstract_doc.AbstractDocSerializer import AbstractDocSerializer
 
 log = Log("AbstractDoc")
@@ -12,7 +11,6 @@ log = Log("AbstractDoc")
 class AbstractDoc(
     AbstractDocBase,
     AbstractDocSerializer,
-    AbstractDocReadMe,
     AbstractDocDownloader,
     AbstractDocExtract,
 ):
