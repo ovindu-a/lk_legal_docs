@@ -152,7 +152,7 @@ class AbstractDocDownloader:
     def build_json(d_list):
         d = dict(
             n_pdfs=len(d_list),
-            n_unique_docs=len(set((d["doc_id"]) for d in d_list)),
+            n_unique_docs=len(set((d["id"]) for d in d_list)),
             total_file_size=Directory(
                 AbstractDocDownloader.DIR_TEMP_DATA
             ).size,
