@@ -90,12 +90,12 @@ class AbstractDocDownloader:
             metadata_file_path = os.path.join(dir_data, "metadata.json")
             d = JSONFile(metadata_file_path).read()
 
-            has_downloaded_pdfs = False
+            n_pdfs = 0
             for lang in Lang.list_all():
                 pdf_file_path = os.path.join(dir_data, f"{lang.code}.pdf")
                 if os.path.exists(pdf_file_path):
-                    has_downloaded_pdfs = True
-            d["has_downloaded_pdfs"] = has_downloaded_pdfs
+                    n_pdfs += 1
+            d["n_pdfs"] = n_pdfs
 
             d_list.append(d)
         return d_list
@@ -114,8 +114,9 @@ class AbstractDocDownloader:
     @staticmethod
     def build_json(d_list):
         d = dict(
-            n_unique_docs=len(d_list),
-            n_pdfs=len([d for d in d_list if d["has_downloaded_pdfs"]]),
+            n_docs=len(d_list),
+            n_docs_with_pdfs=len([d for d in d_list if d["n_pdfs"] > 0]),
+            n_pdfs=sum(d["n_pdfs"] for d in d_list),
             total_file_size=Directory(
                 AbstractDocDownloader.DIR_TEMP_DATA
             ).size,
