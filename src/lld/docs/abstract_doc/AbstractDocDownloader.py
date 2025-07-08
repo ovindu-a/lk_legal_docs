@@ -30,9 +30,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -125,3 +123,8 @@ class AbstractDocDownloader:
     def get_temp_data_summary():
         assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH)
         return JSONFile(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH).read()
+
+    @staticmethod
+    def back_compress():
+        for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
+            PDF.compress(pdf_file_path, pdf_file_path)

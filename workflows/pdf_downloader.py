@@ -46,6 +46,7 @@ def downloader(max_delta_t):
 def main(max_delta_t):
     # __testing_git_clone__()
     downloader(max_delta_t)
+    AbstractDoc.back_compress()
     git_rebase(AbstractDoc.DIR_TEMP_DATA)
     git_rebase(".")
     AbstractDoc.summarize_temp_data()
