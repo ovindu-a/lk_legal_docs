@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acts of 2007</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Acts of 2007</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Act Number</th>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>61/2007</td>
+            <td>2007-12-20</td>
+            <td>Appropriation</td>
+            <td>
+              <a href="2007/12/61-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/12/61-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/12/61-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>60/2007</td>
+            <td>2007-12-13</td>
+            <td>Dhaarul Uloom Al-Meezaniyyah Arabic College, Kurugoda, Akurana (Incorporation)</td>
+            <td>
+              <a href="2007/12/60-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/12/60-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/12/60-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>59/2007</td>
+            <td>2007-12-12</td>
+            <td>Green Movement of Sri Lanka (Incorporation)</td>
+            <td>
+              <a href="2007/12/59-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/12/59-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/12/59-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>58/2007</td>
+            <td>2007-11-20</td>
+            <td>Chemical weapons Convention
+</td>
+            <td>
+              <a href="2007/11/58-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/58-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/58-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>55/2007</td>
+            <td>2007-11-16</td>
+            <td>Local Authorities (Special Provisions)
+</td>
+            <td>
+              <a href="2007/11/55-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/55-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/55-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>56/2007</td>
+            <td>2007-11-16</td>
+            <td>International Covenant on Civil & Political Rights (Iccpr)
+</td>
+            <td>
+              <a href="2007/11/56-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/56-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/56-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>57/2007</td>
+            <td>2007-11-16</td>
+            <td>Central Ceylon Muslim Ladeis' Union (Incorporation)
+</td>
+            <td>
+              <a href="2007/11/57-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/57-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/57-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>54/2007</td>
+            <td>2007-11-13</td>
+            <td>Drug Dependant Persons (Treatment & Rehabilitation)
+</td>
+            <td>
+              <a href="2007/11/54-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/54-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/54-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>53/2007</td>
+            <td>2007-11-12</td>
+            <td>Pannipitiya, Depanama, Sri Devanam Maha Viharastha Sasanarakshaka Sanwardhana Sabhawa (Incorporation)</td>
+            <td>
+              <a href="2007/11/53-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/11/53-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/11/53-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>52/2007</td>
+            <td>2007-10-24</td>
+            <td>Mahanuwara, Asgiriya, Palipana Sri Chandananda Internationl Buddhist Research & Development Centre (Incorporation)
+</td>
+            <td>
+              <a href="2007/10/52-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/52-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/52-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>50/2007</td>
+            <td>2007-10-23</td>
+            <td>Sir John Kothalawala Defence Academy (Amendment)	
+</td>
+            <td>
+              <a href="2007/10/50-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/50-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/50-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>51/2007</td>
+            <td>2007-10-23</td>
+            <td>Gampaha Wicramarachchi Ayurveda Teaching Hospital (Transfer)
+</td>
+            <td>
+              <a href="2007/10/51-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/51-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/51-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>49/2007</td>
+            <td>2007-10-22</td>
+            <td>Young men's Buddhist Association,  Minipe (Incorporartion)</td>
+            <td>
+              <a href="2007/10/49-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/49-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/49-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>45/2007</td>
+            <td>2007-10-15</td>
+            <td>Finance (Amendment)	
+</td>
+            <td>
+              <a href="2007/10/45-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/45-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/45-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>46/2007</td>
+            <td>2007-10-15</td>
+            <td>Excise (Special Provisions) (Amendment)	
+</td>
+            <td>
+              <a href="2007/10/46-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2007/10/46-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>47/2007</td>
+            <td>2007-10-15</td>
+            <td>Regional Infrastructure Development Levy (Amendment)	
+</td>
+            <td>
+              <a href="2007/10/47-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/47-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/47-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>48/2007</td>
+            <td>2007-10-15</td>
+            <td>Special Commodity Levy
+</td>
+            <td>
+              <a href="2007/10/48-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/48-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/48-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>43/2007</td>
+            <td>2007-10-12</td>
+            <td>Thai Sri Lanka Buddhist Cultural Centre (Incorporation)
+</td>
+            <td>
+              <a href="2007/10/43-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/43-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/43-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>44/2007</td>
+            <td>2007-10-12</td>
+            <td>Seethawaka Maniyangama Rajamaha Viharastha Sanwardhana Sabhawa  (Incorporation)		
+</td>
+            <td>
+              <a href="2007/10/44-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/44-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/44-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2007</td>
+            <td>2007-10-09</td>
+            <td>Code of Criminal Procedure (Special Provisions)	
+</td>
+            <td>
+              <a href="2007/10/42-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/42-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/42-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>41/2007</td>
+            <td>2007-10-01</td>
+            <td>Sri Lanka-Nippon Educational and Cultural Centre (Incorporation)	
+</td>
+            <td>
+              <a href="2007/10/41-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/10/41-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/10/41-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2007</td>
+            <td>2007-09-28</td>
+            <td>Sarana Buddhist (Relief) Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/9/39-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/39-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/39-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2007</td>
+            <td>2007-09-28</td>
+            <td>Ratnapura Marapana Sastrodaya Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/9/40-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/40-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/40-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2007</td>
+            <td>2007-09-24</td>
+            <td>Finance  (Amendment)	
+</td>
+            <td>
+              <a href="2007/9/37-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/37-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/37-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2007</td>
+            <td>2007-09-24</td>
+            <td>Board of Trustees of the Bhagawan Sri Sathya Sai Central Trust of Sri Lanka (Incorporation)	
+</td>
+            <td>
+              <a href="2007/9/38-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/38-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/38-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2007</td>
+            <td>2007-09-18</td>
+            <td>Sri Lanka Sustanable Energy Authority	
+</td>
+            <td>
+              <a href="2007/9/35-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/35-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/35-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2007</td>
+            <td>2007-09-18</td>
+            <td>Urban Development Authority	(Amendment)
+</td>
+            <td>
+              <a href="2007/9/36-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/9/36-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/9/36-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2007</td>
+            <td>2007-08-23</td>
+            <td>Jeyaraj Fernandopulle Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/8/34-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/8/34-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/8/34-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2007</td>
+            <td>2007-08-21</td>
+            <td>Finance Leasing	(Amendment)</td>
+            <td>
+              <a href="2007/8/33-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/8/33-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/8/33-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2007</td>
+            <td>2007-08-10</td>
+            <td>Fouz Trust (Incorporation)	
+</td>
+            <td>
+              <a href="2007/8/32-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/8/32-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/8/32-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2007</td>
+            <td>2007-08-08</td>
+            <td>Local Authorities (Special Provisions)	
+</td>
+            <td>
+              <a href="2007/8/30-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/8/30-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/8/30-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2007</td>
+            <td>2007-08-08</td>
+            <td>Judicature (Amendment)	
+</td>
+            <td>
+              <a href="2007/8/31-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/8/31-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/8/31-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2007</td>
+            <td>2007-07-31</td>
+            <td>Gnanodaya Foundation (Incorporation)
+</td>
+            <td>
+              <a href="2007/7/29-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/29-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/29-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2007</td>
+            <td>2007-07-18</td>
+            <td>Regulation of Insurance Industry (Amendment)
+</td>
+            <td>
+              <a href="2007/7/27-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/27-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/27-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2007</td>
+            <td>2007-07-18</td>
+            <td>National Insurance Trust Fund (Amendment)	
+</td>
+            <td>
+              <a href="2007/7/28-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/28-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/28-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2007</td>
+            <td>2007-07-13</td>
+            <td>National Institute of Language Education and Training	
+</td>
+            <td>
+              <a href="2007/7/26-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/26-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/26-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2007</td>
+            <td>2007-07-12</td>
+            <td>Ceylon Hotels Corporation
+</td>
+            <td>
+              <a href="2007/7/25-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/25-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/25-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2007</td>
+            <td>2007-07-09</td>
+            <td>Computer Crime	
+</td>
+            <td>
+              <a href="2007/7/24-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/24-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/24-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2007</td>
+            <td>2007-07-05</td>
+            <td>Sri Lanka Buddhist Vihara Devala Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/7/22-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/22-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/22-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2007</td>
+            <td>2007-07-05</td>
+            <td>Community Recovery & Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/7/23-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/7/23-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/7/23-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2007</td>
+            <td>2007-06-21</td>
+            <td>Institute of Quantity Surveyors, Sri Lanka (Incorporation)	
+</td>
+            <td>
+              <a href="2007/6/20-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/6/20-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/6/20-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2007</td>
+            <td>2007-06-21</td>
+            <td>Muditha Social Service Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/6/21-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/6/21-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/6/21-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2007</td>
+            <td>2007-06-20</td>
+            <td>Shantha Children's Education Services Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/6/19-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/6/19-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/6/19-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2007</td>
+            <td>2007-05-08</td>
+            <td>Leo and Josephine de Almeida Memorial Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/5/17-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/5/17-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/5/17-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2007</td>
+            <td>2007-05-08</td>
+            <td>Rambukwella Sri Vipassi Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/5/18-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/5/18-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/5/18-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2007</td>
+            <td>2007-04-30</td>
+            <td>  Local Authorities Elections (Amendment)	
+</td>
+            <td>
+              <a href="2007/4/16-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/16-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/16-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2007</td>
+            <td>2007-04-12</td>
+            <td>Value Added Tax	 (Amendment)
+</td>
+            <td>
+              <a href="2007/4/14-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/14-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/14-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2007</td>
+            <td>2007-04-12</td>
+            <td>Economic Service Charge (Amendment)	
+</td>
+            <td>
+              <a href="2007/4/15-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/15-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/15-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2007</td>
+            <td>2007-04-11</td>
+            <td>Prevention of Mosquito Breeding	
+</td>
+            <td>
+              <a href="2007/4/11-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/11-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/11-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2007</td>
+            <td>2007-04-11</td>
+            <td>Debits Tax (Amendment)	</td>
+            <td>
+              <a href="2007/4/12-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/12-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/12-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2007</td>
+            <td>2007-04-11</td>
+            <td>Finance (Amendment)	
+</td>
+            <td>
+              <a href="2007/4/13-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/4/13-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/4/13-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2007</td>
+            <td>2007-03-30</td>
+            <td>Inland Revenue (Amendment)	
+</td>
+            <td>
+              <a href="2007/3/10-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/3/10-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/3/10-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2007</td>
+            <td>2007-03-23</td>
+            <td>Resettlement Authority	
+</td>
+            <td>
+              <a href="2007/3/09-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/3/09-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/3/09-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2007</td>
+            <td>2007-03-21</td>
+            <td>General Consistory of the Dutch Reformed Church of Ceylon (Amendment)</td>
+            <td>
+              <a href="2007/3/08-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/3/08-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/3/08-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2007</td>
+            <td>2007-03-20</td>
+            <td>Companies Act	
+</td>
+            <td>
+              <a href="2007/3/07-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/3/07-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/3/07-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2007</td>
+            <td>2007-03-08</td>
+            <td>Sri Sarananda Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/3/06-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/3/06-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/3/06-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2007</td>
+            <td>2007-02-09</td>
+            <td>Samastha Lanka International Development Association (Incorporation)	
+</td>
+            <td>
+              <a href="2007/2/05-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/2/05-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/2/05-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2007</td>
+            <td>2007-01-29</td>
+            <td>Lanka Children's and Youth Theater Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/1/03-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/1/03-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/1/03-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2007</td>
+            <td>2007-01-29</td>
+            <td>Sri Lanka Federation of the Visually Handicapped (Incorporation)	
+</td>
+            <td>
+              <a href="2007/1/04-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/1/04-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/1/04-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2007</td>
+            <td>2007-01-22</td>
+            <td>Mental Development and Research Center (Incorporation)	
+</td>
+            <td>
+              <a href="2007/1/02-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/1/02-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/1/02-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2007</td>
+            <td>2007-01-16</td>
+            <td>K. Jayatillake Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2007/1/01-2007_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2007/1/01-2007_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2007/1/01-2007_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

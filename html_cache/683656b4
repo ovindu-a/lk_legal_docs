@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acts of 2009</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Acts of 2009</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Act Number</th>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>77/2009</td>
+            <td>2009-12-29</td>
+            <td>Grassroot Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/12/77-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/77-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/77-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>72/2009</td>
+            <td>2009-12-23</td>
+            <td>Zam Trust (Incorporation)
+</td>
+            <td>
+              <a href="2009/12/72-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/72-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/72-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>73/2009</td>
+            <td>2009-12-23</td>
+            <td>Institute of Project Managers (Incorporation) Sri Lanka	
+</td>
+            <td>
+              <a href="2009/12/73-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/73-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/73-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>74/2009</td>
+            <td>2009-12-23</td>
+            <td>Al Haj S. M. M. Hussain Charitable Trust (Incorporation)	
+</td>
+            <td>
+              <a href="2009/12/74-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/74-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/74-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>75/2009</td>
+            <td>2009-12-23</td>
+            <td>Mahindananda Aluthgamage Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/12/75-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/75-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/75-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>76/2009</td>
+            <td>2009-12-23</td>
+            <td>Samoda Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/12/76-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/76-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/76-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>71/2009</td>
+            <td>2009-12-18</td>
+            <td>Premadasa Hegoda Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/12/71-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/12/71-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/12/71-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>70/2009</td>
+            <td>2009-11-24</td>
+            <td>Foundation of Rural Workers and Allied Rural Resources Development (Incorporation.)
+</td>
+            <td>
+              <a href="2009/11/70-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/70-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/70-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>69/2009</td>
+            <td>2009-11-20</td>
+            <td>Appropriation (Amendment) Act No. 69	
+</td>
+            <td>
+              <a href="2009/11/69-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/69-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/69-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>68/2009</td>
+            <td>2009-11-18</td>
+            <td>Gramodaya Mandala Fund (Amendment)	
+</td>
+            <td>
+              <a href="2009/11/68-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/68-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/68-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>66/2009</td>
+            <td>2009-11-17</td>
+            <td>Mines and Minerals (Amendment)
+</td>
+            <td>
+              <a href="2009/11/66-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/66-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/66-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>67/2009</td>
+            <td>2009-11-17</td>
+            <td>Cancer Research Foundation of Sri Lanka (Incorporation)
+</td>
+            <td>
+              <a href="2009/11/67-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/67-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/67-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>65/2009</td>
+            <td>2009-11-16</td>
+            <td>Forst Act (Amendment)	
+</td>
+            <td>
+              <a href="2009/11/65-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/65-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/65-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>64/2009</td>
+            <td>2009-11-12</td>
+            <td>Samaja Sahana Padanama (Incorporation)	
+</td>
+            <td>
+              <a href="2009/11/64-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/11/64-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/11/64-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>62/2009</td>
+            <td>2009-10-30</td>
+            <td>Sri Kalyanodaya Society	
+</td>
+            <td>
+              <a href="2009/10/62-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/62-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/62-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>63/2009</td>
+            <td>2009-10-30</td>
+            <td>Thaliyawaka Ananda Bodhi Cultural Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/10/63-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/63-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/63-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>61/2009</td>
+            <td>2009-10-26</td>
+            <td>Karuna Samadhi Organization (Incorporation)	
+</td>
+            <td>
+              <a href="2009/10/61-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/61-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/61-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>59/2009</td>
+            <td>2009-10-21</td>
+            <td>Jama'ath Ansaris Sunnathil Mohammadiya	
+</td>
+            <td>
+              <a href="2009/10/59-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/59-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/59-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>60/2009</td>
+            <td>2009-10-21</td>
+            <td>Kottawa Sri Punyabiwardanaarama Viharasthana Performance Society (Incorporation)	
+</td>
+            <td>
+              <a href="2009/10/60-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/60-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/60-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>58/2009</td>
+            <td>2009-10-16</td>
+            <td>Parliamentary Elections	
+</td>
+            <td>
+              <a href="2009/10/58-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/58-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/58-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>57/2009</td>
+            <td>2009-10-07</td>
+            <td>Universities (Amendment)	
+</td>
+            <td>
+              <a href="2009/10/57-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/57-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/57-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>56/2009</td>
+            <td>2009-10-01</td>
+            <td>Foreign Employment Bureau	
+</td>
+            <td>
+              <a href="2009/10/56-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/10/56-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/10/56-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>55/2009</td>
+            <td>2009-09-30</td>
+            <td>Employees Provident Fund	
+</td>
+            <td>
+              <a href="2009/9/55-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/55-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/55-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>53/2009</td>
+            <td>2009-09-28</td>
+            <td>Sammanthurai Thableekul Islam Arabic College (Incorporation)	
+</td>
+            <td>
+              <a href="2009/9/53-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/53-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/53-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>54/2009</td>
+            <td>2009-09-28</td>
+            <td>Serendib Educational Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/9/54-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/54-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/54-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>49/2009</td>
+            <td>2009-09-25</td>
+            <td>Secured Transactions	
+</td>
+            <td>
+              <a href="2009/9/49-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/49-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/49-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>50/2009</td>
+            <td>2009-09-25</td>
+            <td>The Future world Organization (Incorporation)	
+</td>
+            <td>
+              <a href="2009/9/50-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/50-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>51/2009</td>
+            <td>2009-09-25</td>
+            <td>Overseas Muslim Educational Trust of Sri Lanka (Incorporation)	
+</td>
+            <td>
+              <a href="2009/9/51-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/51-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/51-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>52/2009</td>
+            <td>2009-09-25</td>
+            <td>Sri Lanka Society for the Prevention of cruelty to Animals (Incorporation)	
+</td>
+            <td>
+              <a href="2009/9/52-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/52-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/52-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>48/2009</td>
+            <td>2009-09-24</td>
+            <td>Social Service Foundation of Wickramashila Dharmayathenaya - Bandaragama	
+</td>
+            <td>
+              <a href="2009/9/48-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/48-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/48-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>47/2009</td>
+            <td>2009-09-22</td>
+            <td>Securities and Exchange Commission	
+</td>
+            <td>
+              <a href="2009/9/47-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/47-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/47-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>46/2009</td>
+            <td>2009-09-09</td>
+            <td>Al Haj Abdul Jawad Alim Valiyullah Trust (Incorporation) Act No. 46	
+</td>
+            <td>
+              <a href="2009/9/46-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/9/46-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/9/46-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>45/2009</td>
+            <td>2009-08-31</td>
+            <td>Lasantha Alagiyawanna Foundation	
+</td>
+            <td>
+              <a href="2009/8/45-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/8/45-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/8/45-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>44/2009</td>
+            <td>2009-08-21</td>
+            <td>A. D. M. J. Religious Centre & Bio Diversity Complex Trust Fund	
+</td>
+            <td>
+              <a href="2009/8/44-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/8/44-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/8/44-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>43/2009</td>
+            <td>2009-08-17</td>
+            <td>Rev. Moonamale Dhammarathana Memorial Foundation (incorporation)	
+</td>
+            <td>
+              <a href="2009/8/43-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/8/43-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/8/43-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>41/2009</td>
+            <td>2009-08-06</td>
+            <td>Coast Guard Act	
+</td>
+            <td>
+              <a href="2009/8/41-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/8/41-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/8/41-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2009</td>
+            <td>2009-08-06</td>
+            <td>Board of Trustees of Sihala Sarana Pin Keraya (Incorporation)	
+</td>
+            <td>
+              <a href="2009/8/42-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/8/42-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/8/42-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2009</td>
+            <td>2009-07-24</td>
+            <td>Kosala Dullewa Foundation	
+</td>
+            <td>
+              <a href="2009/7/39-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/39-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/39-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2009</td>
+            <td>2009-07-24</td>
+            <td>Society of Structural Engineers of Sri Lanka (Incorporation)	
+</td>
+            <td>
+              <a href="2009/7/40-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/40-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/40-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2009</td>
+            <td>2009-07-23</td>
+            <td>Road Development Authority (Amendment)	
+</td>
+            <td>
+              <a href="2009/7/37-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/37-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/37-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2009</td>
+            <td>2009-07-23</td>
+            <td>National Institute of Occupational Safety & Health	
+</td>
+            <td>
+              <a href="2009/7/38-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/38-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/38-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2009</td>
+            <td>2009-07-15</td>
+            <td>Board of Investment of Sri Lanka (Amendment)	
+</td>
+            <td>
+              <a href="2009/7/36-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/36-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/36-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2009</td>
+            <td>2009-07-09</td>
+            <td>Chief of Defence Staff
+</td>
+            <td>
+              <a href="2009/7/35-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/7/35-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/7/35-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2009</td>
+            <td>2009-06-26</td>
+            <td>Bibliomania Educational Books for the Nation Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/6/34-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/6/34-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/6/34-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2009</td>
+            <td>2009-06-12</td>
+            <td>Sri Lanka Institute of Landscape Architects Act	
+</td>
+            <td>
+              <a href="2009/6/33-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/6/33-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/6/33-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2009</td>
+            <td>2009-05-18</td>
+            <td>Widowers' and Orphans' Pension Scheme (Armed Forces) (Amendment)	
+</td>
+            <td>
+              <a href="2009/5/28-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/28-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/28-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2009</td>
+            <td>2009-05-18</td>
+            <td>Widowers' and Orphans' Pension Scheme (Armed Forces) (Amendment)	
+</td>
+            <td>
+              <a href="2009/5/29-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/29-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/29-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2009</td>
+            <td>2009-05-18</td>
+            <td>Local Authorities (Special Provisions) (Amendment)	
+</td>
+            <td>
+              <a href="2009/5/30-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/30-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/30-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2009</td>
+            <td>2009-05-18</td>
+            <td>Free Nursery and Welfare Complex (Incorporation)	
+</td>
+            <td>
+              <a href="2009/5/31-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/31-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/31-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2009</td>
+            <td>2009-05-18</td>
+            <td>Nation Building Tax
+</td>
+            <td>
+              <a href="2009/5/32-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/32-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/32-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2009</td>
+            <td>2009-05-06</td>
+            <td>Board of Directors of the Mahaweli Cultural Foundation Trust (Incorporation)	
+</td>
+            <td>
+              <a href="2009/5/27-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/5/27-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/5/27-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2009</td>
+            <td>2009-04-20</td>
+            <td>Fauna & Flora Protection	
+</td>
+            <td>
+              <a href="2009/4/22-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/22-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/4/22-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2009</td>
+            <td>2009-04-20</td>
+            <td>Institute of Certified Management Accountants	
+</td>
+            <td>
+              <a href="2009/4/23-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/23-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/4/23-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2009</td>
+            <td>2009-04-20</td>
+            <td>Pahiyangala Conservation and Development Foundation (Incorporation)
+</td>
+            <td>
+              <a href="2009/4/24-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/24-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/4/24-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2009</td>
+            <td>2009-04-20</td>
+            <td>Young Men's Buddhist Association - Kolonnawa	
+</td>
+            <td>
+              <a href="2009/4/25-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/25-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/4/25-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2009</td>
+            <td>2009-04-20</td>
+            <td>Gamage Arthur Perera Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2009/4/26-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/26-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2009</td>
+            <td>2009-04-08</td>
+            <td>Sri Lanka Electricity Act
+</td>
+            <td>
+              <a href="2009/4/20-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/20-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2009</td>
+            <td>2009-04-08</td>
+            <td>Jagaddala Social Welfare Institute (Incorporation)	
+</td>
+            <td>
+              <a href="2009/4/21-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/4/21-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/4/21-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2009</td>
+            <td>2009-03-31</td>
+            <td>Finance (Amendment)
+</td>
+            <td>
+              <a href="2009/3/13-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/13-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/13-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2009</td>
+            <td>2009-03-31</td>
+            <td>Excise (Special Provisions) (Amendment)
+</td>
+            <td>
+              <a href="2009/3/14-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/14-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/14-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2009</td>
+            <td>2009-03-31</td>
+            <td>Value Added Tax (Amendment)
+</td>
+            <td>
+              <a href="2009/3/15-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/15-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/15-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2009</td>
+            <td>2009-03-31</td>
+            <td>Economic Service Charge (Amendment)
+</td>
+            <td>
+              <a href="2009/3/16-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/16-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/16-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2009</td>
+            <td>2009-03-31</td>
+            <td>Debits Tax (Amendment)
+</td>
+            <td>
+              <a href="2009/3/17-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/17-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/17-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2009</td>
+            <td>2009-03-31</td>
+            <td>Finance (Amendment)
+</td>
+            <td>
+              <a href="2009/3/18-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/18-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/18-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2009</td>
+            <td>2009-03-31</td>
+            <td>Inland Revenue (Amendment)
+</td>
+            <td>
+              <a href="2009/3/19-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/19-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/19-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2009</td>
+            <td>2009-03-20</td>
+            <td>Sri Lanka Institute of Textile & Apparel	
+</td>
+            <td>
+              <a href="2009/3/12-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/12-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/12-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2009</td>
+            <td>2009-03-18</td>
+            <td>Ranga Art Institute (Incorporation)	
+</td>
+            <td>
+              <a href="2009/3/11-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/11-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/11-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2009</td>
+            <td>2009-03-17</td>
+            <td>Animals (Amendment)	
+</td>
+            <td>
+              <a href="2009/3/10-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/10-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/10-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2009</td>
+            <td>2009-03-11</td>
+            <td>Motor Traffic (Amendment)
+</td>
+            <td>
+              <a href="2009/3/08-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/08-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/08-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2009</td>
+            <td>2009-03-11</td>
+            <td>Nation Building Tax	
+</td>
+            <td>
+              <a href="2009/3/09-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/3/09-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/3/09-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2009</td>
+            <td>2009-02-18</td>
+            <td>Grant of Citizenship to Stateless persons	
+</td>
+            <td>
+              <a href="2009/2/05-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/2/05-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/2/05-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2009</td>
+            <td>2009-02-18</td>
+            <td>Grant of Citizenship to Persons of Indian Origin (Amendment)	
+</td>
+            <td>
+              <a href="2009/2/06-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/2/06-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/2/06-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2009</td>
+            <td>2009-02-18</td>
+            <td>Ranaviru Seva Authority (Amendment)	
+</td>
+            <td>
+              <a href="2009/2/07-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/2/07-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/2/07-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2009</td>
+            <td>2009-02-16</td>
+            <td>Foundation for Civilian Bravery	
+</td>
+            <td>
+              <a href="2009/2/04-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/2/04-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/2/04-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2009</td>
+            <td>2009-02-05</td>
+            <td>Retired Senior Police Officers' Association(Incorporation)	
+</td>
+            <td>
+              <a href="2009/2/03-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/2/03-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/2/03-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2009</td>
+            <td>2009-01-30</td>
+            <td>Madampe Thaniwella Maha Devale Trust	
+</td>
+            <td>
+              <a href="2009/1/02-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/1/02-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/1/02-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2009</td>
+            <td>2009-01-22</td>
+            <td>The World Fellowship of Buddhist Sri Lanka Centre (Incorporation) 
+</td>
+            <td>
+              <a href="2009/1/01-2009_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2009/1/01-2009_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2009/1/01-2009_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
