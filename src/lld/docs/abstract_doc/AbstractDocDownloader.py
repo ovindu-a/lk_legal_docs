@@ -6,7 +6,7 @@ from functools import cache, cached_property
 from utils import JSONFile, Log, TSVFile
 
 from lld.www_common import WebPage
-from utils_future import PDF, Directory
+from utils_future import PDF, Directory, Lang
 
 log = Log("AbstractDocDownloader")
 
@@ -63,28 +63,71 @@ class AbstractDocDownloader:
         return did_hot_download
 
     @staticmethod
-    def __gen_pdf_file_paths__():
+    def __gen_doc_type_dir_paths__():
         dir_data = os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, "data")
-        for dir_path, _, file_names in os.walk(dir_data):
-            for file_name in file_names:
-                if file_name.endswith(".pdf"):
-                    yield os.path.join(dir_path, file_name)
+        for doc_type_name in os.listdir(dir_data):
+            doc_type_dir = os.path.join(dir_data, doc_type_name)
+            if not os.path.isdir(doc_type_dir):
+                continue
+            yield doc_type_dir
+
+    @staticmethod
+    def __gen_year_dirs__():
+
+        for (
+            doc_type_dir
+        ) in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+            for year in os.listdir(doc_type_dir):
+                year_dir = os.path.join(doc_type_dir, year)
+                if not os.path.isdir(year_dir):
+                    continue
+                yield year_dir
+
+    @staticmethod
+    def __gen_dir_data_paths__():
+        for year_dir in AbstractDocDownloader.__gen_year_dirs__():
+            for doc_id in os.listdir(year_dir):
+                dir_data = os.path.join(year_dir, doc_id)
+                if not os.path.isdir(dir_data):
+                    continue
+                yield dir_data
 
     @staticmethod
     def __get_temp_data_d_list__():
         d_list = []
-        for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
-            path_parts = pdf_file_path.split(os.sep)
+        for (dir_data,) in AbstractDocDownloader.__gen_dir_data_paths__():
+            metadata_path = os.path.join(dir_data, "metadata.json")
+            d_metadata = JSONFile(metadata_path).read()
 
-            doc_type_name, year, doc_id, file_name = path_parts[-4:]
-            lang_code = file_name[:2]
-            d = dict(
-                doc_type_name=doc_type_name,
-                doc_id=doc_id,
-                year=year,
-                lang_code=lang_code,
+            has_pdf = {}
+            has_txt = {}
+            for lang in Lang.list_all():
+                pdf_path = os.path.join(dir_data, f"{lang}.pdf")
+                txt_path = os.path.join(dir_data, f"{lang}.txt")
+                has_pdf[lang.code] = os.path.exists(pdf_path)
+                has_txt[lang.code] = os.path.exists(txt_path)
+
+            lang_to_source_url = d_metadata.lang_to_source_url
+
+            d_list.append(
+                dict(
+                    doc_type_name=d_metadata.get_doc_type_name(),
+                    date=d_metadata.date,
+                    description=d_metadata.description,
+                    source_url_si=lang_to_source_url.get("si", "None"),
+                    source_url_en=lang_to_source_url.get("en", "None"),
+                    source_url_ta=lang_to_source_url.get("ta", "None"),
+                    doc_num=d_metadata.doc_num,
+                    id=d_metadata.id,
+                    dir_data=d_metadata.dir_data,
+                    has_pdf_si=has_pdf.get("si", False),
+                    has_pdf_en=has_pdf.get("en", False),
+                    has_pdf_ta=has_pdf.get("ta", False),
+                    has_txt_si=has_txt.get("si", False),
+                    has_txt_en=has_txt.get("en", False),
+                    has_txt_ta=has_txt.get("ta", False),
+                )
             )
-            d_list.append(d)
         return d_list
 
     def copy_metadata_to_temp_data(self):
