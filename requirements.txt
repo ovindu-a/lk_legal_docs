@@ -3,3 +3,4 @@ bs4
 pypdf
 matplotlib
 scipy
+pymupdf
