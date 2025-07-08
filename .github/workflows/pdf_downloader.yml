@@ -8,7 +8,7 @@ on:
         required: false
         default: "10"
   schedule:
-    - cron: "5,35 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   pdf_downloader:
