@@ -92,7 +92,7 @@ class AbstractDocDownloader:
 
             has_downloaded_pdfs = False
             for lang in Lang.list_all():
-                pdf_file_path = os.path.join(dir_data, f"{lang}.pdf")
+                pdf_file_path = os.path.join(dir_data, f"{lang.code}.pdf")
                 if os.path.exists(pdf_file_path):
                     has_downloaded_pdfs = True
             d["has_downloaded_pdfs"] = has_downloaded_pdfs
@@ -115,7 +115,7 @@ class AbstractDocDownloader:
     def build_json(d_list):
         d = dict(
             n_unique_docs=len(d_list),
-            n_pdfs=len([d for d in d_list if d.get("has_downloaded_pdfs")]),
+            n_pdfs=len([d for d in d_list if d["has_downloaded_pdfs"]]),
             total_file_size=Directory(
                 AbstractDocDownloader.DIR_TEMP_DATA
             ).size,
