@@ -6,7 +6,7 @@ from functools import cache, cached_property
 from utils import JSONFile, Log, TSVFile
 
 from lld.www_common import WebPage
-from utils_future import Directory
+from utils_future import PDF, Directory
 
 log = Log("AbstractDocDownloader")
 
@@ -57,7 +57,7 @@ class AbstractDocDownloader:
             os.makedirs(self.dir_temp_data, exist_ok=True)
             if AbstractDocDownloader.__download__(url, file_path):
                 did_hot_download = True
-                AbstractDocDownloader.compress_pdf(file_path, file_path)
+                PDF.compress(file_path, file_path)
         return did_hot_download
 
     @staticmethod
@@ -124,24 +124,3 @@ class AbstractDocDownloader:
     def get_temp_data_summary():
         assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH)
         return JSONFile(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH).read()
-
-    @staticmethod
-    def compress_pdf(input_path, output_path, quality="ebook"):
-        file_size_before_k = os.path.getsize(input_path) / 1000
-        gs_command = [
-            "gs",
-            "-sDEVICE=pdfwrite",
-            "-dCompatibilityLevel=1.4",
-            f"-dPDFSETTINGS=/{quality}",
-            "-dNOPAUSE",
-            "-dQUIET",
-            "-dBATCH",
-            f"-sOutputFile={output_path}",
-            input_path,
-        ]
-        subprocess.run(gs_command, check=True)
-        file_size_after_k = os.path.getsize(output_path) / 1000
-        log.debug(
-            f"Compressed {input_path} ({file_size_before_k:,.1f}KB)"
-            + f"-> {output_path} ({file_size_after_k:,.1f}KB)."
-        )
