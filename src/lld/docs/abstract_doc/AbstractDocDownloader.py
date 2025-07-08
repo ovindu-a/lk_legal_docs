@@ -93,7 +93,7 @@ class AbstractDocDownloader:
         d_list = []
         for dir_data in AbstractDocDownloader.__gen_dir_data_paths__():
             metadata_path = os.path.join(dir_data, "metadata.json")
-            d_metadata = JSONFile(metadata_path).read()
+            d0 = JSONFile(metadata_path).read()
 
             has_pdf = {}
             has_txt = {}
@@ -103,19 +103,19 @@ class AbstractDocDownloader:
                 has_pdf[lang.code] = os.path.exists(pdf_path)
                 has_txt[lang.code] = os.path.exists(txt_path)
 
-            lang_to_source_url = d_metadata.lang_to_source_url
+            lang_to_source_url = d0["lang_to_source_url"]
 
             d_list.append(
                 dict(
-                    doc_type_name=d_metadata.get_doc_type_name(),
-                    date=d_metadata.date,
-                    description=d_metadata.description,
+                    doc_type_name=d0["doc_type_name"],
+                    date=d0["date"],
+                    description=d0["description"],
                     source_url_si=lang_to_source_url.get("si", "None"),
                     source_url_en=lang_to_source_url.get("en", "None"),
                     source_url_ta=lang_to_source_url.get("ta", "None"),
-                    doc_num=d_metadata.doc_num,
-                    id=d_metadata.id,
-                    dir_data=d_metadata.dir_data,
+                    doc_num=d0["doc_num"],
+                    id=d0["id"],
+                    dir_data=d0["dir_data"],
                     has_pdf_si=has_pdf.get("si", False),
                     has_pdf_en=has_pdf.get("en", False),
                     has_pdf_ta=has_pdf.get("ta", False),
