@@ -43,9 +43,22 @@ def downloader(max_delta_t):
     return
 
 
+def git_rebase(dir_git):
+    for cmd in [
+        f"cd {dir_git}",
+        "git add .",
+        "git commit -m 'pre-rebase'",
+        "git pull origin main --rebase",
+    ]:
+        log.debug(f"🖥️: {cmd}")
+        os.system(cmd)
+
+
 def main(max_delta_t):
     # __testing_git_clone__()
     downloader(max_delta_t)
+    git_rebase(AbstractDoc.DIR_TEMP_DATA)
+    git_rebase(".")
     AbstractDoc.summarize_temp_data()
     ReadMe().build()
 
