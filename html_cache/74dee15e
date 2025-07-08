@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2020</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2020</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>60/2020</td>
+            <td class="date-column">2020-12-21</td>
+            <td>Tobacco Tax (Amendment) - GS</td>
+            <td>
+              <a href="2020/12/60-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/60-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/60-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>61/2020</td>
+            <td class="date-column">2020-12-21</td>
+            <td>Declaration of Assets and Liabilities (Amendment) - GS</td>
+            <td>
+              <a href="2020/12/61-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/61-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/61-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>59/2020</td>
+            <td class="date-column">2020-12-14</td>
+            <td>Plastics and Rubber Institute of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2020/12/59-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/59-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/59-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>55/2020</td>
+            <td class="date-column">2020-12-02</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2020/12/55-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/55-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/55-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>56/2020</td>
+            <td class="date-column">2020-12-02</td>
+            <td>Marriage Registration  (Amendment) - Bill</td>
+            <td>
+              <a href="2020/12/56-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/56-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/56-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>57/2020</td>
+            <td class="date-column">2020-12-02</td>
+            <td>Minimum Age of Marriage - Bill</td>
+            <td>
+              <a href="2020/12/57-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/57-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/57-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>58/2020</td>
+            <td class="date-column">2020-12-02</td>
+            <td>Sri Lanka Society of Physiotherapy (Incorporation) - Bill</td>
+            <td>
+              <a href="2020/12/58-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/12/58-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/12/58-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>52/2020</td>
+            <td class="date-column">2020-11-26</td>
+            <td>Bail (Amendment) - Bill</td>
+            <td>
+              <a href="2020/11/52-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/52-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/52-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>53/2020</td>
+            <td class="date-column">2020-11-26</td>
+            <td>Evidence (Amendment) - Bill</td>
+            <td>
+              <a href="2020/11/53-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/53-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/53-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>54/2020</td>
+            <td class="date-column">2020-11-26</td>
+            <td>Intellectual Property (Amendment) - Bill</td>
+            <td>
+              <a href="2020/11/54-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/54-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/54-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>50/2020</td>
+            <td class="date-column">2020-11-23</td>
+            <td>Sri Lanka Society of Physiotherapy (Incorporation) - GS</td>
+            <td>
+              <a href="2020/11/50-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/50-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/50-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>51/2020</td>
+            <td class="date-column">2020-11-23</td>
+            <td>Marriage Registration (Amendment) - GS</td>
+            <td>
+              <a href="2020/11/51-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/51-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/51-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>49/2020</td>
+            <td class="date-column">2020-11-13</td>
+            <td>Penal Code (Amendment) - Bill</td>
+            <td>
+              <a href="2020/11/49-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/49-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/49-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>48/2020</td>
+            <td class="date-column">2020-11-03</td>
+            <td>Bail Amendment - GS</td>
+            <td>
+              <a href="2020/11/48-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/11/48-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/11/48-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>44/2020</td>
+            <td class="date-column">2020-10-22</td>
+            <td>Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill</td>
+            <td>
+              <a href="2020/10/44-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/44-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/44-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>45/2020</td>
+            <td class="date-column">2020-10-22</td>
+            <td>Factories (Amendment) - Bill</td>
+            <td>
+              <a href="2020/10/45-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/45-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/45-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>46/2020</td>
+            <td class="date-column">2020-10-22</td>
+            <td>Minimum Wages (Indlan Labour) (Amendment) - Bill</td>
+            <td>
+              <a href="2020/10/46-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/46-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/46-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>47/2020</td>
+            <td class="date-column">2020-10-22</td>
+            <td>Employment of Women, Young Persons and Children (Amendment) - Bill</td>
+            <td>
+              <a href="2020/10/47-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/47-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/47-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>41/2020</td>
+            <td class="date-column">2020-10-20</td>
+            <td>Evidence (Amendment) - GS</td>
+            <td>
+              <a href="2020/10/41-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/41-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/41-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2020</td>
+            <td class="date-column">2020-10-20</td>
+            <td>Appropriation 2021 - Bill</td>
+            <td>
+              <a href="2020/10/42-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/42-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/42-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>43/2020</td>
+            <td class="date-column">2020-10-20</td>
+            <td>Appropriation 2020 - Bill</td>
+            <td>
+              <a href="2020/10/43-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/43-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/43-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2020</td>
+            <td class="date-column">2020-10-08</td>
+            <td>Factories (Amendment) - GS</td>
+            <td>
+              <a href="2020/10/37-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/37-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/37-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2020</td>
+            <td class="date-column">2020-10-07</td>
+            <td>Employment of Women, Young Persons and Children (Amendment) - GS</td>
+            <td>
+              <a href="2020/10/36-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/36-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/36-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2020</td>
+            <td class="date-column">2020-10-07</td>
+            <td>Minimum Wages (Indlan Labour) (Amendment) - GS</td>
+            <td>
+              <a href="2020/10/38-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/38-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/38-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2020</td>
+            <td class="date-column">2020-10-07</td>
+            <td>Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS</td>
+            <td>
+              <a href="2020/10/39-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/39-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/39-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2020</td>
+            <td class="date-column">2020-10-06</td>
+            <td>Approprlation 2021 - GS</td>
+            <td>
+              <a href="2020/10/35-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/35-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/35-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2020</td>
+            <td class="date-column">2020-10-06</td>
+            <td>Appropriation 2020 - GS</td>
+            <td>
+              <a href="2020/10/40-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/10/40-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/10/40-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2020</td>
+            <td class="date-column">2020-09-25</td>
+            <td>Marriage Registration (Amendment) - GS</td>
+            <td>
+              <a href="2020/9/32-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/32-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/32-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2020</td>
+            <td class="date-column">2020-09-25</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2020/9/33-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/33-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/33-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2020</td>
+            <td class="date-column">2020-09-25</td>
+            <td>Minimum Age of Marriage - GS</td>
+            <td>
+              <a href="2020/9/34-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/34-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/34-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2020</td>
+            <td class="date-column">2020-09-22</td>
+            <td>20th Amendment to the Constitution - Bill</td>
+            <td>
+              <a href="2020/9/27-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/27-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/27-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2020</td>
+            <td class="date-column">2020-09-22</td>
+            <td>Economic Service Charge (Amendment) - Bill</td>
+            <td>
+              <a href="2020/9/28-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/28-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/28-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2020</td>
+            <td class="date-column">2020-09-22</td>
+            <td>Finance (Amendment) - Bill</td>
+            <td>
+              <a href="2020/9/29-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/29-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/29-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2020</td>
+            <td class="date-column">2020-09-22</td>
+            <td>Nation Building Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2020/9/30-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/30-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/30-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2020</td>
+            <td class="date-column">2020-09-22</td>
+            <td>Ports and Airports Development Levy (Amendment) - Bill</td>
+            <td>
+              <a href="2020/9/31-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/31-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/31-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2020</td>
+            <td class="date-column">2020-09-07</td>
+            <td>Finance (Amendment) - GS </td>
+            <td>
+              <a href="2020/9/26-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/26-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/26-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2020</td>
+            <td class="date-column">2020-09-04</td>
+            <td>Economic Service Change (Amendment) - GS</td>
+            <td>
+              <a href="2020/9/23-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/23-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/23-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2020</td>
+            <td class="date-column">2020-09-04</td>
+            <td>Nation Building Tax - GS</td>
+            <td>
+              <a href="2020/9/24-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/24-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/24-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2020</td>
+            <td class="date-column">2020-09-04</td>
+            <td>Ports and Airports Development Levy (Amendment) - GS</td>
+            <td>
+              <a href="2020/9/25-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/25-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/25-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2020</td>
+            <td class="date-column">2020-09-03</td>
+            <td>20th Amendment to the Constitution - GS</td>
+            <td>
+              <a href="2020/9/22-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/9/22-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/9/22-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2020</td>
+            <td class="date-column">2020-02-18</td>
+            <td> Dedigama Sri Maithri Pragnartha Bouddha Educational  Daham Sabawa (Incorporation) - Bill</td>
+            <td>
+              <a href="2020/2/21-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/21-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/21-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2020</td>
+            <td class="date-column">2020-02-10</td>
+            <td>Finance (Amendment)  -  GS</td>
+            <td>
+              <a href="2020/2/19-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/19-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/19-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2020</td>
+            <td class="date-column">2020-02-10</td>
+            <td>Value Added Tax (Amendment)  -  GS</td>
+            <td>
+              <a href="2020/2/20-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/20-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/20-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2020</td>
+            <td class="date-column">2020-02-07</td>
+            <td>Port and  Airports Development  Levy (Amendment) -  Bill</td>
+            <td>
+              <a href="2020/2/18-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/18-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/18-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2020</td>
+            <td class="date-column">2020-02-05</td>
+            <td>Sri Lanka Society of Physiotherapy (Incorporation) - Bill</td>
+            <td>
+              <a href="2020/2/14-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/14-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/14-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2020</td>
+            <td class="date-column">2020-02-05</td>
+            <td>Economic Service Charge (Amendment) - Bill</td>
+            <td>
+              <a href="2020/2/15-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/15-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/15-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2020</td>
+            <td class="date-column">2020-02-05</td>
+            <td>Land Development (Amendment) - Bill</td>
+            <td>
+              <a href="2020/2/16-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/16-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/16-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2020</td>
+            <td class="date-column">2020-02-05</td>
+            <td>Nation Building Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2020/2/17-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/2/17-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/2/17-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2020</td>
+            <td class="date-column">2020-01-28</td>
+            <td>Dedigama Sri Maithi Pragnartha Bouddha Educational Dham Sabawa (Incorporation)   - GS</td>
+            <td>
+              <a href="2020/1/13-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/13-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/13-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2020</td>
+            <td class="date-column">2020-01-24</td>
+            <td>Ports and Airports Development Levy (Amendment) - GS</td>
+            <td>
+              <a href="2020/1/12-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/12-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/12-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>113/2020</td>
+            <td class="date-column">2020-01-21</td>
+            <td>Kandian Marriage & Divorce (Repeal) - Bill</td>
+            <td>
+              <a href="2020/1/113-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/113-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/113-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2020</td>
+            <td class="date-column">2020-01-14</td>
+            <td>Nation Building Tax ( Amendment) - GS</td>
+            <td>
+              <a href="2020/1/09-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/09-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/09-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2020</td>
+            <td class="date-column">2020-01-14</td>
+            <td>Economic Service Charge (Amendment) - GS</td>
+            <td>
+              <a href="2020/1/10-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/10-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/10-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2020</td>
+            <td class="date-column">2020-01-14</td>
+            <td>Sri Lanka Society of Physiotherapy (Incorporation) - GS</td>
+            <td>
+              <a href="2020/1/11-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/11-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/11-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2020</td>
+            <td class="date-column">2020-01-13</td>
+            <td>Land Development (Amendment) - GS</td>
+            <td>
+              <a href="2020/1/08-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/08-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/08-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Declaration of  Assets and  Liabilities  (Amendment) - Bill</td>
+            <td>
+              <a href="2020/1/02-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/02-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/02-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Muslim Marriage  and Divorce (Repeal)  (Amendment) -  Bill </td>
+            <td>
+              <a href="2020/1/03-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/03-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/03-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Marriages (General)  (Amendment) -  Bill</td>
+            <td>
+              <a href="2020/1/04-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/04-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/04-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Minimum Age of Marriage - Bill</td>
+            <td>
+              <a href="2020/1/05-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/05-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/05-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Marriage Registration (Amendment) - Bill</td>
+            <td>
+              <a href="2020/1/06-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/06-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/06-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2020</td>
+            <td class="date-column">2020-01-08</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2020/1/07-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/07-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/07-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2020</td>
+            <td class="date-column">2020-01-07</td>
+            <td>Kandyan Marriage and Divorce (Repeal) - GS</td>
+            <td>
+              <a href="2020/1/01-2020_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2020/1/01-2020_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2020/1/01-2020_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2011</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2011</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>33/2011</td>
+            <td class="date-column">2011-11-08</td>
+            <td>Country Planning Ordinance
+</td>
+            <td>
+              <a href="2011/11/33-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/11/33-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/11/33-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2011</td>
+            <td class="date-column">2011-10-18</td>
+            <td>Minuwangoda Singha Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/10/34-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/10/34-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/10/34-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2011</td>
+            <td class="date-column">2011-09-21</td>
+            <td>Ranjith Aluvihare Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/9/35-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/9/35-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/9/35-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2011</td>
+            <td class="date-column">2011-08-26</td>
+            <td>Coast Conservation (Amendment)
+</td>
+            <td>
+              <a href="2011/8/32-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/8/32-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/8/32-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2011</td>
+            <td class="date-column">2011-06-22</td>
+            <td>Piya Dasuna Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/6/22-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/6/22-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/6/22-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2011</td>
+            <td class="date-column">2011-06-06</td>
+            <td>Madahapola Sri Ratnapalaramaya Religious and Buddhist Educational Development Foundation (Incorporation)
+</td>
+            <td>
+              <a href="2011/6/30-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/6/30-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/6/30-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2011</td>
+            <td class="date-column">2011-05-26</td>
+            <td>(Dr.) Malani Fonseka Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/5/20-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/5/20-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/5/20-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2011</td>
+            <td class="date-column">2011-05-26</td>
+            <td>Jayanthipura Subasadaka Sangamaya (Incorporation)	
+</td>
+            <td>
+              <a href="2011/5/21-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/5/21-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/5/21-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2011</td>
+            <td class="date-column">2011-05-04</td>
+            <td>D. M. Dasanayake Social Services & Charity Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/5/29-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/5/29-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/5/29-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2011</td>
+            <td class="date-column">2011-04-08</td>
+            <td>Employees Pension Benefits Fund	
+</td>
+            <td>
+              <a href="2011/4/16-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/4/16-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2011</td>
+            <td class="date-column">2011-04-08</td>
+            <td>Overseas Employees Pension Benefits Fund	
+</td>
+            <td>
+              <a href="2011/4/18-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/4/18-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/4/18-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2011</td>
+            <td class="date-column">2011-04-08</td>
+            <td>Finance Business
+</td>
+            <td>
+              <a href="2011/4/31-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/4/31-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/4/31-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2011</td>
+            <td class="date-column">2011-03-28</td>
+            <td>Pensions (Consequential Provisions)	
+</td>
+            <td>
+              <a href="2011/3/17-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/3/17-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/3/17-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2011</td>
+            <td class="date-column">2011-03-09</td>
+            <td>Moneragala District Kantha Maha Sangamaya	
+</td>
+            <td>
+              <a href="2011/3/28-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/3/28-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/3/28-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Strategic Development Projects (Amendment) Bill GS</td>
+            <td>
+              <a href="2011/2/01-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Debit Tax GS	
+</td>
+            <td>
+              <a href="2011/2/02-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Excise (Amendment) GS</td>
+            <td>
+              <a href="2011/2/03-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Inland Revenue (Amendment) GS	
+</td>
+            <td>
+              <a href="2011/2/04-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Tax Appeals Commission GS	
+</td>
+            <td>
+              <a href="2011/2/05-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Excise (Special Provisions) (Amendment) GS
+</td>
+            <td>
+              <a href="2011/2/06-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Regional Infrastructure Development Levy (Repeal) GS
+</td>
+            <td>
+              <a href="2011/2/07-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Finance (Amendment) GS 
+</td>
+            <td>
+              <a href="2011/2/08-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Ports and Airports Development Levy GS
+</td>
+            <td>
+              <a href="2011/2/09-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Recovery of Loans by Banks (Special Provisions)(Amendment) GS
+</td>
+            <td>
+              <a href="2011/2/10-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Telecommunication Levy GS
+</td>
+            <td>
+              <a href="2011/2/11-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Provincial Councils GS
+</td>
+            <td>
+              <a href="2011/2/12-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Value Added Tax GS
+</td>
+            <td>
+              <a href="2011/2/13-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Nation Building Tax GS
+</td>
+            <td>
+              <a href="2011/2/14-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2011</td>
+            <td class="date-column">2011-02-28</td>
+            <td>Economic Service Charge GS 	
+</td>
+            <td>
+              <a href="2011/2/15-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2011</td>
+            <td class="date-column">2011-02-10</td>
+            <td>Hedang Education Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2011/2/23-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/2/23-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/2/23-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2011</td>
+            <td class="date-column">2011-02-10</td>
+            <td>Employees Provident Fund	
+</td>
+            <td>
+              <a href="2011/2/25-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/2/25-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/2/25-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2011</td>
+            <td class="date-column">2011-02-09</td>
+            <td>Maithripala Senanayake Foundation	
+</td>
+            <td>
+              <a href="2011/2/27-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/2/27-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/2/27-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2011</td>
+            <td class="date-column">2011-02-08</td>
+            <td>Mahamewnawa Sadaham Sevawa (Incorporation)	
+</td>
+            <td>
+              <a href="2011/2/19-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/2/19-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/2/19-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2011</td>
+            <td class="date-column">2011-02-08</td>
+            <td>Right to Free Education	
+</td>
+            <td>
+              <a href="2011/2/26-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/2/26-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/2/26-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2011</td>
+            <td class="date-column">2011-01-05</td>
+            <td>Kudabuthgamuwa Sri Piyadassinarama Viharasthana Performance Society GS	
+</td>
+            <td>
+              <a href="2011/1/24-2011_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2011/1/24-2011_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2011/1/24-2011_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2012</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2012</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>15/2012</td>
+            <td class="date-column">2012-12-05</td>
+            <td>Lakshman Wasantha Perera	
+</td>
+            <td>
+              <a href="2012/12/15-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/12/15-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/12/15-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2012</td>
+            <td class="date-column">2012-11-19</td>
+            <td>Convention on the Suppression of Terrorist Financing (Amendment)	
+</td>
+            <td>
+              <a href="2012/11/12-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/11/12-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/11/12-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2012</td>
+            <td class="date-column">2012-11-12</td>
+            <td>Navy (Amendment) GS	
+</td>
+            <td>
+              <a href="2012/11/11-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/11/11-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/11/11-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2012</td>
+            <td class="date-column">2012-10-11</td>
+            <td>Code of Criminal Procedure (Special Provisions)	
+</td>
+            <td>
+              <a href="2012/10/10-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/10/10-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/10/10-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2012</td>
+            <td class="date-column">2012-10-01</td>
+            <td>Appropriation</td>
+            <td>
+              <a href="2012/10/09-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/10/09-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/10/09-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2012</td>
+            <td class="date-column">2012-09-19</td>
+            <td>Bareerah Muslim Ladies Arabic College (Incor.)	
+</td>
+            <td>
+              <a href="2012/9/08-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/9/08-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/9/08-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2012</td>
+            <td class="date-column">2012-08-10</td>
+            <td>Divineguma</td>
+            <td>
+              <a href="2012/8/07-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/8/07-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/8/07-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2012</td>
+            <td class="date-column">2012-07-30</td>
+            <td>Divineguma GS</td>
+            <td>
+              <a href="2012/7/06-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/7/06-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/7/06-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2012</td>
+            <td class="date-column">2012-06-11</td>
+            <td>Sri Gunarathana International Foundation (Incorporation) GS</td>
+            <td>
+              <a href="2012/6/02-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/6/02-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/6/02-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2012</td>
+            <td class="date-column">2012-06-11</td>
+            <td>Nineteenth Amendment to the Constitution GS	
+</td>
+            <td>
+              <a href="2012/6/05-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/6/05-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/6/05-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2012</td>
+            <td class="date-column">2012-06-05</td>
+            <td>Victor Antony Educational, Social, Economic Services and Charity Federation (Incorporation) GS</td>
+            <td>
+              <a href="2012/6/03-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/6/03-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/6/03-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2012</td>
+            <td class="date-column">2012-06-05</td>
+            <td>Victor Antony Educational, Social, Economic Services and Charity Foundation (Incorporation)</td>
+            <td>
+              <a href="2012/6/19-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/6/19-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/6/19-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2012</td>
+            <td class="date-column">2012-05-12</td>
+            <td>Institute  of Medicina Alternative (Incorporation) GS</td>
+            <td>
+              <a href="2012/5/04-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/5/04-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/5/04-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2012</td>
+            <td class="date-column">2012-05-08</td>
+            <td>Nimal Siripala de Silva Foundation	
+</td>
+            <td>
+              <a href="2012/5/17-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/5/17-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/5/17-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2012</td>
+            <td class="date-column">2012-05-06</td>
+            <td>Buddhasravaka Bhikku University (Amendment) GS</td>
+            <td>
+              <a href="2012/5/01-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/5/01-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/5/01-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2012</td>
+            <td class="date-column">2012-03-22</td>
+            <td>Computer Society	
+</td>
+            <td>
+              <a href="2012/3/14-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/3/14-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/3/14-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2012</td>
+            <td class="date-column">2012-03-08</td>
+            <td>Bulathsinhala Janashakthi Sangamaya	
+</td>
+            <td>
+              <a href="2012/3/13-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/3/13-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/3/13-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2012</td>
+            <td class="date-column">2012-02-23</td>
+            <td>Pandu Bandaranayake Hela Jana Foundation	
+</td>
+            <td>
+              <a href="2012/2/16-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/2/16-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/2/16-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2012</td>
+            <td class="date-column">2012-02-08</td>
+            <td>Seyyed Sheikh Koya Thangal Mowlana Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2012/2/18-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/2/18-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/2/18-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2012</td>
+            <td class="date-column">2012-01-23</td>
+            <td>Seyyed Sheikh Koya Thangal Mowlana Foundation (Incorporation)  - GS</td>
+            <td>
+              <a href="2012/1/20-2012_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2012/1/20-2012_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2012/1/20-2012_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

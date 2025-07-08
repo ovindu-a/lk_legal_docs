@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acts of 2008</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Acts of 2008</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Act Number</th>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>43/2008</td>
+            <td>2008-12-08</td>
+            <td>Appropriation </td>
+            <td>
+              <a href="2008/12/43-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/12/43-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/12/43-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2008</td>
+            <td>2008-12-03</td>
+            <td>Credit Information Bureau of Sri Lanka (Amendment)</td>
+            <td>
+              <a href="2008/12/42-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/12/42-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/12/42-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2008</td>
+            <td>2008-12-01</td>
+            <td>National Thoroughfares	
+</td>
+            <td>
+              <a href="2008/12/40-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/12/40-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/12/40-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2008</td>
+            <td>2008-11-07</td>
+            <td>Sri Lanka Transport Board (Amendment)	
+</td>
+            <td>
+              <a href="2008/11/39-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/11/39-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/11/39-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2008</td>
+            <td>2008-10-31</td>
+            <td>National Housing Development Authority (Special Provisions)</td>
+            <td>
+              <a href="2008/10/37-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/10/37-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/10/37-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2008</td>
+            <td>2008-10-31</td>
+            <td>Grant of Citizenship to Persons of Chinese Origin (Special Provisions)</td>
+            <td>
+              <a href="2008/10/38-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/10/38-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/10/38-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2008</td>
+            <td>2008-10-23</td>
+            <td>Marine Pollution Prevention Act	
+</td>
+            <td>
+              <a href="2008/10/35-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2008/10/35-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2008</td>
+            <td>2008-10-23</td>
+            <td>Urban Settlement Development Authority</td>
+            <td>
+              <a href="2008/10/36-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/10/36-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/10/36-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2008</td>
+            <td>2008-10-21</td>
+            <td>Dr. Soma Edirisinghe Fund (Incorporation)</td>
+            <td>
+              <a href="2008/10/34-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/10/34-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/10/34-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2008</td>
+            <td>2008-09-26</td>
+            <td>Information and Communication Technology (Amendment) 
+</td>
+            <td>
+              <a href="2008/9/33-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/9/33-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/9/33-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2008</td>
+            <td>2008-09-05</td>
+            <td>School Teachers Pension (Amendment)</td>
+            <td>
+              <a href="2008/9/32-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/9/32-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/9/32-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2008</td>
+            <td>2008-08-28</td>
+            <td>University of Vocational Technology</td>
+            <td>
+              <a href="2008/8/31-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/8/31-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/8/31-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2008</td>
+            <td>2008-08-07</td>
+            <td>Buddhist Culture Centre of Nedimala Dehiwela (Incorporation)</td>
+            <td>
+              <a href="2008/8/30-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/8/30-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/8/30-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2008</td>
+            <td>2008-08-05</td>
+            <td>Malwathu Maha Vihariya Tibbatuwawe Sri Siddhartha Sumangala Benevolent Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2008/8/29-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/8/29-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/8/29-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2008</td>
+            <td>2008-07-25</td>
+            <td>Muslim Foundation for Culture and Development (Incorporation)</td>
+            <td>
+              <a href="2008/7/28-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/7/28-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/7/28-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2008</td>
+            <td>2008-07-15</td>
+            <td>Attanagalla Development Foundation (Incorporation)</td>
+            <td>
+              <a href="2008/7/27-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/7/27-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/7/27-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2008</td>
+            <td>2008-06-06</td>
+            <td>Environment Conservation Levy
+</td>
+            <td>
+              <a href="2008/6/26-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/6/26-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/6/26-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2008</td>
+            <td>2008-05-15</td>
+            <td>Wadduwa Vivekarama Community Development Foundation (Incorporation)</td>
+            <td>
+              <a href="2008/5/25-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/5/25-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/5/25-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2008</td>
+            <td>2008-04-29</td>
+            <td>Our Kids Organization (Incorporation)</td>
+            <td>
+              <a href="2008/4/23-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/4/23-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/4/23-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2008</td>
+            <td>2008-04-29</td>
+            <td>Institute of Dharuth Thowheed Assalafiyya (Incorporation) </td>
+            <td>
+              <a href="2008/4/24-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/4/24-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/4/24-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2008</td>
+            <td>2008-03-28</td>
+            <td>Termination of Employment of Workmen (Special Provisions) (Amendment)</td>
+            <td>
+              <a href="2008/3/20-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/20-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/20-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2008</td>
+            <td>2008-03-28</td>
+            <td>Industrial Disputes (Amendment)</td>
+            <td>
+              <a href="2008/3/21-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/21-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/21-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2008</td>
+            <td>2008-03-28</td>
+            <td>Methsith Dharmadutha Foundation (Incorporation)</td>
+            <td>
+              <a href="2008/3/22-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/22-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/22-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2008</td>
+            <td>2008-03-26</td>
+            <td>Sri Rathnajothi Community Development and Social Foundation (Incorporation)</td>
+            <td>
+              <a href="2008/3/18-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/18-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/18-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2008</td>
+            <td>2008-03-26</td>
+            <td>K. R. G. Wijesundara National  and Employees Welfare Foundation (Incorporation) </td>
+            <td>
+              <a href="2008/3/19-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/19-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2008</td>
+            <td>2008-03-13</td>
+            <td>Parliamentary Staff Buddhist Association (Incorporation)</td>
+            <td>
+              <a href="2008/3/17-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/17-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/17-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2008</td>
+            <td>2008-03-05</td>
+            <td>Commissions of inquiry (amendment) </td>
+            <td>
+              <a href="2008/3/16-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/3/16-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/3/16-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2008</td>
+            <td>2008-02-29</td>
+            <td>Finance (Amendment)
+</td>
+            <td>
+              <a href="2008/2/07-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/07-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/07-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2008</td>
+            <td>2008-02-29</td>
+            <td>Finance (Amendment)
+</td>
+            <td>
+              <a href="2008/2/08-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/08-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/08-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2008</td>
+            <td>2008-02-29</td>
+            <td>Inland Revenue (Amendment)
+</td>
+            <td>
+              <a href="2008/2/09-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/09-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/09-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2008</td>
+            <td>2008-02-29</td>
+            <td>Stamp Duty (Special Provisions) (Amendment)
+</td>
+            <td>
+              <a href="2008/2/10-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/10-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/10-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2008</td>
+            <td>2008-02-29</td>
+            <td>Economic Service Charge (Amendment)	
+</td>
+            <td>
+              <a href="2008/2/11-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/11-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/11-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2008</td>
+            <td>2008-02-29</td>
+            <td>Regional Infrastructure Development Levy (Amendment)
+</td>
+            <td>
+              <a href="2008/2/12-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/12-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/12-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2008</td>
+            <td>2008-02-29</td>
+            <td>Butchers (Amendment)	
+</td>
+            <td>
+              <a href="2008/2/13-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/13-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/13-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2008</td>
+            <td>2008-02-29</td>
+            <td>Strategic Development Projects
+</td>
+            <td>
+              <a href="2008/2/14-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/14-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/14-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2008</td>
+            <td>2008-02-29</td>
+            <td>Value Added Tax (Amendment)
+</td>
+            <td>
+              <a href="2008/2/15-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/15-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/15-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2008</td>
+            <td>2008-02-19</td>
+            <td>Defence Services Command and Staff College </td>
+            <td>
+              <a href="2008/2/05-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/05-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/05-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2008</td>
+            <td>2008-02-19</td>
+            <td>Api Wenuwen Api Fund	
+</td>
+            <td>
+              <a href="2008/2/06-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/2/06-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/2/06-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2008</td>
+            <td>2008-01-28</td>
+            <td>Bambalapitiya Flats Buddhist Society (Incorporation) </td>
+            <td>
+              <a href="2008/1/04-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/1/04-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/1/04-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2008</td>
+            <td>2008-01-23</td>
+            <td>Conventions against Illict Traffic in Nacotic Drugs and Psychotropic Substances</td>
+            <td>
+              <a href="2008/1/01-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/1/01-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/1/01-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2008</td>
+            <td>2008-01-23</td>
+            <td>Sri Saranankara Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2008/1/02-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/1/02-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/1/02-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2008</td>
+            <td>2008-01-23</td>
+            <td>Government Services Buddhist Association (Incorporation) </td>
+            <td>
+              <a href="2008/1/03-2008_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2008/1/03-2008_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2008/1/03-2008_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
