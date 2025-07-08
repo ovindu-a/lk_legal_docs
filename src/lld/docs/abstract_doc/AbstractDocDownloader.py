@@ -24,9 +24,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -60,7 +58,7 @@ class AbstractDocDownloader:
         dir_data = os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, "data")
         for dir_path, _, file_names in os.walk(dir_data):
             for file_name in file_names:
-                if not file_name.endswith(".pdf"):
+                if file_name.endswith(".pdf"):
                     yield os.path.join(dir_path, file_name)
 
     @staticmethod
@@ -79,6 +77,7 @@ class AbstractDocDownloader:
                 lang_code=lang_code,
             )
             d_list.append(d)
+
         n = len(d_list)
         for tsv_path in [
             AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH,
@@ -90,9 +89,5 @@ class AbstractDocDownloader:
     @staticmethod
     @cache
     def get_temp_data_summary():
-        assert os.path.exists(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        )
-        return TSVFile(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        ).read()
+        assert os.path.exists(AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH)
+        return TSVFile(AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH).read()
