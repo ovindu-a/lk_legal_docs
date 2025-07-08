@@ -145,3 +145,10 @@ class AbstractDocDownloader:
     def back_compress():
         for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
             PDF.compress(pdf_file_path, pdf_file_path)
+
+    @cached_property
+    def remote_data_url(self):
+        return (
+            "https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data"
+            + f"/{self.get_doc_type_name()}/{self.year}/{self.id}"
+        )

@@ -60,7 +60,7 @@ class ReadMe:
                 date=doc.date,
                 title=doc.description_cleaned,
                 sources=ReadMe.get_source_md(doc),
-                doc_num=f"[{doc.doc_num}]({doc.dir_data})",
+                doc_num=f"[{doc.doc_num}]({doc.remote_data_url})",
             )
             d_list.append(d)
         return d_list
