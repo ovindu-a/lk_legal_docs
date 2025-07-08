@@ -75,8 +75,8 @@
             <td class="date-column">2025-07-04</td>
             <td>Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/7/2443-57_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/7/2443-57_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -107,6 +107,16 @@
             <td>
               <button class="btn btn-primary btn-sm" disabled>English</button>
               <a href="2025/7/2443-61_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>2443/70</td>
+            <td class="date-column">2025-07-04</td>
+            <td>2443/70</td>
+            <td>
+              <a href="2025/7/2443-70_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/7/2443-70_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -576,7 +586,7 @@
             <td>Ministry of Labour - Industrial Dispute between Mr. P. M. Jayarathna Sri Lanka Transport Board.  Appt. of J. De Silva as an Arbitrator., Sri Lanka Nidahas Sevaka Sangama & Packserve Pvt. Ltd. Industrial Dispute between Mr. M. N. Abeykoon and Sri Lanka Transport Board.</td>
             <td>
               <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2442-63_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -875,8 +885,8 @@
             <td class="date-column">2025-06-24</td>
             <td>Land Aquisition - Uppuweli, Town and Gravets  D/S Division, Trincomalee District.</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2442-32_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2442-32_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <a href="2025/6/2442-32_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
@@ -1395,8 +1405,8 @@
             <td class="date-column">2025-06-21</td>
             <td>Land Title Settlement Dept. - Mampe, Kesbewa D/S Division, Colombo District - (25/0079)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2441-68_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2441-68_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -1686,8 +1696,8 @@ Land Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha 
             <td class="date-column">2025-06-19</td>
             <td>Land Aquisition - Thambiliyana, Kuruwita D/S Division, Ratnapura District, Land Aquisition - Biyagama, Biyagama D/S Division, Gampaha District Sec-39 (1)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2441-34_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2441-34_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -2202,7 +2212,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/6/2440-23_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/6/2440-23_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/6/2440-23_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -2230,8 +2240,8 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td class="date-column">2025-06-11</td>
             <td>Land Title Settlement Dept. - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District - (25/55030)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2440-04_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2440-04_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -2280,8 +2290,8 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td class="date-column">2025-06-11</td>
             <td>Land Title Settlement Dept. - Delpitiya, Udapalatha D/S Division, Kandy District - (25/0026)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2440-09_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2440-09_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -2320,8 +2330,8 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td class="date-column">2025-06-11</td>
             <td>Land Title Settlement Dept. - Weeravila New Town, Lunugamvehera D/S Division, Hambantota District - (24/1186)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2440-13_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2440-13_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -2430,8 +2440,8 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td class="date-column">2025-06-06</td>
             <td>Land Title Settlement Dept. - Polwaththa, Maharagama D/S Division, Colombo District - (25/0022)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2439-73_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2439-73_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -2542,7 +2552,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/6/2439-62_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/6/2439-62_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/6/2439-62_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -2692,7 +2702,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/6/2439-45_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/6/2439-45_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/6/2439-45_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -2750,8 +2760,8 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td class="date-column">2025-06-04</td>
             <td>Land Title Settlement Department Ã¢â¬â Balalla, Mahawa D/S/ Division, Kurunegala District (25/0171)</td>
             <td>
-              <button class="btn btn-primary btn-sm" disabled>English</button>
-              <button class="btn btn-secondary btn-sm" disabled>Sinhala</button>
+              <a href="2025/6/2439-51_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2025/6/2439-51_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
               <button class="btn btn-success btn-sm" disabled>Tamil</button>
             </td>
           </tr>
@@ -3402,7 +3412,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/5/2438-50_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2438-50_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2438-50_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -3462,7 +3472,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/5/2438-56_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2438-56_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2438-56_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -3502,7 +3512,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <button class="btn btn-primary btn-sm" disabled>English</button>
               <a href="2025/5/2438-60_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2438-60_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -3972,7 +3982,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/5/2438-07_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2438-07_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2438-07_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -3982,7 +3992,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/5/2438-08_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2438-08_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2438-08_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -4442,7 +4452,7 @@ Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District -
             <td>
               <a href="2025/5/2437-23_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2437-23_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2437-23_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -4997,7 +5007,7 @@ Industrial Dispute between D.M.S. Gunaratne and National Lotteries Board</td>
             <td>
               <a href="2025/5/2434-21_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/5/2434-21_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/5/2434-21_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6260,7 +6270,7 @@ Land Acquisition Ã¢â¬â Amendment, Negombo District. Section Ã¢â�
             <td>
               <a href="2025/4/2431-38_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2431-38_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2431-38_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6331,7 +6341,7 @@ The Marine Pollution Prevention Act.No.35 of 2008</td>
             <td>
               <a href="2025/4/2431-27_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2431-27_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2431-27_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6361,7 +6371,7 @@ The Marine Pollution Prevention Act.No.35 of 2008</td>
             <td>
               <a href="2025/4/2431-30_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2431-30_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2431-30_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6501,7 +6511,7 @@ Order made under Section 10 of the Assisted Schools and Training Collages Act (S
             <td>
               <a href="2025/4/2431-23_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2431-23_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2431-23_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6594,7 +6604,7 @@ Sri Lanka Mitra Vibushana Ã¢â¬â His Excellency Shri Narendra Modi
             <td>
               <a href="2025/4/2431-09_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2431-09_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2431-09_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6667,7 +6677,7 @@ Sri Lanka Mitra Vibushana Ã¢â¬â His Excellency Shri Narendra Modi
             <td>
               <a href="2025/4/2426-61_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2426-61_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2426-61_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -6889,7 +6899,7 @@ Land Acquisition -  Barandara, Kandy D/S/ Division, Kandy District, Betwarth Est
             <td>
               <a href="2025/4/2430-19_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/4/2430-19_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/4/2430-19_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7163,7 +7173,7 @@ Section Ã¢â¬â 07
             <td>
               <a href="2025/3/2429-73_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-73_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-73_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7383,7 +7393,7 @@ Notice Under Section 66(2)
             <td>
               <a href="2025/3/2429-60_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-60_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-60_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7453,7 +7463,7 @@ Notice Under Section 66(2)
             <td>
               <a href="2025/3/2429-67_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-67_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-67_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7573,7 +7583,7 @@ Notice Under Section 66(2)
             <td>
               <a href="2025/3/2429-41_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-41_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-41_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7583,7 +7593,7 @@ Notice Under Section 66(2)
             <td>
               <a href="2025/3/2429-42_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-42_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-42_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -7906,7 +7916,7 @@ Land Acquisition Ã¢â¬â Ragama, Ja-ela D/S/ Division, Gampaha District
             <td>
               <a href="2025/3/2429-08_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2429-08_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2429-08_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -8749,7 +8759,7 @@ Land Acquisition Ã¢â¬â Corrigenda, Thanamalwila D/S/ Division. Sectio
             <td>
               <a href="2025/3/2427-16_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/3/2427-16_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/3/2427-16_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -10306,7 +10316,7 @@ Industrial Dispute between DPL Premier Gloves Limited and Free Trade Zones and G
             <td>
               <a href="2025/2/2425-04_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/2/2425-04_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/2/2425-04_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -10416,7 +10426,7 @@ Industrial Dispute between DPL Premier Gloves Limited and Free Trade Zones and G
             <td>
               <a href="2025/2/2425-15_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/2/2425-15_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/2/2425-15_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -10606,7 +10616,7 @@ Industrial Dispute between DPL Premier Gloves Limited and Free Trade Zones and G
             <td>
               <a href="2025/2/2424-76_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/2/2424-76_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/2/2424-76_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -14358,7 +14368,7 @@ Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo Dis
             <td>
               <a href="2025/1/2419-12_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/1/2419-12_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/1/2419-12_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>
@@ -15158,7 +15168,7 @@ Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo Dis
             <td>
               <a href="2025/1/2417-36_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
               <a href="2025/1/2417-36_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
-              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+              <a href="2025/1/2417-36_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
             </td>
           </tr>
           <tr>

@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2023</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2023</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>427/2023</td>
+            <td class="date-column">2023-12-14</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2023/12/427-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/427-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/427-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>432/2023</td>
+            <td class="date-column">2023-12-13</td>
+            <td>Daham Sewane Singiththo Lama Sanwardana Padanama (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/12/432-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/432-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/432-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>429/2023</td>
+            <td class="date-column">2023-12-12</td>
+            <td>Pragnabandu Scholarship Trust Fund (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/12/429-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/429-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/429-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>428/2023</td>
+            <td class="date-column">2023-12-11</td>
+            <td>Rajitha Senarathne Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/12/428-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/428-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/428-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>423/2023</td>
+            <td class="date-column">2023-12-07</td>
+            <td>Vanni Mann Charity Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/12/423-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/423-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/423-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>430/2023</td>
+            <td class="date-column">2023-12-07</td>
+            <td>Notaries (Amendment) - Bill</td>
+            <td>
+              <a href="2023/12/430-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/430-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/430-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>431/2023</td>
+            <td class="date-column">2023-12-07</td>
+            <td>Prevention of Frauds (Amendment) - Bill</td>
+            <td>
+              <a href="2023/12/431-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/431-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/431-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>419/2023</td>
+            <td class="date-column">2023-12-05</td>
+            <td>Sri Lanka Electricity - GS</td>
+            <td>
+              <a href="2023/12/419-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/419-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <button class="btn btn-success btn-sm" disabled>Tamil</button>
+            </td>
+          </tr>
+          <tr>
+            <td>421/2023</td>
+            <td class="date-column">2023-12-05</td>
+            <td>Daham Sewane Singiththo Lama Sanwardana - GS</td>
+            <td>
+              <a href="2023/12/421-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/421-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/421-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>422/2023</td>
+            <td class="date-column">2023-12-05</td>
+            <td>Pragnabandu Scholarship Trust Fund (Incorporation) - GS</td>
+            <td>
+              <a href="2023/12/422-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/422-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/422-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>420/2023</td>
+            <td class="date-column">2023-12-04</td>
+            <td>Malaiyagha Student Higher Education Fund (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/12/420-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/12/420-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/12/420-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>415/2023</td>
+            <td class="date-column">2023-11-29</td>
+            <td>Notaries (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/415-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/415-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/415-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>416/2023</td>
+            <td class="date-column">2023-11-29</td>
+            <td>Prevention of Frauds (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/416-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/416-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/416-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>417/2023</td>
+            <td class="date-column">2023-11-29</td>
+            <td>Powers of Attorney (Amendment) - Bill</td>
+            <td>
+              <a href="2023/11/417-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/417-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/417-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>414/2023</td>
+            <td class="date-column">2023-11-28</td>
+            <td>Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/414-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/414-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/414-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>412/2023</td>
+            <td class="date-column">2023-11-24</td>
+            <td>Malaiyagha Student Higher Education Fund (Incorporation) - GS</td>
+            <td>
+              <a href="2023/11/412-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/412-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/412-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>413/2023</td>
+            <td class="date-column">2023-11-24</td>
+            <td>Vanni Mann Charity Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/11/413-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/413-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/413-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>411/2023</td>
+            <td class="date-column">2023-11-15</td>
+            <td>Powers of Attorney (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/411-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/411-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/411-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>426/2023</td>
+            <td class="date-column">2023-11-15</td>
+            <td>Yohan Pathirana Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/11/426-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/426-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/426-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>410/2023</td>
+            <td class="date-column">2023-11-13</td>
+            <td>Rajitha Senarathne Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/11/410-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/410-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/410-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>424/2023</td>
+            <td class="date-column">2023-11-11</td>
+            <td>My Dream Jaffna Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/11/424-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/424-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/424-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>425/2023</td>
+            <td class="date-column">2023-11-11</td>
+            <td>S O S Children's Village of Sri Lanka Organization (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/11/425-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/425-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/425-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>402/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Registration of Documents (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/402-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/402-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/402-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>403/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Secured Transactions - GS</td>
+            <td>
+              <a href="2023/11/403-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/403-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/403-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>404/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Prescription (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/404-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/404-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/404-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>405/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Trust Receipts (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/405-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/405-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/405-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>406/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Companies (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/406-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/406-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/406-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>407/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Mortgage (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/407-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/407-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/407-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>408/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Finance Leasing (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/408-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/408-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/408-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>409/2023</td>
+            <td class="date-column">2023-11-10</td>
+            <td>Inland Trust Receipts (Amendment) - GS</td>
+            <td>
+              <a href="2023/11/409-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/409-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/409-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>435/2023</td>
+            <td class="date-column">2023-11-08</td>
+            <td>Mediation (Amendment) - Bill</td>
+            <td>
+              <a href="2023/11/435-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/435-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/435-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>401/2023</td>
+            <td class="date-column">2023-11-07</td>
+            <td>Yohan Pathirana Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/11/401-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/401-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/401-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>433/2023</td>
+            <td class="date-column">2023-11-07</td>
+            <td>The Recognition and Enforcement of International Settlement Agreements Resulting from Mediation - Bill</td>
+            <td>
+              <a href="2023/11/433-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/433-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/433-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>400/2023</td>
+            <td class="date-column">2023-11-03</td>
+            <td>Mohan Ellawala Social Development Foundation - GS</td>
+            <td>
+              <a href="2023/11/400-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/11/400-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/11/400-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>399/2023</td>
+            <td class="date-column">2023-10-31</td>
+            <td>SOS Children's Village of Sri Lanka Organization (Incorporation) - GS</td>
+            <td>
+              <a href="2023/10/399-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/399-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/399-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>396/2023</td>
+            <td class="date-column">2023-10-30</td>
+            <td>My Dream Jaffna Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/10/396-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/396-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/396-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>398/2023</td>
+            <td class="date-column">2023-10-30</td>
+            <td>Microfinance and Credit Regulatory Authority - GS</td>
+            <td>
+              <a href="2023/10/398-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/398-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/398-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>393/2023</td>
+            <td class="date-column">2023-10-24</td>
+            <td>Mediation (Amendment) - GS</td>
+            <td>
+              <a href="2023/10/393-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/393-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/393-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>392/2023</td>
+            <td class="date-column">2023-10-20</td>
+            <td>Anti-Corruption (Amendment) - Bill</td>
+            <td>
+              <a href="2023/10/392-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/392-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/392-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>397/2023</td>
+            <td class="date-column">2023-10-20</td>
+            <td>National Hydrographic - Bill</td>
+            <td>
+              <a href="2023/10/397-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/397-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/397-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>390/2023</td>
+            <td class="date-column">2023-10-18</td>
+            <td>Finance - Bill</td>
+            <td>
+              <a href="2023/10/390-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/390-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/390-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>395/2023</td>
+            <td class="date-column">2023-10-17</td>
+            <td>Office for National Unity and Reconciliation - Bill</td>
+            <td>
+              <a href="2023/10/395-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/395-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/395-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>389/2023</td>
+            <td class="date-column">2023-10-16</td>
+            <td>The Recognition and Enforcement of International Settlement Agreements - GS</td>
+            <td>
+              <a href="2023/10/389-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/389-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/389-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>287/2023</td>
+            <td class="date-column">2023-10-12</td>
+            <td>Anti - Corruption - GS</td>
+            <td>
+              <a href="2023/10/287-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/287-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/287-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>288/2023</td>
+            <td class="date-column">2023-10-12</td>
+            <td>National Hydrographic - GS</td>
+            <td>
+              <a href="2023/10/288-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/288-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/288-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>394/2023</td>
+            <td class="date-column">2023-10-05</td>
+            <td>Appropriation - Bill</td>
+            <td>
+              <a href="2023/10/394-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/394-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/394-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>386/2023</td>
+            <td class="date-column">2023-10-04</td>
+            <td>Finance - GS</td>
+            <td>
+              <a href="2023/10/386-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/386-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/386-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>391/2023</td>
+            <td class="date-column">2023-10-03</td>
+            <td>Online Safety - Bill</td>
+            <td>
+              <a href="2023/10/391-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/10/391-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/10/391-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>385/2023</td>
+            <td class="date-column">2023-09-27</td>
+            <td>Appropriation - GS</td>
+            <td>
+              <a href="2023/9/385-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/385-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/385-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>285/2023</td>
+            <td class="date-column">2023-09-25</td>
+            <td>Office for National Unity and Reconciliation - GS</td>
+            <td>
+              <a href="2023/9/285-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/285-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/285-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>384/2023</td>
+            <td class="date-column">2023-09-22</td>
+            <td>Susarana Lanka Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/9/384-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/384-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/384-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>286/2023</td>
+            <td class="date-column">2023-09-21</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2023/9/286-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/286-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/286-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>284/2023</td>
+            <td class="date-column">2023-09-18</td>
+            <td>Online Safety - GS</td>
+            <td>
+              <a href="2023/9/284-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/284-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/284-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>383/2023</td>
+            <td class="date-column">2023-09-15</td>
+            <td>Anti Terrorism - GS</td>
+            <td>
+              <a href="2023/9/383-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/383-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/383-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>382/2023</td>
+            <td class="date-column">2023-09-14</td>
+            <td>Susarana Lanka Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/9/382-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/382-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/382-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>381/2023</td>
+            <td class="date-column">2023-09-12</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2023/9/381-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/381-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/381-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>388/2023</td>
+            <td class="date-column">2023-09-08</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2023/9/388-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/388-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/388-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>380/2023</td>
+            <td class="date-column">2023-09-06</td>
+            <td>Hesha Friendship Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/9/380-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/380-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/380-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>378/2023</td>
+            <td class="date-column">2023-09-05</td>
+            <td>Civil Aviation (Amendment) - Bill</td>
+            <td>
+              <a href="2023/9/378-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/378-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/378-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>379/2023</td>
+            <td class="date-column">2023-09-05</td>
+            <td>Walpola Piyananda Educational and Cultural Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/9/379-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/9/379-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/9/379-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>377/2023</td>
+            <td class="date-column">2023-08-31</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2023/8/377-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/377-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/377-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>375/2023</td>
+            <td class="date-column">2023-08-22</td>
+            <td>Walpola Piyananda Educational and Cultural Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/8/375-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/375-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/375-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>376/2023</td>
+            <td class="date-column">2023-08-22</td>
+            <td>Sri Lanka Ports Authority (Amendment) - Bill</td>
+            <td>
+              <a href="2023/8/376-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/376-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/376-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>368/2023</td>
+            <td class="date-column">2023-08-16</td>
+            <td>Civil Aviation (Amendment) - GS</td>
+            <td>
+              <a href="2023/8/368-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/368-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/368-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>374/2023</td>
+            <td class="date-column">2023-08-10</td>
+            <td>Sri Lanka College of Nutrition Physicians (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/8/374-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/374-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/374-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>418/2023</td>
+            <td class="date-column">2023-08-10</td>
+            <td>Janaraja Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/8/418-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/418-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/418-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>369/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>Elections (Special Provisions) - Bill</td>
+            <td>
+              <a href="2023/8/369-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/369-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/369-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>370/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>National Eye Bank Trust of Sri Lanka - Bill</td>
+            <td>
+              <a href="2023/8/370-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/370-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/370-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>371/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>Inland Revenue (Amendment) - Bill</td>
+            <td>
+              <a href="2023/8/371-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/371-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/371-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>372/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2023/8/372-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/372-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/372-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>373/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>Social Security Contribution Levy (Amendment) - Bill</td>
+            <td>
+              <a href="2023/8/373-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/373-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/373-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>387/2023</td>
+            <td class="date-column">2023-08-08</td>
+            <td>Conferring the Honour of Senior Instructing Attorney-at-Law - Bill</td>
+            <td>
+              <a href="2023/8/387-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/8/387-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/8/387-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>367/2023</td>
+            <td class="date-column">2023-07-28</td>
+            <td>Sri Lanka Ports Authority (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/367-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/367-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/367-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>365/2023</td>
+            <td class="date-column">2023-07-20</td>
+            <td>Appropriation (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/365-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/365-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/365-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>362/2023</td>
+            <td class="date-column">2023-07-19</td>
+            <td>Inland Revenue (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/362-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/362-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/362-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>363/2023</td>
+            <td class="date-column">2023-07-19</td>
+            <td>Conferring the Honour of Senior Instructing - GS</td>
+            <td>
+              <a href="2023/7/363-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/363-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/363-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>364/2023</td>
+            <td class="date-column">2023-07-19</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/364-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/364-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/364-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>361/2023</td>
+            <td class="date-column">2023-07-18</td>
+            <td>Special Commodity Levy (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/361-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/361-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/361-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>366/2023</td>
+            <td class="date-column">2023-07-18</td>
+            <td>Contempt of a Court,Tribunal or Institution - Bill</td>
+            <td>
+              <a href="2023/7/366-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/366-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/366-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>360/2023</td>
+            <td class="date-column">2023-07-17</td>
+            <td>Janaraja Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/7/360-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/360-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/360-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>358/2023</td>
+            <td class="date-column">2023-07-12</td>
+            <td>Appropriation (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/358-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/358-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/358-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>359/2023</td>
+            <td class="date-column">2023-07-12</td>
+            <td>Sri Lanka College of Nutrition Physicians (Incorporation) - GS</td>
+            <td>
+              <a href="2023/7/359-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/359-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/359-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>356/2023</td>
+            <td class="date-column">2023-07-11</td>
+            <td>Elections (Special Provisions) - GS</td>
+            <td>
+              <a href="2023/7/356-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/356-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/356-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>355/2023</td>
+            <td class="date-column">2023-07-07</td>
+            <td>Special Commodity Levy (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/355-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/355-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/355-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>351/2023</td>
+            <td class="date-column">2023-07-05</td>
+            <td>Ayurveda (Amendment) - Bill </td>
+            <td>
+              <a href="2023/7/351-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/351-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/351-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>352/2023</td>
+            <td class="date-column">2023-07-05</td>
+            <td>Urban Councils (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/352-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/352-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/352-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>353/2023</td>
+            <td class="date-column">2023-07-05</td>
+            <td>Municipal Councils (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/353-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/353-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/353-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>354/2023</td>
+            <td class="date-column">2023-07-05</td>
+            <td>Fisheries and Aquatic Resources (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/354-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/354-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/354-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>357/2023</td>
+            <td class="date-column">2023-07-05</td>
+            <td>Pradeshiya Sabha (Amendment) - Bill</td>
+            <td>
+              <a href="2023/7/357-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/357-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/357-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>350/2023</td>
+            <td class="date-column">2023-07-04</td>
+            <td>Social Security Contribution Levy (Amendment) - GS</td>
+            <td>
+              <a href="2023/7/350-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/7/350-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/7/350-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>349/2023</td>
+            <td class="date-column">2023-06-27</td>
+            <td>Contempt of a Court,Tribunal or Institution - GS</td>
+            <td>
+              <a href="2023/6/349-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/349-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/349-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>346/2023</td>
+            <td class="date-column">2023-06-26</td>
+            <td>Urban Councils (Amendment) - GS</td>
+            <td>
+              <a href="2023/6/346-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/346-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/346-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>347/2023</td>
+            <td class="date-column">2023-06-26</td>
+            <td>Pradeshiya Sabha (Amendment) - GS</td>
+            <td>
+              <a href="2023/6/347-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/347-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/347-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>348/2023</td>
+            <td class="date-column">2023-06-26</td>
+            <td>Municipal Councils (Amendment) - GS</td>
+            <td>
+              <a href="2023/6/348-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/348-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/348-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>345/2023</td>
+            <td class="date-column">2023-06-12</td>
+            <td>Ayurveda (Amendment) - GS</td>
+            <td>
+              <a href="2023/6/345-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/345-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/345-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>344/2023</td>
+            <td class="date-column">2023-06-09</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2023/6/344-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/6/344-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/6/344-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>342/2023</td>
+            <td class="date-column">2023-05-29</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2023/5/342-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/342-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/342-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>341/2023</td>
+            <td class="date-column">2023-05-26</td>
+            <td>Declaration of Assets and Liabilities (Amendment) - Bill</td>
+            <td>
+              <a href="2023/5/341-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/341-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/341-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>329/2023</td>
+            <td class="date-column">2023-05-23</td>
+            <td>Banking (Special Provisions) - Bill</td>
+            <td>
+              <a href="2023/5/329-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/329-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/329-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>330/2023</td>
+            <td class="date-column">2023-05-23</td>
+            <td>Carriage by Air (Amendment) - Bill</td>
+            <td>
+              <a href="2023/5/330-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/330-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/330-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>343/2023</td>
+            <td class="date-column">2023-05-23</td>
+            <td>Parliamentary Budget Office - Bill</td>
+            <td>
+              <a href="2023/5/343-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/343-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/343-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>340/2023</td>
+            <td class="date-column">2023-05-18</td>
+            <td>Declaration of Assets and Liabilities (Amendment) - GS</td>
+            <td>
+              <a href="2023/5/340-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/340-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/340-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>326/2023</td>
+            <td class="date-column">2023-05-12</td>
+            <td>Banking (Special Provisions) - GS</td>
+            <td>
+              <a href="2023/5/326-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/326-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/326-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>325/2023</td>
+            <td class="date-column">2023-05-11</td>
+            <td>Civil Procedure Code (Amendment) -Bill</td>
+            <td>
+              <a href="2023/5/325-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/325-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/325-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>322/2023</td>
+            <td class="date-column">2023-05-10</td>
+            <td>Provincial Councils Elections (Amendment) - GS</td>
+            <td>
+              <a href="2023/5/322-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/322-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/322-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>321/2023</td>
+            <td class="date-column">2023-05-02</td>
+            <td>Parliamentary Budget Office - GS</td>
+            <td>
+              <a href="2023/5/321-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/5/321-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/5/321-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>319/2023</td>
+            <td class="date-column">2023-04-27</td>
+            <td>Anti-Corruption - Bill</td>
+            <td>
+              <a href="2023/4/319-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/319-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/319-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>320/2023</td>
+            <td class="date-column">2023-04-27</td>
+            <td>Doctor Reverend Harispattuwe Ariyawangshalankara Thero Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/4/320-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/320-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/320-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>327/2023</td>
+            <td class="date-column">2023-04-25</td>
+            <td>Provincial Councils Elections (Amendment) - Bill</td>
+            <td>
+              <a href="2023/4/327-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/327-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/327-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>328/2023</td>
+            <td class="date-column">2023-04-25</td>
+            <td>Assistance to and Protection of Victims of Crime and Witnesses - Bill</td>
+            <td>
+              <a href="2023/4/328-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/328-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/328-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>317/2023</td>
+            <td class="date-column">2023-04-19</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2023/4/317-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/317-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/317-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>315/2023</td>
+            <td class="date-column">2023-04-10</td>
+            <td>National Eye Bank Trust of Sri Lanka - GS</td>
+            <td>
+              <a href="2023/4/315-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/315-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/315-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>313/2023</td>
+            <td class="date-column">2023-04-04</td>
+            <td>Betting and Gaming Levy (Amendment) - Bill</td>
+            <td>
+              <a href="2023/4/313-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/313-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/313-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>314/2023</td>
+            <td class="date-column">2023-04-04</td>
+            <td>Penal Code (Amendment) - Bill</td>
+            <td>
+              <a href="2023/4/314-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/314-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/314-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>311/2023</td>
+            <td class="date-column">2023-04-03</td>
+            <td>Anti-Corruption - GS</td>
+            <td>
+              <a href="2023/4/311-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/311-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/311-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>312/2023</td>
+            <td class="date-column">2023-04-03</td>
+            <td>Carriage by Air (Amendment) - GS</td>
+            <td>
+              <a href="2023/4/312-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/4/312-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/4/312-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>309/2023</td>
+            <td class="date-column">2023-03-28</td>
+            <td>Doctor Reverend Harispattuwa Ariyawansha Lankara Thero Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2023/3/309-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/309-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/309-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>308/2023</td>
+            <td class="date-column">2023-03-27</td>
+            <td>Assistance to and Protection of Victims of Crime and Witnesses - GS</td>
+            <td>
+              <a href="2023/3/308-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/308-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/308-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>306/2023</td>
+            <td class="date-column">2023-03-24</td>
+            <td>Betting and Gaming Levy (Amendment) - GS</td>
+            <td>
+              <a href="2023/3/306-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/306-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/306-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>310/2023</td>
+            <td class="date-column">2023-03-24</td>
+            <td>Inland Revenue (Amendment) - Bill</td>
+            <td>
+              <a href="2023/3/310-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/310-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/310-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>307/2023</td>
+            <td class="date-column">2023-03-23</td>
+            <td>Sri Lanka Institute of Training and Development (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/3/307-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/307-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/307-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>316/2023</td>
+            <td class="date-column">2023-03-23</td>
+            <td>Partition (Amendment) - Bill</td>
+            <td>
+              <a href="2023/3/316-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/316-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/316-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>304/2023</td>
+            <td class="date-column">2023-03-22</td>
+            <td>Anti-Terrorism - GS</td>
+            <td>
+              <a href="2023/3/304-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/304-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/304-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>305/2023</td>
+            <td class="date-column">2023-03-22</td>
+            <td>Penal Code (Amendment) - GS</td>
+            <td>
+              <a href="2023/3/305-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/305-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/305-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>303/2023</td>
+            <td class="date-column">2023-03-16</td>
+            <td>Inland Revenue (Amendment) - GS</td>
+            <td>
+              <a href="2023/3/303-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/303-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/303-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>302/2023</td>
+            <td class="date-column">2023-03-07</td>
+            <td>Central Bank of Sri Lanka - Bill</td>
+            <td>
+              <a href="2023/3/302-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/3/302-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/3/302-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>301/2023</td>
+            <td class="date-column">2023-02-28</td>
+            <td>Fisheries and Aquatic Resourced (Amendment) - GS</td>
+            <td>
+              <a href="2023/2/301-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/2/301-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/2/301-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>299/2023</td>
+            <td class="date-column">2023-02-23</td>
+            <td>Central Bank of Sri Lanka - GS</td>
+            <td>
+              <a href="2023/2/299-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/2/299-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/2/299-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>300/2023</td>
+            <td class="date-column">2023-02-23</td>
+            <td>Partition Law (Amendment) - GS</td>
+            <td>
+              <a href="2023/2/300-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/2/300-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/2/300-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>298/2023</td>
+            <td class="date-column">2023-02-10</td>
+            <td>International Institute of Theravadha (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/2/298-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/2/298-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/2/298-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>297/2023</td>
+            <td class="date-column">2023-02-06</td>
+            <td>Sri Lanka Institute of Training and Development (Incorporation) - GS</td>
+            <td>
+              <a href="2023/2/297-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/2/297-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/2/297-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>296/2023</td>
+            <td class="date-column">2023-01-17</td>
+            <td>International Institute of Theravadha (Incorporation) GS</td>
+            <td>
+              <a href="2023/1/296-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/1/296-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/1/296-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>294/2023</td>
+            <td class="date-column">2023-01-05</td>
+            <td>Association of Professional Bankers Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2023/1/294-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/1/294-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/1/294-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>295/2023</td>
+            <td class="date-column">2023-01-05</td>
+            <td>Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill</td>
+            <td>
+              <a href="2023/1/295-2023_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2023/1/295-2023_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2023/1/295-2023_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
