@@ -1,7 +1,0 @@
-# [2335/07] Ministry of Labour and Foreign Employment - The Industrial disputes between M. G. U. Rasanjali and seven Employeed No. 77 Universal City Hapugala and other part Road Development Authority No. 19 Galle - The Industrial Disputes between W. A. Dharmadasa No. 200 Polgasovita and other part Sri Lanka Transport Board Colombo 05 (S only)
-
-**Date:** 2023-06-06
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/6/2335-07_S.pdf)

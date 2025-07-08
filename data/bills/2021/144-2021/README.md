@@ -1,9 +1,0 @@
-# [144/2021] Shaili Edutainment Foundation (Incorporation) - Bill
-
-**Date:** 2021-11-15
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2021/11/144-2021_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2021/11/144-2021_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2021/11/144-2021_T.pdf)

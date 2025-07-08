@@ -1,9 +1,0 @@
-# [1828/20] Land Acquisition - Pamankada East, Thimbirigasyaya D/S Division, Colombo District - Vijithapura, Ipalogama D/S Division, Anuradhapura District
-
-**Date:** 2013-09-18
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/9/1828-20_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/9/1828-20_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/9/1828-20_T.pdf)

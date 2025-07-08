@@ -1,7 +1,0 @@
-# [1840/13] Ministry of Labour and Labour Relations - Declaring of Award to the Industrial Dispute - Ceylon Mercantile, Industrial and General Workers' Union and Whittal Boustead Ltd., Mortlake Press and Mr. B. S. N. Mendis
-
-**Date:** 2013-12-09
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/12/1840-13_E.pdf)

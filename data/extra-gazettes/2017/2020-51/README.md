@@ -1,9 +1,0 @@
-# [2020/51] Land Title Settlement Department - Mabulgoda, Homagama D/S Division, Colombo District - Cad. Map No. 520016
-
-**Date:** 2017-05-24
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2017/5/2020-51_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/5/2020-51_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2017/5/2020-51_T.pdf)

@@ -1,9 +1,0 @@
-# [2208/59] Department of Fiscal Policy - The International Telecommunications operators Levy (Imposition)
-
-**Date:** 2021-01-01
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2021/1/2208-59_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2021/1/2208-59_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2021/1/2208-59_T.pdf)

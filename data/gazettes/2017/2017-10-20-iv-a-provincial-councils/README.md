@@ -1,7 +1,0 @@
-# [2017-10-20-iv-a-provincial-councils] IV (A) - Provincial Councils
-
-**Date:** 2017-10-20
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/gazettes/2017/10/2017-10-20(IV-A)S.pdf)

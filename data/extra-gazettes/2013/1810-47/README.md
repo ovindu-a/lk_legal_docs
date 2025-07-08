@@ -1,9 +1,0 @@
-# [1810/47] Land Title Settlement Dept. - Kirimetithenna, Balangoda D/S Division, Ratnapura District - Cad. Map No. 620066
-
-**Date:** 2013-05-17
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/5/1810-47_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/5/1810-47_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/5/1810-47_T.pdf)

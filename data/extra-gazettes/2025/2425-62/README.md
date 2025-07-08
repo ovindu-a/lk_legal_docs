@@ -1,9 +1,0 @@
-# [2425/62] Local Authorities Elections Ordinance (Chapter 262) Order under Section 76 A
-
-**Date:** 2025-02-28
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2025/2/2425-62_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2025/2/2425-62_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2025/2/2425-62_T.pdf)

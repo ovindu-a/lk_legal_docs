@@ -1,9 +1,0 @@
-# [2420/71] Land Title Settlement Dept. - Kalapugama (Block 01) Kalutara D/S Division, Kalutara District - Cad. Map No.530146 (25/120005)
-
-**Date:** 2025-01-24
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2025/1/2420-71_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2025/1/2420-71_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2025/1/2420-71_T.pdf)

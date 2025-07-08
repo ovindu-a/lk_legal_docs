@@ -1,9 +1,0 @@
-# [1852/61] Land Title Settlement Dept. - Pitipana North, Homagama D/S Division, Colombo District - Cad. Map No. 520006
-
-**Date:** 2014-03-07
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2014/3/1852-61_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/3/1852-61_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2014/3/1852-61_T.pdf)

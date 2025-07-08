@@ -1,9 +1,0 @@
-# [14/1999] Pradeshiya Sabhas (Amendment)
-
-**Date:** 1999-06-15
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/1999/6/14-1999_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/1999/6/14-1999_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/acts/1999/6/14-1999_T.pdf)

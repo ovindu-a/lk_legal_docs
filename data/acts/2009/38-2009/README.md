@@ -1,9 +1,0 @@
-# [38/2009] National Institute of Occupational Safety & Health
-
-**Date:** 2009-07-23
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/2009/7/38-2009_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/2009/7/38-2009_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/acts/2009/7/38-2009_T.pdf)

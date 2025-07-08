@@ -1,9 +1,0 @@
-# [65/2015] Casimi Foundation (Incorporation)
-
-**Date:** 2015-12-15
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2015/12/65-2015_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2015/12/65-2015_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2015/12/65-2015_T.pdf)

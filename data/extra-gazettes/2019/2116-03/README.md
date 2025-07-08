@@ -1,9 +1,0 @@
-# [2116/03] Land Acquisition - Nedolakanda, Kolonna D/S Division,  Rathnapura District
-
-**Date:** 2019-03-25
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-03_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-03_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-03_T.pdf)

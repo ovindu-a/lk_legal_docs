@@ -1,9 +1,0 @@
-# [2020-09-04-iia-advertising] (IIA) - Advertising
-
-**Date:** 2020-09-04
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/gazettes/2020/9/2020-09-04(I-IIA)E.pdf)
-- [සිංහල](https://documents.gov.lk/view/gazettes/2020/9/2020-09-04(I-IIA)S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/gazettes/2020/9/2020-09-04(I-IIA)T.pdf)

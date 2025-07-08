@@ -1,7 +1,0 @@
-# [1699/12] Land Acquisition - Lindula, N'Eliya D/S Division, N'Eliya District - Correction Notice for Gaz. Ex. No. 1672/13 of 23.09.2010. Redemption of land in Eppawala Dikwella, Dikwella D/S Division, Matara District - Nambandi, Ihalagama, Thalawa D/S Division, Anuradhapura District
-
-**Date:** 2011-03-28
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2011/3/1699-12_S.pdf)

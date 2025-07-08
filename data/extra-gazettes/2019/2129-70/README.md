@@ -1,9 +1,0 @@
-# [2129/70] Land Title Settlement Department - Kotawila, Weligama D/S Division, Matara District - Cad. Map No. 820068 & Other Title Registrations
-
-**Date:** 2019-06-26
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2019/6/2129-70_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/6/2129-70_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/6/2129-70_T.pdf)

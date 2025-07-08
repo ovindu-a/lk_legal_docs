@@ -1,9 +1,0 @@
-# [2321/59] The Institute of Chartered Accountancy of Sri Lanka - Sri Lanka Accounting and Auditing Standards Act. No 15 of 1995, Publication under Section 4(2)
-
-**Date:** 2023-03-02
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2023/3/2321-59_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/3/2321-59_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2023/3/2321-59_T.pdf)

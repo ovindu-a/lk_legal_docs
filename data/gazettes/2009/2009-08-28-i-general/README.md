@@ -1,9 +1,0 @@
-# [2009-08-28-i-general] (I) - General
-
-**Date:** 2009-08-28
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/gazettes/2009/8/2009-08-28(I-I)E.pdf)
-- [සිංහල](https://documents.gov.lk/view/gazettes/2009/8/2009-08-28(I-I)S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/gazettes/2009/8/2009-08-28(I-I)T.pdf)

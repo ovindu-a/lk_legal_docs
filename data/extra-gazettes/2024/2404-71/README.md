@@ -1,9 +1,0 @@
-# [2404/71] Land Title Settlement Department - Mirigama, Mirigama D/S Division, Gampaha District - Cad. Map No.510200 (24/0323)
-
-**Date:** 2024-10-05
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2024/10/2404-71_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2024/10/2404-71_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2024/10/2404-71_T.pdf)

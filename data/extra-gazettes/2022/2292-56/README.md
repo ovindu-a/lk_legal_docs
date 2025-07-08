@@ -1,9 +1,0 @@
-# [2292/56] Election Commission - Declare that R. M. Sunil was selected as the Member of the Buttala Pradeshiya Sabha, Declare that W. V. P. Kataragama Pradeshiya Sabha
-
-**Date:** 2022-08-12
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2022/8/2292-56_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2022/8/2292-56_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2022/8/2292-56_T.pdf)

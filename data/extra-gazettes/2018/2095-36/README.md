@@ -1,9 +1,0 @@
-# [2095/36] Land Acquisition - Karambaketiya & Meemure, Ududumbara D/S Division, Kandy District and Pattiyakumbura D/S Division, Uva-Paranagama, Badulla District
-
-**Date:** 2018-11-01
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2018/11/2095-36_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2018/11/2095-36_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2018/11/2095-36_T.pdf)

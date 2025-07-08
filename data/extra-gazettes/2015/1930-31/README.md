@@ -1,9 +1,0 @@
-# [1930/31] Land Title Settlement Department - Inamaluwa, Dambulla D/S Division, Matale District - Cad. Map No. 310009
-
-**Date:** 2015-09-02
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2015/9/1930-31_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2015/9/1930-31_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2015/9/1930-31_T.pdf)

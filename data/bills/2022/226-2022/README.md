@@ -1,9 +1,0 @@
-# [226/2022] Prevention of Frauds (Amendment) - GS
-
-**Date:** 2022-07-18
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2022/7/226-2022_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2022/7/226-2022_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2022/7/226-2022_T.pdf)

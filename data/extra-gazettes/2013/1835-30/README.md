@@ -1,9 +1,0 @@
-# [1835/30] Land Title Settlement Dept. - Amendments: Pitipana, Homagama D/S Division, Colombo District - Cad. Map No. 520006
-
-**Date:** 2013-11-08
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/11/1835-30_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/11/1835-30_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/11/1835-30_T.pdf)

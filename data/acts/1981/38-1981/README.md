@@ -1,8 +1,0 @@
-# [38/1981] Credit Councils (Amendment)
-
-**Date:** 1981-06-02
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/1981/6/38-1981_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/1981/6/38-1981_S.pdf)

@@ -1,7 +1,0 @@
-# [2225/32] Election Commission - Notice under Section 9 (3) of the Registration of Electors Act., (Electoral District No. 01 - Colombo)
-
-**Date:** 2021-04-29
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2021/4/2225-32_S.pdf)

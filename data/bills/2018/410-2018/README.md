@@ -1,9 +1,0 @@
-# [410/2018] Code of Criminal Procedure (Amendment) (GS)
-
-**Date:** 2018-03-09
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2018/3/410-2018_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2018/3/410-2018_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2018/3/410-2018_T.pdf)

@@ -1,9 +1,0 @@
-# [09/2007] Resettlement Authority
-
-**Date:** 2007-03-23
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/2007/3/09-2007_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/2007/3/09-2007_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/acts/2007/3/09-2007_T.pdf)

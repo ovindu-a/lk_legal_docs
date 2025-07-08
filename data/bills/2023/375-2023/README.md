@@ -1,9 +1,0 @@
-# [375/2023] Walpola Piyananda Educational and Cultural Foundation (Incorporation) - GS
-
-**Date:** 2023-08-22
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2023/8/375-2023_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2023/8/375-2023_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2023/8/375-2023_T.pdf)

@@ -1,9 +1,0 @@
-# [2048/24] Land Title Settlement Department - Mount Lavinia, Rathmalana D/S Division, Colombo District - Cad. Map No. 521004
-
-**Date:** 2017-12-06
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2017/12/2048-24_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/12/2048-24_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2017/12/2048-24_T.pdf)

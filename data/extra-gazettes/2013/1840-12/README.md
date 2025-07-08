@@ -1,7 +1,0 @@
-# [1840/12] Dept. of Labour and Labour Relations - Declaring of Awards to the Industrial Disputes - Inter Companies Employees Union and Dainty Foods Limited; Mrs. W. N. Gayathri, Mr. R/ M/ M/ I. Ranasinghe, Mr. P. H. Upul Priyantha De Silva, Mr. M. A. R. Prasad and Sri Lanka Telecommunication Regulatory Commission - Sri Lanka Estate Service Company and Agalawatte Plantations P.L.C. and 22 other Plantations P.L.C.S.
-
-**Date:** 2013-12-09
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/12/1840-12_E.pdf)

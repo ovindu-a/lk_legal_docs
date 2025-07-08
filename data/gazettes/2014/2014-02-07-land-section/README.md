@@ -1,9 +1,0 @@
-# [2014-02-07-land-section] Land Section
-
-**Date:** 2014-02-07
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/gazettes/2014/2/2014-02-07(III-0)E.pdf)
-- [සිංහල](https://documents.gov.lk/view/gazettes/2014/2/2014-02-07(III-0)S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/gazettes/2014/2/2014-02-07(III-0)T.pdf)

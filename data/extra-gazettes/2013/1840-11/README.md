@@ -1,9 +1,0 @@
-# [1840/11] Forest Department - Order to declare Siyambalawewa Forest in Awudangawa and Kandalama Wewa Forest in Kandala (part) and Kumbukkadanwela, Dambulla D/S Division, Matale District as Reserved Forests - Wantokkawa Forest in Ehelape and Beraliya Galenda Forest in Kiyaduwa, Akuressa D/S Division, Matara District as Conservation Forests - Welihela Forest in Dombagahawela, Siyambalanduwa D/S Division, Moneragala District as a Conservation Forest - Rekewula Forest in Elagamuwa and Udangare Kanda Forest in Madahapola Kanda, Polpitigama D/S Division, Kurunegala District as Reserved Forests
-
-**Date:** 2013-12-09
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/12/1840-11_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/12/1840-11_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/12/1840-11_T.pdf)

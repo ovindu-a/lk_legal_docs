@@ -1,9 +1,0 @@
-# [1837/49] Colombo Municipal Council - Opening of the Budget for 2014 of the Colombo Municipal Council to public inspection from 26.11.2013 to 04.12.2013
-
-**Date:** 2013-11-22
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/11/1837-49_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/11/1837-49_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/11/1837-49_T.pdf)

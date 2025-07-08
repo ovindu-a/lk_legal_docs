@@ -1,9 +1,0 @@
-# [2309/29] Land Acquisition - Gandara, Devinuwara D/S Division, Matara District
-
-**Date:** 2022-12-08
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2022/12/2309-29_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2022/12/2309-29_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2022/12/2309-29_T.pdf)

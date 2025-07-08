@@ -1,7 +1,0 @@
-# [64/1988] Coast Conservation (Amendment)
-
-**Date:** 1988-12-17
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/acts/1988/12/64-1988_S.pdf)

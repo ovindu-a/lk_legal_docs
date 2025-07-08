@@ -1,9 +1,0 @@
-# [06/2017] National Transport Commission (Amendment)
-
-**Date:** 2017-04-07
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/2017/4/06-2017_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/2017/4/06-2017_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/acts/2017/4/06-2017_T.pdf)

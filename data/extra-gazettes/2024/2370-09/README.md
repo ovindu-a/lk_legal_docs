@@ -1,7 +1,0 @@
-# [2370/09] Ministry of Labour and Foreign Employment - The Industrial Disputes between S. M. Dharmarathna Kadawatha and M. S. Pathmasiri Homagama and other Part Central Bank of Sri Lanka, Colombo 01 - The Industrial Disputes between Co-operation and Common Staff Union Colombo 10 and other Part Sri Lanka State Engineering Co-opperation - The Industrial Disputes Repudation of Decesion National Water Supply and Drainage Board (S only)
-
-**Date:** 2024-02-06
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2024/2/2370-09_S.pdf)

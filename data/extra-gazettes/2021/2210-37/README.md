@@ -1,9 +1,0 @@
-# [2210/37] Land Title Settlement Department - Isigaspothana, Thalawa D/S Division, Anuradhapura District - Cad. Map No. 110188
-
-**Date:** 2021-01-15
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2021/1/2210-37_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2021/1/2210-37_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2021/1/2210-37_T.pdf)

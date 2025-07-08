@@ -1,7 +1,0 @@
-# [1868/53] Land Acquisition - Cancellation of the order No. 299 of 2013 published in Gaz. Exord. No. 1830/51 of 04.10.2013 and amendment to order No. 299 of 2012 published in Gaz. Ex. Ord. No. 1849/10 of 11.02.2014 - Gangodawila D/S Division Maharagama, Colombo District - Redemption Notice for 05 Allotments in Halwala, D/S Division Walallavita, Kalutara District - Godigamuwa D/S Division Ratnapura Ratnapura District - Redmption Notice for order No. 219 of 2003 of Heeralugedara D/S Division Divulapitiya Gampaha District
-
-**Date:** 2014-06-25
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2014/6/1868-53_S.pdf)

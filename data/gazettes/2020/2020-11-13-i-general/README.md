@@ -1,9 +1,0 @@
-# [2020-11-13-i-general] (I) - General
-
-**Date:** 2020-11-13
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/gazettes/2020/11/2020-11-13(I-I)E.pdf)
-- [සිංහල](https://documents.gov.lk/view/gazettes/2020/11/2020-11-13(I-I)S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/gazettes/2020/11/2020-11-13(I-I)T.pdf)

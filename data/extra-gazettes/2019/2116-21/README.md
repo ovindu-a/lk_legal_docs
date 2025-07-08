@@ -1,9 +1,0 @@
-# [2116/21] Land Title Settlement Department -  Uyandana & Millawa, Mallawapitiya D/S Division, Kurunegala District - Cad. Map No. 420222
-
-**Date:** 2019-03-26
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-21_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-21_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2019/3/2116-21_T.pdf)

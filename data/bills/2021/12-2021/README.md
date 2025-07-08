@@ -1,9 +1,0 @@
-# [12/2021] Sri Lanka Land Development Corporation (Amendment) - GS
-
-**Date:** 2021-02-10
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/bills/2021/2/12-2021_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/bills/2021/2/12-2021_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/bills/2021/2/12-2021_T.pdf)

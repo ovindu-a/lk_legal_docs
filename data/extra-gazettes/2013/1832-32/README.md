@@ -1,8 +1,0 @@
-# [1832/32] Ministry of Labour and Labour Relations - Appointed Mr. K. R. M. N. Lawrence as Arbitrator to arbitrate the Industrial Dispute between Mr. D. Wimalasena and Sri Lanka Transport Board and Mr. Palitha Weerasekera as Arbitrator to arbitrate the Industrial Dispute between Mr. J. Meegahawatta, T. T. S. Chandrakumara, Mr. W. Dayananda and Ceylon Petroleum Storage Terminal Limited
-
-**Date:** 2013-10-17
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/10/1832-32_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/10/1832-32_S.pdf)

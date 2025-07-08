@@ -1,7 +1,0 @@
-# [2369/40] Ministry of Labour and Foreign Employment - The Industrial Disputes between R. P. Ananda Kalagedihena and other part Sri Lanka Port Authority, Colombo 01 - Amended Ex. Gaz. No. 2324/27 dated 22.03.2023 Thurusaviya Trust Fund, Colombo 02
-
-**Date:** 2024-02-02
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2024/2/2369-40_S.pdf)

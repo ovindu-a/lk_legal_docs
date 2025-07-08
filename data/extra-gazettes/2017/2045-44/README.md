@@ -1,7 +1,0 @@
-# [2045/44] Land Acquisition -Welathuduwa, Bulathkohupitiya D/S Division, Kegalle District and 3 other notices  (S only)
-
-**Date:** 2017-11-17
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/11/2045-44_S.pdf)

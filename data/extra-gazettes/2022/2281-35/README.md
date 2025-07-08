@@ -1,9 +1,0 @@
-# [2281/35] Land Acquisition - Bemmullegedara, Godakuruwa, Medagamuwa, Narammala D/S Division, Kurunegala Disrict
-
-**Date:** 2022-05-27
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2022/5/2281-35_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2022/5/2281-35_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2022/5/2281-35_T.pdf)

@@ -1,9 +1,0 @@
-# [2036/29] General Treasury - Ministry of Finance - Order under the Bank of Ceylon Ordinance that the paid up capital of the Bank of Ceylon shall be increased from Rs. 10 billion to 15 billion
-
-**Date:** 2017-09-14
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2017/9/2036-29_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/9/2036-29_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2017/9/2036-29_T.pdf)

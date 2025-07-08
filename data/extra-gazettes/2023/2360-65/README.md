@@ -1,7 +1,0 @@
-# [2360/65] Ministry of Labour and Foreign Employment - The Industrial Disputes between, C. G. S. Gunasekera Nawalapitiya and Other Part Lanka Electricity Board, Colombo - 02 - The Industrial Disputes between Inter Company Staff Union Koswatha and Other Part Acmi Printing and Packaging PLC., Peliyandala (S Only)
-
-**Date:** 2023-12-01
-
-## Original Sources
-
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2023/12/2360-65_S.pdf)

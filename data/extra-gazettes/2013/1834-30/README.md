@@ -1,9 +1,0 @@
-# [1834/30] Department of Labour - The Cost of Living Index Number for the Month of October 2013, applicable to workers in the Cocoa, Cinnamom and Pepper Growing and Manufacturing Trade was 176.1 - The Special Allowance of a normal working day in the Month of November for the Workers Male/Female in the Cocoa, Cardamom and Pepper Growing and Manufacturing Trade is Rs. 541.21
-
-**Date:** 2013-10-31
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2013/10/1834-30_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2013/10/1834-30_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2013/10/1834-30_T.pdf)

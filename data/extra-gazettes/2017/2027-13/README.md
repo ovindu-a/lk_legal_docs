@@ -1,9 +1,0 @@
-# [2027/13] Western Province Provincial Council - Entrance fee for entertainment activities declared  in the Entertainment Tax Ordinance for the year 2017 & 2018
-
-**Date:** 2017-07-11
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2017/7/2027-13_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2017/7/2027-13_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2017/7/2027-13_T.pdf)

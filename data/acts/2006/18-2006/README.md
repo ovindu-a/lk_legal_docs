@@ -1,9 +1,0 @@
-# [18/2006] Consular Functions (Amendment)
-
-**Date:** 2006-05-18
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/acts/2006/5/18-2006_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/acts/2006/5/18-2006_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/acts/2006/5/18-2006_T.pdf)

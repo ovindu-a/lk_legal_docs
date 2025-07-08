@@ -1,9 +1,0 @@
-# [2164/36] Land Acquisition - Thalgodapitiya, Ibbagamuwa D/S Division, Kurunegala District
-
-**Date:** 2020-02-27
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2020/2/2164-36_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2020/2/2164-36_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2020/2/2164-36_T.pdf)

@@ -1,9 +1,0 @@
-# [2383/15] Department Of Forest Conservation - Declared as a Reserved forest Gazette Extra No.8750, dated 30th May 1941 From the Reserved Status From 19th April, 2024.
-
-**Date:** 2024-05-06
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2024/5/2383-15_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2024/5/2383-15_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2024/5/2383-15_T.pdf)

@@ -1,8 +1,0 @@
-# [1961/30] Ministry of Labour & Trade Union Relations - Revocation of the Order made to appoint Mr. Palitha Weerasekara and appointed Mr. T. E. Santharajan as the arbitrator for settlement of the Industrial Dispute between Mr. A. P. K. Weeraratne and National Water Supply & Drainage Board and appointed Mr. K. M. Sarathchandra and Mr. Suneth Lokubogahawatta as the Arbitrators for the Industrial Disputes between Free Trade Zones & General Services Employees' Union and Creasy Foods Limited and between Mr. R. J. M. P. G. Y. B. Jayasekara and National Water Supply & Drainage Board respectively and Revocation of Order made to appoint Mr. W. G. Deen and appointed Mr. S. Virithamulla as the Arbitrator for the Industrial Dispute between Mr. A. W. Samarasuriya and Sri Lanka Transport Board (S & E only)
-
-**Date:** 2016-04-07
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2016/4/1961-30_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2016/4/1961-30_S.pdf)

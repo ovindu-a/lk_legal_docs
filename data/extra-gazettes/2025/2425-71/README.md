@@ -1,9 +1,0 @@
-# [2425/71] Election Commission - Notice Under Section 76 A of the Local Authorities Elections Ordinance and Section 24 A of the Registration of Electors Act, No. 44 of 1980.
-
-**Date:** 2025-03-01
-
-## Original Sources
-
-- [English](https://documents.gov.lk/view/extra-gazettes/2025/3/2425-71_E.pdf)
-- [සිංහල](https://documents.gov.lk/view/extra-gazettes/2025/3/2425-71_S.pdf)
-- [தமிழ்](https://documents.gov.lk/view/extra-gazettes/2025/3/2425-71_T.pdf)
