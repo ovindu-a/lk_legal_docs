@@ -5,6 +5,7 @@ from functools import cache, cached_property
 from utils import JSONFile, Log, TSVFile
 
 from lld.www_common import WebPage
+from utils_future import Directory
 
 log = Log("AbstractDocDownloader")
 
@@ -99,7 +100,11 @@ class AbstractDocDownloader:
         d = dict(
             n_pdfs=len(d_list),
             n_unique_docs=len(set((d["doc_id"]) for d in d_list)),
+            total_file_size=Directory(
+                AbstractDocDownloader.DIR_TEMP_DATA
+            ).size,
         )
+
         for json_path in [
             AbstractDocDownloader.DATA_SUMMARY_JSON_PATH,
             AbstractDocDownloader.TEMP_DATA_SUMMARY_JSON_PATH,
