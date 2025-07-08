@@ -131,6 +131,8 @@ class AbstractDocDownloader:
         temp_metadata_file_path = os.path.join(
             self.dir_temp_data, "metadata.json"
         )
+        if os.path.exists(temp_metadata_file_path):
+            return
         if not os.path.exists(self.dir_temp_data):
             os.makedirs(self.dir_temp_data, exist_ok=True)
         shutil.copyfile(metadata_file_path, temp_metadata_file_path)
