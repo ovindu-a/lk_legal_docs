@@ -9,6 +9,17 @@ log = Log("scraper")
 DEFAULT_MAX_DELTA_T = 150
 
 
+def git_rebase(dir_git):  # HACKY
+    for cmd in [
+        f"cd {dir_git}",
+        "git add .",
+        "git commit -m 'pre-rebase'",
+        "git pull origin main --rebase",
+    ]:
+        log.debug(f"🖥️: {cmd}")
+        os.system(cmd)
+
+
 def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
     log.debug(f"{max_delta_t=:,}s")
     log.debug(f"{traverse_random=}")
@@ -27,9 +38,10 @@ def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
             name_to_n_hot[name] = n_hot
     log.debug(f"{name_to_n_hot=}")
 
+    git_rebase(".")
+
     DocFactory.write_all()
     DocFactory.write_latest()
-
     ReadMe().build()
 
     if clear_html_cache:

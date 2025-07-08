@@ -6,6 +6,7 @@ import time
 from utils import Log
 
 from lld import AbstractDoc, DocFactory, ReadMe
+from workflows.scraper import git_rebase
 
 DEFAULT_MAX_DELTA_T = 600
 GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
@@ -41,17 +42,6 @@ def downloader(max_delta_t):
 
     log.info("⛔️🛑 Downloaded ALL pdfs.")
     return
-
-
-def git_rebase(dir_git):
-    for cmd in [
-        f"cd {dir_git}",
-        "git add .",
-        "git commit -m 'pre-rebase'",
-        "git pull origin main --rebase",
-    ]:
-        log.debug(f"🖥️: {cmd}")
-        os.system(cmd)
 
 
 def main(max_delta_t):
