@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2022</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2022</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>292/2022</td>
+            <td class="date-column">2022-12-26</td>
+            <td>Association of Professional Bankers - Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2022/12/292-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/12/292-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/12/292-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>293/2022</td>
+            <td class="date-column">2022-12-23</td>
+            <td>Mediation Board (Amendment) - GS</td>
+            <td>
+              <a href="2022/12/293-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/12/293-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/12/293-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>291/2022</td>
+            <td class="date-column">2022-12-08</td>
+            <td>Regulation of Election Expenditure - Bill</td>
+            <td>
+              <a href="2022/12/291-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/12/291-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/12/291-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>290/2022</td>
+            <td class="date-column">2022-11-29</td>
+            <td>Regulation of Election Expenditure - GS</td>
+            <td>
+              <a href="2022/11/290-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/290-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/290-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>289/2022</td>
+            <td class="date-column">2022-11-19</td>
+            <td>Recovery of Possession of Premises given on Lease - Bill</td>
+            <td>
+              <a href="2022/11/289-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/289-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/289-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>288/2022</td>
+            <td class="date-column">2022-11-15</td>
+            <td>Appropriation (Amendment) - Bill</td>
+            <td>
+              <a href="2022/11/288-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/288-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/288-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>287/2022</td>
+            <td class="date-column">2022-11-10</td>
+            <td>Licensing of Shipping Agents, freight forwarders, Non- Vessel Operating Common Carriers and Container Operators (Amendment) - GS</td>
+            <td>
+              <a href="2022/11/287-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/287-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/287-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>286/2022</td>
+            <td class="date-column">2022-11-08</td>
+            <td>Local Authorities Elections (Amendment) - Bill</td>
+            <td>
+              <a href="2022/11/286-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/286-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/286-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>284/2022</td>
+            <td class="date-column">2022-11-04</td>
+            <td>Appropriation (Amendment) - GS</td>
+            <td>
+              <a href="2022/11/284-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/284-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/284-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>285/2022</td>
+            <td class="date-column">2022-11-04</td>
+            <td>Recovery of Possession of Premises given on Lease - GS</td>
+            <td>
+              <a href="2022/11/285-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/11/285-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/11/285-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>282/2022</td>
+            <td class="date-column">2022-10-21</td>
+            <td>Inland Revenue (Amendment) - Bill</td>
+            <td>
+              <a href="2022/10/282-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/282-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/282-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>280/2022</td>
+            <td class="date-column">2022-10-19</td>
+            <td>Sri Lanka Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/10/280-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/280-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/280-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>281/2022</td>
+            <td class="date-column">2022-10-19</td>
+            <td>Veemansaa Dhammaguptha Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/10/281-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/281-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/281-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>278/2022</td>
+            <td class="date-column">2022-10-18</td>
+            <td>Appropriation - Bill</td>
+            <td>
+              <a href="2022/10/278-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/278-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/278-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>279/2022</td>
+            <td class="date-column">2022-10-18</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2022/10/279-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/279-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/279-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>276/2022</td>
+            <td class="date-column">2022-10-14</td>
+            <td>Local Authorities Elections (Amendment) - GS</td>
+            <td>
+              <a href="2022/10/276-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/276-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/276-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>277/2022</td>
+            <td class="date-column">2022-10-13</td>
+            <td>Institute of Drafting Technologists Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2022/10/277-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/277-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/277-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>275/2022</td>
+            <td class="date-column">2022-10-11</td>
+            <td>Inland Revenue (Amendment) - GS</td>
+            <td>
+              <a href="2022/10/275-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/275-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/275-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>273/2022</td>
+            <td class="date-column">2022-10-10</td>
+            <td>Sri Seelananda Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/10/273-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/273-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/273-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>274/2022</td>
+            <td class="date-column">2022-10-10</td>
+            <td>Veemansaa Dhammaguptha Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/10/274-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/274-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/274-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>272/2022</td>
+            <td class="date-column">2022-10-05</td>
+            <td>Appropriation - GS</td>
+            <td>
+              <a href="2022/10/272-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/272-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/272-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>283/2022</td>
+            <td class="date-column">2022-10-03</td>
+            <td>Kandyan Marriage and Divorce (Amendment) - Bill</td>
+            <td>
+              <a href="2022/10/283-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/10/283-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/10/283-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>271/2022</td>
+            <td class="date-column">2022-09-27</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2022/9/271-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/271-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/271-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>270/2022</td>
+            <td class="date-column">2022-09-23</td>
+            <td>Bureau of Rehabilitation - Bill</td>
+            <td>
+              <a href="2022/9/270-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/270-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/270-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>267/2022</td>
+            <td class="date-column">2022-09-21</td>
+            <td>Dr. Saman Weerasinghe Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/9/267-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/267-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/267-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>269/2022</td>
+            <td class="date-column">2022-09-21</td>
+            <td>Pavithra Wanniarachchi Sahurda Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/9/269-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/269-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/269-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>265/2022</td>
+            <td class="date-column">2022-09-12</td>
+            <td>Dr. Saman Weerasinghe Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/9/265-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/265-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/265-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>264/2022</td>
+            <td class="date-column">2022-09-09</td>
+            <td>Bureau of Rehabilitation - GS</td>
+            <td>
+              <a href="2022/9/264-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/264-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/264-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>266/2022</td>
+            <td class="date-column">2022-09-09</td>
+            <td>Poisons, Opium and Dangerous Drugs (Amendment) - Bill</td>
+            <td>
+              <a href="2022/9/266-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/266-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/266-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>262/2022</td>
+            <td class="date-column">2022-09-07</td>
+            <td>Sri Lanka National Commission for UNESCO - GS</td>
+            <td>
+              <a href="2022/9/262-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/262-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/262-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>263/2022</td>
+            <td class="date-column">2022-09-07</td>
+            <td>Kandyan Marriage and Divorce (Amendment) - GS</td>
+            <td>
+              <a href="2022/9/263-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/263-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/263-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>268/2022</td>
+            <td class="date-column">2022-09-05</td>
+            <td>Pavithra Wanniarachchi Sahurda Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/9/268-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/9/268-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/9/268-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>256/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/256-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/256-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/256-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>257/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>High Court of the Provinces (Special Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/257-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/257-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/257-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>258/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>Judicature (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/258-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/258-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/258-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>259/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>Petroleum Products (Special Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/259-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/259-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/259-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>260/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>Small Claims Courts' Procedure - Bill</td>
+            <td>
+              <a href="2022/8/260-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/260-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/260-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>261/2022</td>
+            <td class="date-column">2022-08-31</td>
+            <td>Sri Lanka Baptist Sangamaya (Incorporation) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/261-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/261-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/261-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>249/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Notaries (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/249-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/249-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/249-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>250/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Powers of Attorney (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/250-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/250-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/250-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>251/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Registration of Documents (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/251-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/251-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/251-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>252/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Wills (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/252-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/252-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/252-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>253/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Dangerous Animals (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/253-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/253-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/253-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>254/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Prevention of Frauds (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/254-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/254-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/254-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>255/2022</td>
+            <td class="date-column">2022-08-29</td>
+            <td>Children and Young Persons (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/255-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/255-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/255-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>248/2022</td>
+            <td class="date-column">2022-08-23</td>
+            <td>Poisons, Opium and Dangerous Drugs (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/248-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/248-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/248-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>247/2022</td>
+            <td class="date-column">2022-08-22</td>
+            <td>Sri Lanka Baptist Sangamaya (Incorporation) (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/247-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/247-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/247-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>238/2022</td>
+            <td class="date-column">2022-08-12</td>
+            <td>Petroleum Products (Special Provisions) (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/238-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/238-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/238-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>243/2022</td>
+            <td class="date-column">2022-08-12</td>
+            <td>Raigampura Community Development Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/8/243-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/243-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/243-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>244/2022</td>
+            <td class="date-column">2022-08-12</td>
+            <td>Siyane Katikawa Nalaka Godahewa Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/8/244-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/244-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/244-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>245/2022</td>
+            <td class="date-column">2022-08-12</td>
+            <td>Sri Lanka Institute of Taxation (Incorporation) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/245-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/245-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/245-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>233/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/233-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/233-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/233-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>234/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>High Court of the Provinces (Special Provisions) (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/234-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/234-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/234-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>235/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Judicature (Amendment) - GS</td>
+            <td>
+              <a href="2022/8/235-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/235-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/235-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>236/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Small Claims Courts' Procedure - GS</td>
+            <td>
+              <a href="2022/8/236-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/236-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/236-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>239/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Industrial Disputes (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/239-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/239-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/239-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>240/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Industrial Disputes (Amendment) - Bill </td>
+            <td>
+              <a href="2022/8/240-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/240-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/240-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>241/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Sri Lanka Rupavahini Corporation (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/241-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/241-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/241-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>242/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Termination of Employment of Workmen (Special Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/242-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/242-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/242-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>246/2022</td>
+            <td class="date-column">2022-08-10</td>
+            <td>Twenty Second Amendment to the Constitution - Bill</td>
+            <td>
+              <a href="2022/8/246-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/246-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/246-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>237/2022</td>
+            <td class="date-column">2022-08-09</td>
+            <td>Appropriation (Amendment) - Bill</td>
+            <td>
+              <a href="2022/8/237-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/237-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/237-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>232/2022</td>
+            <td class="date-column">2022-08-02</td>
+            <td>Twenty Second Amendment to the Constitution - GS</td>
+            <td>
+              <a href="2022/8/232-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/8/232-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/8/232-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>231/2022</td>
+            <td class="date-column">2022-07-26</td>
+            <td>Sri Lanka Institute of Taxation (Incorporation) (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/231-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/231-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/231-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>228/2022</td>
+            <td class="date-column">2022-07-20</td>
+            <td>Sri Lanka Rupawahini Corporation (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/228-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/228-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/228-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>224/2022</td>
+            <td class="date-column">2022-07-18</td>
+            <td>Children and Young Persons (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/224-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/224-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/224-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>225/2022</td>
+            <td class="date-column">2022-07-18</td>
+            <td>Powers of Attorney (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/225-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/225-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/225-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>226/2022</td>
+            <td class="date-column">2022-07-18</td>
+            <td>Prevention of Frauds (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/226-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/226-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/226-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>227/2022</td>
+            <td class="date-column">2022-07-18</td>
+            <td>Registration  of Documents (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/227-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/227-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/227-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>229/2022</td>
+            <td class="date-column">2022-07-18</td>
+            <td>Notaries (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/229-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/229-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/229-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>223/2022</td>
+            <td class="date-column">2022-07-11</td>
+            <td>Siyane Katikawa Nalaka Godahewa Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/7/223-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/223-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/223-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>220/2022</td>
+            <td class="date-column">2022-07-07</td>
+            <td>Appropriation (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/220-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/220-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/220-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>218/2022</td>
+            <td class="date-column">2022-07-06</td>
+            <td>Provincial Councils Elections (Amendment) - Bill</td>
+            <td>
+              <a href="2022/7/218-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/218-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/218-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>219/2022</td>
+            <td class="date-column">2022-07-06</td>
+            <td>Social Security Contribution Levy - Bill</td>
+            <td>
+              <a href="2022/7/219-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/219-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/219-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>221/2022</td>
+            <td class="date-column">2022-07-06</td>
+            <td>Local Authorities Elections (Amendment) - Bill</td>
+            <td>
+              <a href="2022/7/221-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/221-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/221-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>222/2022</td>
+            <td class="date-column">2022-07-06</td>
+            <td>Parliament Elections (Amendment) - Bill</td>
+            <td>
+              <a href="2022/7/222-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/222-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/222-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>230/2022</td>
+            <td class="date-column">2022-07-04</td>
+            <td>Industrial Disputes (Amendment) - GS</td>
+            <td>
+              <a href="2022/7/230-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/7/230-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/7/230-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>217/2022</td>
+            <td class="date-column">2022-06-29</td>
+            <td>Twenty Second (Amendment) to the Constitution - GS</td>
+            <td>
+              <a href="2022/6/217-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/217-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/217-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>215/2022</td>
+            <td class="date-column">2022-06-22</td>
+            <td>Industrial Disputes (Amendment) - Bill</td>
+            <td>
+              <a href="2022/6/215-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/215-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/215-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>216/2022</td>
+            <td class="date-column">2022-06-22</td>
+            <td>Termination of Employment of Workman (Special Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/6/216-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/216-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/216-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>213/2022</td>
+            <td class="date-column">2022-06-21</td>
+            <td>Social Security Contribution Levy - (GS)</td>
+            <td>
+              <a href="2022/6/213-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/213-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/213-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>214/2022</td>
+            <td class="date-column">2022-06-21</td>
+            <td>Code of Criminal Procedure (Amendment) - Bill</td>
+            <td>
+              <a href="2022/6/214-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/214-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/214-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>212/2022</td>
+            <td class="date-column">2022-06-10</td>
+            <td>Saweera Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/6/212-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/212-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/212-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>209/2022</td>
+            <td class="date-column">2022-06-09</td>
+            <td>Parliamentary Elections (Amendment) - GS</td>
+            <td>
+              <a href="2022/6/209-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/209-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/209-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>210/2022</td>
+            <td class="date-column">2022-06-09</td>
+            <td>Provincial Councils Elections (Amendment) -GS</td>
+            <td>
+              <a href="2022/6/210-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/210-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/210-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>211/2022</td>
+            <td class="date-column">2022-06-08</td>
+            <td>Jayamaga Development Social Services and Charity Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/6/211-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/211-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/211-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>206/2022</td>
+            <td class="date-column">2022-06-02</td>
+            <td>Local Authorities Elections (Amendment) - GS</td>
+            <td>
+              <a href="2022/6/206-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/206-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/206-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>207/2022</td>
+            <td class="date-column">2022-06-02</td>
+            <td>Dangerous Animals (Amendment) - GS</td>
+            <td>
+              <a href="2022/6/207-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/6/207-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/6/207-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>203/2022</td>
+            <td class="date-column">2022-05-17</td>
+            <td>Sri Lanka Electricity (Amendment) - Bill</td>
+            <td>
+              <a href="2022/5/203-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/203-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/203-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>204/2022</td>
+            <td class="date-column">2022-05-17</td>
+            <td>Twenty First Amendment to the Constitution - Bill</td>
+            <td>
+              <a href="2022/5/204-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/204-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/204-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>205/2022</td>
+            <td class="date-column">2022-05-17</td>
+            <td>Twenty Second Amendment to the Constitution - Bill</td>
+            <td>
+              <a href="2022/5/205-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/205-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/205-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>200/2022</td>
+            <td class="date-column">2022-05-06</td>
+            <td>Twenty First Amendment to the Constitution - GS</td>
+            <td>
+              <a href="2022/5/200-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/200-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/200-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>201/2022</td>
+            <td class="date-column">2022-05-06</td>
+            <td>Twenty Second Amendment to the Constitution - GS</td>
+            <td>
+              <a href="2022/5/201-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/201-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/201-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>202/2022</td>
+            <td class="date-column">2022-05-05</td>
+            <td>Kidney and Diebetes Lions Hospital Trust (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/5/202-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/202-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/202-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>198/2022</td>
+            <td class="date-column">2022-05-04</td>
+            <td>Saweera Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/5/198-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/198-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/198-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>199/2022</td>
+            <td class="date-column">2022-05-04</td>
+            <td>Sri Lanka Electricity (Amendment) - GS</td>
+            <td>
+              <a href="2022/5/199-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/5/199-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/5/199-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>196/2022</td>
+            <td class="date-column">2022-04-29</td>
+            <td>Revocation of Irrevocable Deeds of Gift on the Ground of Gross Ingratitude (Amendment) -GS</td>
+            <td>
+              <a href="2022/4/196-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/196-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/196-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>197/2022</td>
+            <td class="date-column">2022-04-29</td>
+            <td>Wills (Amendment) - (GS) </td>
+            <td>
+              <a href="2022/4/197-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/197-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/197-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>193/2022</td>
+            <td class="date-column">2022-04-25</td>
+            <td>Jayamage Development, Social Services and Charity Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2022/4/193-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/193-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/193-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>194/2022</td>
+            <td class="date-column">2022-04-25</td>
+            <td>Kidney and Diabetes Lions Hospital Trust (Incorporation) - GS</td>
+            <td>
+              <a href="2022/4/194-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/194-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/194-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>195/2022</td>
+            <td class="date-column">2022-04-22</td>
+            <td>Institution of Building Services Engineering & Technology of Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/4/195-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/195-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/195-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>191/2022</td>
+            <td class="date-column">2022-04-08</td>
+            <td>Industrial Disputes (Special Provisions) - Bill</td>
+            <td>
+              <a href="2022/4/191-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/191-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/191-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>192/2022</td>
+            <td class="date-column">2022-04-07</td>
+            <td>Community Association of Professionals (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/4/192-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/4/192-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/4/192-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>190/2022</td>
+            <td class="date-column">2022-03-31</td>
+            <td>Code of Criminal Procedure (Amendment) - GS</td>
+            <td>
+              <a href="2022/3/190-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/190-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/190-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>189/2022</td>
+            <td class="date-column">2022-03-30</td>
+            <td>Institution of Building Services Engineering & Technology of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2022/3/189-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/189-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/189-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>188/2022</td>
+            <td class="date-column">2022-03-28</td>
+            <td>Community Association of Professionals (Incorporation) - GS</td>
+            <td>
+              <a href="2022/3/188-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/188-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/188-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>186/2022</td>
+            <td class="date-column">2022-03-25</td>
+            <td>Industrial Disputes (Special Provisions) - GS</td>
+            <td>
+              <a href="2022/3/186-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/186-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/186-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>187/2022</td>
+            <td class="date-column">2022-03-25</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2022/3/187-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/187-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/187-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>184/2022</td>
+            <td class="date-column">2022-03-24</td>
+            <td>Animal Welfare - Bill</td>
+            <td>
+              <a href="2022/3/184-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/184-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/184-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>185/2022</td>
+            <td class="date-column">2022-03-24</td>
+            <td>Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/3/185-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/185-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/185-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>183/2022</td>
+            <td class="date-column">2022-03-11</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2022/3/183-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/183-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/183-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>182/2022</td>
+            <td class="date-column">2022-03-10</td>
+            <td>Code of  Criminal Procedure (Amendment) - Bill</td>
+            <td>
+              <a href="2022/3/182-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/3/182-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/3/182-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>181/2022</td>
+            <td class="date-column">2022-02-23</td>
+            <td>Intellectual Property (Amendment) - Bill</td>
+            <td>
+              <a href="2022/2/181-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/181-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/181-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>180/2022</td>
+            <td class="date-column">2022-02-22</td>
+            <td>Surcharge Tax - (Bill)</td>
+            <td>
+              <a href="2022/2/180-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/180-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/180-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>179/2022</td>
+            <td class="date-column">2022-02-11</td>
+            <td>Code of Criminal Procedure (Amendment) - GS</td>
+            <td>
+              <a href="2022/2/179-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/179-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/179-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>177/2022</td>
+            <td class="date-column">2022-02-10</td>
+            <td>Intellectual Property (Amendment) - GS</td>
+            <td>
+              <a href="2022/2/177-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/177-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/177-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>178/2022</td>
+            <td class="date-column">2022-02-10</td>
+            <td>Prevention of Terrorism (Temporary Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2022/2/178-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/178-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/178-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>175/2022</td>
+            <td class="date-column">2022-02-08</td>
+            <td>Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2022/2/175-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/175-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/175-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>176/2022</td>
+            <td class="date-column">2022-02-08</td>
+            <td>Workmen's Compensation (Amendment) - Bill</td>
+            <td>
+              <a href="2022/2/176-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/176-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/176-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>173/2022</td>
+            <td class="date-column">2022-02-07</td>
+            <td>Surcharge Tax - GS</td>
+            <td>
+              <a href="2022/2/173-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/173-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/173-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>174/2022</td>
+            <td class="date-column">2022-02-07</td>
+            <td>Animal Welfare - GS</td>
+            <td>
+              <a href="2022/2/174-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/2/174-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/2/174-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>172/2022</td>
+            <td class="date-column">2022-01-31</td>
+            <td>Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2022/1/172-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/172-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/172-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>171/2022</td>
+            <td class="date-column">2022-01-27</td>
+            <td>Prevention of Terrorism (Temporary Provisions) (Amendment) - GS</td>
+            <td>
+              <a href="2022/1/171-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/171-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/171-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>170/2022</td>
+            <td class="date-column">2022-01-24</td>
+            <td>Workmen's Compensation (Amendment) - GS</td>
+            <td>
+              <a href="2022/1/170-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/170-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/170-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>168/2022</td>
+            <td class="date-column">2022-01-21</td>
+            <td>Land Development (Amendment) - Bill</td>
+            <td>
+              <a href="2022/1/168-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/168-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/168-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>165/2022</td>
+            <td class="date-column">2022-01-20</td>
+            <td>Special Goods and Services Tax - Bill</td>
+            <td>
+              <a href="2022/1/165-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/165-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/165-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>166/2022</td>
+            <td class="date-column">2022-01-20</td>
+            <td>Fauna and Flora Protection (Amendment) - Bill</td>
+            <td>
+              <a href="2022/1/166-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/166-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/166-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>167/2022</td>
+            <td class="date-column">2022-01-20</td>
+            <td>Personal Data Protection - Bill</td>
+            <td>
+              <a href="2022/1/167-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/167-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/167-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>169/2022</td>
+            <td class="date-column">2022-01-20</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2022/1/169-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/169-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/169-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>164/2022</td>
+            <td class="date-column">2022-01-19</td>
+            <td>Galaha Bhaddrawathie National Bhikkhu Care Centre Trust - GS</td>
+            <td>
+              <a href="2022/1/164-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/164-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/164-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>162/2022</td>
+            <td class="date-column">2022-01-07</td>
+            <td>Special Goods and Services Tax - GS</td>
+            <td>
+              <a href="2022/1/162-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/162-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/162-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>163/2022</td>
+            <td class="date-column">2022-01-07</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2022/1/163-2022_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2022/1/163-2022_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2022/1/163-2022_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
