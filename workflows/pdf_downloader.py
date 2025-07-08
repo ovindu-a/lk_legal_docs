@@ -22,6 +22,7 @@ def downloader(max_delta_t):
     doc_list = DocFactory.list_all()
     for doc in doc_list:
         doc.download_all()
+        doc.extract_text()
 
         delta_t = time.time() - t_start
         if delta_t > max_delta_t:
