@@ -121,5 +121,5 @@ class AbstractDocDownloader:
     @staticmethod
     @cache
     def get_temp_data_summary():
-        assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_TSV_PATH)
-        return TSVFile(AbstractDocDownloader.DATA_SUMMARY_TSV_PATH).read()
+        assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH)
+        return JSONFile(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH).read()
