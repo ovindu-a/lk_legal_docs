@@ -1,9 +1,9 @@
-import os
 import sys
 
 from utils import Log
 
 from lld import ByYearPage, DocFactory, ReadMe, WebPage
+from utils_future import Git
 
 log = Log("scraper")
 
@@ -11,14 +11,7 @@ DEFAULT_MAX_DELTA_T = 150
 
 
 def git_rebase(dir_git):  # HACKY
-    for cmd in [
-        f"cd {dir_git}",
-        "git add .",
-        "git commit -m 'pre-rebase'",
-        "git pull --rebase origin main",
-    ]:
-        log.debug(f"🖥️: {cmd}")
-        os.system(cmd)
+    Git(dir_git).git_add(".").git_commit("Add latest documents").git_pull()
 
 
 def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
