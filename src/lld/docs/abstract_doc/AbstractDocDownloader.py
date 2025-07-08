@@ -12,9 +12,14 @@ log = Log("AbstractDocDownloader")
 class AbstractDocDownloader:
 
     DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
-    TEMP_DATA_SUMMARY_TSV_PATH = os.path.join("data", "temp_data_summary.tsv")
-    TEMP_DATA_SUMMARY_TSV_PATH_DATA = os.path.join(
+    DATA_SUMMARY_TSV_PATH = os.path.join("data", "temp_data_summary.tsv")
+    TEMP_DATA_SUMMARY_TSV_PATH = os.path.join(
         DIR_TEMP_DATA, "data", "temp_data_summary.tsv"
+    )
+
+    DATA_SUMMARY_JSON_PATH = os.path.join("data", "temp_data_summary.json")
+    TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
+        DIR_TEMP_DATA, "data", "temp_data_summary.json"
     )
 
     @cached_property
@@ -24,9 +29,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -64,14 +67,13 @@ class AbstractDocDownloader:
                     yield os.path.join(dir_path, file_name)
 
     @staticmethod
-    def summarize_temp_data():
+    def __get_temp_data_d_list__():
         d_list = []
         for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
             path_parts = pdf_file_path.split(os.sep)
 
             doc_type_name, year, doc_id, file_name = path_parts[-4:]
             lang_code = file_name[:2]
-
             d = dict(
                 doc_type_name=doc_type_name,
                 doc_id=doc_id,
@@ -79,21 +81,40 @@ class AbstractDocDownloader:
                 lang_code=lang_code,
             )
             d_list.append(d)
+        return d_list
+
+    @staticmethod
+    def build_tsv(d_list):
 
         n = len(d_list)
         for tsv_path in [
+            AbstractDocDownloader.DATA_SUMMARY_TSV_PATH,
             AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH,
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH_DATA,
         ]:
             TSVFile(tsv_path).write(d_list)
             log.info(f"Wrote {n} rows to {tsv_path}")
 
     @staticmethod
+    def build_json(d_list):
+        d = dict(
+            n_pdfs=len(d_list),
+            n_unique_docs=len(set((d["doc_id"]) for d in d_list)),
+        )
+        for json_path in [
+            AbstractDocDownloader.DATA_SUMMARY_JSON_PATH,
+            AbstractDocDownloader.TEMP_DATA_SUMMARY_JSON_PATH,
+        ]:
+            TSVFile(json_path).write_json(d)
+            log.info(f"Wrote {json_path}")
+
+    @staticmethod
+    def summarize_temp_data():
+        d_list = AbstractDocDownloader.__get_temp_data_d_list__()
+        AbstractDocDownloader.build_tsv(d_list)
+        AbstractDocDownloader.build_json(d_list)
+
+    @staticmethod
     @cache
     def get_temp_data_summary():
-        assert os.path.exists(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        )
-        return TSVFile(
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH
-        ).read()
+        assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_TSV_PATH)
+        return TSVFile(AbstractDocDownloader.DATA_SUMMARY_TSV_PATH).read()
