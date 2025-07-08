@@ -6,7 +6,7 @@ from functools import cache, cached_property
 from utils import JSONFile, Log
 
 from lld.www_common import WebPage
-from utils_future import PDF, Directory
+from utils_future import PDF, Directory, Lang
 
 log = Log("AbstractDocDownloader")
 
@@ -27,9 +27,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -69,9 +67,7 @@ class AbstractDocDownloader:
 
     @staticmethod
     def __gen_year_dirs__():
-        for (
-            doc_type_dir
-        ) in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+        for doc_type_dir in AbstractDocDownloader.__gen_doc_type_dir_paths__():
             for year in os.listdir(doc_type_dir):
                 year_dir = os.path.join(doc_type_dir, year)
                 if not os.path.isdir(year_dir):
@@ -87,6 +83,23 @@ class AbstractDocDownloader:
                     continue
                 yield dir_data
 
+    @staticmethod
+    def __get_temp_data_d_list__():
+        d_list = []
+        for dir_data in AbstractDocDownloader.__gen_dir_data_paths__():
+            metadata_file_path = os.path.join(dir_data, "metadata.json")
+            d = JSONFile(metadata_file_path).read()
+
+            has_downloaded_pdfs = False
+            for lang in Lang.list_all():
+                pdf_file_path = os.path.join(dir_data, f"{lang}.pdf")
+                if os.path.exists(pdf_file_path):
+                    has_downloaded_pdfs = True
+            d["has_downloaded_pdfs"] = has_downloaded_pdfs
+
+            d_list.append(d)
+        return d_list
+
     def copy_metadata_to_temp_data(self):
         metadata_file_path = os.path.join(self.dir_data, "metadata.json")
         temp_metadata_file_path = os.path.join(
@@ -101,8 +114,8 @@ class AbstractDocDownloader:
     @staticmethod
     def build_json(d_list):
         d = dict(
-            n_pdfs=len(d_list),
-            n_unique_docs=len(set((d["id"]) for d in d_list)),
+            n_unique_docs=len(d_list),
+            n_pdfs=len([d for d in d_list if d.get("has_downloaded_pdfs")]),
             total_file_size=Directory(
                 AbstractDocDownloader.DIR_TEMP_DATA
             ).size,
