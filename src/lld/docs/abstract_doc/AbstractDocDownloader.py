@@ -31,21 +31,28 @@ class AbstractDocDownloader:
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
 
+    @staticmethod
+    def __download__(url, file_path):
+        page = WebPage(url)
+        try:
+            page.download_binary(file_path)
+            return True
+        except Exception as e:
+            log.error(f"Download {url} failed: {e}")
+            return False
+
     def download_all(self):
         did_hot_download = False
         for lang, url in self.lang_to_source_url.items():
             if not url:
                 continue
             file_path = self.get_pdf_path(lang)
-            if not os.path.exists(file_path):
-                page = WebPage(url)
-                try:
-                    os.makedirs(self.dir_temp_data, exist_ok=True)
-                    page.download_binary(file_path)
-                    did_hot_download = True
-                except Exception as e:
-                    log.error(f"Download {url} failed: {e}")
-
+            if os.path.exists(file_path):
+                continue
+            os.makedirs(self.dir_temp_data, exist_ok=True)
+            did_hot_download |= AbstractDocDownloader.__download__(
+                url, file_path
+            )
         return did_hot_download
 
     @staticmethod
