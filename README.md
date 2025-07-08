@@ -1,8 +1,8 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-08 12:27:20**.*
+*Last Updated **2025-07-08 12:38:32**.*
 
-**43,950** documents (59.0 MB), from 1981-01-22 to 2025-07-07.
+**43,951** documents (59.0 MB), from 1981-01-22 to 2025-07-07.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -14,7 +14,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 3,336 PDFs (2.9 GB) for **1,262** documents (2.9%) have been downloaded.
+📄 Currently, 3,357 PDFs (3.0 GB) for **1,270** documents (2.9%) have been downloaded.
 
 ## Summary Statistics
 
@@ -22,7 +22,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 | :-- | --: | :-- | :-- |
 | 🚨 Extraordinary Gazettes | 34,690 | 2010-01-01 | 2025-07-07 |
 | ✍️ Bills | 1,347 | 2010-05-10 | 2025-07-04 |
-| 📢 Gazettes | 6,266 | 2006-03-03 | 2025-07-04 |
+| 📢 Gazettes | 6,267 | 2006-03-03 | 2025-07-04 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
@@ -48,6 +48,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 | 🚨 | 2025-07-04 | Department of Local Government Norther Province Elected Mayor Deputy Mayor Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/7/2443-58_S.pdf) [`E`](https://documents.gov.lk/view/extra-gazettes/2025/7/2443-58_E.pdf) | [2443/58](data/extra-gazettes/2025/2443-58) |
 | 📢 | 2025-07-04 | Legal Section | [`සි`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(II-0)S.pdf) [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(II-0)E.pdf) | [2025-07-04-legal-section](data/gazettes/2025/2025-07-04-legal-section) |
 | 📢 | 2025-07-04 | Land Section | [`සි`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(III-0)S.pdf) [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(III-0)E.pdf) | [2025-07-04-land-section](data/gazettes/2025/2025-07-04-land-section) |
+| 📢 | 2025-07-04 | IV B Local Government | [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-B)E.pdf) | [2025-07-04-iv-b-local-government](data/gazettes/2025/2025-07-04-iv-b-local-government) |
 | 📢 | 2025-07-04 | IV A Provincial Councils | [`සි`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-A)S.pdf) [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(IV-A)E.pdf) | [2025-07-04-iv-a-provincial-councils](data/gazettes/2025/2025-07-04-iv-a-provincial-councils) |
 | 📢 | 2025-07-04 | III TRADE MARKS AND PATENT NOTICES | [`සි`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-III)S.pdf) [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-III)E.pdf) | [2025-07-04-iii-trade-marks-and-patent-notices](data/gazettes/2025/2025-07-04-iii-trade-marks-and-patent-notices) |
 | 📢 | 2025-07-04 | IIB Advertising | [`த`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIB)T.pdf) [`E`](https://documents.gov.lk/view/gazettes/2025/7/2025-07-04(I-IIB)E.pdf) | [2025-07-04-iib-advertising](data/gazettes/2025/2025-07-04-iib-advertising) |
@@ -68,7 +69,6 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 | 🚨 | 2025-06-30 | Sri Lanka Customs Rate Of Exchange with Effect from 30062025 to 06072025 | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_S.pdf) [`த`](https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_T.pdf) [`E`](https://documents.gov.lk/view/extra-gazettes/2025/6/2443-01_E.pdf) | [2443/01](data/extra-gazettes/2025/2443-01) |
 | 🚨 | 2025-06-28 | Dept of Local Government Eastern Province Notice under section 66 c Appointed Vice Chairman Kantale Pradeshiya Sabha | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-79_S.pdf) | [2442/79](data/extra-gazettes/2025/2442-79) |
 | 🚨 | 2025-06-27 | Presidential Secretariat Call out All the Members of the Armed Forces with effect from 27th June 2025 | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_S.pdf) [`த`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_T.pdf) [`E`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-62_E.pdf) | [2442/62](data/extra-gazettes/2025/2442-62) |
-| 🚨 | 2025-06-27 | Department of The Local Government NCP Appointed Chairman and Vice Chairman for the Anuradgapura Local Authorities 2025 | [`සි`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_S.pdf) [`த`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_T.pdf) [`E`](https://documents.gov.lk/view/extra-gazettes/2025/6/2442-61_E.pdf) | [2442/61](data/extra-gazettes/2025/2442-61) |
 
 ## All Documents
 
@@ -106,7 +106,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 | 📢 | 2008-09-26 | IIA Advertising | [`සි`](https://documents.gov.lk/view/gazettes/2008/9/2008-09-26(I-IIA)S.pdf) [`த`](https://documents.gov.lk/view/gazettes/2008/9/2008-09-26(I-IIA)T.pdf) [`E`](https://documents.gov.lk/view/gazettes/2008/9/2008-09-26(I-IIA)E.pdf) | [2008-09-26-iia-advertising](data/gazettes/2008/2008-09-26-iia-advertising) |
 | 🏛️ | 1981-01-22 | Parliamentary Elections | [`සි`](https://documents.gov.lk/view/acts/1981/1/01-1981_S.pdf) | [01/1981](data/acts/1981/01-1981) |
 
-*(Uniformly Spaced Sample of 30 from 43,950)*
+*(Uniformly Spaced Sample of 30 from 43,951)*
 
 ## Interesting Documents
 
