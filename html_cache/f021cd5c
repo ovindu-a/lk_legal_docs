@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2018</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2018</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>539/2018</td>
+            <td class="date-column">2018-10-26</td>
+            <td>Sri Lanka Land Reclamation and Development Corporation (Amendment) - GS</td>
+            <td>
+              <a href="2018/10/539-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/539-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/539-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>538/2018</td>
+            <td class="date-column">2018-10-25</td>
+            <td>Debt Conciliation (Amendment) - Bill </td>
+            <td>
+              <a href="2018/10/538-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/538-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/538-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>537/2018</td>
+            <td class="date-column">2018-10-22</td>
+            <td>Appropriation (Amendment) - GS</td>
+            <td>
+              <a href="2018/10/537-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/537-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/537-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>535/2018</td>
+            <td class="date-column">2018-10-11</td>
+            <td>Chemical Weapons Convention (Amendment) </td>
+            <td>
+              <a href="2018/10/535-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/535-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/535-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>532/2018</td>
+            <td class="date-column">2018-10-09</td>
+            <td>Counter Terrorism - Bill</td>
+            <td>
+              <a href="2018/10/532-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/532-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/532-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>533/2018</td>
+            <td class="date-column">2018-10-09</td>
+            <td>Recovery of Damages for the Death of a Person - Bill</td>
+            <td>
+              <a href="2018/10/533-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/533-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/533-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>536/2018</td>
+            <td class="date-column">2018-10-09</td>
+            <td>Appropriation Bill</td>
+            <td>
+              <a href="2018/10/536-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/536-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/536-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>531/2018</td>
+            <td class="date-column">2018-10-02</td>
+            <td>Companies (Amendment) - GS</td>
+            <td>
+              <a href="2018/10/531-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/10/531-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/10/531-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>530/2018</td>
+            <td class="date-column">2018-09-26</td>
+            <td>Tea Research Board (Amendment)  - GS</td>
+            <td>
+              <a href="2018/9/530-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/530-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/530-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>529/2018</td>
+            <td class="date-column">2018-09-21</td>
+            <td>Appropriation - GS</td>
+            <td>
+              <a href="2018/9/529-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/529-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/529-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>528/2018</td>
+            <td class="date-column">2018-09-17</td>
+            <td>Counter Terrorism - GS</td>
+            <td>
+              <a href="2018/9/528-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/528-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/528-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>527/2018</td>
+            <td class="date-column">2018-09-13</td>
+            <td>Debt Conciliation - GS</td>
+            <td>
+              <a href="2018/9/527-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/527-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/527-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>526/2018</td>
+            <td class="date-column">2018-09-11</td>
+            <td>Institute of Valuers of Sri Lanka (Amendment) - GS</td>
+            <td>
+              <a href="2018/9/526-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/526-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/526-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>525/2018</td>
+            <td class="date-column">2018-09-07</td>
+            <td>Chemical Weapons Convention (Amendment) - GS</td>
+            <td>
+              <a href="2018/9/525-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/525-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/525-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>522/2018</td>
+            <td class="date-column">2018-09-05</td>
+            <td>Twentieth amendment to the Constitution - Bill</td>
+            <td>
+              <a href="2018/9/522-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/522-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/522-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>524/2018</td>
+            <td class="date-column">2018-09-05</td>
+            <td>Sri Lanka Electricity (Amendment) - Bill</td>
+            <td>
+              <a href="2018/9/524-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/524-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/524-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>523/2018</td>
+            <td class="date-column">2018-09-04</td>
+            <td>Finance - Bill</td>
+            <td>
+              <a href="2018/9/523-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/523-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/523-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>521/2018</td>
+            <td class="date-column">2018-09-03</td>
+            <td>Recovery of Damaged for the Death of a Person - GS</td>
+            <td>
+              <a href="2018/9/521-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/9/521-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/9/521-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>520/2018</td>
+            <td class="date-column">2018-08-27</td>
+            <td>Intellectual Property (Amendment) - GS</td>
+            <td>
+              <a href="2018/8/520-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/520-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/520-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>518/2018</td>
+            <td class="date-column">2018-08-24</td>
+            <td>Carriage by Air  (Bill)</td>
+            <td>
+              <a href="2018/8/518-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/518-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/518-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>519/2018</td>
+            <td class="date-column">2018-08-24</td>
+            <td>Institute of Personnel Management Sri Lanka (Amendment) - Bill</td>
+            <td>
+              <a href="2018/8/519-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/519-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/519-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>517/2018</td>
+            <td class="date-column">2018-08-20</td>
+            <td>Sri Lanka Electricity (Amendment) - GS</td>
+            <td>
+              <a href="2018/8/517-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/517-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/517-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>516/2018</td>
+            <td class="date-column">2018-08-10</td>
+            <td>Finance GS</td>
+            <td>
+              <a href="2018/8/516-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/516-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/516-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>515/2018</td>
+            <td class="date-column">2018-08-07</td>
+            <td>Economic Service Charge (Amendment) - Bill</td>
+            <td>
+              <a href="2018/8/515-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/8/515-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/8/515-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>514/2018</td>
+            <td class="date-column">2018-07-26</td>
+            <td>Institute of Personnel Management Sri Lanka (Amendment) - GS</td>
+            <td>
+              <a href="2018/7/514-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/514-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/514-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>513/2018</td>
+            <td class="date-column">2018-07-19</td>
+            <td>Excise (Amendment) - Bill</td>
+            <td>
+              <a href="2018/7/513-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/513-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/513-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>511/2018</td>
+            <td class="date-column">2018-07-18</td>
+            <td>Amaradeva Aesthetic & Research Centre - Bill</td>
+            <td>
+              <a href="2018/7/511-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/511-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/511-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>512/2018</td>
+            <td class="date-column">2018-07-18</td>
+            <td>New Villages Development Authority for Plantation Region - Bill</td>
+            <td>
+              <a href="2018/7/512-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/512-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/512-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>508/2018</td>
+            <td class="date-column">2018-07-17</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2018/7/508-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/508-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/508-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>509/2018</td>
+            <td class="date-column">2018-07-17</td>
+            <td>Medical (Amendment)</td>
+            <td>
+              <a href="2018/7/509-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/509-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/509-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>510/2018</td>
+            <td class="date-column">2018-07-17</td>
+            <td>Office for Reparations -Bill</td>
+            <td>
+              <a href="2018/7/510-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/510-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/510-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>504/2018</td>
+            <td class="date-column">2018-07-09</td>
+            <td>People's Bank (Amendment) - GS</td>
+            <td>
+              <a href="2018/7/504-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/504-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/504-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>505/2018</td>
+            <td class="date-column">2018-07-09</td>
+            <td>Twentieth Amendment to The Constitution - GS</td>
+            <td>
+              <a href="2018/7/505-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/7/505-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/7/505-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>501/2018</td>
+            <td class="date-column">2018-06-29</td>
+            <td>Carriage by Air - GS</td>
+            <td>
+              <a href="2018/6/501-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/501-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/501-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>502/2018</td>
+            <td class="date-column">2018-06-29</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2018/6/502-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/502-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/502-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>503/2018</td>
+            <td class="date-column">2018-06-29</td>
+            <td>Economic Service Charge (Amendment) - GS</td>
+            <td>
+              <a href="2018/6/503-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/503-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/503-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>500/2018</td>
+            <td class="date-column">2018-06-25</td>
+            <td>Office for Reparations - GS</td>
+            <td>
+              <a href="2018/6/500-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/500-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/500-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>492/2018</td>
+            <td class="date-column">2018-06-22</td>
+            <td>Excise (Amendment) GS</td>
+            <td>
+              <a href="2018/6/492-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/492-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/492-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>494/2018</td>
+            <td class="date-column">2018-06-22</td>
+            <td>New Villages Development Authority for Plantation Region - GS</td>
+            <td>
+              <a href="2018/6/494-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/494-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/494-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>493/2018</td>
+            <td class="date-column">2018-06-20</td>
+            <td>Apartment Ownership (Special Provisions) Bill</td>
+            <td>
+              <a href="2018/6/493-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/493-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/493-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>491/2018</td>
+            <td class="date-column">2018-06-19</td>
+            <td>Nation Building Tax  (Amendment) - (Bill)</td>
+            <td>
+              <a href="2018/6/491-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/491-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/491-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>490/2018</td>
+            <td class="date-column">2018-06-14</td>
+            <td>Amaradeva Aesthetic & Research Centre - GS</td>
+            <td>
+              <a href="2018/6/490-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/490-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/490-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>483/2018</td>
+            <td class="date-column">2018-06-08</td>
+            <td>General Sir John Kotelawala Defence University (Special Provision) - Bill</td>
+            <td>
+              <a href="2018/6/483-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/6/483-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/6/483-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>482/2018</td>
+            <td class="date-column">2018-05-31</td>
+            <td>Nation Building Tax (Amendment) GS</td>
+            <td>
+              <a href="2018/5/482-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/482-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/482-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>480/2018</td>
+            <td class="date-column">2018-05-25</td>
+            <td>Apartment Ownership (Special Provisions) - GS</td>
+            <td>
+              <a href="2018/5/480-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/480-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/480-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>481/2018</td>
+            <td class="date-column">2018-05-25</td>
+            <td>General Sir John Kotalawala Defence University (Special Provisions)  - GS</td>
+            <td>
+              <a href="2018/5/481-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/481-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/481-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>476/2018</td>
+            <td class="date-column">2018-05-22</td>
+            <td>1990 Suwaseriya Foundation - Bill</td>
+            <td>
+              <a href="2018/5/476-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/476-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/476-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>477/2018</td>
+            <td class="date-column">2018-05-22</td>
+            <td>Land (Restrictions  on Alienation) (Amendment) - Bill</td>
+            <td>
+              <a href="2018/5/477-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/477-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/477-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>475/2018</td>
+            <td class="date-column">2018-05-18</td>
+            <td>Mutual Assistance in Criminal Matters (Amendment) - GS</td>
+            <td>
+              <a href="2018/5/475-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/475-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/475-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>485/2018</td>
+            <td class="date-column">2018-05-18</td>
+            <td>Mutual Assistance in Criminal Matters (Amendment)</td>
+            <td>
+              <a href="2018/5/485-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/485-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/485-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>435/2018</td>
+            <td class="date-column">2018-05-03</td>
+            <td>Suwasariya Foundation - GS</td>
+            <td>
+              <a href="2018/5/435-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/5/435-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/5/435-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>432/2018</td>
+            <td class="date-column">2018-04-18</td>
+            <td>Maternity Benefits  (Amendment) (GS)</td>
+            <td>
+              <a href="2018/4/432-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/432-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/432-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>433/2018</td>
+            <td class="date-column">2018-04-18</td>
+            <td>Shop and Office Employees (Regulation of Employment and Remuneration (Amendment) - GS</td>
+            <td>
+              <a href="2018/4/433-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/433-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/433-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>443/2018</td>
+            <td class="date-column">2018-04-18</td>
+            <td>Shop & Office Employees (Regulation Employment & Remuneration) (Amendment) - Bill</td>
+            <td>
+              <a href="2018/4/443-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/443-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/443-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>444/2018</td>
+            <td class="date-column">2018-04-18</td>
+            <td>Maternity Benefits (Amendment) - Bill</td>
+            <td>
+              <a href="2018/4/444-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/444-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/444-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>431/2018</td>
+            <td class="date-column">2018-04-12</td>
+            <td>Land (Restrictions on Alienation) (Amendment) - GS</td>
+            <td>
+              <a href="2018/4/431-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/431-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/431-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>430/2018</td>
+            <td class="date-column">2018-04-11</td>
+            <td>General Sir John Kotelawala National Defence University- GS</td>
+            <td>
+              <a href="2018/4/430-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/430-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/430-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>428/2018</td>
+            <td class="date-column">2018-04-06</td>
+            <td>Penal Code (Amendment)</td>
+            <td>
+              <a href="2018/4/428-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/428-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/428-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>429/2018</td>
+            <td class="date-column">2018-04-06</td>
+            <td>Code of Criminal Procedure (Amendment)</td>
+            <td>
+              <a href="2018/4/429-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/429-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/429-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>424/2018</td>
+            <td class="date-column">2018-04-05</td>
+            <td>National Defence Fund (Bill)</td>
+            <td>
+              <a href="2018/4/424-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/424-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/424-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>425/2018</td>
+            <td class="date-column">2018-04-05</td>
+            <td>Pradeshiya Sabhas (Amendment)</td>
+            <td>
+              <a href="2018/4/425-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/425-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/425-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>420/2018</td>
+            <td class="date-column">2018-04-03</td>
+            <td>Civil Aviation </td>
+            <td>
+              <a href="2018/4/420-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/420-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/420-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>421/2018</td>
+            <td class="date-column">2018-04-03</td>
+            <td>National Audit</td>
+            <td>
+              <a href="2018/4/421-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/421-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/421-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>422/2018</td>
+            <td class="date-column">2018-04-03</td>
+            <td>Prescription (Special Provisions) (Amendment)</td>
+            <td>
+              <a href="2018/4/422-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/422-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/422-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>423/2018</td>
+            <td class="date-column">2018-04-03</td>
+            <td>Chaya Foundation (Incorporation)</td>
+            <td>
+              <a href="2018/4/423-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/4/423-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/4/423-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>417/2018</td>
+            <td class="date-column">2018-03-29</td>
+            <td>Commissions of Inqutry (Amendment) - GS</td>
+            <td>
+              <a href="2018/3/417-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/417-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/417-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>418/2018</td>
+            <td class="date-column">2018-03-29</td>
+            <td>Bribery (Amendment) GS</td>
+            <td>
+              <a href="2018/3/418-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/418-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/418-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>441/2018</td>
+            <td class="date-column">2018-03-29</td>
+            <td>Commissions of Inquiry (Amendment)</td>
+            <td>
+              <a href="2018/3/441-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/441-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/441-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>442/2018</td>
+            <td class="date-column">2018-03-29</td>
+            <td>Bribery (Amendment)</td>
+            <td>
+              <a href="2018/3/442-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/442-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/442-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>415/2018</td>
+            <td class="date-column">2018-03-16</td>
+            <td>National Audit GS</td>
+            <td>
+              <a href="2018/3/415-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/415-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/415-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>414/2018</td>
+            <td class="date-column">2018-03-14</td>
+            <td>Prescription (Special Provisions) (Amendment) </td>
+            <td>
+              <a href="2018/3/414-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/414-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/414-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>412/2018</td>
+            <td class="date-column">2018-03-12</td>
+            <td>National Defence Fund (Amendment) GS</td>
+            <td>
+              <a href="2018/3/412-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/412-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/412-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>413/2018</td>
+            <td class="date-column">2018-03-12</td>
+            <td>Sri Lanka Tea Board (Amendment) GS</td>
+            <td>
+              <a href="2018/3/413-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/413-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/413-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>440/2018</td>
+            <td class="date-column">2018-03-12</td>
+            <td>Sri Lanka Tea Board (Amendment)</td>
+            <td>
+              <a href="2018/3/440-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/440-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/440-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>410/2018</td>
+            <td class="date-column">2018-03-09</td>
+            <td>Code of Criminal Procedure (Amendment) (GS)</td>
+            <td>
+              <a href="2018/3/410-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/410-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/410-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>411/2018</td>
+            <td class="date-column">2018-03-09</td>
+            <td>Penal Code (Amendment)  (GS)</td>
+            <td>
+              <a href="2018/3/411-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/411-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/411-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>409/2018</td>
+            <td class="date-column">2018-03-06</td>
+            <td>Judicature (Amendment) - Bill</td>
+            <td>
+              <a href="2018/3/409-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/3/409-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/3/409-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>406/2018</td>
+            <td class="date-column">2018-02-26</td>
+            <td>Chaya Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2018/2/406-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/406-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/406-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>407/2018</td>
+            <td class="date-column">2018-02-21</td>
+            <td>Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2018/2/407-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/407-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/407-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>408/2018</td>
+            <td class="date-column">2018-02-21</td>
+            <td>Pothuwatawana Maha Viharaya Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2018/2/408-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/408-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/408-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>403/2018</td>
+            <td class="date-column">2018-02-06</td>
+            <td>Judicature (Amendment) GS</td>
+            <td>
+              <a href="2018/2/403-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/403-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/403-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>402/2018</td>
+            <td class="date-column">2018-02-01</td>
+            <td>Demutualization of the Colombo Stock Exchange  (GS)</td>
+            <td>
+              <a href="2018/2/402-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/402-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/402-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>405/2018</td>
+            <td class="date-column">2018-02-01</td>
+            <td>Demutualization of the Colombo Stock Exchange </td>
+            <td>
+              <a href="2018/2/405-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/2/405-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/2/405-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2018</td>
+            <td class="date-column">2018-01-23</td>
+            <td>Nimal Rupasinghe Friendship Foundation (Incorporation) </td>
+            <td>
+              <a href="2018/1/05-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/05-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/05-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2018</td>
+            <td class="date-column">2018-01-23</td>
+            <td>Sri Natha Ahasthana International Buddhist Meditation Center Performance Society (Incorporation)</td>
+            <td>
+              <a href="2018/1/06-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/06-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/06-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>401/2018</td>
+            <td class="date-column">2018-01-19</td>
+            <td>Active Liability Management GS</td>
+            <td>
+              <a href="2018/1/401-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/401-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/401-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>404/2018</td>
+            <td class="date-column">2018-01-19</td>
+            <td>Active Liability Management </td>
+            <td>
+              <a href="2018/1/404-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/404-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/404-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2018</td>
+            <td class="date-column">2018-01-08</td>
+            <td>Nimal Rupasinghe Friendship Foundation (Incorporation) GS</td>
+            <td>
+              <a href="2018/1/01-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/01-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/01-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2018</td>
+            <td class="date-column">2018-01-08</td>
+            <td>Civil Aviation (Amendment) GS</td>
+            <td>
+              <a href="2018/1/02-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/02-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/02-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2018</td>
+            <td class="date-column">2018-01-08</td>
+            <td>Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation (incorporation) GS</td>
+            <td>
+              <a href="2018/1/03-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/03-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/03-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2018</td>
+            <td class="date-column">2018-01-08</td>
+            <td>Pothuwatawana Maha Viharaya Foundation (Incorporation) GS</td>
+            <td>
+              <a href="2018/1/04-2018_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2018/1/04-2018_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2018/1/04-2018_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
