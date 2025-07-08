@@ -1,8 +1,8 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-08 09:15:04**.*
+*Last Updated **2025-07-08 09:19:09**.*
 
-**43,950** documents (58.9 MB), from 1981-01-22 to 2025-07-07.
+**43,950** documents (59.0 MB), from 1981-01-22 to 2025-07-07.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -132,7 +132,7 @@ This repository contains only metadata about the documents, to save space and av
 
 The actual PDFs are downloaded in parallel and stored in the companion repository, [lk_legal_docs_data](https://github.com/nuuuwan/lk_legal_docs_data).
 
-Currently, PDFs for **1,043** documents have been downloaded.
+Currently, PDFs for **2,640** documents have been downloaded.
 
 ## Scraper Information
 
