@@ -23,6 +23,7 @@ def downloader(max_delta_t):
     for doc in doc_list:
         doc.download_all()
         doc.extract_text()
+        doc.copy_metadata_to_temp_data()
 
         delta_t = time.time() - t_start
         if delta_t > max_delta_t:

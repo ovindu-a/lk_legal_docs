@@ -1,4 +1,5 @@
 import os
+import shutil
 import tempfile
 from functools import cache, cached_property
 
@@ -85,6 +86,13 @@ class AbstractDocDownloader:
             )
             d_list.append(d)
         return d_list
+
+    def copy_metadata_to_temp_data(self):
+        metadata_file_path = os.path.join(self.dir_data, "metadata.json")
+        temp_metadata_file_path = os.path.join(
+            self.dir_temp_data, "metadata.json"
+        )
+        shutil.copyfile(metadata_file_path, temp_metadata_file_path)
 
     @staticmethod
     def build_tsv(d_list):
