@@ -3,10 +3,10 @@ import shutil
 import tempfile
 from functools import cache, cached_property
 
-from utils import JSONFile, Log, TSVFile
+from utils import JSONFile, Log
 
 from lld.www_common import WebPage
-from utils_future import PDF, Directory, Lang
+from utils_future import PDF, Directory
 
 log = Log("AbstractDocDownloader")
 
@@ -14,10 +14,6 @@ log = Log("AbstractDocDownloader")
 class AbstractDocDownloader:
 
     DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
-    DATA_SUMMARY_TSV_PATH = os.path.join("data", "temp_data_summary.tsv")
-    TEMP_DATA_SUMMARY_TSV_PATH = os.path.join(
-        DIR_TEMP_DATA, "data", "temp_data_summary.tsv"
-    )
 
     DATA_SUMMARY_JSON_PATH = os.path.join("data", "temp_data_summary.json")
     TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
@@ -31,7 +27,9 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
+        return os.path.join(
+            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
+        )
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -71,8 +69,9 @@ class AbstractDocDownloader:
 
     @staticmethod
     def __gen_year_dirs__():
-
-        for doc_type_dir in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+        for (
+            doc_type_dir
+        ) in AbstractDocDownloader.__gen_doc_type_dir_paths__():
             for year in os.listdir(doc_type_dir):
                 year_dir = os.path.join(doc_type_dir, year)
                 if not os.path.isdir(year_dir):
@@ -88,44 +87,6 @@ class AbstractDocDownloader:
                     continue
                 yield dir_data
 
-    @staticmethod
-    def __get_temp_data_d_list__():
-        d_list = []
-        for dir_data in AbstractDocDownloader.__gen_dir_data_paths__():
-            metadata_path = os.path.join(dir_data, "metadata.json")
-            d0 = JSONFile(metadata_path).read()
-
-            has_pdf = {}
-            has_txt = {}
-            for lang in Lang.list_all():
-                pdf_path = os.path.join(dir_data, f"{lang}.pdf")
-                txt_path = os.path.join(dir_data, f"{lang}.txt")
-                has_pdf[lang.code] = os.path.exists(pdf_path)
-                has_txt[lang.code] = os.path.exists(txt_path)
-
-            lang_to_source_url = d0["lang_to_source_url"]
-
-            d_list.append(
-                dict(
-                    doc_type_name=d0["doc_type_name"],
-                    date=d0["date"],
-                    description=d0["description"],
-                    source_url_si=lang_to_source_url.get("si", "None"),
-                    source_url_en=lang_to_source_url.get("en", "None"),
-                    source_url_ta=lang_to_source_url.get("ta", "None"),
-                    doc_num=d0["doc_num"],
-                    id=d0["id"],
-                    dir_data=d0["dir_data"],
-                    has_pdf_si=has_pdf.get("si", False),
-                    has_pdf_en=has_pdf.get("en", False),
-                    has_pdf_ta=has_pdf.get("ta", False),
-                    has_txt_si=has_txt.get("si", False),
-                    has_txt_en=has_txt.get("en", False),
-                    has_txt_ta=has_txt.get("ta", False),
-                )
-            )
-        return d_list
-
     def copy_metadata_to_temp_data(self):
         metadata_file_path = os.path.join(self.dir_data, "metadata.json")
         temp_metadata_file_path = os.path.join(
@@ -136,17 +97,6 @@ class AbstractDocDownloader:
         if not os.path.exists(self.dir_temp_data):
             os.makedirs(self.dir_temp_data, exist_ok=True)
         shutil.copyfile(metadata_file_path, temp_metadata_file_path)
-
-    @staticmethod
-    def build_tsv(d_list):
-
-        n = len(d_list)
-        for tsv_path in [
-            AbstractDocDownloader.DATA_SUMMARY_TSV_PATH,
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH,
-        ]:
-            TSVFile(tsv_path).write(d_list)
-            log.info(f"Wrote {n} rows to {tsv_path}")
 
     @staticmethod
     def build_json(d_list):
@@ -168,7 +118,6 @@ class AbstractDocDownloader:
     @staticmethod
     def summarize_temp_data():
         d_list = AbstractDocDownloader.__get_temp_data_d_list__()
-        AbstractDocDownloader.build_tsv(d_list)
         AbstractDocDownloader.build_json(d_list)
 
     @staticmethod
