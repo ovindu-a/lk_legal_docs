@@ -31,9 +31,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -74,9 +72,7 @@ class AbstractDocDownloader:
     @staticmethod
     def __gen_year_dirs__():
 
-        for (
-            doc_type_dir
-        ) in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+        for doc_type_dir in AbstractDocDownloader.__gen_doc_type_dir_paths__():
             for year in os.listdir(doc_type_dir):
                 year_dir = os.path.join(doc_type_dir, year)
                 if not os.path.isdir(year_dir):
@@ -95,7 +91,7 @@ class AbstractDocDownloader:
     @staticmethod
     def __get_temp_data_d_list__():
         d_list = []
-        for (dir_data,) in AbstractDocDownloader.__gen_dir_data_paths__():
+        for dir_data in AbstractDocDownloader.__gen_dir_data_paths__():
             metadata_path = os.path.join(dir_data, "metadata.json")
             d_metadata = JSONFile(metadata_path).read()
 
