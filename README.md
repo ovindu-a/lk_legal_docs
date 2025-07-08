@@ -1,6 +1,6 @@
 # Legal Documents - #SriLanka 🇱🇰
 
-*Last Updated **2025-07-08 09:56:36**.*
+*Last Updated **2025-07-08 09:58:23**.*
 
 **43,950** documents (59.0 MB), from 1981-01-22 to 2025-07-07.
 
@@ -13,8 +13,6 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 🔍 **Useful** for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
 
 #Legal #OpenData #GovTech
-
-📄 Currently, 2,812 PDFs (2.4 GB) for **1,074** documents (2.4%) have been downloaded.
 
 ## Summary Statistics
 
@@ -127,6 +125,14 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 | 🏛️ | 1988-12-18 | J R Jayewardene Centre | [`සි`](https://documents.gov.lk/view/acts/1988/12/77-1988_S.pdf) | [77/1988](data/acts/1988/77-1988) |
 
 *(Uniformly Spaced Sample of 10 from 233)*
+
+## PDF Data
+
+This repository contains only metadata about the documents, to save space and avoid issues with large files.
+
+The actual PDFs are downloaded in parallel and stored in the companion repository, [lk_legal_docs_data](https://github.com/nuuuwan/lk_legal_docs_data).
+
+Currently, PDFs for **2,913** documents have been downloaded.
 
 ## Scraper Information
 
