@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acts of 2014</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Acts of 2014</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Act Number</th>
+            <th>Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>47/2014</td>
+            <td>2014-11-25</td>
+            <td>Appropriation (Amendment)	
+</td>
+            <td>
+              <a href="2014/11/47-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/47-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/47-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>41/2014</td>
+            <td>2014-11-24</td>
+            <td>Appropriation	
+</td>
+            <td>
+              <a href="2014/11/41-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/41-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/41-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2014</td>
+            <td>2014-11-24</td>
+            <td>Kalpawaruksha Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/11/42-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/42-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/42-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>43/2014</td>
+            <td>2014-11-24</td>
+            <td>Sivmuni Se Vehera Buddhist Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/11/43-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/43-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/43-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>44/2014</td>
+            <td>2014-11-24</td>
+            <td>P. Harrison Community Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/11/44-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/44-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/44-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>45/2014</td>
+            <td>2014-11-24</td>
+            <td>Welfare Society of the School for the Mentally Subnormal Child (Incorporation) (Amendment)	
+</td>
+            <td>
+              <a href="2014/11/45-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/45-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/45-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>46/2014</td>
+            <td>2014-11-24</td>
+            <td>Sri Lanka Association of Professional Social Workers (Incorporation)	
+</td>
+            <td>
+              <a href="2014/11/46-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/46-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/46-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2014</td>
+            <td>2014-11-04</td>
+            <td>Sri Lanka Atomic Energy	
+</td>
+            <td>
+              <a href="2014/11/40-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/40-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/40-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2014</td>
+            <td>2014-11-01</td>
+            <td>DFCC Bank (Repeal and Consequential Provisions)	
+</td>
+            <td>
+              <a href="2014/11/39-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/11/39-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/11/39-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2014</td>
+            <td>2014-10-29</td>
+            <td>Land (Restrictions on Alienation)	
+</td>
+            <td>
+              <a href="2014/10/38-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/38-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/38-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2014</td>
+            <td>2014-10-23</td>
+            <td>Municipal Councils (Amendment)	
+</td>
+            <td>
+              <a href="2014/10/34-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/34-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/34-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2014</td>
+            <td>2014-10-23</td>
+            <td>Urban Councils (Amendment)	
+</td>
+            <td>
+              <a href="2014/10/35-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/35-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/35-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2014</td>
+            <td>2014-10-23</td>
+            <td>Pradeshiya Sabhas (Amendment)	
+</td>
+            <td>
+              <a href="2014/10/36-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/36-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/36-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2014</td>
+            <td>2014-10-23</td>
+            <td>Local Authorities filling of vacancies (Special Provisions) (Amendment)	
+</td>
+            <td>
+              <a href="2014/10/37-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/37-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/37-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2014</td>
+            <td>2014-10-16</td>
+            <td>Construction Industry Development Act	
+</td>
+            <td>
+              <a href="2014/10/33-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/10/33-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/10/33-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2014</td>
+            <td>2014-09-07</td>
+            <td>Ocean University of Sri Lanka	
+</td>
+            <td>
+              <a href="2014/9/31-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/9/31-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/9/31-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2014</td>
+            <td>2014-09-07</td>
+            <td>Piyasena Gamage Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/9/32-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/9/32-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/9/32-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2014</td>
+            <td>2014-08-21</td>
+            <td>Bodirajarama Educational and Cultural Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/8/28-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/28-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/28-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2014</td>
+            <td>2014-08-21</td>
+            <td>Vasantha Senanayake Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/8/29-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/29-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/29-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2014</td>
+            <td>2014-08-21</td>
+            <td>Roman Catholic Archbishop and Bishops of Ceylon (Amendment)	
+</td>
+            <td>
+              <a href="2014/8/30-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/30-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/30-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2014</td>
+            <td>2014-08-08</td>
+            <td>Institute of Fundamental Studies, Sri Lanka (Amendment)	
+</td>
+            <td>
+              <a href="2014/8/25-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/25-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/25-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2014</td>
+            <td>2014-08-08</td>
+            <td>Prescription (Amendment)	
+</td>
+            <td>
+              <a href="2014/8/26-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/26-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/26-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2014</td>
+            <td>2014-08-08</td>
+            <td>John Seneviratne Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/8/27-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/8/27-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/8/27-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2014</td>
+            <td>2014-07-23</td>
+            <td>Dampe, Meegoda, Bodhiwardhanarama Sri Madurasama Pirivena Viharastha Sanwardhana Sabhawa (Incorporation)	
+</td>
+            <td>
+              <a href="2014/7/22-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/7/22-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/7/22-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2014</td>
+            <td>2014-07-23</td>
+            <td>Nimal Siripala De Silva Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/7/23-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/7/23-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/7/23-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2014</td>
+            <td>2014-07-23</td>
+            <td>Lakshman Wasantha Perera Community Development Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/7/24-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/7/24-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/7/24-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2014</td>
+            <td>2014-06-17</td>
+            <td>Kumarasiri Hettige Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/6/19-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/6/19-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/6/19-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2014</td>
+            <td>2014-06-17</td>
+            <td>Mohan Lal Grero Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/6/20-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/6/20-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/6/20-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2014</td>
+            <td>2014-06-17</td>
+            <td>Victor Antony Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/6/21-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/6/21-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/6/21-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2014</td>
+            <td>2014-06-04</td>
+            <td>National Enterprise Development Authority (Amendment)	
+</td>
+            <td>
+              <a href="2014/6/18-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/6/18-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/6/18-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>07/2014</td>
+            <td>2014-04-24</td>
+            <td>Value Added Tax	
+</td>
+            <td>
+              <a href="2014/4/07-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/07-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/07-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2014</td>
+            <td>2014-04-24</td>
+            <td>Inland Revenue (Amendment)
+</td>
+            <td>
+              <a href="2014/4/08-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/08-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/08-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2014</td>
+            <td>2014-04-24</td>
+            <td>Economic Service Charge (Amendment)
+</td>
+            <td>
+              <a href="2014/4/09-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/09-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/09-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2014</td>
+            <td>2014-04-24</td>
+            <td>Nation Bulding Tax (Amendment)
+</td>
+            <td>
+              <a href="2014/4/10-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/10-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/10-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2014</td>
+            <td>2014-04-24</td>
+            <td>Telecommunication Levy (Amendment)
+</td>
+            <td>
+              <a href="2014/4/11-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/11-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/11-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2014</td>
+            <td>2014-04-24</td>
+            <td>Special Commodity Levy (Amendment)
+</td>
+            <td>
+              <a href="2014/4/12-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/12-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/12-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2014</td>
+            <td>2014-04-24</td>
+            <td>Companies Act (Amendment)
+</td>
+            <td>
+              <a href="2014/4/13-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/13-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/13-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2014</td>
+            <td>2014-04-24</td>
+            <td>Default Taxes (Special Provisions) (Amendment)
+</td>
+            <td>
+              <a href="2014/4/14-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/14-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/14-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2014</td>
+            <td>2014-04-24</td>
+            <td>Monetary Law (Amendment)
+</td>
+            <td>
+              <a href="2014/4/15-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/15-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/15-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2014</td>
+            <td>2014-04-24</td>
+            <td>Samastha Lanka Sasanarakshaka Mandalaya (Incorporation)	
+</td>
+            <td>
+              <a href="2014/4/16-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/16-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/16-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2014</td>
+            <td>2014-04-24</td>
+            <td>The Rehabilitation of Buddhist Temples Foundation (Incorporation)	
+</td>
+            <td>
+              <a href="2014/4/17-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/17-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/17-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2014</td>
+            <td>2014-04-10</td>
+            <td>Medical (Amendment)	
+</td>
+            <td>
+              <a href="2014/4/06-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/4/06-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/4/06-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2014</td>
+            <td>2014-03-04</td>
+            <td>Institute of Geology, Sri Lanka (Incorporation)
+</td>
+            <td>
+              <a href="2014/3/03-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/3/03-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/3/03-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2014</td>
+            <td>2014-03-04</td>
+            <td>Philip Gunawardena Commemorative Society (Incorporation)
+</td>
+            <td>
+              <a href="2014/3/04-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/3/04-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/3/04-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2014</td>
+            <td>2014-03-04</td>
+            <td>Chandima Weerakkody Foundation (Incorporation)
+</td>
+            <td>
+              <a href="2014/3/05-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/3/05-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/3/05-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2014</td>
+            <td>2014-02-21</td>
+            <td>National Institute of Business Management (Amendment)
+</td>
+            <td>
+              <a href="2014/2/02-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/2/02-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/2/02-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2014</td>
+            <td>2014-02-06</td>
+            <td>Institute of Policy Studies of Sri Lanka (Amendment)
+</td>
+            <td>
+              <a href="2014/2/01-2014_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2014/2/01-2014_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2014/2/01-2014_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

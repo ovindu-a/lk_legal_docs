@@ -1,0 +1,1648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bill of 2021</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .table-container {
+      margin: 50px auto;
+      max-width: auto;
+    }
+    .table th, .table td {
+      vertical-align: middle;
+    }
+    .table-hover tbody tr:hover {
+      background-color: #f1f1f1;
+    }
+    /* Style to ensure the date column is in a single line */
+    .date-column {
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <div class="table-container">
+      <h1 class="text-center my-4">Bill of 2021</h1>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+          <tr>
+            <th>Bill Number</th>
+            <th class="date-column">Date</th>
+            <th>Description</th>
+            <th>Download</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>159/2021</td>
+            <td class="date-column">2021-12-27</td>
+            <td>Land Development (Amendment) - GS</td>
+            <td>
+              <a href="2021/12/159-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/159-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/159-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>160/2021</td>
+            <td class="date-column">2021-12-27</td>
+            <td>Penal Code (Amendment) - GS</td>
+            <td>
+              <a href="2021/12/160-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/160-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/160-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>161/2021</td>
+            <td class="date-column">2021-12-27</td>
+            <td>Prohibition of Obscene Publications - GS</td>
+            <td>
+              <a href="2021/12/161-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/161-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/161-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>158/2021</td>
+            <td class="date-column">2021-12-13</td>
+            <td>Dr. S. S. Gunawardena Indigenous Ayurveda Development Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/12/158-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/158-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/158-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>156/2021</td>
+            <td class="date-column">2021-12-10</td>
+            <td>Center for Skills Development Studies (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/12/156-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/156-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/156-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>157/2021</td>
+            <td class="date-column">2021-12-10</td>
+            <td>Provincial Councils (Transfer of Stamp Duty) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/12/157-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/157-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/157-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>155/2021</td>
+            <td class="date-column">2021-12-02</td>
+            <td>Sugeeswara Wickramasinghe Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/12/155-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/12/155-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/12/155-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>152/2021</td>
+            <td class="date-column">2021-11-25</td>
+            <td>Personal Data Protection - GS</td>
+            <td>
+              <a href="2021/11/152-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/152-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/152-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>153/2021</td>
+            <td class="date-column">2021-11-24</td>
+            <td>Centre for Skills Development Studies (Incorporation) - GS</td>
+            <td>
+              <a href="2021/11/153-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/153-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/153-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>151/2021</td>
+            <td class="date-column">2021-11-23</td>
+            <td>Sugeeswara Wickramasinghe Foundation (Incorporation) -GS</td>
+            <td>
+              <a href="2021/11/151-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/151-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/151-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>149/2021</td>
+            <td class="date-column">2021-11-22</td>
+            <td>Civil Procedure Code (Amendment) - Bill</td>
+            <td>
+              <a href="2021/11/149-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/149-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/149-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>150/2021</td>
+            <td class="date-column">2021-11-22</td>
+            <td>Provincial Councils (Transfer of Stamp Duty)) (Amendment) - GS</td>
+            <td>
+              <a href="2021/11/150-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/150-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/150-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>148/2021</td>
+            <td class="date-column">2021-11-20</td>
+            <td>Institute of Chartered Shipbroders of Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/148-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/148-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/148-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>146/2021</td>
+            <td class="date-column">2021-11-19</td>
+            <td>Fauna and Flora Protection (Amendment) - GS</td>
+            <td>
+              <a href="2021/11/146-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/146-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/146-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>147/2021</td>
+            <td class="date-column">2021-11-16</td>
+            <td>Ananda Aluthgamage Development, Social Services and Charity Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/147-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/147-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/147-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>144/2021</td>
+            <td class="date-column">2021-11-15</td>
+            <td>Shaili Edutainment Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/144-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/144-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/144-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>143/2021</td>
+            <td class="date-column">2021-11-13</td>
+            <td>Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/143-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/143-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/143-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>140/2021</td>
+            <td class="date-column">2021-11-10</td>
+            <td>Judicature (Amendment) - Bill</td>
+            <td>
+              <a href="2021/11/140-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/140-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/140-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>141/2021</td>
+            <td class="date-column">2021-11-10</td>
+            <td>Prohibition of Anti-Personnel Mines - Bill</td>
+            <td>
+              <a href="2021/11/141-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/141-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/141-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>142/2021</td>
+            <td class="date-column">2021-11-10</td>
+            <td>Sahana Community Development Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/142-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/142-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/142-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>138/2021</td>
+            <td class="date-column">2021-11-09</td>
+            <td>Hector Appuhamy Helping Hand Charity Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/138-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/138-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/138-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>139/2021</td>
+            <td class="date-column">2021-11-09</td>
+            <td>Re-awakening East Organizations (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/11/139-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/139-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/139-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>135/2021</td>
+            <td class="date-column">2021-11-08</td>
+            <td>Ananda Aluthgamage Development, Social Services and Charity Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/11/135-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/135-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/135-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>136/2021</td>
+            <td class="date-column">2021-11-08</td>
+            <td>Institute of Chartered Shipbrokers of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2021/11/136-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/136-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/136-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>137/2021</td>
+            <td class="date-column">2021-11-08</td>
+            <td>Mahapola Higher Education Scholarship Trust Fund (Amendment) - Bill</td>
+            <td>
+              <a href="2021/11/137-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/11/137-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/11/137-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>134/2021</td>
+            <td class="date-column">2021-10-28</td>
+            <td>Mahapola Higher Education Scholarship Trust Fund (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/134-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/134-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/134-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>133/2021</td>
+            <td class="date-column">2021-10-25</td>
+            <td>Shaili Edutainment Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/10/133-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/133-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/133-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>131/2021</td>
+            <td class="date-column">2021-10-22</td>
+            <td>Minimum Retirement Age of Workers - Bill</td>
+            <td>
+              <a href="2021/10/131-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/131-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/131-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>132/2021</td>
+            <td class="date-column">2021-10-22</td>
+            <td>Termination of Employment of Workmen (Special Provisions) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/10/132-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/132-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/132-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>129/2021</td>
+            <td class="date-column">2021-10-21</td>
+            <td>Appropriation (Amendment) - Bill</td>
+            <td>
+              <a href="2021/10/129-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/129-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/129-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>130/2021</td>
+            <td class="date-column">2021-10-21</td>
+            <td>Dassana Bauddha Sanvidhanaya (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/130-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/130-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/130-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>126/2021</td>
+            <td class="date-column">2021-10-18</td>
+            <td>Hector Appuhary Helping Hand Charity Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/10/126-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/126-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/126-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>127/2021</td>
+            <td class="date-column">2021-10-18</td>
+            <td>Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/10/127-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/127-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/127-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>128/2021</td>
+            <td class="date-column">2021-10-18</td>
+            <td>Re-Awakening East Organization (Incorporation) - GS</td>
+            <td>
+              <a href="2021/10/128-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/128-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/128-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>125/2021</td>
+            <td class="date-column">2021-10-15</td>
+            <td>Judicature (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/125-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/125-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/125-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>122/2021</td>
+            <td class="date-column">2021-10-12</td>
+            <td>Terination of Employment of Workmen (Special Provisions) (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/122-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/122-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/122-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>123/2021</td>
+            <td class="date-column">2021-10-12</td>
+            <td>Minimum Retirement Age of Workers _ GS</td>
+            <td>
+              <a href="2021/10/123-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/123-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/123-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>117/2021</td>
+            <td class="date-column">2021-10-08</td>
+            <td>Code of Criminal Procedure (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/117-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/117-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/117-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>111/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Appropriation (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/111-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/111-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/111-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>112/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Civil Procedure Code (Amendment) - GS</td>
+            <td>
+              <a href="2021/10/112-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/112-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/112-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>116/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Appropriation - Bill</td>
+            <td>
+              <a href="2021/10/116-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/116-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/116-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>118/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Akurana Baithuz Zakath (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/118-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/118-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/118-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>119/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>UnV Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/119-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/119-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/119-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>120/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Youthful Offenders (Training Schools) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/10/120-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/120-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/120-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>124/2021</td>
+            <td class="date-column">2021-10-07</td>
+            <td>Penal Code (Amendment) - Bill</td>
+            <td>
+              <a href="2021/10/124-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/124-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/124-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>113/2021</td>
+            <td class="date-column">2021-10-06</td>
+            <td>Kelaniya Buddhist Women's Charitable Society (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/113-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/113-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/113-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>114/2021</td>
+            <td class="date-column">2021-10-06</td>
+            <td>Nalin Fernando Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/114-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/114-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/114-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>115/2021</td>
+            <td class="date-column">2021-10-06</td>
+            <td>Samadhi Health Service, Environment, Agricultural, Cultural and Sport Centre (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/10/115-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/115-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/115-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>121/2021</td>
+            <td class="date-column">2021-10-04</td>
+            <td>Sahana Community Development Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/10/121-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/10/121-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/10/121-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>110/2021</td>
+            <td class="date-column">2021-09-29</td>
+            <td>Appropriation - GS</td>
+            <td>
+              <a href="2021/9/110-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/110-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/110-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>104/2021</td>
+            <td class="date-column">2021-09-27</td>
+            <td>Dassana Bauddha Sanvidhanaya (Incorporation) - GS</td>
+            <td>
+              <a href="2021/9/104-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/104-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/104-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>105/2021</td>
+            <td class="date-column">2021-09-27</td>
+            <td>Kelaniya Buddhist Women's Charitable Soiety (incorporation) - GS</td>
+            <td>
+              <a href="2021/9/105-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/105-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/105-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>106/2021</td>
+            <td class="date-column">2021-09-27</td>
+            <td>Samadhi Health Service, Environment, Agricultural, Cultural and Sport Centre (Incorporation) - GS</td>
+            <td>
+              <a href="2021/9/106-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/106-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/106-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>107/2021</td>
+            <td class="date-column">2021-09-27</td>
+            <td>Prohibition of Anti-Personnel Mines - GS</td>
+            <td>
+              <a href="2021/9/107-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/107-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/107-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>108/2021</td>
+            <td class="date-column">2021-09-27</td>
+            <td>Akurana Baithuz Zakath (Incorporation) - GS</td>
+            <td>
+              <a href="2021/9/108-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/108-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/108-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>109/2021</td>
+            <td class="date-column">2021-09-22</td>
+            <td>Indira Cancer Trust (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/9/109-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/109-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/109-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>101/2021</td>
+            <td class="date-column">2021-09-21</td>
+            <td>Code of Criminal Procedure (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/101-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/101-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/101-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>102/2021</td>
+            <td class="date-column">2021-09-21</td>
+            <td>Nalin Fernando Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/9/102-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/102-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/102-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>103/2021</td>
+            <td class="date-column">2021-09-21</td>
+            <td>Employees' Provident Fund (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/103-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/103-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/103-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>99/2021</td>
+            <td class="date-column">2021-09-10</td>
+            <td>Penal Code (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/99-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/99-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/99-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>100/2021</td>
+            <td class="date-column">2021-09-10</td>
+            <td>Youthful Offenders (Training Schools) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/100-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/100-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/100-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>98/2021</td>
+            <td class="date-column">2021-09-07</td>
+            <td>Employee's Provident Fund (Amendment) - GS</td>
+            <td>
+              <a href="2021/9/98-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/98-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/98-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>96/2021</td>
+            <td class="date-column">2021-09-06</td>
+            <td>Consumer Affairs Authority (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/96-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/96-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/96-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>97/2021</td>
+            <td class="date-column">2021-09-06</td>
+            <td>Immigrants and Emigrants (Amendment) - Bill</td>
+            <td>
+              <a href="2021/9/97-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/9/97-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/9/97-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>95/2021</td>
+            <td class="date-column">2021-08-23</td>
+            <td>Indira Cancer Trust (Incorporation) - GS</td>
+            <td>
+              <a href="2021/8/95-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/95-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/95-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>94/2021</td>
+            <td class="date-column">2021-08-19</td>
+            <td>Consumer Affairs Authority (Amendment) - GS</td>
+            <td>
+              <a href="2021/8/94-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/94-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/94-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>154/2021</td>
+            <td class="date-column">2021-08-06</td>
+            <td>Institute of Sport for Peace, Education, Empowerment and Development (Speed) (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/8/154-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/154-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/154-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>93/2021</td>
+            <td class="date-column">2021-08-05</td>
+            <td>Petroleum Resources - Bill</td>
+            <td>
+              <a href="2021/8/93-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/93-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/93-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>90/2021</td>
+            <td class="date-column">2021-08-04</td>
+            <td>Samadhi Community Development Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/8/90-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/90-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/90-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>91/2021</td>
+            <td class="date-column">2021-08-04</td>
+            <td>Samadhi Mebitation and Yoga Centre (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/8/91-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/91-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/91-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>92/2021</td>
+            <td class="date-column">2021-08-04</td>
+            <td>South Lanka Academy for Tertiary Education and Leadership (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/8/92-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/92-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/92-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>87/2021</td>
+            <td class="date-column">2021-08-03</td>
+            <td>Balangoda Ananda Maitreya Foundation (Incorporation) -Bill</td>
+            <td>
+              <a href="2021/8/87-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/87-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/87-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>88/2021</td>
+            <td class="date-column">2021-08-03</td>
+            <td>Human Rights Organization (Incorporation) -Bill</td>
+            <td>
+              <a href="2021/8/88-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/88-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/88-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>89/2021</td>
+            <td class="date-column">2021-08-03</td>
+            <td>Arundika Fernando Reliep Services and Godfrey Fernando Memorial Foundation (Incorpatasion) -Bill</td>
+            <td>
+              <a href="2021/8/89-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/89-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/89-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>85/2021</td>
+            <td class="date-column">2021-08-02</td>
+            <td>UnV Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/8/85-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/85-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/85-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>86/2021</td>
+            <td class="date-column">2021-08-02</td>
+            <td>Immigrants and Emigrants (Amendment) - GS</td>
+            <td>
+              <a href="2021/8/86-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/8/86-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/8/86-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>84/2021</td>
+            <td class="date-column">2021-07-28</td>
+            <td>Institute of Sport for Peace, Education, Empowerment and Development (speed) (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/84-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/84-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/84-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>83/2021</td>
+            <td class="date-column">2021-07-27</td>
+            <td>Petroleum Resources - GS</td>
+            <td>
+              <a href="2021/7/83-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/83-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/83-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>82/2021</td>
+            <td class="date-column">2021-07-26</td>
+            <td>Samadhi Community Development Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/82-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/82-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/82-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>78/2021</td>
+            <td class="date-column">2021-07-20</td>
+            <td>Code of Criminal Procedure (Amendment) - GS</td>
+            <td>
+              <a href="2021/7/78-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/78-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/78-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>79/2021</td>
+            <td class="date-column">2021-07-20</td>
+            <td>Universities (Amendment) - GS</td>
+            <td>
+              <a href="2021/7/79-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/79-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/79-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>80/2021</td>
+            <td class="date-column">2021-07-20</td>
+            <td>Finance - Bill</td>
+            <td>
+              <a href="2021/7/80-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/80-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/80-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>81/2021</td>
+            <td class="date-column">2021-07-20</td>
+            <td>Contempt of Courts - Bill</td>
+            <td>
+              <a href="2021/7/81-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/81-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/81-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>74/2021</td>
+            <td class="date-column">2021-07-19</td>
+            <td>Samadhi Meditation and Yoga Centre (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/74-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/74-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/74-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>75/2021</td>
+            <td class="date-column">2021-07-19</td>
+            <td>South Lanka Academy for Tertiary Education and Leadership (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/75-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/75-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/75-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>76/2021</td>
+            <td class="date-column">2021-07-19</td>
+            <td>Arundika Fernando Relief Services and Godfrey Fernando Memorial Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/76-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/76-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/76-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>77/2021</td>
+            <td class="date-column">2021-07-19</td>
+            <td>Balangoda Ananda Maitreya Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/77-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/77-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/77-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>72/2021</td>
+            <td class="date-column">2021-07-12</td>
+            <td>Contempt of Courts - GS</td>
+            <td>
+              <a href="2021/7/72-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/72-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/72-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>73/2021</td>
+            <td class="date-column">2021-07-12</td>
+            <td>Finance - GS</td>
+            <td>
+              <a href="2021/7/73-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/73-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/73-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>71/2021</td>
+            <td class="date-column">2021-07-09</td>
+            <td>Securities and Exchange Commission of Sri Lanka -Bill</td>
+            <td>
+              <a href="2021/7/71-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/71-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/71-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>70/2021</td>
+            <td class="date-column">2021-07-06</td>
+            <td>Pharmaceutical Society of Sri Lanka (Incorporation) -Bill</td>
+            <td>
+              <a href="2021/7/70-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/70-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/70-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>69/2021</td>
+            <td class="date-column">2021-07-05</td>
+            <td>Milco Milk Producers' Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/7/69-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/7/69-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/7/69-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>67/2021</td>
+            <td class="date-column">2021-06-28</td>
+            <td>Pharmaceutical Society of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2021/6/67-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/67-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/67-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>68/2021</td>
+            <td class="date-column">2021-06-28</td>
+            <td>Securities and Exchange Commission of Sri Lanka - GS</td>
+            <td>
+              <a href="2021/6/68-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/68-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/68-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>65/2021</td>
+            <td class="date-column">2021-06-23</td>
+            <td>United Christian Fellowship of Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/6/65-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/65-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/65-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>66/2021</td>
+            <td class="date-column">2021-06-23</td>
+            <td>Lions Clubs International District 306 A - National Development Foundation Trust (Incorporation) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/6/66-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/66-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/66-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>63/2021</td>
+            <td class="date-column">2021-06-08</td>
+            <td>Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) - Bill</td>
+            <td>
+              <a href="2021/6/63-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/63-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/63-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>64/2021</td>
+            <td class="date-column">2021-06-08</td>
+            <td>Coronavirus Disease 2019 (Covid-19) (Temporary Provisions) - Bill</td>
+            <td>
+              <a href="2021/6/64-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/6/64-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/6/64-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>61/2021</td>
+            <td class="date-column">2021-05-20</td>
+            <td>Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) - GS</td>
+            <td>
+              <a href="2021/5/61-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/5/61-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/5/61-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>62/2021</td>
+            <td class="date-column">2021-05-20</td>
+            <td>Coronavirus Disease 2019 (COVID 19) (Temporary Provisions) - GS</td>
+            <td>
+              <a href="2021/5/62-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/5/62-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/5/62-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>59/2021</td>
+            <td class="date-column">2021-05-18</td>
+            <td>United Christian Fellowship of Sri Lanka (Incorporation) - GS</td>
+            <td>
+              <a href="2021/5/59-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/5/59-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/5/59-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>60/2021</td>
+            <td class="date-column">2021-05-18</td>
+            <td>Lions Clubs Inrternational District 306A - National Development Foundation Trust (Incorporation) (Amendment) - GS</td>
+            <td>
+              <a href="2021/5/60-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/5/60-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/5/60-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>58/2021</td>
+            <td class="date-column">2021-05-05</td>
+            <td>Fiscal Management (Responsibility) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/5/58-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/5/58-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/5/58-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>56/2021</td>
+            <td class="date-column">2021-04-28</td>
+            <td>Fiscal Management (Responsibility) (Amendment) - GS</td>
+            <td>
+              <a href="2021/4/56-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/56-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/56-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>57/2021</td>
+            <td class="date-column">2021-04-28</td>
+            <td>Sri Lanka Insurance Institute (Incorporation) - GS</td>
+            <td>
+              <a href="2021/4/57-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/57-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/57-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>54/2021</td>
+            <td class="date-column">2021-04-23</td>
+            <td>Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) - (Bill)</td>
+            <td>
+              <a href="2021/4/54-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/54-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/54-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>55/2021</td>
+            <td class="date-column">2021-04-23</td>
+            <td>Public Health Emergency - (Bill)</td>
+            <td>
+              <a href="2021/4/55-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/55-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/55-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>52/2021</td>
+            <td class="date-column">2021-04-15</td>
+            <td>Public Health Emergency - (GS)</td>
+            <td>
+              <a href="2021/4/52-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/52-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/52-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>53/2021</td>
+            <td class="date-column">2021-04-15</td>
+            <td>Chartered Institute of Transport of Sri Lanka (Incorporation)  (Amendment) - (GS)</td>
+            <td>
+              <a href="2021/4/53-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/53-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/53-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>50/2021</td>
+            <td class="date-column">2021-04-08</td>
+            <td>Sri Lanka Land Development Corporation (Amendment) - Bill</td>
+            <td>
+              <a href="2021/4/50-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/50-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/50-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>51/2021</td>
+            <td class="date-column">2021-04-08</td>
+            <td>Colombo Port City Economic Commission - Bill</td>
+            <td>
+              <a href="2021/4/51-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/51-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/51-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>49/2021</td>
+            <td class="date-column">2021-04-07</td>
+            <td>Registration of Electors (Amendment) - Bill</td>
+            <td>
+              <a href="2021/4/49-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/49-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/49-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>48/2021</td>
+            <td class="date-column">2021-04-06</td>
+            <td>Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/4/48-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/4/48-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/4/48-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>45/2021</td>
+            <td class="date-column">2021-03-26</td>
+            <td>General Sir John Kotelawala National Defence University - Bill</td>
+            <td>
+              <a href="2021/3/45-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/45-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/45-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>46/2021</td>
+            <td class="date-column">2021-03-26</td>
+            <td>Value Added Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2021/3/46-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/46-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/46-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>47/2021</td>
+            <td class="date-column">2021-03-26</td>
+            <td>Inland Revenue (Amendment) - Bill</td>
+            <td>
+              <a href="2021/3/47-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/47-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/47-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>42/2021</td>
+            <td class="date-column">2021-03-25</td>
+            <td>Heart to Heart Trust Fund (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/3/42-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/42-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/42-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>40/2021</td>
+            <td class="date-column">2021-03-24</td>
+            <td>National Minimum Wage of Workers (Amendment) - Bill</td>
+            <td>
+              <a href="2021/3/40-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/40-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/40-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>41/2021</td>
+            <td class="date-column">2021-03-24</td>
+            <td>Code of Criminal Procedure (Amendment) - Bill</td>
+            <td>
+              <a href="2021/3/41-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/41-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/41-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>43/2021</td>
+            <td class="date-column">2021-03-24</td>
+            <td>Colombo Port City Economic Commission - GS</td>
+            <td>
+              <a href="2021/3/43-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/43-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/43-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>38/2021</td>
+            <td class="date-column">2021-03-23</td>
+            <td>Sethsada Yoga Nikethanaya Karya Baraya (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/3/38-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/38-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/38-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>39/2021</td>
+            <td class="date-column">2021-03-23</td>
+            <td>Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/3/39-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/39-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/39-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>44/2021</td>
+            <td class="date-column">2021-03-19</td>
+            <td>Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation) - GS</td>
+            <td>
+              <a href="2021/3/44-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/44-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/44-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>36/2021</td>
+            <td class="date-column">2021-03-18</td>
+            <td>Value Added Tax (Amendment) - GS</td>
+            <td>
+              <a href="2021/3/36-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/36-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/36-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>37/2021</td>
+            <td class="date-column">2021-03-18</td>
+            <td>Inland Revenue (Amendment) - GS</td>
+            <td>
+              <a href="2021/3/37-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/37-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/37-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>34/2021</td>
+            <td class="date-column">2021-03-17</td>
+            <td>Heart to Heart Trust Fund (Incorporation) - GS</td>
+            <td>
+              <a href="2021/3/34-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/34-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/34-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>33/2021</td>
+            <td class="date-column">2021-03-16</td>
+            <td>Registration of Electors (Amendment) - GS</td>
+            <td>
+              <a href="2021/3/33-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/33-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/33-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>32/2021</td>
+            <td class="date-column">2021-03-15</td>
+            <td>Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation) - GS</td>
+            <td>
+              <a href="2021/3/32-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/32-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/32-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>35/2021</td>
+            <td class="date-column">2021-03-15</td>
+            <td>Sethsada Yoga Nikethanaye Karya Baraya (Incorporation) - GS</td>
+            <td>
+              <a href="2021/3/35-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/35-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/35-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>31/2021</td>
+            <td class="date-column">2021-03-10</td>
+            <td>"Matara Season" Organization (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/3/31-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/31-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/31-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>30/2021</td>
+            <td class="date-column">2021-03-09</td>
+            <td>National Minimum Wage of Workers (Amendment) - GS</td>
+            <td>
+              <a href="2021/3/30-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/30-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/30-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>28/2021</td>
+            <td class="date-column">2021-03-08</td>
+            <td>Code of Criminal Procedure (Amendment)  - GS</td>
+            <td>
+              <a href="2021/3/28-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/28-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/28-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>29/2021</td>
+            <td class="date-column">2021-03-08</td>
+            <td>Fiscal Management (Responsibility) (Amendment) -  GS</td>
+            <td>
+              <a href="2021/3/29-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/29-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/29-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>27/2021</td>
+            <td class="date-column">2021-03-01</td>
+            <td>''Matara Season'' Organization (Incorporation) - GS</td>
+            <td>
+              <a href="2021/3/27-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/3/27-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/3/27-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>23/2021</td>
+            <td class="date-column">2021-02-24</td>
+            <td>Institute of World Life Line Yoga (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/23-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/23-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/23-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>24/2021</td>
+            <td class="date-column">2021-02-24</td>
+            <td>Ruhunu Awakening Organization (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/24-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/24-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/24-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>25/2021</td>
+            <td class="date-column">2021-02-24</td>
+            <td>Sri Balabhivurdhi Wardana Samithiya (Incorporatio) - Bill</td>
+            <td>
+              <a href="2021/2/25-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/25-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/25-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>26/2021</td>
+            <td class="date-column">2021-02-24</td>
+            <td>White  Rose Founndation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/26-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/26-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/26-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>20/2021</td>
+            <td class="date-column">2021-02-23</td>
+            <td>Roshan Ranasinghe Janasagana Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/20-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/20-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/20-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>21/2021</td>
+            <td class="date-column">2021-02-23</td>
+            <td>Sathya Sri Ghanapathi Bhakthi Janasewa Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/21-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/21-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/21-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>22/2021</td>
+            <td class="date-column">2021-02-23</td>
+            <td>Sisira Jayakody Siyapatha Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/2/22-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/22-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/22-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>16/2021</td>
+            <td class="date-column">2021-02-16</td>
+            <td>Sri Balabhivurdhi Wardana Samithiya (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/16-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/16-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/16-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>17/2021</td>
+            <td class="date-column">2021-02-16</td>
+            <td>Ruhunu Awakening Organization (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/17-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/17-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/17-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>18/2021</td>
+            <td class="date-column">2021-02-16</td>
+            <td>White Rose Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/18-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/18-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/18-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>19/2021</td>
+            <td class="date-column">2021-02-16</td>
+            <td>Institute of World Life Line Yoga (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/19-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/19-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/19-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>14/2021</td>
+            <td class="date-column">2021-02-15</td>
+            <td>Sathya Sri Ghanapathi Bhakthi Jana Sewa Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/14-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/14-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/14-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>15/2021</td>
+            <td class="date-column">2021-02-15</td>
+            <td>Sisira Jayakody Siyapatha Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/15-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/15-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/15-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>12/2021</td>
+            <td class="date-column">2021-02-10</td>
+            <td>Sri Lanka Land Development Corporation (Amendment) - GS</td>
+            <td>
+              <a href="2021/2/12-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/12-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/12-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>13/2021</td>
+            <td class="date-column">2021-02-10</td>
+            <td>Roshan Ranasinghe Janasahana Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/2/13-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/13-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/13-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>10/2021</td>
+            <td class="date-column">2021-02-09</td>
+            <td>Muslim Marriage and Divorce (Repeal) - Bill</td>
+            <td>
+              <a href="2021/2/10-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/10-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/10-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>11/2021</td>
+            <td class="date-column">2021-02-09</td>
+            <td>Marriages (General) (Amendment) - Bill</td>
+            <td>
+              <a href="2021/2/11-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/11-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/11-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>08/2021</td>
+            <td class="date-column">2021-02-01</td>
+            <td>Muslim Marriage and Divorce (Repeal) - GS</td>
+            <td>
+              <a href="2021/2/08-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/08-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/08-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>09/2021</td>
+            <td class="date-column">2021-02-01</td>
+            <td>Marriages (General) (Amendment) - GS</td>
+            <td>
+              <a href="2021/2/09-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/2/09-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/2/09-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>06/2021</td>
+            <td class="date-column">2021-01-20</td>
+            <td>Sri Shakyasinharama Viharastha Karyasadhakasanvidanaya (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/1/06-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/06-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/06-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>299/2021</td>
+            <td class="date-column">2021-01-20</td>
+            <td>Rathanatissa Peace Foundation (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/1/299-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/299-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/299-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>04/2021</td>
+            <td class="date-column">2021-01-11</td>
+            <td>Sri Shakyasingharama Viharastha Karyasadhaka Sanvidanaya (Incorporation) - GS</td>
+            <td>
+              <a href="2021/1/04-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/04-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/04-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>05/2021</td>
+            <td class="date-column">2021-01-11</td>
+            <td>Rathanatissa Peace Foundation (Incorporation) - GS</td>
+            <td>
+              <a href="2021/1/05-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/05-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/05-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>01/2021</td>
+            <td class="date-column">2021-01-07</td>
+            <td>Declaration of Assets and Liabilities (Amendment) - Bill</td>
+            <td>
+              <a href="2021/1/01-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/01-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/01-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>03/2021</td>
+            <td class="date-column">2021-01-07</td>
+            <td>Tobacco Tax (Amendment) - Bill</td>
+            <td>
+              <a href="2021/1/03-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/03-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/03-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+          <tr>
+            <td>02/2021</td>
+            <td class="date-column">2021-01-05</td>
+            <td>Plastics and Rubber Institute of Sri Lanka (Incorporation) - Bill</td>
+            <td>
+              <a href="2021/1/02-2021_E.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-primary btn-sm">English</button></a>
+              <a href="2021/1/02-2021_S.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-secondary btn-sm">Sinhala</button></a>
+              <a href="2021/1/02-2021_T.pdf" target="_blank" rel="noopener noreferrer"><button class="btn btn-success btn-sm">Tamil</button></a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

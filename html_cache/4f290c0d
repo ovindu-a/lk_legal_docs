@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Extraordinary Gazettes by Year</title>
+  <link href="../../scripts/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .container {
+      margin-top: 50px;
+    }
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .btn {
+      text-transform: uppercase;
+      flex: 1 1 calc(25% - 10px); /* 4 buttons per row */
+      max-width: calc(25% - 10px); /* Max width per button */
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      .btn {
+        flex: 1 1 calc(50% - 10px); /* 2 buttons per row on smaller screens */
+        max-width: calc(50% - 10px);
+      }
+    }
+    @media (max-width: 576px) {
+      .btn {
+        flex: 1 1 100%; /* 1 button per row on extra small screens */
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h5><a href="../../index.html" style="color: black;">Home Page</a></h5>
+  <div class="container">
+    <h1 class="text-center my-4">Extraordinary Gazettes by Year</h1>
+    <div class="button-container">
+      <a href="egz_2025.html" class="btn btn-primary">2025</a>
+      <a href="egz_2024.html" class="btn btn-primary">2024</a>
+      <a href="egz_2023.html" class="btn btn-primary">2023</a>
+      <a href="egz_2022.html" class="btn btn-primary">2022</a>
+      <a href="egz_2021.html" class="btn btn-primary">2021</a>
+      <a href="egz_2020.html" class="btn btn-primary">2020</a>
+      <a href="egz_2019.html" class="btn btn-primary">2019</a>
+      <a href="egz_2018.html" class="btn btn-primary">2018</a>
+      <a href="egz_2017.html" class="btn btn-primary">2017</a>
+      <a href="egz_2016.html" class="btn btn-primary">2016</a>
+      <a href="egz_2015.html" class="btn btn-primary">2015</a>
+      <a href="egz_2014.html" class="btn btn-primary">2014</a>
+      <a href="egz_2013.html" class="btn btn-primary">2013</a>
+      <a href="egz_2012.html" class="btn btn-primary">2012</a>
+      <a href="egz_2011.html" class="btn btn-primary">2011</a>
+      <a href="egz_2010.html" class="btn btn-primary">2010</a>
+    </div>
+  </div>
+</body>
+</html>
