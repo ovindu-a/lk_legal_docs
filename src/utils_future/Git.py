@@ -15,7 +15,16 @@ class Git:
             log.debug(f"🖥️: {cmd}")
             os.system(cmd)
 
-    def git_add(self, files):
+    def clone(self, repo_url):
+        if os.path.exists(self.dir_git):
+            raise FileExistsError(f"Directory {self.dir_git} already exists.")
+        cmds = [
+            f"git clone {repo_url} {self.dir_git}",
+            f"cd {self.dir_git}",
+        ]
+        Git.run_cmds(cmds)
+
+    def add(self, files):
         cmds = [
             f"cd {self.dir_git}",
             f"git add {files}",
@@ -23,7 +32,7 @@ class Git:
         Git.run_cmds(cmds)
         return self
 
-    def git_commit(self, message):
+    def commit(self, message):
         cmds = [
             f"cd {self.dir_git}",
             f"git diff --cached --quiet || git commit -m '{message}'",
@@ -31,10 +40,18 @@ class Git:
         Git.run_cmds(cmds)
         return self
 
-    def git_pull(self):
+    def pull(self):
         cmds = [
             f"cd {self.dir_git}",
             "git pull --rebase origin main",
+        ]
+        Git.run_cmds(cmds)
+        return self
+
+    def push(self):
+        cmds = [
+            f"cd {self.dir_git}",
+            "git push origin main",
         ]
         Git.run_cmds(cmds)
         return self

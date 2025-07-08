@@ -11,7 +11,7 @@ DEFAULT_MAX_DELTA_T = 150
 
 
 def git_rebase(dir_git):  # HACKY
-    Git(dir_git).git_add(".").git_commit("-pre-rebase").git_pull()
+    Git(dir_git).add(".").commit("-pre-rebase").pull()
 
 
 def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
