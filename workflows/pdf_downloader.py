@@ -1,5 +1,4 @@
 import os
-import shutil
 import sys
 import time
 
@@ -9,17 +8,9 @@ from lld import AbstractDoc, DocFactory, ReadMe
 from workflows.scraper import git_rebase
 
 DEFAULT_MAX_DELTA_T = 600
-GIT_REPO_URL = "https://github.com/nuuuwan/lk_legal_docs_data.git"
+
 
 log = Log("pdf_downloader")
-
-
-def __testing_git_clone__():
-    dir_temp_data = AbstractDoc.DIR_TEMP_DATA
-    if os.path.exists(dir_temp_data):
-        shutil.rmtree(dir_temp_data, ignore_errors=True)
-    os.makedirs(dir_temp_data, exist_ok=True)
-    os.system(f"git clone {GIT_REPO_URL} {dir_temp_data}")
 
 
 def downloader(max_delta_t):
