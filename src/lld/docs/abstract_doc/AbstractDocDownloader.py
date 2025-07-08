@@ -120,6 +120,7 @@ class AbstractDocDownloader:
                 AbstractDocDownloader.DIR_TEMP_DATA
             ).size,
         )
+        log.debug(f"{d=}")
 
         for json_path in [
             AbstractDocDownloader.DATA_SUMMARY_JSON_PATH,
