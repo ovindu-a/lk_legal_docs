@@ -5,7 +5,6 @@ from functools import cache, cached_property
 from utils import Log, TSVFile
 
 from lld.www_common import WebPage
-from utils_future import Lang
 
 log = Log("AbstractDocDownloader")
 
@@ -50,38 +49,29 @@ class AbstractDocDownloader:
         return did_hot_download
 
     @staticmethod
-    def summarize_temp_data():
+    def __gen_pdf_file_paths__():
         dir_data = os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, "data")
+        for dir_path, _, file_names in os.walk(dir_data):
+            for file_name in file_names:
+                if not file_name.endswith(".pdf"):
+                    yield os.path.join(dir_path, file_name)
+
+    @staticmethod
+    def summarize_temp_data():
         d_list = []
-        for doc_type_name in os.listdir(dir_data):
-            dir_data_doc_type = os.path.join(dir_data, doc_type_name)
-            if not os.path.isdir(dir_data_doc_type):
-                continue
-            for year in os.listdir(dir_data_doc_type):
-                dir_data_year = os.path.join(dir_data_doc_type, year)
-                if not os.path.isdir(dir_data_year):
-                    continue
-                for doc_id in os.listdir(dir_data_year):
-                    dir_data_doc = os.path.join(dir_data_year, doc_id)
-                    if not os.path.isdir(dir_data_doc):
-                        continue
+        for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
+            path_parts = pdf_file_path.split(os.sep)
 
-                    has_pdf_idx = {}
-                    for lang in Lang.list_all():
-                        pdf_path = os.path.join(
-                            dir_data_doc, f"{lang.code}.pdf"
-                        )
-                        has_pdf_idx[lang.code] = os.path.exists(pdf_path)
+            doc_type_name, year, doc_id, file_name = path_parts[-4:]
+            lang_code = file_name[:2]
 
-                    d = dict(
-                        doc_type_name=doc_type_name,
-                        doc_id=doc_id,
-                        year=year,
-                        has_si=has_pdf_idx["si"],
-                        has_en=has_pdf_idx["en"],
-                        has_ta=has_pdf_idx["ta"],
-                    )
-                    d_list.append(d)
+            d = dict(
+                doc_type_name=doc_type_name,
+                doc_id=doc_id,
+                year=year,
+                lang_code=lang_code,
+            )
+            d_list.append(d)
         n = len(d_list)
         for tsv_path in [
             AbstractDocDownloader.TEMP_DATA_SUMMARY_TSV_PATH,
