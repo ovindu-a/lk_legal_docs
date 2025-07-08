@@ -17,9 +17,7 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -185,11 +183,14 @@ class ReadMe:
             self.temp_data_summary["total_file_size"] / 1_000_000_000.0
         )
         p_docs = n_unique_docs / self.n_docs
+        final_file_size_g = total_file_size_g / p_docs
 
         return [
             f"📄 Currently, {n_pdfs:,} PDFs ({total_file_size_g:.1f} GB)"
             + f" for **{n_unique_docs:,}** documents ({p_docs:.1%})"
-            + " have been downloaded.",
+            + " have been downloaded."
+            + " Final data size is estimated to be "
+            + f"{final_file_size_g:.0f} GB.",
             "",
         ]
 
