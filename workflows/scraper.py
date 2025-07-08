@@ -15,7 +15,7 @@ def git_rebase(dir_git):  # HACKY
         f"cd {dir_git}",
         "git add .",
         "git commit -m 'pre-rebase'",
-        "git pull origin main --rebase",
+        "git pull --rebase origin main",
     ]:
         log.debug(f"🖥️: {cmd}")
         os.system(cmd)
