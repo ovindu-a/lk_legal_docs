@@ -52,16 +52,24 @@ class PDF:
 
         file_size_before_k = os.path.getsize(input_path) / 1000
 
-        PDF.__compress_with_pymupdf__(input_path, output_path)
-
-        if temp_pdf_path:
-            os.remove(temp_pdf_path)
+        try:
+            PDF.__compress_with_pymupdf__(input_path, output_path)
+        except Exception as e:
+            log.error(f"Failed to compress {input_path}: {e}")
+            shutil.copy(input_path, output_path)
+            return
 
         file_size_after_k = os.path.getsize(output_path) / 1000
         p_compression = file_size_after_k / file_size_before_k
+
         log.debug(
             f"Compressed {input_path}"
             + f" ({file_size_before_k:,.1f}KB)"
             + f"-> {output_path}"
             + f" ({file_size_after_k:,.1f}KB, {p_compression:.1%})."
         )
+
+        if p_compression > 1:
+            log.warning("Compression did not reduce size. Reverting.")
+            shutil.copy(input_path, output_path)
+            return
