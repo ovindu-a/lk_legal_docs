@@ -2,7 +2,7 @@ import os
 import tempfile
 from functools import cache, cached_property
 
-from utils import Log, TSVFile
+from utils import JSONFile, Log, TSVFile
 
 from lld.www_common import WebPage
 
@@ -104,7 +104,7 @@ class AbstractDocDownloader:
             AbstractDocDownloader.DATA_SUMMARY_JSON_PATH,
             AbstractDocDownloader.TEMP_DATA_SUMMARY_JSON_PATH,
         ]:
-            TSVFile(json_path).write_json(d)
+            JSONFile(json_path).write(d)
             log.info(f"Wrote {json_path}")
 
     @staticmethod
