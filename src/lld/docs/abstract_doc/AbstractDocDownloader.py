@@ -142,11 +142,6 @@ class AbstractDocDownloader:
         assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH)
         return JSONFile(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH).read()
 
-    @staticmethod
-    def back_compress():
-        for pdf_file_path in AbstractDocDownloader.__gen_pdf_file_paths__():
-            PDF.compress(pdf_file_path, pdf_file_path)
-
     @cached_property
     def remote_data_url(self):
         return (
