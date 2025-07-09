@@ -22,7 +22,7 @@ def downloader(max_delta_t):
 
     for doc in doc_list:
         doc.copy_metadata_to_temp_data()
-        doc.download_all()
+        doc.download_all_pdfs()
         doc.extract_text()
 
         delta_t = time.time() - t_start
