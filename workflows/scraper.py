@@ -3,7 +3,6 @@ import sys
 from utils import Log
 
 from lld import ByYearPage, DocFactory, ReadMe, WebPage
-from utils_future import Git
 
 log = Log("scraper")
 
@@ -28,9 +27,6 @@ def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
             name_to_n_hot[name] = n_hot
     log.debug(f"{name_to_n_hot=}")
 
-    Git(".").add("data").add("images").add("README.md").commit(
-        "pre-rebase"
-    ).pull()
     DocFactory.write_all()
     DocFactory.write_latest()
     ReadMe().build()

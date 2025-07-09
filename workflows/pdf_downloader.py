@@ -5,7 +5,6 @@ import time
 from utils import Log
 
 from lld import AbstractDoc, DocFactory, ReadMe
-from utils_future import Git
 
 DEFAULT_MAX_DELTA_T = 600
 
@@ -39,10 +38,6 @@ def downloader(max_delta_t):
 
 def main(max_delta_t):
     downloader(max_delta_t)
-    Git(AbstractDoc.DIR_TEMP_DATA).add(".").commit("pre-rebase").pull()
-    Git(".").add("data").add("images").add("README.md").commit(
-        "pre-rebase"
-    ).pull()
     AbstractDoc.summarize_temp_data()
     ReadMe().build()
 
