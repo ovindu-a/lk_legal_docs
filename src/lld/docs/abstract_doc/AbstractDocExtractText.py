@@ -3,10 +3,10 @@ import os
 from pypdf import PdfReader
 from utils import File, Log
 
-log = Log("AbstractDocExtract")
+log = Log("AbstractDocExtractText")
 
 
-class AbstractDocExtract:
+class AbstractDocExtractText:
 
     def extract_text(self):
         for lang in self.lang_to_source_url.keys():
