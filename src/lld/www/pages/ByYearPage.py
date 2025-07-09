@@ -2,7 +2,7 @@ import random
 
 from utils import Log
 
-from lld.www.pages.AbstractScraper import AbstractScraper
+from lld.www.pages.Abstractmetadata_scraper import Abstractmetadata_scraper
 from lld.www.pages.ForYearPage import ForYearPage
 from lld.www.pages.GazettePages import GazettePages
 from lld.www_common import WebPage
@@ -10,9 +10,9 @@ from lld.www_common import WebPage
 log = Log("ByYearPage")
 
 
-class ByYearPage(WebPage, AbstractScraper):
+class ByYearPage(WebPage, Abstractmetadata_scraper):
 
-    def get_scraper_name(self):
+    def get_metadata_scraper_name(self):
         return self.doc_cls.get_doc_type_name()
 
     @staticmethod
@@ -46,7 +46,9 @@ class ByYearPage(WebPage, AbstractScraper):
             for doc in for_year_page.gen_docs():
                 yield doc
 
-    def run_scraper(self, max_n_hot, traverse_random):
+    def run_metadata_scraper(self, max_n_hot, traverse_random):
         if self.doc_cls.get_doc_type_name() == "gazettes":
-            return GazettePages().run_scraper(max_n_hot, traverse_random)
-        return super().run_scraper(max_n_hot, traverse_random)
+            return GazettePages().run_metadata_scraper(
+                max_n_hot, traverse_random
+            )
+        return super().run_metadata_scraper(max_n_hot, traverse_random)

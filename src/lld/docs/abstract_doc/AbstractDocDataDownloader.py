@@ -8,10 +8,10 @@ from utils import Log
 from lld.www_common import WebPage
 from utils_future import PDF, Lang
 
-log = Log("AbstractDocPDFDownloader")
+log = Log("AbstractDocDataDownloader")
 
 
-class AbstractDocPDFDownloader:
+class AbstractDocDataDownloader:
 
     DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
 
@@ -28,7 +28,7 @@ class AbstractDocPDFDownloader:
     @cached_property
     def dir_temp_data(self):
         return os.path.join(
-            AbstractDocPDFDownloader.DIR_TEMP_DATA, self.dir_data
+            AbstractDocDataDownloader.DIR_TEMP_DATA, self.dir_data
         )
 
     def get_pdf_path(self, lang_code):
@@ -54,7 +54,7 @@ class AbstractDocPDFDownloader:
             if os.path.exists(file_path):
                 continue
             os.makedirs(self.dir_temp_data, exist_ok=True)
-            if AbstractDocPDFDownloader.__download__(url, file_path):
+            if AbstractDocDataDownloader.__download__(url, file_path):
                 did_hot_download = True
                 PDF.compress(file_path, file_path)
         return did_hot_download
