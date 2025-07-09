@@ -86,25 +86,19 @@ class ReadMeDocs:
             + footer_lines
         )
 
-    def get_lines_for_latest_docs(self):
+    def get_lines_for_recent_docs(self):
+        delta_days = 7
+        recent_doc_list = [
+            doc for doc in self.doc_list if doc.age_days <= delta_days
+        ]
         return ReadMeDocs.__get_lines_for_docs__(
-            "## Latest Documents", self.doc_list[:10], n_sample=10
+            "## Recent Documents"
+            + f" (Published during the last {delta_days} days)",
+            recent_doc_list,
+            n_sample=10,
         )
 
     def get_lines_for_sample_docs(self):
         return ReadMeDocs.__get_lines_for_docs__(
             "## All Documents", self.doc_list, n_sample=10
-        )
-
-    def get_sunday_docs(self):
-        return [doc for doc in self.doc_list if doc.weekday == "7-Sun"]
-
-    def get_lines_for_interesting_docs(self):
-        return [
-            "## Interesting Documents",
-            "",
-        ] + ReadMeDocs.__get_lines_for_docs__(
-            "### Documents Published on a Sunday",
-            self.get_sunday_docs(),
-            n_sample=10,
         )

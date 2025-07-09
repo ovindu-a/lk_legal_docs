@@ -16,9 +16,7 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -77,9 +75,8 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
             + self.get_lines_for_contents()
-            + self.get_lines_for_latest_docs()
+            + self.get_lines_for_recent_docs()
             + self.get_lines_for_sample_docs()
-            + self.get_lines_for_interesting_docs()
         )
 
     def build(self):
