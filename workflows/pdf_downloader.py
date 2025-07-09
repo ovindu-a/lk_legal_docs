@@ -4,7 +4,7 @@ import time
 
 from utils import Log
 
-from lld import AbstractDoc, DocFactory
+from lld import AbstractDoc, DocFactory, ReadMe
 
 DEFAULT_MAX_DELTA_T = 600
 
@@ -41,6 +41,7 @@ def downloader(max_delta_t):
 def main(max_delta_t):
     downloader(max_delta_t)
     DocFactory.build_temp_data_summary()
+    ReadMe().build()
 
 
 if __name__ == "__main__":

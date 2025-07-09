@@ -2,7 +2,7 @@ import sys
 
 from utils import Log
 
-from lld import ByYearPage, DocFactory, ReadMe, WebPage
+from lld import ByYearPage, DocFactory, WebPage
 
 log = Log("metadata_scraper")
 
@@ -29,7 +29,6 @@ def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
 
     DocFactory.write_all()
     DocFactory.write_latest()
-    ReadMe().build()
 
     if clear_html_cache:
         WebPage.delete_html_cache()
