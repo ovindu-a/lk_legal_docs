@@ -1,3 +1,4 @@
+import os
 import shutil
 
 from utils import File, Log, Time, TimeFormat
@@ -17,9 +18,7 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -47,10 +46,21 @@ class ReadMe:
     @staticmethod
     def get_source_md(doc):
         parts = []
+
+        parts.append(f"[`metadata`]({doc.metadata_file_path})")
         for lang in Lang.list_all():
             if lang.code in doc.lang_to_source_url:
-                url = doc.lang_to_source_url[lang.code]
-                parts.append(f"[`{lang.short_name}`]({url})")
+                source_url = doc.lang_to_source_url[lang.code]
+                pdf_path = doc.get_pdf_path(lang.code)
+                txt_path = doc.get_txt_path(lang.code)
+                parts.append(
+                    f"[`{lang.short_name}-pdf-original`]({source_url})"
+                )
+                if os.path.exists(pdf_path):
+                    parts.append(f"[`{lang.short_name}-pdf`]({pdf_path})")
+                if os.path.exists(txt_path):
+                    parts.append(f"[`{lang.short_name}-txt`]({txt_path})")
+
         return " ".join(parts)
 
     @staticmethod
@@ -61,8 +71,7 @@ class ReadMe:
                 type=doc.get_emoji(),
                 date=doc.date,
                 title=doc.description_cleaned,
-                sources=ReadMe.get_source_md(doc),
-                doc_num=f"[{doc.doc_num}]({doc.remote_data_url})",
+                data=ReadMe.get_data(doc),
             )
             d_list.append(d)
         return d_list
