@@ -18,7 +18,9 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -44,7 +46,7 @@ class ReadMe:
         return sampled_items
 
     @staticmethod
-    def get_source_md(doc):
+    def get_data(doc):
         parts = []
 
         parts.append(f"[`metadata`]({doc.metadata_file_path})")
@@ -57,9 +59,15 @@ class ReadMe:
                     f"[`{lang.short_name}-pdf-original`]({source_url})"
                 )
                 if os.path.exists(pdf_path):
-                    parts.append(f"[`{lang.short_name}-pdf`]({pdf_path})")
+                    remote_pdf_path = doc.get_remote_pdf_path(lang.code)
+                    parts.append(
+                        f"[`{lang.short_name}-pdf`]({remote_pdf_path})"
+                    )
                 if os.path.exists(txt_path):
-                    parts.append(f"[`{lang.short_name}-txt`]({txt_path})")
+                    remote_txt_path = doc.get_remote_txt_path(lang.code)
+                    parts.append(
+                        f"[`{lang.short_name}-txt`]({remote_txt_path})"
+                    )
 
         return " ".join(parts)
 

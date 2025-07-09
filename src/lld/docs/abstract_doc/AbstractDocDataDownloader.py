@@ -86,3 +86,9 @@ class AbstractDocDataDownloader:
             "https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data"
             + f"/{self.get_doc_type_name()}/{self.year}/{self.id}"
         )
+
+    def get_remote_pdf_path(self, lang_code):
+        return f"{self.remote_data_url}/{lang_code}.pdf"
+
+    def get_remote_txt_path(self, lang_code):
+        return f"{self.remote_data_url}/{lang_code}.txt"
