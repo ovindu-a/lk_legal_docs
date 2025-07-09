@@ -3,8 +3,7 @@
 
 from lld.docs.abstract_doc.AbstractDoc import AbstractDoc
 from lld.docs.abstract_doc.AbstractDocBase import AbstractDocBase
-from lld.docs.abstract_doc.AbstractDocDataDownloader import (
-    AbstractDocDataDownloader,
-)
+from lld.docs.abstract_doc.AbstractDocDataDownloader import \
+    AbstractDocDataDownloader
 from lld.docs.abstract_doc.AbstractDocExtractText import AbstractDocExtractText
 from lld.docs.abstract_doc.AbstractDocSerializer import AbstractDocSerializer

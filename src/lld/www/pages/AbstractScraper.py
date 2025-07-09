@@ -31,7 +31,8 @@ class Abstractmetadata_scraper:
     def run_metadata_scraper(self, max_delta_t, traverse_random):
         log.debug("-" * 80)
         log.info(
-            f'🤖 Running metadata_scraper for "{self.get_metadata_scraper_name()}".'
+            f'🤖 Running metadata_scraper for "{
+                self.get_metadata_scraper_name()}".'
         )
         n_hot = 0
         t_start = time.time()
