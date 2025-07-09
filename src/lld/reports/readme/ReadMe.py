@@ -37,7 +37,7 @@ class ReadMeContents:
         )
 
 
-class ReadMe(ReadMeDocs, ReadMeSummary):
+class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
     PATH = "README.md"
 
     def __init__(self):
@@ -100,9 +100,9 @@ class ReadMe(ReadMeDocs, ReadMeSummary):
                 "",
             ]
             + self.get_lines_for_temp_data()
-            + self.get_lines_for_contents()
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
+            + self.get_lines_for_contents()
             + self.get_lines_for_latest_docs()
             + self.get_lines_for_sample_docs()
             + self.get_lines_for_interesting_docs()
