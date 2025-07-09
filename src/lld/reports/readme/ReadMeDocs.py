@@ -65,8 +65,9 @@ class ReadMeDocs:
         return d_list
 
     @staticmethod
-    def __get_lines_for_docs__(title, doc_list, n_sample):
+    def __get_lines_for_docs__(title, doc_list, n_sample=None):
         n = len(doc_list)
+        n_sample = n_sample or n
         sampled_doc_list = (
             ReadMeDocs.__sample__(doc_list, n_sample)
             if n > n_sample
@@ -95,5 +96,4 @@ class ReadMeDocs:
             "## Recent Documents"
             + f" (Published during the last {delta_days} days)",
             recent_doc_list,
-            n_sample=10,
         )
