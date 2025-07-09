@@ -38,7 +38,7 @@ def downloader(max_delta_t):
 
 def main(max_delta_t):
     downloader(max_delta_t)
-    AbstractDoc.summarize_temp_data()
+    AbstractDoc.build_pdf_download_summary()
     ReadMe().build()
 
 

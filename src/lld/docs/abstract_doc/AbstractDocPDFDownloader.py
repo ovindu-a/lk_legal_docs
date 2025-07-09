@@ -44,7 +44,7 @@ class AbstractDocPDFDownloader:
             log.error(f"Download {url} failed: {e}")
             return False
 
-    def download_all(self):
+    def download_all_pdfs(self):
         did_hot_download = False
         for lang, url in self.lang_to_source_url.items():
             if not url:
@@ -116,12 +116,22 @@ class AbstractDocPDFDownloader:
         shutil.copyfile(metadata_file_path, temp_metadata_file_path)
         log.debug(f"Wrote {temp_metadata_file_path}")
 
-    @staticmethod
-    def build_json(d_list):
+    @cached_property
+    def n_pdfs(self):
+        n_pdfs = 0
+        for lang in Lang.list_all():
+            pdf_path = self.get_pdf_path(lang)
+            if os.path.exists(pdf_path):
+                n_pdfs += 1
+        return n_pdfs
+
+    @classmethod
+    def build_pdf_download_summary(cls):
+        doc_list = cls.list_all()
         d = dict(
-            n_docs=len(d_list),
-            n_docs_with_pdfs=len([d for d in d_list if d["n_pdfs"] > 0]),
-            n_pdfs=sum(d["n_pdfs"] for d in d_list),
+            n_docs=len(doc_list),
+            n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
+            n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(
                 AbstractDocPDFDownloader.DIR_TEMP_DATA
             ).size,
@@ -134,11 +144,6 @@ class AbstractDocPDFDownloader:
         ]:
             JSONFile(json_path).write(d)
             log.info(f"Wrote {json_path}")
-
-    @staticmethod
-    def summarize_temp_data():
-        d_list = AbstractDocPDFDownloader.__get_temp_data_d_list__()
-        AbstractDocPDFDownloader.build_json(d_list)
 
     @staticmethod
     @cache
