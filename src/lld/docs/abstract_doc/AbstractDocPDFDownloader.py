@@ -3,7 +3,7 @@ import shutil
 import tempfile
 from functools import cached_property
 
-from utils import JSONFile, Log
+from utils import Log
 
 from lld.www_common import WebPage
 from utils_future import PDF, Lang
