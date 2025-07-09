@@ -53,7 +53,7 @@ class DocFactory:
     @classmethod
     def __get_metadata_file_path_lists__(cls):
         file_path_lists = []
-        for file_names, _, dir_path in os.walk(AbstractDoc.DIR_DATA):
+        for dir_path, _, file_names in os.walk(AbstractDoc.DIR_DATA):
             for file_name in file_names:
                 if file_name == "metadata.json":
                     file_path = os.path.join(dir_path, file_name)
