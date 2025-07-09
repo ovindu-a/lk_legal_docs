@@ -145,6 +145,7 @@ class ReadMe:
         shutil.rmtree("images", ignore_errors=True)
         lines = ["## Summary Charts", ""]
         for func_get_t, t_label, func_filter_documents in [
+            (lambda doc: doc.date, "recent", lambda doc: doc.age_day <= 14),
             (lambda doc: doc.year, "year", None),
             (
                 lambda doc: doc.language_coverage_code,
