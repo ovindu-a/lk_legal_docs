@@ -187,15 +187,6 @@ class ReadMe:
             )
         return lines
 
-    def get_lines_for_system_info(self):
-        lines = [
-            "## metadata_scraper Information",
-            "",
-            f"- HTML-Cache = {self.html_cache_size_m:.1f} MB ",
-            "",
-        ]
-        return lines
-
     def get_lines_for_temp_data(self):
         n_pdfs = self.temp_data_summary["n_pdfs"]
         n_docs_with_pdfs = self.temp_data_summary["n_docs_with_pdfs"]
@@ -250,7 +241,6 @@ class ReadMe:
             + self.get_lines_for_latest_docs()
             + self.get_lines_for_sample_docs()
             + self.get_lines_for_interesting_docs()
-            + self.get_lines_for_system_info()
         )
 
     def build(self):
