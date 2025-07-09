@@ -45,7 +45,7 @@ jobs:
 
       - name: Clone lk_legal_docs_data
         run: |
-          git clone https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
+          git clone --branch main --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
           ls /tmp/lk_legal_docs_data/
 
       - name: "python workflows/data_downloader.py"
