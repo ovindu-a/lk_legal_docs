@@ -6,7 +6,7 @@ from utils import Log
 
 from lld import AbstractDoc, DocFactory, ReadMe
 
-DEFAULT_MAX_DELTA_T = 600
+DEFAULT_MAX_DELTA_T = 15 * 60
 
 
 log = Log("data_downloader")
