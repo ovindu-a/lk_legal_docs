@@ -19,6 +19,14 @@ class ReadMeContents:
         contents_path = os.path.join(
             ReadMeContents.DIR_README, f"contents-{label}-{x}.md"
         )
+
+        lines = [f"# {x}", ""]
+        for doc in doc_list_for_x:
+            lines.append(
+                f"- [{doc.date}] [{doc.description}]({doc.remote_data_url})"
+            )
+        lines.append("")
+        File(contents_path).write("\n".join(lines))
         return contents_path
 
     @staticmethod
