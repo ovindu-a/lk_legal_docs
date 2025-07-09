@@ -59,54 +59,6 @@ class AbstractDocPDFDownloader:
                 PDF.compress(file_path, file_path)
         return did_hot_download
 
-    @staticmethod
-    def __gen_doc_type_dir_paths__():
-        dir_data = os.path.join(
-            AbstractDocPDFDownloader.DIR_TEMP_DATA, "data"
-        )
-        for doc_type_name in os.listdir(dir_data):
-            doc_type_dir = os.path.join(dir_data, doc_type_name)
-            if not os.path.isdir(doc_type_dir):
-                continue
-            yield doc_type_dir
-
-    @staticmethod
-    def __gen_year_dirs__():
-        for (
-            doc_type_dir
-        ) in AbstractDocPDFDownloader.__gen_doc_type_dir_paths__():
-            for year in os.listdir(doc_type_dir):
-                year_dir = os.path.join(doc_type_dir, year)
-                if not os.path.isdir(year_dir):
-                    continue
-                yield year_dir
-
-    @staticmethod
-    def __gen_dir_data_paths__():
-        for year_dir in AbstractDocPDFDownloader.__gen_year_dirs__():
-            for doc_id in os.listdir(year_dir):
-                dir_data = os.path.join(year_dir, doc_id)
-                if not os.path.isdir(dir_data):
-                    continue
-                yield dir_data
-
-    @staticmethod
-    def __get_temp_data_d_list__():
-        d_list = []
-        for dir_data in AbstractDocPDFDownloader.__gen_dir_data_paths__():
-            metadata_file_path = os.path.join(dir_data, "metadata.json")
-            d = JSONFile(metadata_file_path).read()
-
-            n_pdfs = 0
-            for lang in Lang.list_all():
-                pdf_file_path = os.path.join(dir_data, f"{lang.code}.pdf")
-                if os.path.exists(pdf_file_path):
-                    n_pdfs += 1
-            d["n_pdfs"] = n_pdfs
-
-            d_list.append(d)
-        return d_list
-
     def copy_metadata_to_temp_data(self):
         metadata_file_path = os.path.join(self.dir_data, "metadata.json")
         temp_metadata_file_path = os.path.join(
