@@ -218,7 +218,7 @@ class ReadMe:
         )
         return (
             [
-                "#  #SriLanka 🇱🇰 - Legal Documents #Dataset",
+                "# #SriLanka 🇱🇰 - Legal Documents #Dataset",
                 "",
                 f"*Last Updated **{self.time_str}**.*",
                 "",
