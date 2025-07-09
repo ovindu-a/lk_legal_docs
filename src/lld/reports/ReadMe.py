@@ -17,7 +17,9 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -145,7 +147,11 @@ class ReadMe:
         shutil.rmtree("images", ignore_errors=True)
         lines = ["## Summary Charts", ""]
         for func_get_t, t_label, func_filter_documents in [
-            (lambda doc: doc.date, "recent", lambda doc: doc.age_days <= 14),
+            (
+                lambda doc: doc.date,
+                "last-week",
+                lambda doc: doc.age_days <= 7,
+            ),
             (lambda doc: doc.year, "year", None),
             (
                 lambda doc: doc.language_coverage_code,
