@@ -1,4 +1,4 @@
-# 1984
+# 1984 (42 Documents)
 
 - [1984-12-28] [Urban Council (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1984/48-1984)
 - [1984-12-28] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1984/46-1984)

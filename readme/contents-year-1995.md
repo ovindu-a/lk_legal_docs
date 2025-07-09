@@ -1,4 +1,4 @@
-# 1995
+# 1995 (6 Documents)
 
 - [1995-12-29] [The Buddhist and Pali Univsersity of Sri Lanka (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1995/37-1995)
 - [1995-12-29] [Defence Levy (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1995/36-1995)

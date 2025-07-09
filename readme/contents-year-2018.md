@@ -1,4 +1,4 @@
-# 2018
+# 2018 (3,279 Documents)
 
 - [2018-12-31] [Department of Fiscal Policy - Regulations of the Finance (Levy on Short Message Services) w.e.f. 01.01.2019](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2104-16)
 - [2018-12-31] [Land Acquisition - Compensation for the acquisitions of the land in Akurana D/S Division, Kandy District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2104-15)

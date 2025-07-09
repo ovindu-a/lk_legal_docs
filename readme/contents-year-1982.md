@@ -1,4 +1,4 @@
-# 1982
+# 1982 (38 Documents)
 
 - [1982-12-31] [Colombo District (Low - lying Areas) Reclamation and Development Board (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1982/52-1982)
 - [1982-12-30] [Criminal Procedure (Special Provisions) (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1982/51-1982)

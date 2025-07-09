@@ -1,4 +1,4 @@
-# 1989
+# 1989 (6 Documents)
 
 - [1989-12-30] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1989/18-1989)
 - [1989-11-22] [Age of Majority (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1989/17-1989)

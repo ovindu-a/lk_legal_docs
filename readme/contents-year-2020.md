@@ -1,4 +1,4 @@
-# 2020
+# 2020 (2,361 Documents)
 
 - [2020-12-31] [Presidential Secretariat - Establishment of a Presidential Task Force for Notional Deployment and Vaccination Plan for Covid-19 Vaccine](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2020/2208-33)
 - [2020-12-31] [State Ministry of Gem and Jewellery Related Industries - Order to acquire the Land in D/S Division, Colombo](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2020/2208-32)

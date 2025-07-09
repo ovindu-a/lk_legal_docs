@@ -1,4 +1,4 @@
-# 1983
+# 1983 (54 Documents)
 
 - [1983-12-29] [Sri Jayewardenepura General Hospital Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1983/54-1983)
 - [1983-12-29] [Rehabilitation Levy](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1983/53-1983)

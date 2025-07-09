@@ -1,4 +1,4 @@
-# 1990
+# 1990 (47 Documents)
 
 - [1990-12-28] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1990/48-1990)
 - [1990-12-19] [Parliamentary Pensions (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1990/47-1990)

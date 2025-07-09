@@ -1,4 +1,4 @@
-# 1988
+# 1988 (68 Documents)
 
 - [1988-12-18] [Civil Procedure Code (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1988/79-1988)
 - [1988-12-18] [Finance Companies](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1988/78-1988)

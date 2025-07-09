@@ -1,4 +1,4 @@
-# 2013
+# 2013 (2,267 Documents)
 
 - [2013-12-31] [Department of Elections - Elected Mr. Bandu Ranawaka as a Member of the Southern Provincial Council from the Administrative District of Matara](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2013/1843-25)
 - [2013-12-31] [Department of Elections - Elected Mr. K. N. Peris as Chairman of the Medawachchiya P/S](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2013/1843-24)

@@ -1,4 +1,4 @@
-# 1987
+# 1987 (47 Documents)
 
 - [1987-12-30] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1987/51-1987)
 - [1987-12-24] [Superior Courts Complex Board of Management](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1987/50-1987)

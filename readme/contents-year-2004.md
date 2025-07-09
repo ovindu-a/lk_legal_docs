@@ -1,4 +1,4 @@
-# 2004
+# 2004 (15 Documents)
 
 - [2004-12-21] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2004/15-2004)
 - [2004-11-18] [Elections (Special Provinces)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2004/14-2004)

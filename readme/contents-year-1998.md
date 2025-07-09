@@ -1,4 +1,4 @@
-# 1998
+# 1998 (47 Documents)
 
 - [1998-12-02] [Institute of Mass Communication (Incorporation) Act](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1998/55-1998)
 - [1998-11-27] [Maintenance Claims (Reciprocal Enforcement)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1998/54-1998)

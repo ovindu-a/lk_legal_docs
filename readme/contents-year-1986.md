@@ -1,4 +1,4 @@
-# 1986
+# 1986 (41 Documents)
 
 - [1986-12-02] [Insurance (Special Provisions) (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1986/44-1986)
 - [1986-12-02] [Control of Insurance (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1986/42-1986)

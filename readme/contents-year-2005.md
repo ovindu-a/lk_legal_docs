@@ -1,4 +1,4 @@
-# 2005
+# 2005 (39 Documents)
 
 - [2005-12-30] [Appropriation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2005/39-2005)
 - [2005-11-30] [Tourism](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2005/38-2005)

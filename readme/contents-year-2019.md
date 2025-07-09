@@ -1,4 +1,4 @@
-# 2019
+# 2019 (3,520 Documents)
 
 - [2019-12-31] [Election Commission - A member of the Trincomalee Town & Gravets Pradeshiya Sabha has vacated his office of member](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2156-17)
 - [2019-12-31] [Consumer Affairs Authority - Directs that maximum retail price, batch number etc., shall be legibly printed on packs, containers or on wrappers of all articles/goods](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2156-16)

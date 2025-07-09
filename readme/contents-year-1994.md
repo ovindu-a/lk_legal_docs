@@ -1,4 +1,4 @@
-# 1994
+# 1994 (24 Documents)
 
 - [1994-12-30] [Parliamentary Commissioner for Administration (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1994/26-1994)
 - [1994-12-30] [Defence Levy (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1994/25-1994)

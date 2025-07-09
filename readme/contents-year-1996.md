@@ -1,4 +1,4 @@
-# 1996
+# 1996 (18 Documents)
 
 - [1996-08-02] [Southern Development Authority of Sri Lanka](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1996/18-1996)
 - [1996-07-26] [Social Security Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1996/17-1996)

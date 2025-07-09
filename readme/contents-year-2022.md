@@ -1,4 +1,4 @@
-# 2022
+# 2022 (3,714 Documents)
 
 - [2022-12-31] [Department of Fiscal Policy - Order made under Section 5 of the Stamp Duty (Special Provision) Act, No. 12 of 2006](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-73)
 - [2022-12-31] [Colombo Municipal Council - Revision of rates relating to the Parking of Vehicles published by the Extraordinary Gaz. No. 2029/29 of 26.07.2017](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-72)

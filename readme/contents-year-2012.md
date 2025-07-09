@@ -1,4 +1,4 @@
-# 2012
+# 2012 (1,353 Documents)
 
 - [2012-12-31] [Land Acquisition - Neelagama D/S Division Pelmadulla, Ratnapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2012/1791-11)
 - [2012-12-31] [Western Province - Regulations for the Payment of Allowances fo the Chairman, Deputy Chairman & Councillors of U/C, Mayor, Deputy Mayor & Members of the M/C and Chairman, Deputy Chairman & Councillors of the P/S of Western Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2012/1791-10)

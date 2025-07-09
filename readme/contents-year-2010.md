@@ -1,4 +1,4 @@
-# 2010
+# 2010 (892 Documents)
 
 - [2010-12-31] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2010/2010-12-31-legal-section)
 - [2010-12-31] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2010/2010-12-31-iv-b-local-government)

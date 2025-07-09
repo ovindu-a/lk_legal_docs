@@ -1,4 +1,4 @@
-# 2023
+# 2023 (3,632 Documents)
 
 - [2023-12-31] [Office of the Constitutional Council - Constitutional Council Rules No. 01 of 2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2023/2364-40)
 - [2023-12-31] [Kolonna Pradeshiya Sabha - Declared as Roads and Lanes Owned by the Kolonna Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2023/2364-39)

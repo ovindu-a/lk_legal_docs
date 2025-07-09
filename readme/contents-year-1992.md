@@ -1,4 +1,4 @@
-# 1992
+# 1992 (65 Documents)
 
 - [1992-12-31] [Jana Sahana Foundation (Incorporation)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1992/71-1992)
 - [1992-12-31] [Rathgama Development Foundation (Incorporation)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/1992/70-1992)

@@ -1,4 +1,4 @@
-# 2024
+# 2024 (3,155 Documents)
 
 - [2024-12-31] [Appropriation - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2024/567-2025)
 - [2024-12-31] [Ministry of Energy - Ceylon Petroleum Cooperation Act 28 of 1961 Revise the Fuel Price](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2417-21)

@@ -1,4 +1,4 @@
-# 2025
+# 2025 (1,589 Documents)
 
 - [2025-07-08] [Penal Code (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/618-2025)
 - [2025-07-07] [Presidential Secretariat - Appointed Secretary to the Ministry Finance Planning and Economic Development](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-09)

@@ -1,4 +1,4 @@
-# 2006
+# 2006 (158 Documents)
 
 - [2006-12-29] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2006/2006-12-29-iib-advertising)
 - [2006-12-29] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2006/2006-12-29-i-general)
