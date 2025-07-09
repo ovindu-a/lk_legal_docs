@@ -44,7 +44,8 @@ class ReadMeContents:
             url = ReadMeContents.__build_contents__(
                 label, x, doc_list_for_x, display_key
             )
-            lines.append(f"- [{display_key}]({url})")
+            n = len(doc_list_for_x)
+            lines.append(f"- [{display_key}]({url}) ({n:,} documents)")
         lines.append("")
         return lines
 
@@ -60,6 +61,6 @@ class ReadMeContents:
                 lambda doc: doc.get_doc_type_name_long_with_emoji(),
             )
             + ReadMeContents.__get_contents_by_x__(
-                "year", lambda doc: doc.year
+                "decade", lambda doc: doc.decade
             )
         )
