@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-09 16:38:10**.*
+*Last Updated **2025-07-09 17:03:42**.*
 
 **43,967** documents (40.9 MB), from 1981-01-22 to 2025-07-08.
 
@@ -39,58 +39,18 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 ### By Document Type
 
-- [✍️ Bills](readme/contents-document-type-bills.md)
-- [🚨 Extraordinary Gazettes](readme/contents-document-type-extra-gazettes.md)
-- [📢 Gazettes](readme/contents-document-type-gazettes.md)
-- [🏛️ Acts](readme/contents-document-type-acts.md)
+- [✍️ Bills](readme/contents-document-type-bills.md) (1,348 documents)
+- [🚨 Extraordinary Gazettes](readme/contents-document-type-extra-gazettes.md) (34,705 documents)
+- [📢 Gazettes](readme/contents-document-type-gazettes.md) (6,267 documents)
+- [🏛️ Acts](readme/contents-document-type-acts.md) (1,647 documents)
 
-### By Year
+### By Decade
 
-- [2025](readme/contents-year-2025.md)
-- [2024](readme/contents-year-2024.md)
-- [2023](readme/contents-year-2023.md)
-- [2022](readme/contents-year-2022.md)
-- [2021](readme/contents-year-2021.md)
-- [2020](readme/contents-year-2020.md)
-- [2019](readme/contents-year-2019.md)
-- [2018](readme/contents-year-2018.md)
-- [2017](readme/contents-year-2017.md)
-- [2016](readme/contents-year-2016.md)
-- [2015](readme/contents-year-2015.md)
-- [2014](readme/contents-year-2014.md)
-- [2013](readme/contents-year-2013.md)
-- [2012](readme/contents-year-2012.md)
-- [2011](readme/contents-year-2011.md)
-- [2010](readme/contents-year-2010.md)
-- [2009](readme/contents-year-2009.md)
-- [2008](readme/contents-year-2008.md)
-- [2007](readme/contents-year-2007.md)
-- [2006](readme/contents-year-2006.md)
-- [2005](readme/contents-year-2005.md)
-- [2004](readme/contents-year-2004.md)
-- [2003](readme/contents-year-2003.md)
-- [2002](readme/contents-year-2002.md)
-- [2001](readme/contents-year-2001.md)
-- [2000](readme/contents-year-2000.md)
-- [1999](readme/contents-year-1999.md)
-- [1998](readme/contents-year-1998.md)
-- [1997](readme/contents-year-1997.md)
-- [1996](readme/contents-year-1996.md)
-- [1995](readme/contents-year-1995.md)
-- [1994](readme/contents-year-1994.md)
-- [1993](readme/contents-year-1993.md)
-- [1992](readme/contents-year-1992.md)
-- [1991](readme/contents-year-1991.md)
-- [1990](readme/contents-year-1990.md)
-- [1989](readme/contents-year-1989.md)
-- [1988](readme/contents-year-1988.md)
-- [1987](readme/contents-year-1987.md)
-- [1986](readme/contents-year-1986.md)
-- [1985](readme/contents-year-1985.md)
-- [1984](readme/contents-year-1984.md)
-- [1983](readme/contents-year-1983.md)
-- [1982](readme/contents-year-1982.md)
-- [1981](readme/contents-year-1981.md)
+- [2020s](readme/contents-decade-2020s.md) (17,758 documents)
+- [2010s](readme/contents-decade-2010s.md) (24,451 documents)
+- [2000s](readme/contents-decade-2000s.md) (1,015 documents)
+- [1990s](readme/contents-decade-1990s.md) (339 documents)
+- [1980s](readme/contents-decade-1980s.md) (404 documents)
 
 ## Latest Documents
 
