@@ -4,7 +4,7 @@ import time
 
 from utils import Log
 
-from lld import AbstractDoc, DocFactory, ReadMe
+from lld import AbstractDoc, DocFactory
 
 DEFAULT_MAX_DELTA_T = 600
 
