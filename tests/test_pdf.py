@@ -14,7 +14,7 @@ class TestCase(unittest.TestCase):
         if os.path.exists(output_path):
             os.remove(output_path)
 
-        PDF.compress(TEST_PDF_PATH, output_path)
+        PDF(TEST_PDF_PATH).compress(output_path)
 
         size_before = os.path.getsize(TEST_PDF_PATH)
         size_after = os.path.getsize(output_path)
@@ -22,7 +22,18 @@ class TestCase(unittest.TestCase):
         self.assertEqual(size_before, 339_235)
         self.assertLess(size_after, size_before * 0.75)
 
-        PDF.compress(output_path, output_path)
+        PDF(output_path).compress()
         size_after_again = os.path.getsize(output_path)
         self.assertLess(size_after_again, size_after * 1.1)
         self.assertGreater(size_after_again, size_after * 0.9)
+
+    def test_extract_text(self):
+        output_txt_path = os.path.join(
+            "tests", "test_data", "test-extracted.txt"
+        )
+        if os.path.exists(output_txt_path):
+            os.remove(output_txt_path)
+
+        PDF(TEST_PDF_PATH).exctract_text(output_txt_path)
+        file_size = os.path.getsize(output_txt_path)
+        self.assertEqual(file_size, 24_076)

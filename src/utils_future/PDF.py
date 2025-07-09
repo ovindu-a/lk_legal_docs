@@ -3,12 +3,18 @@ import shutil
 import tempfile
 
 import pymupdf
-from utils import Log
+from pypdf import PdfReader
+from utils import File, Log
 
 log = Log("PDF")
 
 
 class PDF:
+
+    def __init__(self, pdf_path):
+        assert os.path.exists(pdf_path)
+        assert pdf_path.endswith(".pdf")
+        self.pdf_path = pdf_path
 
     @staticmethod
     def __compress_with_pymupdf__(input_path, output_path):
@@ -38,11 +44,11 @@ class PDF:
         doc.subset_fonts()
         doc.ez_save(output_path)
 
-    @staticmethod
-    def compress(input_path, output_path):
-        assert os.path.exists(input_path)
-        assert input_path.endswith(".pdf")
+    def compress(self, output_path=None):
+        output_path = output_path or self.pdf_path
         assert output_path.endswith(".pdf")
+
+        input_path = self.pdf_path
 
         temp_pdf_path = None
         if input_path == output_path:
@@ -73,3 +79,16 @@ class PDF:
             log.warning("Compression did not reduce size. Reverting.")
             shutil.copy(input_path, output_path)
             return
+
+    def exctract_text(self, txt_path):
+        reader = PdfReader(self.pdf_path)
+
+        sections = []
+        for i_page, page in enumerate(reader.pages, start=1):
+            sections.append(f"\n\n<!-- page {i_page} -->\n\n")
+            sections.append(page.extract_text() or "")
+
+        content = "".join(sections)
+        File(txt_path).write(content)
+        file_size_k = os.path.getsize(txt_path) / 1_000
+        log.debug(f"Wrote {txt_path} ({file_size_k:.0f} KB)")

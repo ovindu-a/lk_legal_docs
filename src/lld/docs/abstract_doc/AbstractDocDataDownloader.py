@@ -56,7 +56,7 @@ class AbstractDocDataDownloader:
             os.makedirs(self.dir_temp_data, exist_ok=True)
             if AbstractDocDataDownloader.__download__(url, file_path):
                 did_hot_download = True
-                PDF.compress(file_path, file_path)
+                PDF(file_path).compress()
         return did_hot_download
 
     def copy_metadata_to_temp_data(self):
