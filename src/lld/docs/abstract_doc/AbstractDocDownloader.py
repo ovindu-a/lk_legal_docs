@@ -27,9 +27,7 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(
-            AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data
-        )
+        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -69,9 +67,7 @@ class AbstractDocDownloader:
 
     @staticmethod
     def __gen_year_dirs__():
-        for (
-            doc_type_dir
-        ) in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+        for doc_type_dir in AbstractDocDownloader.__gen_doc_type_dir_paths__():
             for year in os.listdir(doc_type_dir):
                 year_dir = os.path.join(doc_type_dir, year)
                 if not os.path.isdir(year_dir):
@@ -114,6 +110,7 @@ class AbstractDocDownloader:
         if not os.path.exists(self.dir_temp_data):
             os.makedirs(self.dir_temp_data, exist_ok=True)
         shutil.copyfile(metadata_file_path, temp_metadata_file_path)
+        log.debug(f"Wrote {temp_metadata_file_path}")
 
     @staticmethod
     def build_json(d_list):
