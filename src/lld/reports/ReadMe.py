@@ -2,7 +2,7 @@ import shutil
 
 from utils import File, Log, Time, TimeFormat
 
-from lld.docs import AbstractDoc, DocFactory
+from lld.docs import DocFactory
 from lld.reports.ChartDocumentCountByTime import ChartDocumentCountByTime
 from lld.www_common import WebPage
 from utils_future import Lang, Markdown
@@ -24,7 +24,7 @@ class ReadMe:
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
         self.max_date = max(dates)
-        self.temp_data_summary = AbstractDoc.get_temp_data_summary()
+        self.temp_data_summary = DocFactory.get_temp_data_summary()
 
     def get_doc_legend(self):
         doc_cls_list = DocFactory.cls_list_all()

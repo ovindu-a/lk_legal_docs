@@ -2,9 +2,8 @@ from utils import Log
 
 from lld.docs.abstract_doc.AbstractDocBase import AbstractDocBase
 from lld.docs.abstract_doc.AbstractDocExtractText import AbstractDocExtractText
-from lld.docs.abstract_doc.AbstractDocPDFDownloader import (
-    AbstractDocPDFDownloader,
-)
+from lld.docs.abstract_doc.AbstractDocPDFDownloader import \
+    AbstractDocPDFDownloader
 from lld.docs.abstract_doc.AbstractDocSerializer import AbstractDocSerializer
 
 log = Log("AbstractDoc")

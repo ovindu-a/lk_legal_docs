@@ -19,8 +19,10 @@ def downloader(max_delta_t):
 
     t_start = time.time()
     doc_list = DocFactory.list_all()
-
+    n_doc_list = len(doc_list)
+    log.debug(f"{n_doc_list=}")
     for doc in doc_list:
+        log.debug(f"Processing {doc.id}...")
         doc.copy_metadata_to_temp_data()
         doc.download_all_pdfs()
         doc.extract_text()
@@ -38,7 +40,7 @@ def downloader(max_delta_t):
 
 def main(max_delta_t):
     downloader(max_delta_t)
-    AbstractDoc.build_pdf_download_summary()
+    DocFactory.build_temp_data_summary()
     ReadMe().build()
 
 

@@ -3,6 +3,7 @@ from functools import cache
 
 from utils import JSONFile, Log, TSVFile
 
+from lld.docs.abstract_doc import AbstractDoc
 from lld.docs.custom_docs import Act, Bill, ExtraGazette, Gazette
 from utils_future import Directory
 
@@ -131,3 +132,27 @@ class DocFactory:
     @staticmethod
     def get_total_data_size():
         return Directory("data").size
+
+    @staticmethod
+    def build_temp_data_summary():
+        doc_list = DocFactory.list_all()
+        d = dict(
+            n_docs=len(doc_list),
+            n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
+            n_pdfs=sum(d.n_pdfs for d in doc_list),
+            total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
+        )
+        log.debug(f"{d=}")
+
+        for json_path in [
+            AbstractDoc.DATA_SUMMARY_JSON_PATH,
+            AbstractDoc.TEMP_DATA_SUMMARY_JSON_PATH,
+        ]:
+            JSONFile(json_path).write(d)
+            log.info(f"Wrote {json_path}")
+
+    @staticmethod
+    @cache
+    def get_temp_data_summary():
+        assert os.path.exists(AbstractDoc.DATA_SUMMARY_JSON_PATH)
+        return JSONFile(AbstractDoc.DATA_SUMMARY_JSON_PATH).read()
