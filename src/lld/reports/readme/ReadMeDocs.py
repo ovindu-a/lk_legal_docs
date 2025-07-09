@@ -76,13 +76,18 @@ class ReadMeDocs:
 
         footer_lines = [""]
         if n > n_sample:
-            footer_lines = [
+            count_line = f"*(Uniformly Spaced Sample of {
+    n_sample:,} from {
+        n:,})*",
+        else:
+            count_line = f"*(Total {n:,} Documents)*"
+        return (
+            [
+                title,
                 "",
-                f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*",
+                count_line,
                 "",
             ]
-        return (
-            [title, ""]
             + [ReadMeDocs.get_doc_md(doc) for doc in sampled_doc_list]
             + footer_lines
         )
@@ -96,4 +101,3 @@ class ReadMeDocs:
             "## Recent Documents"
             + f" (Published during the last {delta_days} days)",
             recent_doc_list,
-        )
