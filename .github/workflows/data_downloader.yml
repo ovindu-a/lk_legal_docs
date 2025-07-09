@@ -1,4 +1,4 @@
-name: pdf_downloader
+name: data_downloader
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
     - cron: "*/15 * * * *"
 
 jobs:
-  pdf_downloader:
+  data_downloader:
     runs-on: ubuntu-latest
 
     steps:
@@ -48,13 +48,13 @@ jobs:
           git clone https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
           ls /tmp/lk_legal_docs_data/
 
-      - name: "python workflows/pdf_downloader.py"
+      - name: "python workflows/data_downloader.py"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          python workflows/pdf_downloader.py ${{ github.event.inputs.max_delta_t }}
+          python workflows/data_downloader.py ${{ github.event.inputs.max_delta_t }}
 
       - name: Push
         run: |
@@ -63,7 +63,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "🤖 [pdf_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [data_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
 
@@ -78,6 +78,6 @@ jobs:
             echo "No changes to commit in lk_legal_docs_data."
             exit 0
           fi
-          git commit -m "🤖 [pdf_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
+          git commit -m "🤖 [data_downloader.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
