@@ -53,10 +53,11 @@ class DocFactory:
     @classmethod
     def __get_metadata_file_path_lists__(cls):
         file_path_lists = []
-        for file_name, _, dir_path in os.walk(AbstractDoc.DIR_DATA):
-            if file_name == "metadata.json":
-                file_path = os.path.join(dir_path, file_name)
-                file_path_lists.append(file_path)
+        for file_names, _, dir_path in os.walk(AbstractDoc.DIR_DATA):
+            for file_name in file_names:
+                if file_name == "metadata.json":
+                    file_path = os.path.join(dir_path, file_name)
+                    file_path_lists.append(file_path)
         return file_path_lists
 
     @staticmethod
@@ -67,6 +68,7 @@ class DocFactory:
         ) in DocFactory.__get_metadata_file_path_lists__():
             doc = DocFactory.from_file(metadata_file_path)
             doc_list.append(doc)
+
         doc_list.sort(key=lambda x: (x.date, x.doc_num), reverse=True)
         log.debug(f"Found {len(doc_list):,} docs (all types).")
         return doc_list

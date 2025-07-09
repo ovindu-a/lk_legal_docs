@@ -52,7 +52,6 @@ class WebPage:
             return File(self.local_content_path).read()
         content = self.content_hot
         File(self.local_content_path).write(content)
-        self.log.debug(f" -> {self.local_content_path}")
         return content
 
     @staticmethod
