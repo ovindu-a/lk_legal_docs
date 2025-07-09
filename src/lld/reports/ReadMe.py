@@ -66,6 +66,7 @@ class ReadMe:
                     parts.append(
                         f"[`{lang.short_name}-txt`]({remote_txt_path})"
                     )
+        parts.append(f"[all]({doc.get_remote_data_url()})")
 
         return " ".join(parts)
 
