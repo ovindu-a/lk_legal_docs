@@ -14,6 +14,8 @@ class AbstractDocBase:
     description: str
     lang_to_source_url: dict[str, str]
 
+    DIR_DATA = "data"
+
     @cached_property
     def datetime(self):
         return datetime.strptime(self.date, "%Y-%m-%d")
@@ -48,7 +50,7 @@ class AbstractDocBase:
 
     @classmethod
     def get_doc_type_dir(cls):
-        return os.path.join("data", cls.get_doc_type_name())
+        return os.path.join(cls.DIR_DATA, cls.get_doc_type_name())
 
     def has_sources(self):
         return len(self.lang_to_source_url) > 0

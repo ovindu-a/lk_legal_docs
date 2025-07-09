@@ -11,9 +11,11 @@ log = Log("DocFactory")
 
 
 class DocFactory:
-    ALL_TSV_PATH = os.path.join("data", "all.tsv")
+    ALL_TSV_PATH = os.path.join(AbstractDoc.DIR_DATA, "all.tsv")
     N_LATEST = 100
-    LATEST_TSV_PATH = os.path.join("data", f"latest-{N_LATEST}.tsv")
+    LATEST_TSV_PATH = os.path.join(
+        AbstractDoc.DIR_DATA, f"latest-{N_LATEST}.tsv"
+    )
 
     @staticmethod
     def cls_list_all():
@@ -108,7 +110,7 @@ class DocFactory:
 
     @staticmethod
     def get_total_data_size():
-        return Directory("data").size
+        return Directory(AbstractDoc.DIR_DATA).size
 
     @staticmethod
     def build_temp_data_summary():
