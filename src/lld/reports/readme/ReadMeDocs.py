@@ -1,0 +1,98 @@
+import os
+
+from utils_future import Lang, Markdown
+
+
+class ReadMeDocs:
+    @staticmethod
+    def __sample__(items, n_document_display):
+        n = len(items)
+        sampled_items = []
+        for i in range(0, n_document_display + 1):
+            j = int((n - 1) * i / n_document_display)
+            item = items[j]
+            sampled_items.append(item)
+        return sampled_items
+
+    @staticmethod
+    def get_data(doc):
+        parts = []
+
+        for lang in Lang.list_all():
+            if lang.code in doc.lang_to_source_url:
+                source_url = doc.lang_to_source_url.get(lang.code)
+                parts.append(f"[`{lang.short_name}-src`]({source_url})")
+
+                pdf_path = doc.get_pdf_path(lang.code)
+                if os.path.exists(pdf_path):
+                    remote_pdf_path = doc.get_remote_pdf_path(lang.code)
+                    parts.append(
+                        f"[`{lang.short_name}-pdf`]({remote_pdf_path})"
+                    )
+
+                txt_path = doc.get_txt_path(lang.code)
+                if os.path.exists(txt_path):
+                    remote_txt_path = doc.get_remote_txt_path(lang.code)
+                    parts.append(
+                        f"[`{lang.short_name}-txt`]({remote_txt_path})"
+                    )
+                parts.append("<br/>")
+
+        parts.append(f"[`metadata`]({doc.get_remote_metadata_path()})")
+        parts.append(f"[`all`]({doc.remote_data_url})")
+
+        return " ".join(parts)
+
+    @staticmethod
+    def get_d_list(doc_list):
+        d_list = []
+        for doc in doc_list:
+            d = dict(
+                type=doc.get_emoji(),
+                date=doc.date,
+                title=doc.description_cleaned,
+                data=ReadMeDocs.get_data(doc),
+            )
+            d_list.append(d)
+        return d_list
+
+    @staticmethod
+    def __get_lines_for_docs__(title, doc_list, n_sample):
+        n = len(doc_list)
+        sampled_doc_list = (
+            ReadMeDocs.__sample__(doc_list, n_sample)
+            if n > n_sample
+            else doc_list
+        )
+        d_list = ReadMeDocs.get_d_list(sampled_doc_list)
+        footer_lines = [""]
+        if n > n_sample:
+            footer_lines = [
+                "",
+                f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*",
+                "",
+            ]
+        return [title, ""] + Markdown.table(d_list) + footer_lines
+
+    def get_lines_for_latest_docs(self):
+        return ReadMeDocs.__get_lines_for_docs__(
+            "## Latest Documents", self.doc_list[:30], n_sample=30
+        )
+
+    def get_lines_for_sample_docs(self):
+        return ReadMeDocs.__get_lines_for_docs__(
+            "## All Documents", self.doc_list, n_sample=30
+        )
+
+    def get_sunday_docs(self):
+        return [doc for doc in self.doc_list if doc.weekday == "7-Sun"]
+
+    def get_lines_for_interesting_docs(self):
+        return [
+            "## Interesting Documents",
+            "",
+        ] + ReadMeDocs.__get_lines_for_docs__(
+            "### Documents Published on a Sunday",
+            self.get_sunday_docs(),
+            n_sample=10,
+        )

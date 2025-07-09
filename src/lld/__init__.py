@@ -4,6 +4,7 @@
 from lld.docs import (AbstractDoc, AbstractDocBase, AbstractDocDataDownloader,
                       AbstractDocExtractText, AbstractDocSerializer, Act, Bill,
                       DocFactory, ExtraGazette, Gazette)
-from lld.reports import ChartDocumentCountByTime, ReadMe
+from lld.reports import (ChartDocumentCountByTime, ReadMe, ReadMeDocs,
+                         ReadMeSummary)
 from lld.www import AbstractScraper, ByYearPage, ForYearPage, GazettePages
 from lld.www_common import WebPage
