@@ -45,6 +45,10 @@ class AbstractDocBase:
         return self.datetime.strftime("%u-%a")
 
     @cached_property
+    def age_days(self) -> int:
+        return (datetime.now() - self.datetime).days
+
+    @cached_property
     def id(self):
         return self.doc_num.replace("/", "-")
 
