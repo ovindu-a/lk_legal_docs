@@ -19,7 +19,8 @@ class TestCase(unittest.TestCase):
                 "date": "1981-01-22",
                 "description": "Parliamentary Elections",
                 "lang_to_source_url": {
-                    "si": "https://documents.gov.lk/view/acts/1981/1/01-1981_S.pdf"
+                    "si": "https://documents.gov.lk"
+                    + "/view/acts/1981/1/01-1981_S.pdf"
                 },
                 "doc_num": "01/1981",
                 "id": "01-1981",
