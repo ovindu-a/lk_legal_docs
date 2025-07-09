@@ -111,6 +111,17 @@ class DocFactory:
         return doc_list
 
     @staticmethod
+    def x_to_list_all(func_get_key):
+        doc_list = DocFactory.list_all()
+        doc_type_dict = {}
+        for doc in doc_list:
+            key = func_get_key(doc)
+            if key not in doc_type_dict:
+                doc_type_dict[key] = []
+            doc_type_dict[key].append(doc)
+        return doc_type_dict
+
+    @staticmethod
     def get_total_data_size():
         return Directory(AbstractDoc.DIR_DATA).size
 

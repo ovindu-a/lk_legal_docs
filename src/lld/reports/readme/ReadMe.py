@@ -1,3 +1,5 @@
+import os
+
 from utils import File, Log, Time, TimeFormat
 
 from lld.docs import DocFactory
@@ -9,8 +11,30 @@ log = Log("ReadMe")
 
 
 class ReadMeContents:
+    DIR_README = "readme"
+
+    @staticmethod
+    def __build_contents__(label, x, doc_list_for_x):
+        os.makedirs(ReadMeContents.DIR_README, exist_ok=True)
+        contents_path = os.path.join(
+            ReadMeContents.DIR_README, f"contents-{label}-{x}.md"
+        )
+        return contents_path
+
+    @staticmethod
+    def __get_contents_by_x__(label, func_get_key):
+        x_to_doc_list = DocFactory.x_to_list_all(func_get_key)
+        lines = [f"By {label.title()}", ""]
+        for x, doc_list_for_x in x_to_doc_list.items():
+            url = ReadMeContents.__build_contents__(label, x, doc_list_for_x)
+            lines.append(f"- [{x}]({url})")
+        lines.append("")
+        return lines
+
     def get_lines_for_contents(self):
-        return []
+        return ["## Contents", ""] + ReadMeContents.__get_contents_by_x__(
+            "year", lambda doc: doc.year
+        )
 
 
 class ReadMe(ReadMeDocs, ReadMeSummary):
