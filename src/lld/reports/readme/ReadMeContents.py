@@ -40,7 +40,7 @@ class ReadMeContents:
 
         lines.append("")
         File(contents_path).write("\n".join(lines))
-        return contents_path
+        return "../" + contents_path
 
     @staticmethod
     def __build_contents__(label, x, doc_list_for_x, display_key):
