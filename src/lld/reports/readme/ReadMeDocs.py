@@ -93,7 +93,7 @@ class ReadMeDocs:
 
     def get_lines_for_sample_docs(self):
         return ReadMeDocs.__get_lines_for_docs__(
-            "## All Documents", self.doc_list, n_sample=0
+            "## All Documents", self.doc_list, n_sample=10
         )
 
     def get_sunday_docs(self):
