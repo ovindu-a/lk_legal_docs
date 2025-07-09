@@ -4,8 +4,8 @@
 from lld.docs import (
     AbstractDoc,
     AbstractDocBase,
-    AbstractDocDownloader,
     AbstractDocExtractText,
+    AbstractDocPDFDownloader,
     AbstractDocSerializer,
     Act,
     Bill,

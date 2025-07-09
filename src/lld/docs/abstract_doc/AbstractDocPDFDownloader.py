@@ -8,10 +8,10 @@ from utils import JSONFile, Log
 from lld.www_common import WebPage
 from utils_future import PDF, Directory, Lang
 
-log = Log("AbstractDocDownloader")
+log = Log("AbstractDocPDFDownloader")
 
 
-class AbstractDocDownloader:
+class AbstractDocPDFDownloader:
 
     DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
 
@@ -27,7 +27,9 @@ class AbstractDocDownloader:
 
     @cached_property
     def dir_temp_data(self):
-        return os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, self.dir_data)
+        return os.path.join(
+            AbstractDocPDFDownloader.DIR_TEMP_DATA, self.dir_data
+        )
 
     def get_pdf_path(self, lang):
         return os.path.join(self.dir_temp_data, f"{lang}.pdf")
@@ -51,14 +53,14 @@ class AbstractDocDownloader:
             if os.path.exists(file_path):
                 continue
             os.makedirs(self.dir_temp_data, exist_ok=True)
-            if AbstractDocDownloader.__download__(url, file_path):
+            if AbstractDocPDFDownloader.__download__(url, file_path):
                 did_hot_download = True
                 PDF.compress(file_path, file_path)
         return did_hot_download
 
     @staticmethod
     def __gen_doc_type_dir_paths__():
-        dir_data = os.path.join(AbstractDocDownloader.DIR_TEMP_DATA, "data")
+        dir_data = os.path.join(AbstractDocPDFDownloader.DIR_TEMP_DATA, "data")
         for doc_type_name in os.listdir(dir_data):
             doc_type_dir = os.path.join(dir_data, doc_type_name)
             if not os.path.isdir(doc_type_dir):
@@ -67,7 +69,9 @@ class AbstractDocDownloader:
 
     @staticmethod
     def __gen_year_dirs__():
-        for doc_type_dir in AbstractDocDownloader.__gen_doc_type_dir_paths__():
+        for (
+            doc_type_dir
+        ) in AbstractDocPDFDownloader.__gen_doc_type_dir_paths__():
             for year in os.listdir(doc_type_dir):
                 year_dir = os.path.join(doc_type_dir, year)
                 if not os.path.isdir(year_dir):
@@ -76,7 +80,7 @@ class AbstractDocDownloader:
 
     @staticmethod
     def __gen_dir_data_paths__():
-        for year_dir in AbstractDocDownloader.__gen_year_dirs__():
+        for year_dir in AbstractDocPDFDownloader.__gen_year_dirs__():
             for doc_id in os.listdir(year_dir):
                 dir_data = os.path.join(year_dir, doc_id)
                 if not os.path.isdir(dir_data):
@@ -86,7 +90,7 @@ class AbstractDocDownloader:
     @staticmethod
     def __get_temp_data_d_list__():
         d_list = []
-        for dir_data in AbstractDocDownloader.__gen_dir_data_paths__():
+        for dir_data in AbstractDocPDFDownloader.__gen_dir_data_paths__():
             metadata_file_path = os.path.join(dir_data, "metadata.json")
             d = JSONFile(metadata_file_path).read()
 
@@ -119,28 +123,28 @@ class AbstractDocDownloader:
             n_docs_with_pdfs=len([d for d in d_list if d["n_pdfs"] > 0]),
             n_pdfs=sum(d["n_pdfs"] for d in d_list),
             total_file_size=Directory(
-                AbstractDocDownloader.DIR_TEMP_DATA
+                AbstractDocPDFDownloader.DIR_TEMP_DATA
             ).size,
         )
         log.debug(f"{d=}")
 
         for json_path in [
-            AbstractDocDownloader.DATA_SUMMARY_JSON_PATH,
-            AbstractDocDownloader.TEMP_DATA_SUMMARY_JSON_PATH,
+            AbstractDocPDFDownloader.DATA_SUMMARY_JSON_PATH,
+            AbstractDocPDFDownloader.TEMP_DATA_SUMMARY_JSON_PATH,
         ]:
             JSONFile(json_path).write(d)
             log.info(f"Wrote {json_path}")
 
     @staticmethod
     def summarize_temp_data():
-        d_list = AbstractDocDownloader.__get_temp_data_d_list__()
-        AbstractDocDownloader.build_json(d_list)
+        d_list = AbstractDocPDFDownloader.__get_temp_data_d_list__()
+        AbstractDocPDFDownloader.build_json(d_list)
 
     @staticmethod
     @cache
     def get_temp_data_summary():
-        assert os.path.exists(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH)
-        return JSONFile(AbstractDocDownloader.DATA_SUMMARY_JSON_PATH).read()
+        assert os.path.exists(AbstractDocPDFDownloader.DATA_SUMMARY_JSON_PATH)
+        return JSONFile(AbstractDocPDFDownloader.DATA_SUMMARY_JSON_PATH).read()
 
     @cached_property
     def remote_data_url(self):
