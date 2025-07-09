@@ -48,35 +48,12 @@ class DocFactory:
         data = JSONFile(file_path).read()
         return DocFactory.from_dict(data)
 
-    @staticmethod
-    def __gen_dir_doc_type_list__():
-        for doc_type in os.listdir("data"):
-            dir_doc_type = os.path.join("data", doc_type)
-            if not os.path.isdir(dir_doc_type):
-                continue
-            yield dir_doc_type
-
-    @staticmethod
-    def __gen_dir_data_for_year_list__():
-        for dir_doc_type in DocFactory.__gen_dir_doc_type_list__():
-            for year in os.listdir(dir_doc_type):
-                dir_data_for_year = os.path.join(dir_doc_type, year)
-                if not os.path.isdir(dir_data_for_year):
-                    continue
-                yield dir_data_for_year
-
     @classmethod
     def __get_metadata_file_path_lists__(cls):
         file_path_lists = []
-        for dir_data_for_year in cls.__gen_dir_data_for_year_list__():
-            for child_dir in os.listdir(dir_data_for_year):
-                dir_data = os.path.join(dir_data_for_year, child_dir)
-                if not os.path.isdir(dir_data):
-                    continue
-                file_path = os.path.join(dir_data, "metadata.json")
-
-                if not os.path.exists(file_path):
-                    raise FileNotFoundError(f"⁉️ {file_path} is missing.")
+        for file_name, _, dir_path in os.walk(AbstractDoc.DIR_DATA):
+            if file_name == "metadata.json":
+                file_path = os.path.join(dir_path, file_name)
                 file_path_lists.append(file_path)
         return file_path_lists
 
