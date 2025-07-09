@@ -18,9 +18,7 @@ class ReadMe:
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = (
-            DocFactory.get_total_data_size() / 1_000_000.0
-        )
+        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
@@ -67,7 +65,7 @@ class ReadMe:
                     parts.append(
                         f"[`{lang.short_name}-txt`]({remote_txt_path})"
                     )
-                parts.append("<br/><br/>")
+                parts.append("<br/>")
 
         parts.append(f"[`metadata`]({doc.get_remote_metadata_path()})")
         parts.append(f"[`all`]({doc.remote_data_url})")
