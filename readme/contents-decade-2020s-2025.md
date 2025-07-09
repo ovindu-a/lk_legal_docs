@@ -1,6 +1,6 @@
 # 2020s - 2025
 
-**1,589** Documents
+**1,591** Documents
 
 ## 2025-07
 
@@ -93,6 +93,7 @@
 - 🏛️ [2025-06-20] [National Transport Commission (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/08-2025)
 - 🏛️ [2025-06-20] [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/07-2025)
 - ✍️ [2025-06-19] [Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/607-2025)
+- 🚨 [2025-06-19] [Land Title Settlement Dept. - Rathmalana, Rathmalana D/S Division, Colombo District - (7828)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-43)
 - 🚨 [2025-06-19] [Land Aquisition - Thambiliyana, Kuruwita D/S Division, Ratnapura District, Land Aquisition - Biyagama, Biyagama D/S Division, Gampaha District Sec-39 (1)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-34)
 - 🚨 [2025-06-19] [Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District - (25/0236)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-33)
 - 🚨 [2025-06-19] [Election Commission - Notice under Section 66B (1)(a) Appointed Gama Ethige Ariyadasa as a Chairman of the Balangoda Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-32)
@@ -475,6 +476,7 @@
 - 🚨 [2025-04-28] [Land Title Settlement Department Ã¢â¬â Sitinamaluwa East, Beliatta D/S/D, Hambantota District (25/5514053)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-08)
 - 🚨 [2025-04-28] [Land Title Settlement Department Ã¢â¬â Deshathra, Kaluthara D/S/D, Kaluthara District (25/5514052)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-07)
 - 🚨 [2025-04-28] [Land Title Settlement Department Ã¢â¬â Ellepola, Balangoda D/S/D, Rathnapura District (25/5514066)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-06)
+- 🚨 [2025-04-28] [Department of Fiscal policy - Notification under the Finance Act, No. 35 of 2018 Luxury Tax on Motor Vehicles](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-05)
 - 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â The Customs Ordinance (Chapter 235) Order Under Section 10 A](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-03)
 - 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â Revenue Protection Order No.02/2025Revenue Protection Act.No. 19 of 1962 Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-02)
 - 🚨 [2025-04-28] [Sri Lanka Customs Ã¢â¬â Rates of Exchange with effect from 28.04.2025 to 04.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-01)

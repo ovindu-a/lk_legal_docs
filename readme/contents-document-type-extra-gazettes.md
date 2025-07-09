@@ -1,6 +1,6 @@
 # 🚨 Extraordinary Gazettes
 
-**34,705** Documents
+**34,707** Documents
 
 - [2025](../readme/contents-document-type-extra-gazettes-2025.md)
 - [2024](../readme/contents-document-type-extra-gazettes-2024.md)

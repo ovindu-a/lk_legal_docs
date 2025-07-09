@@ -1,6 +1,6 @@
 # 2020s
 
-**17,758** Documents
+**17,760** Documents
 
 - [2025](../readme/contents-decade-2020s-2025.md)
 - [2024](../readme/contents-decade-2020s-2024.md)
