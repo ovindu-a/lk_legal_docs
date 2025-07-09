@@ -6,7 +6,7 @@ on:
       max_delta_t:
         description: "max_delta_t"
         required: false
-        default: "10"
+        default: "1"
   schedule:
     - cron: "*/15 * * * *"
 
