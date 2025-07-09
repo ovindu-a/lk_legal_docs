@@ -74,9 +74,8 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
             + self.get_lines_for_temp_data()
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
-            + self.get_lines_for_contents()
             + self.get_lines_for_recent_docs()
-            + self.get_lines_for_sample_docs()
+            + self.get_lines_for_contents()
         )
 
     def build(self):
