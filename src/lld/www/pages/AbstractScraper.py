@@ -3,10 +3,10 @@ import time
 
 from utils import Log
 
-log = Log("Abstractmetadata_scraper")
+log = Log("AbstractScraper")
 
 
-class Abstractmetadata_scraper:
+class AbstractScraper:
 
     def get_metadata_scraper_name(self):
         raise NotImplementedError

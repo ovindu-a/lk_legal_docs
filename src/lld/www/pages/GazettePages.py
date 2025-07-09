@@ -4,14 +4,14 @@ import re
 from utils import Log
 
 from lld.docs.custom_docs.Gazette import Gazette
-from lld.www.pages import Abstractmetadata_scraper
+from lld.www.pages import AbstractScraper
 from lld.www.pages.ForYearPage import ForYearPage
 from lld.www_common import WebPage
 
 log = Log("GazettePages")
 
 
-class GazettePages(Abstractmetadata_scraper):
+class GazettePages(AbstractScraper):
 
     BASE_URL = "https://documents.gov.lk/view/gazettes"
 
