@@ -80,8 +80,12 @@ class PDF:
             shutil.copy(input_path, output_path)
             return
 
-    def exctract_text(self, txt_path):
-        reader = PdfReader(self.pdf_path)
+    def extract_text(self, txt_path):
+        try:
+            reader = PdfReader(self.pdf_path)
+        except Exception as e:
+            log.error(f"Failed to read PDF {self.pdf_path}: {e}")
+            return
 
         sections = []
         for i_page, page in enumerate(reader.pages, start=1):
