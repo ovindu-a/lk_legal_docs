@@ -47,7 +47,7 @@ class ReadMe:
     def get_data(doc):
         parts = []
 
-        parts.append(f"[`metadata`]({doc.metadata_file_path})")
+        parts.append(f"[`metadata`]({doc.get_remote_metadata_path()})")
         for lang in Lang.list_all():
             if lang.code in doc.lang_to_source_url:
                 source_url = doc.lang_to_source_url[lang.code]
