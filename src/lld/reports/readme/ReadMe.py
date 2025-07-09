@@ -24,7 +24,7 @@ class ReadMeContents:
     @staticmethod
     def __get_contents_by_x__(label, func_get_key):
         x_to_doc_list = DocFactory.x_to_list_all(func_get_key)
-        lines = [f"By {label.title()}", ""]
+        lines = [f"### By {label.title()}", ""]
         for x, doc_list_for_x in x_to_doc_list.items():
             url = ReadMeContents.__build_contents__(label, x, doc_list_for_x)
             lines.append(f"- [{x}]({url})")
