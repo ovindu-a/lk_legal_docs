@@ -111,8 +111,7 @@ class DocFactory:
         return doc_list
 
     @staticmethod
-    def x_to_list_all(func_get_key):
-        doc_list = DocFactory.list_all()
+    def x_to_list_all(doc_list, func_get_key):
         doc_type_dict = {}
         for doc in doc_list:
             key = func_get_key(doc)

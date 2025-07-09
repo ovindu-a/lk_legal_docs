@@ -10,15 +10,26 @@ class ReadMeContents:
     DIR_README = "readme"
 
     @staticmethod
-    def __build_contents__(label, x, doc_list_for_x, display_key):
+    def __build_contents_for_year__(
+        label, x, doc_list_for_year, display_key, year
+    ):
 
         contents_path = os.path.join(
-            ReadMeContents.DIR_README, f"contents-{label}-{x}.md"
+            ReadMeContents.DIR_README, f"contents-{label}-{x}-{year}.md"
         )
-        n = len(doc_list_for_x)
+        n = len(doc_list_for_year)
 
-        lines = [f"# {display_key}", "", f"**{n:,}** Documents", ""]
-        for i_doc, doc in enumerate(doc_list_for_x, start=1):
+        lines = [
+            f"# {display_key} - {year}",
+            "",
+            f"**{n:,}** Documents",
+        ]
+        previous_year_and_month = None
+        for doc in doc_list_for_year:
+            year_and_month = doc.year_and_month
+            if previous_year_and_month != year_and_month:
+                lines.extend(["", f"## {year_and_month}", ""])
+                previous_year_and_month = year_and_month
             lines.append(
                 f"- {
                     doc.get_emoji()} [{
@@ -26,17 +37,37 @@ class ReadMeContents:
                     doc.description}]({
                     doc.remote_data_url})"
             )
-            if i_doc % 10 == 0:
-                lines.extend(["", "---", ""])
+
         lines.append("")
         File(contents_path).write("\n".join(lines))
         return contents_path
 
     @staticmethod
-    def __get_contents_by_x__(label, func_get_key, func_get_display_key=None):
+    def __build_contents__(label, x, doc_list_for_x, display_key):
+        contents_path = os.path.join(
+            ReadMeContents.DIR_README, f"contents-{label}-{x}.md"
+        )
+        n = len(doc_list_for_x)
+        lines = [f"# {display_key}", "", f"**{n:,}** Documents", ""]
+        year_to_doc_list = DocFactory.x_to_list_all(
+            doc_list_for_x, lambda d: d.year
+        )
+        for year, doc_list_for_year in year_to_doc_list.items():
+            url = ReadMeContents.__build_contents_for_year__(
+                label, x, doc_list_for_year, display_key, year
+            )
+            lines.append(f"- [{year}]({url})")
+
+        lines.append("")
+        File(contents_path).write("\n".join(lines))
+        return contents_path
+
+    def __get_contents_by_x__(
+        self, label, func_get_key, func_get_display_key=None
+    ):
         func_get_display_key = func_get_display_key or func_get_key
 
-        x_to_doc_list = DocFactory.x_to_list_all(func_get_key)
+        x_to_doc_list = DocFactory.x_to_list_all(self.doc_list, func_get_key)
         title_str = label.replace("-", " ").title()
         lines = [f"### By {title_str}", ""]
         for x, doc_list_for_x in x_to_doc_list.items():
@@ -50,17 +81,15 @@ class ReadMeContents:
         return lines
 
     def get_lines_for_contents(self):
-        if not os.path.exists(ReadMeContents.DIR_README):
+        if os.path.exists(ReadMeContents.DIR_README):
             shutil.rmtree(ReadMeContents.DIR_README, ignore_errors=True)
         os.makedirs(ReadMeContents.DIR_README, exist_ok=True)
         return (
             ["## Contents", ""]
-            + ReadMeContents.__get_contents_by_x__(
+            + self.__get_contents_by_x__(
                 "document-type",
                 lambda doc: doc.get_doc_type_name(),
                 lambda doc: doc.get_doc_type_name_long_with_emoji(),
             )
-            + ReadMeContents.__get_contents_by_x__(
-                "decade", lambda doc: doc.decade
-            )
+            + self.__get_contents_by_x__("decade", lambda doc: doc.decade)
         )
