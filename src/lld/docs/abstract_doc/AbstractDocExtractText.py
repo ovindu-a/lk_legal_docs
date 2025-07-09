@@ -26,4 +26,4 @@ class AbstractDocExtractText:
         if os.path.exists(txt_path):
             return
 
-        PDF(pdf_path).exctract_text(txt_path)
+        PDF(pdf_path).extract_text(txt_path)

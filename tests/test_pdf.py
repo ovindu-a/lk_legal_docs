@@ -8,9 +8,7 @@ TEST_PDF_PATH = os.path.join("tests", "test_data", "test.pdf")
 
 class TestCase(unittest.TestCase):
     def test_compress(self):
-        output_path = os.path.join(
-            "tests", "test_data", "test-compressed.pdf"
-        )
+        output_path = os.path.join("tests", "test_data", "test-compressed.pdf")
         if os.path.exists(output_path):
             os.remove(output_path)
 
@@ -34,6 +32,6 @@ class TestCase(unittest.TestCase):
         if os.path.exists(output_txt_path):
             os.remove(output_txt_path)
 
-        PDF(TEST_PDF_PATH).exctract_text(output_txt_path)
+        PDF(TEST_PDF_PATH).extract_text(output_txt_path)
         file_size = os.path.getsize(output_txt_path)
         self.assertEqual(file_size, 24_076)
