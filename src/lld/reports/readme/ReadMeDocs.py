@@ -1,9 +1,17 @@
 import os
 
-from utils_future import Lang, Markdown
+from utils_future import Lang
 
 
 class ReadMeDocs:
+    @staticmethod
+    def get_doc_md(doc):
+        return (
+            f"- {doc.get_emoji()}"
+            + f" [{doc.date}]"
+            + f" [{doc.description}]({doc.remote_data_url})"
+        )
+
     @staticmethod
     def __sample__(items, n_document_display):
         n = len(items)
@@ -64,7 +72,7 @@ class ReadMeDocs:
             if n > n_sample
             else doc_list
         )
-        d_list = ReadMeDocs.get_d_list(sampled_doc_list)
+
         footer_lines = [""]
         if n > n_sample:
             footer_lines = [
@@ -72,16 +80,20 @@ class ReadMeDocs:
                 f"*(Uniformly Spaced Sample of {n_sample:,} from {n:,})*",
                 "",
             ]
-        return [title, ""] + Markdown.table(d_list) + footer_lines
+        return (
+            [title, ""]
+            + [ReadMeDocs.get_doc_md(doc) for doc in sampled_doc_list]
+            + footer_lines
+        )
 
     def get_lines_for_latest_docs(self):
         return ReadMeDocs.__get_lines_for_docs__(
-            "## Latest Documents", self.doc_list[:30], n_sample=30
+            "## Latest Documents", self.doc_list[:10], n_sample=10
         )
 
     def get_lines_for_sample_docs(self):
         return ReadMeDocs.__get_lines_for_docs__(
-            "## All Documents", self.doc_list, n_sample=30
+            "## All Documents", self.doc_list, n_sample=0
         )
 
     def get_sunday_docs(self):

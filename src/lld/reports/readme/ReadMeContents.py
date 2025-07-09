@@ -4,6 +4,7 @@ import shutil
 from utils import File
 
 from lld.docs import DocFactory
+from lld.reports.readme.ReadMeDocs import ReadMeDocs
 
 
 class ReadMeContents:
@@ -30,13 +31,7 @@ class ReadMeContents:
             if previous_year_and_month != year_and_month:
                 lines.extend(["", f"## {year_and_month}", ""])
                 previous_year_and_month = year_and_month
-            lines.append(
-                f"- {
-                    doc.get_emoji()} [{
-                    doc.date}] [{
-                    doc.description}]({
-                    doc.remote_data_url})"
-            )
+            lines.append(ReadMeDocs.get_doc_md(doc))
 
         lines.append("")
         File(contents_path).write("\n".join(lines))
