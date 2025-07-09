@@ -92,3 +92,6 @@ class AbstractDocDataDownloader:
 
     def get_remote_txt_path(self, lang_code):
         return f"{self.remote_data_url}/{lang_code}.txt"
+
+    def get_remote_metadata_path(self):
+        return f"{self.remote_data_url}/metadata.json"
