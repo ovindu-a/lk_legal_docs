@@ -16,15 +16,8 @@ class AbstractDocExtractText:
         assert isinstance(lang_code, str)
         return os.path.join(self.dir_temp_data, f"{lang_code}.txt")
 
-    def __extract_text_for_lang__(self, lang_code):
-        pdf_path = self.get_pdf_path(lang_code)
-        if not os.path.exists(pdf_path):
-            return
-
-        txt_path = self.get_txt_path(lang_code)
-        if os.path.exists(txt_path):
-            return
-
+    @staticmethod
+    def __exctract_text_from_pdf__(pdf_path, txt_path):
         reader = PdfReader(pdf_path)
 
         sections = []
@@ -36,3 +29,14 @@ class AbstractDocExtractText:
         File(txt_path).write(content)
         file_size_k = os.path.getsize(txt_path) / 1_000
         log.debug(f"Wrote {txt_path} ({file_size_k:.0f} KB)")
+
+    def __extract_text_for_lang__(self, lang_code):
+        pdf_path = self.get_pdf_path(lang_code)
+        if not os.path.exists(pdf_path):
+            return
+
+        txt_path = self.get_txt_path(lang_code)
+        if os.path.exists(txt_path):
+            return
+
+        AbstractDocExtractText.__exctract_text_from_pdf__(pdf_path, txt_path)
