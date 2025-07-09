@@ -74,7 +74,7 @@ class ReadMeDocs:
             else doc_list
         )
 
-        count_line = f"*({n:,} Documents)*"
+        count_line = f"**{n:,}** Documents"
         if n > n_sample:
             count_line += f", uniformly sampled from {n:,}"
 
