@@ -70,6 +70,11 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
                 + " Lawyers & law students,"
                 + " Policy watchers & Citizens who want to stay informed",
                 "",
+                "🐞 **#WorkInProgress** - Suggestions, Questions, Ideas,"
+                + " [Bug Reports]"
+                + "(https://github.com/nuuuwan/lk_legal_docs/issues)"
+                + " are welcome!",
+                "",
                 "#Legal #OpenData #GovTech",
                 "",
             ]
