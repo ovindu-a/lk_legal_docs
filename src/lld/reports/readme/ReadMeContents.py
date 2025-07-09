@@ -51,7 +51,8 @@ class ReadMeContents:
             url = ReadMeContents.__build_contents_for_year__(
                 label, x, doc_list_for_year, display_key, year
             )
-            lines.append(f"- [{year}]({url})")
+            n_year = len(doc_list_for_year)
+            lines.append(f"- [{year}]({url}) ({n_year:,} documents)")
 
         lines.append("")
         File(contents_path).write("\n".join(lines))
