@@ -24,7 +24,8 @@ class ReadMeContents:
     @staticmethod
     def __get_contents_by_x__(label, func_get_key):
         x_to_doc_list = DocFactory.x_to_list_all(func_get_key)
-        lines = [f"### By {label.title()}", ""]
+        title_str = label.replace("-", " ").title()
+        lines = [f"### By {title_str}", ""]
         for x, doc_list_for_x in x_to_doc_list.items():
             url = ReadMeContents.__build_contents__(label, x, doc_list_for_x)
             lines.append(f"- [{x}]({url})")
@@ -32,8 +33,14 @@ class ReadMeContents:
         return lines
 
     def get_lines_for_contents(self):
-        return ["## Contents", ""] + ReadMeContents.__get_contents_by_x__(
-            "year", lambda doc: doc.year
+        return (
+            ["## Contents", ""]
+            + ReadMeContents.__get_contents_by_x__(
+                "document-type", lambda doc: doc.get_doc_type_name()
+            )
+            + ReadMeContents.__get_contents_by_x__(
+                "year", lambda doc: doc.year
+            )
         )
 
 
@@ -44,7 +51,9 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
         self.time_str = TimeFormat.TIME.format(Time.now())
         self.doc_list = DocFactory.list_all()
         self.n_docs = len(self.doc_list)
-        self.total_data_size_m = DocFactory.get_total_data_size() / 1_000_000.0
+        self.total_data_size_m = (
+            DocFactory.get_total_data_size() / 1_000_000.0
+        )
         self.html_cache_size_m = WebPage.get_html_cache_size() / 1_000_000.0
         dates = [doc.date for doc in self.doc_list]
         self.min_date = min(dates)
