@@ -40,7 +40,6 @@ def downloader(max_delta_t):
 
 def main(max_delta_t):
     downloader(max_delta_t)
-    DocFactory.build_temp_data_summary()
     ReadMe().build()
 
 

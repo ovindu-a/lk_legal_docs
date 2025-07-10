@@ -15,11 +15,6 @@ class AbstractDocDataDownloader:
 
     DIR_TEMP_DATA = os.path.join(tempfile.gettempdir(), "lk_legal_docs_data")
 
-    DATA_SUMMARY_JSON_PATH = os.path.join("data", "temp_data_summary.json")
-    TEMP_DATA_SUMMARY_JSON_PATH = os.path.join(
-        DIR_TEMP_DATA, "data", "temp_data_summary.json"
-    )
-
     @cached_property
     def dir_data(self):
         dir_data = os.path.join(self.get_doc_type_dir(), self.year, self.id)
