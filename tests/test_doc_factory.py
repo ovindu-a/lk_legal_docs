@@ -1,3 +1,5 @@
+import os
+import shutil
 import unittest
 
 from lld import DocFactory
@@ -7,6 +9,11 @@ class TestCase(unittest.TestCase):
     def test_list_all(self):
         doc_list = DocFactory.list_all()
         self.assertGreater(len(doc_list), 40_000)
+
+    def test_write_all(self):
+        shutil.rmtree(DocFactory.DOCS_ALL_JSON_PATH, ignore_errors=True)
+        DocFactory.write_all()
+        self.assertTrue(os.path.exists(DocFactory.DOCS_ALL_JSON_PATH))
 
     def test_list_all_first_doc(self):
         doc_list = DocFactory.list_all()
