@@ -21,7 +21,7 @@ class AbstractDocExtractText:
 
     def __extract_text_for_lang__(self, lang_code):
         pdf_path = self.get_pdf_path(lang_code)
-        if not os.path.exists(pdf_path):
+        if not (os.path.exists(pdf_path) and PDF(pdf_path).is_valid()):
             return False
 
         txt_path = self.get_txt_path(lang_code)

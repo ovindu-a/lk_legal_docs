@@ -47,7 +47,7 @@ class AbstractDocDataDownloader:
             if not url:
                 continue
             file_path = self.get_pdf_path(lang)
-            if os.path.exists(file_path):
+            if os.path.exists(file_path) and PDF(file_path).is_valid():
                 continue
             os.makedirs(self.dir_temp_data, exist_ok=True)
             if AbstractDocDataDownloader.__download__(url, file_path):
