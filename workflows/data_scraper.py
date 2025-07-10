@@ -10,11 +10,11 @@ DEFAULT_MAX_DELTA_T = 15 * 60
 
 
 log = Log("data_scraper")
-N_BATCH = 4
+N_BATCH = 8
 
 
 def main(max_delta_t):
-    log.debug(f"{max_delta_t=}")
+    log.debug(f"{max_delta_t=:,.1f}s")
 
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
@@ -33,10 +33,14 @@ def main(max_delta_t):
             doc = doc_list[i_doc]
 
             def worker(doc):
-                doc.copy_metadata_to_temp_data()
-                doc.download_all_pdfs()
-                doc.extract_text()
-                return True
+                def inner(doc=doc):
+                    doc.copy_metadata_to_temp_data()
+                    doc.download_all_pdfs()
+                    doc.extract_text()
+                    log.debug(f"Processsed {doc.id}")
+                    return True
+
+                return inner
 
             workers.append(worker(doc=doc))
 
