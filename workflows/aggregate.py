@@ -1,8 +1,8 @@
-from lld import AbstractDoc, ReadMe
+from lld import DocFactory, ReadMe
 
 
 def main():
-    AbstractDoc.write_all()
+    DocFactory.write_all()
     ReadMe().build()
 
 
