@@ -1,8 +1,8 @@
 import os
 
-from utils import Log
+from utils import File, Log
 
-from utils_future import PDF, File
+from utils_future import PDF
 
 log = Log("AbstractDocExtractText")
 
