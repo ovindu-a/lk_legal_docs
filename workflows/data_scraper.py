@@ -52,9 +52,9 @@ def main(max_delta_t):
         )
         n_hot += sum([1 for r in results if r])
         delta_t = time.time() - t_start
-        time_per_hot = delta_t / n_hot
 
-        if prev_n_hot != n_hot:
+        if prev_n_hot != n_hot and n_hot > 0:
+            time_per_hot = delta_t / n_hot
             log.debug(f"{n_hot=:,}, {time_per_hot=:.1f}s")
             prev_n_hot = n_hot
 
