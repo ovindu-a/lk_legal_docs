@@ -36,6 +36,7 @@ def main(max_delta_t):
 
     i_doc = 0
     n_hot = 0
+    prev_n_hot = None
     while i_doc < n_doc_list:
         workers = []
         for _ in range(N_BATCH):
@@ -52,7 +53,11 @@ def main(max_delta_t):
         n_hot += sum([1 for r in results if r])
         delta_t = time.time() - t_start
         speed = n_hot / delta_t
-        log.debug(f"{n_hot=:,}, {speed=:.2f}/s")
+
+        if prev_n_hot != n_hot:
+            log.debug(f"{n_hot=:,}, {speed=:.2f}/s")
+            prev_n_hot = n_hot
+
         if delta_t > max_delta_t:
             log.warning(
                 f"⛔️ Stopping after. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
