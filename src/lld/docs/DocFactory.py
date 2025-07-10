@@ -35,11 +35,6 @@ class DocFactory:
         raise ValueError(f"Unknown doc type: {doc_type}")
 
     @staticmethod
-    def from_dict_flat(data):
-        cls = DocFactory.cls_from_doc_type(data["doc_type_name"])
-        return cls.from_dict_flat(data)
-
-    @staticmethod
     def from_dict(data):
         cls = DocFactory.cls_from_doc_type(data["doc_type_name"])
         return cls.from_dict(data)
@@ -61,7 +56,8 @@ class DocFactory:
         return file_path_lists
 
     @staticmethod
-    def __list_all_from_metadata_files__():
+    @cache
+    def list_all():
         doc_list = []
         for (
             metadata_file_path
@@ -71,43 +67,6 @@ class DocFactory:
 
         doc_list.sort(key=lambda x: (x.date, x.doc_num), reverse=True)
         log.debug(f"Found {len(doc_list):,} docs (all types).")
-        return doc_list
-
-    @staticmethod
-    def write_all():
-        doc_list = DocFactory.__list_all_from_metadata_files__()
-        TSVFile(DocFactory.ALL_TSV_PATH).write(
-            [doc.to_dict_flat() for doc in doc_list]
-        )
-        n = len(doc_list)
-        file_size_m = os.path.getsize(DocFactory.ALL_TSV_PATH) / (1000 * 1000)
-        log.info(
-            f"Wrote {n:,} docs to"
-            + f" {DocFactory.ALL_TSV_PATH} ({file_size_m:.2f} MB)"
-        )
-
-    @staticmethod
-    def write_latest():
-        doc_list = DocFactory.list_all()[: DocFactory.N_LATEST]
-        TSVFile(DocFactory.LATEST_TSV_PATH).write(
-            [doc.to_dict_flat() for doc in doc_list]
-        )
-        n = len(doc_list)
-        file_size_m = os.path.getsize(DocFactory.LATEST_TSV_PATH) / (
-            1000 * 1000
-        )
-        log.info(
-            f"Wrote {n:,} docs to"
-            + f" {DocFactory.LATEST_TSV_PATH} ({file_size_m:.2f} MB)"
-        )
-
-    @staticmethod
-    @cache
-    def list_all():
-        assert os.path.exists(DocFactory.ALL_TSV_PATH)
-        d_list = TSVFile(DocFactory.ALL_TSV_PATH).read()
-        doc_list = [DocFactory.from_dict_flat(d) for d in d_list]
-        doc_list.sort(key=lambda x: (x.date, x.doc_num), reverse=True)
         return doc_list
 
     @staticmethod

@@ -33,40 +33,6 @@ class AbstractDocSerializer:
             dir_data=self.dir_data,
         )
 
-    def to_dict_flat(self):
-        d = dict(
-            # properties (1)
-            doc_type_name=self.get_doc_type_name(),
-            # attributes (1)
-            date=self.date,
-            description=self.description,
-        )
-        for lang in Lang.list_all():
-            source_url = self.lang_to_source_url.get(lang.code, "None")
-            d["source_url_" + lang.code] = source_url
-
-        d |= dict(
-            # attributes (2)
-            doc_num=self.doc_num,
-            # properties (2)
-            id=self.id,
-            dir_data=self.dir_data,
-        )
-
-        return d
-
-    @classmethod
-    def from_dict_flat(cls, data):
-        lang_to_source_url = {}
-        for lang in Lang.list_all():
-            source_url = data.get("source_url_" + lang.code)
-            if source_url and source_url != "None":
-                lang_to_source_url[lang.code] = source_url
-
-        return cls.from_dict(
-            data | dict(lang_to_source_url=lang_to_source_url)
-        )
-
     @classmethod
     def from_dict(cls, data):
         assert data["doc_type_name"] == cls.get_doc_type_name()

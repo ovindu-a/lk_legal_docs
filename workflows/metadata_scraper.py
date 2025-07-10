@@ -27,9 +27,6 @@ def main(max_delta_t: int, traverse_random: bool, clear_html_cache: bool):
             name_to_n_hot[name] = n_hot
     log.debug(f"{name_to_n_hot=}")
 
-    DocFactory.write_all()
-    DocFactory.write_latest()
-
     if clear_html_cache:
         WebPage.delete_html_cache()
 

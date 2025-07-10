@@ -5,7 +5,6 @@ from lld import DocFactory
 
 class TestCase(unittest.TestCase):
     def test_list_all(self):
-        DocFactory.write_all()
         doc_list = DocFactory.list_all()
         self.assertGreater(len(doc_list), 40_000)
 
