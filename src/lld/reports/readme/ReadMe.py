@@ -1,7 +1,6 @@
 from utils import File, Log, Time, TimeFormat
 
 from lld.docs import DocFactory
-from lld.reports.readme.ReadMeContents import ReadMeContents
 from lld.reports.readme.ReadMeDocs import ReadMeDocs
 from lld.reports.readme.ReadMeSummary import ReadMeSummary
 from lld.www_common import WebPage
@@ -9,7 +8,7 @@ from lld.www_common import WebPage
 log = Log("ReadMe")
 
 
-class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
+class ReadMe(ReadMeDocs, ReadMeSummary):
     PATH = "README.md"
 
     def __init__(self):
@@ -40,6 +39,16 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
             + " have been downloaded."
             + " Final data size is estimated to be "
             + f"~{final_file_size_g:.0f} GB.",
+            "",
+        ]
+
+    def get_lines_for_app(self):
+        return [
+            "## The App",
+            "",
+            "You can browse this dataset using"
+            + " [http://nuuuwan.github.io/lk_legal_docs_app/]"
+            + "(http://nuuuwan.github.io/lk_legal_docs_app/).",
             "",
         ]
 
@@ -78,11 +87,11 @@ class ReadMe(ReadMeDocs, ReadMeSummary, ReadMeContents):
                 "#Legal #OpenData #GovTech",
                 "",
             ]
+            + self.get_lines_for_app()
             + self.get_lines_for_temp_data()
             + self.get_lines_summary_statistics()
             + self.get_lines_summary_charts()
             + self.get_lines_for_recent_docs()
-            + self.get_lines_for_contents()
         )
 
     def build(self):
