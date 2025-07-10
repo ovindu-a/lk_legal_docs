@@ -13,7 +13,7 @@ from utils_future import Directory
 class WebPage:
     BASE_URL = "https://documents.gov.lk"
     T_SLEEP = 5
-    T_TIMEOUT = 60
+    T_TIMEOUT = 240
     DIR_HTML_CACHE = "html_cache"
 
     def __init__(self, url):
