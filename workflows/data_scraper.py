@@ -4,7 +4,7 @@ import time
 
 from utils import Log
 
-from lld import AbstractDoc, DocFactory, ReadMe
+from lld import AbstractDoc, DocFactory
 
 DEFAULT_MAX_DELTA_T = 15 * 60
 
@@ -12,7 +12,7 @@ DEFAULT_MAX_DELTA_T = 15 * 60
 log = Log("data_scraper")
 
 
-def scraper(max_delta_t):
+def main(max_delta_t):
     log.debug(f"{max_delta_t=}")
 
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
@@ -36,12 +36,6 @@ def scraper(max_delta_t):
 
     log.info("⛔️🛑 Downloaded ALL pdfs.")
     return
-
-
-def main(max_delta_t):
-    scraper(max_delta_t)
-    AbstractDoc.write_all()
-    ReadMe().build()
 
 
 if __name__ == "__main__":
