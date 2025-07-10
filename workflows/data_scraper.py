@@ -12,7 +12,7 @@ DEFAULT_MAX_DELTA_T = 15 * 60
 log = Log("data_scraper")
 
 
-def downloader(max_delta_t):
+def scraper(max_delta_t):
     log.debug(f"{max_delta_t=}")
 
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
@@ -39,7 +39,7 @@ def downloader(max_delta_t):
 
 
 def main(max_delta_t):
-    downloader(max_delta_t)
+    scraper(max_delta_t)
     AbstractDoc.write_all()
     ReadMe().build()
 
