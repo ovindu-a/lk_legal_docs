@@ -108,5 +108,5 @@ class DocFactory:
             ),
         ]:
             JSONFile(json_file_path).write(data_list[:n])
-            file_size_m = os.path.getsize(json_file_path) / 1000_000
-            log.debug(f"Wrote {json_file_path} ({file_size_m:.1f} MB)")
+            file_size_k = os.path.getsize(json_file_path) / 1000
+            log.debug(f"Wrote {json_file_path} ({file_size_k:,.0f} KB)")
