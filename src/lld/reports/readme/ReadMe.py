@@ -42,7 +42,7 @@ class ReadMe(ReadMeDocs, ReadMeSummary):
 
     def get_lines_for_app(self):
         return [
-            "## The App",
+            "## 🆕 The Legal Dcouments App",
             "",
             "You can browse this dataset using"
             + " [http://nuuuwan.github.io/lk_legal_docs_app/]"
