@@ -38,7 +38,7 @@ def main(max_delta_t):
     log.debug(f"{n_doc_list=:,}")
 
     i_doc = 0
-
+    n_hot = 0
     while i_doc < n_doc_list:
         workers = []
         for _ in range(N_BATCH):
@@ -48,15 +48,17 @@ def main(max_delta_t):
             i_doc += 1
             workers.append(get_worker(doc=doc))
 
-        Parallel.run(
+        results = Parallel.run(
             workers,
             max_threads=N_BATCH,
         )
-
+        n_hot += sum([1 for r in results if r])
         delta_t = time.time() - t_start
+        speed = n_hot / delta_t
+        log.debug(f"{n_hot=:,}, {speed=:.2f}/s")
         if delta_t > max_delta_t:
             log.warning(
-                f"⛔️ Stopping. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
+                f"⛔️ Stopping after. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
             )
             return
     log.info("⛔️🛑 Downloaded ALL pdfs.")
