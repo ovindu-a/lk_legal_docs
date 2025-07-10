@@ -9,7 +9,7 @@ from lld import AbstractDoc, DocFactory, ReadMe
 DEFAULT_MAX_DELTA_T = 15 * 60
 
 
-log = Log("data_downloader")
+log = Log("data_scraper")
 
 
 def downloader(max_delta_t):
