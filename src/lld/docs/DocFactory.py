@@ -88,12 +88,14 @@ class DocFactory:
     @cache
     def get_temp_data_summary():
         doc_list = DocFactory.list_all()
-        return dict(
+        temp_data_summary = dict(
             n_docs=len(doc_list),
             n_docs_with_pdfs=len([d for d in doc_list if d.n_pdfs > 0]),
             n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
         )
+        log.debug(f"{temp_data_summary=}")
+        return temp_data_summary
 
     @staticmethod
     def write_all():
