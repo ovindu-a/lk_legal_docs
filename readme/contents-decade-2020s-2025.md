@@ -97,14 +97,19 @@
 - 🚨 [2025-06-19] [Land Aquisition - Thambiliyana, Kuruwita D/S Division, Ratnapura District, Land Aquisition - Biyagama, Biyagama D/S Division, Gampaha District Sec-39 (1)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-34)
 - 🚨 [2025-06-19] [Land Title Settlement Dept. - Moratumulla, Moratuwa D/S Division, Colombo District - (25/0236)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-33)
 - 🚨 [2025-06-19] [Election Commission - Notice under Section 66B (1)(a) Appointed Gama Ethige Ariyadasa as a Chairman of the Balangoda Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-32)
-- 🚨 [2025-06-19] [Land Aquisition - Bollegala, Biyagama D/S Division, Gampaha District - Sec 07Land Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha District - Sec 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-30)
+- 🚨 [2025-06-19] [Land Aquisition - Bollegala, Biyagama D/S Division, Gampaha District - Sec 07
+Land Aquisition - Errata, Sapugaskanda, Makola, Biyagama D/S Division,  Gampaha District - Sec 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-30)
 - ✍️ [2025-06-18] [Colombo Association of Language Skills and Dramatic Art (Incorporation) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/615-2025)
 - 🚨 [2025-06-18] [Galigamuwa Pradeshiya Sabha Roads and Paths](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-29)
-- 🚨 [2025-06-18] [Land Aquisition - Kengalla, Kundasale D/S Division, Kandy District - Sec 05Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District - Sec 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-28)
+- 🚨 [2025-06-18] [Land Aquisition - Kengalla, Kundasale D/S Division, Kandy District - Sec 05
+Land Aquisition - Lunukatiyamadiththa, Kundasale D/S Division,  Kandy District - Sec 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-28)
 - 🚨 [2025-06-18] [Governer's Secretarial Northern Province - Co-operative Socities Law No. 05 of 1972 Conferment of Power](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-27)
-- 🚨 [2025-06-18] [Land Aquisition - Matale D/S Division, Matale District - Sec 33Land Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-26)
-- 🚨 [2025-06-18] [Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-25)
-- 🚨 [2025-06-18] [Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-24)
+- 🚨 [2025-06-18] [Land Aquisition - Matale D/S Division, Matale District - Sec 33
+Land Aquisition - Thaldeniya, Medadumbara D/S Division, Kandy District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-26)
+- 🚨 [2025-06-18] [Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33
+Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-25)
+- 🚨 [2025-06-18] [Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33
+Land Aquisition - Thissawawawaththa,Nuwaragampalatha Central D/S Division, Anuradhapura District - Sec 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-24)
 - 🚨 [2025-06-18] [Sri Lanka Railways Welfare Society Act (Authority 285) Regulations](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-23)
 - 🚨 [2025-06-18] [Election Commission - Notice Under Section 66A (1) (a) Appointed Mr.Gama Athige Ariyadasa as a Member of the Balangoda Pradeshiya Sabha.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-20)
 - 🚨 [2025-06-18] [Land Aquisition - Paathamulla, Paduwasnuwara D/S Division, Kurunegala District - Amendment. Walasmulla D/S Division, Kurunegal District - Amendment. Walasmulla D/S Division, Kurunegal District Sec 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2441-19)
@@ -414,15 +419,18 @@
 - 🚨 [2025-05-15] [Department of Trade and Investment Policy- Determination of Customs Value (Price) for Motor Vehicles](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2436-02)
 - 🚨 [2025-05-12] [Sri Lanka Customs Ã¢â¬â Rates of Exchange with effect from 12.05.2025 to 18.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2436-01)
 - 🚨 [2025-05-10] [Land Acquisition Ã¢â¬â Katuwawala, Kesbewa D/S/D, Colombo District. Section  - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-48)
-- 🚨 [2025-05-10] [Land Acquisition Ã¢â¬â Ambalanwatta, Mirigama D/S/D, Gampaha District Ã¢â¬â Section 07Land Acquisition Ã¢â¬â Ganegoda, Mirigama D/S/D, Gampaha District.  Section - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-47)
-- 🚨 [2025-05-10] [GovernorÃ¢â¬â¢s Office Ã¢â¬â Western Province Ã¢â¬â Delegation of Powers Under Co-operative Societies Statue of the Western Provincial Council No 03 of 1998](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-46)
+- 🚨 [2025-05-10] [Land Acquisition Ã¢â¬â Ambalanwatta, Mirigama D/S/D, Gampaha District Ã¢â¬â Section 07
+Land Acquisition Ã¢â¬â Ganegoda, Mirigama D/S/D, Gampaha District.  Section - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-47)
+- 🚨 [2025-05-10] [GovernorÃ¢â¬â¢s Office Ã¢â¬â Western Province Ã¢â¬â 
+Delegation of Powers Under Co-operative Societies Statue of the Western Provincial Council No 03 of 1998](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-46)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âPanapitiya, Kalutara D/S/D, Kalutara District (25/5514074)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-20)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âMedawala, Harispattuwa D/S/D, Kandy District (25/5514077)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-19)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âKendaliyaddapaluwa, Mahara D/S/D, Gampaha District (25/5514078)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-18)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âDehipagoda, Udunuwara D/S/D, Kandy District (25/5514076)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-17)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âVidiyawatta, Miniwangoda D/S/D, Gampaha District (25/5514073)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-16)
 - 🚨 [2025-05-09] [Land Title Settlement Department Ã¢â¬âWewatka, Mahiyanganaya D/S/D, Badulla District (25/0025)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-14)
-- 🚨 [2025-05-09] [Ministry of Labour- Industrial Dispute between L.W. Chandraratne and Sri Lanka Transport BoardIndustrial Dispute between D.M.S. Gunaratne and National Lotteries Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-13)
+- 🚨 [2025-05-09] [Ministry of Labour- Industrial Dispute between L.W. Chandraratne and Sri Lanka Transport Board
+Industrial Dispute between D.M.S. Gunaratne and National Lotteries Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-13)
 - 🚨 [2025-05-09] [Ministry of Labour- Industrial Disputes Standered Chartered Bank Collective Agreement 2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2435-12)
 - 📢 [2025-05-09] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-05-09-legal-section)
 - 📢 [2025-05-09] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-05-09-land-section)
@@ -477,8 +485,11 @@
 - 🚨 [2025-04-28] [Land Title Settlement Department Ã¢â¬â Deshathra, Kaluthara D/S/D, Kaluthara District (25/5514052)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-07)
 - 🚨 [2025-04-28] [Land Title Settlement Department Ã¢â¬â Ellepola, Balangoda D/S/D, Rathnapura District (25/5514066)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-06)
 - 🚨 [2025-04-28] [Department of Fiscal policy - Notification under the Finance Act, No. 35 of 2018 Luxury Tax on Motor Vehicles](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-05)
-- 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â The Customs Ordinance (Chapter 235) Order Under Section 10 A](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-03)
-- 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â Revenue Protection Order No.02/2025Revenue Protection Act.No. 19 of 1962 Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-02)
+- 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â 
+The Customs Ordinance (Chapter 235) Order Under Section 10 A](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-03)
+- 🚨 [2025-04-28] [Department of Trade and Investment Policy Ã¢â¬â 
+Revenue Protection Order No.02/2025
+Revenue Protection Act.No. 19 of 1962 Order](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-02)
 - 🚨 [2025-04-28] [Sri Lanka Customs Ã¢â¬â Rates of Exchange with effect from 28.04.2025 to 04.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2434-01)
 - 🚨 [2025-04-27] [Land Title Settlement Department Ã¢â¬â Makulawa, Galle Four Gravets D/S/D, Galle District (24/1026)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-50)
 - 🚨 [2025-04-27] [Land Title Settlement Department Ã¢â¬â Magalla, Galle Four Gravets D/S/D, Galle District (24/1126)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-49)
@@ -495,11 +506,15 @@
 - 🚨 [2025-04-26] [Ministry of Labour Ã¢â¬â Industrial Dispute between K.H.Chaminda and Palm Paradise Cabanas](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-38)
 - 🚨 [2025-04-26] [Land Acquisition Ã¢â¬â Pattiyakumbura, Uvaparanagama D/S/D, Badulla District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-36)
 - 🚨 [2025-04-25] [Land Acquisition Ã¢â¬â Udumulla North, Kolonnawa D/S/ Division, Colombo District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-35)
-- 🚨 [2025-04-25] [Land Acquisition Ã¢â¬â Wathuwaththa, Udubaddawa D/S/ Division, Kurunegala District.Land Acquisition Ã¢â¬â Corrigenda, Homagama D/S. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-34)
+- 🚨 [2025-04-25] [Land Acquisition Ã¢â¬â Wathuwaththa, Udubaddawa D/S/ Division, Kurunegala District.
+Land Acquisition Ã¢â¬â Corrigenda, Homagama D/S. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-34)
 - 🚨 [2025-04-25] [Ministry of Labour and Foreign Employment Ã¢â¬â Industrial Dispute between W.P.Sarath and Central Cultural Fund](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-33)
 - 🚨 [2025-04-25] [Land Acquisition Ã¢â¬â Kondavil, Nallur D/S/ Division, Jaffna District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-32)
-- 🚨 [2025-04-25] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974Order Under Sec.92Paragahawatta, Kalutara D/S/ Division, Kalutara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-31)
-- 🚨 [2025-04-25] [National Physical Planning Department Ã¢â¬â The Town and Country Planning Ordinance (Chapter 269)-Dadagamuwa Sumitta Sri Sundararama Rajamaha Vihara Sacred Area](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-30)
+- 🚨 [2025-04-25] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974
+Order Under Sec.92
+Paragahawatta, Kalutara D/S/ Division, Kalutara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-31)
+- 🚨 [2025-04-25] [National Physical Planning Department Ã¢â¬â The Town and Country Planning Ordinance (Chapter 269)
+-Dadagamuwa Sumitta Sri Sundararama Rajamaha Vihara Sacred Area](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-30)
 - 🚨 [2025-04-25] [Land Title Settlement Department Ã¢â¬â Gangodavila, Sri Jayawardanapura Kotte D/S/ Division, Colombo District (25/0004)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-29)
 - 🚨 [2025-04-25] [Land Title Settlement Department Ã¢â¬â Balagalla, Divulapitiya D/S/ Division, Gampaha District (25/0018)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-28)
 - 🚨 [2025-04-25] [Land Title Settlement Department Ã¢â¬â Sooriyapaluwa East, Mahara D/S/ Division, Gampaha District (25/55023)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-27)
@@ -521,15 +536,21 @@
 - 🚨 [2025-04-24] [Land Title Settlement Department Ã¢â¬â Watareka, Homagama D/S/ Division, Colombo District (24/1110)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-20)
 - 🚨 [2025-04-24] [Land Title Settlement Department - Aluthnuwara, Imbulpe D/S/ Division, Ratnapura District (24/1205)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-19)
 - 🚨 [2025-04-24] [Land Title Settlement Department Ã¢â¬â Horetuduwa, Panadura D/S/ Division, Kalutara District (24/1107)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-18)
-- 🚨 [2025-04-24] [Land Acquisition Ã¢â¬â Awissawella, Seethawakapura D/S/ Division, Colombo District.Land Acquisition Ã¢â¬â Amendment, Ex.Gaz.No. 2291/10 dated 01.08.2022Hakurukumbura, Mirigama. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-17)
+- 🚨 [2025-04-24] [Land Acquisition Ã¢â¬â Awissawella, Seethawakapura D/S/ Division, Colombo District.
+Land Acquisition Ã¢â¬â Amendment, Ex.Gaz.No. 2291/10 dated 01.08.2022
+Hakurukumbura, Mirigama. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-17)
 - 🚨 [2025-04-24] [Land Acquisition Ã¢â¬â Badiganthota, Sooriyawewa D/S/ Division, Hambantota District (Southern Express Way) Ã¢â¬â Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-16)
 - 🚨 [2025-04-24] [Presidential Secretariat  - Appoint the members of the Panel of Industrial Court.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-15)
 - 🚨 [2025-04-23] [Land Reform Commission - Amendment to the Statutory Determination No. 1470 under Section 19 of the Land Reform Law No. 1  of 1972 (Kalkuda, Batticaloa District)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-14)
 - 🚨 [2025-04-23] [Land Title Settlement Department Ã¢â¬â Dutugemunu, Dehiwala D/S/ Division, Colombo District (7810)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-13)
 - 🚨 [2025-04-22] [Presidential Secretariat - Public Security Ordinance ( Chapter 40 ) Order.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-12)
-- 🚨 [2025-04-22] [Department of Local Government Ã¢â¬â Central ProvinceCentral Provincial CouncilKandy Municipal Council  - Entertainment Tax](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-11)
-- 🚨 [2025-04-22] [Divisional Secretariat Ã¢â¬â BadullaAnnual Perahera of Badulla Muthiyangana Rajamaha Viharaya](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-10)
-- 🚨 [2025-04-22] [Department of Census and Statistics Ã¢â¬â National Consumer Price Index Ã¢â¬â March 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-09)
+- 🚨 [2025-04-22] [Department of Local Government Ã¢â¬â Central Province
+Central Provincial Council
+Kandy Municipal Council  - Entertainment Tax](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-11)
+- 🚨 [2025-04-22] [Divisional Secretariat Ã¢â¬â Badulla
+Annual Perahera of Badulla Muthiyangana Rajamaha Viharaya](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-10)
+- 🚨 [2025-04-22] [Department of Census and Statistics Ã¢â¬â 
+National Consumer Price Index Ã¢â¬â March 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-09)
 - 🚨 [2025-04-21] [Land Acquisition Ã¢â¬â Olaithoduvaikani, Mannar D/S/ Division, Mannar District - Ceylon Electricity Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-08)
 - 🚨 [2025-04-21] [Land Title Settlement Department Ã¢â¬â Jayarathna Place, Doluva D/S/ Division, Kandy District (7815)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-07)
 - 🚨 [2025-04-21] [Land Title Settlement Department Ã¢â¬â Nainamadama, Wennappuwa D/S/ Division, Puttalam District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2433-06)
@@ -571,8 +592,10 @@
 - 🚨 [2025-04-17] [Land Title Settlement Department Ã¢â¬â Asgiriya, Minuwangoda D/S/ Division, Gampaha District (25/5514060)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-11)
 - 🚨 [2025-04-17] [Land Title Settlement Department Ã¢â¬â Palliyapitiya, Divulapitiya D/S/ Division, Gampaha District (25/5514044)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-10)
 - 🚨 [2025-04-17] [Land Title Settlement Department Ã¢â¬â Sandalankawa, Pannala D/S/ Division, Kurunegala District (25/5514067)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-09)
-- 🚨 [2025-04-17] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974Kalutara D/S/ Division, Ratnapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-07)
-- 🚨 [2025-04-17] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974Devinuwara D/S/ Division, Matara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-06)
+- 🚨 [2025-04-17] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974
+Kalutara D/S/ Division, Ratnapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-07)
+- 🚨 [2025-04-17] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.No.02 of 1974
+Devinuwara D/S/ Division, Matara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-06)
 - 🚨 [2025-04-17] [Ministry of Urban Development, Construction and Housing Ã¢â¬â National Water Supply and Drainage Board Act.NO.02 of 1974, Thihagoda D/S/ Division, Matara District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-05)
 - 🚨 [2025-04-17] [Land Acquisition Ã¢â¬â Panichchaiday, Manmunai North D/S/ Division, Batticaloa District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-04)
 - 🚨 [2025-04-17] [Central Bank of Sri Lanka - Rules on Criteria for Designating Domestic Systematically Important Banks](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2432-03)
@@ -593,16 +616,20 @@
 - 🚨 [2025-04-12] [Land Title Settlement Department Ã¢â¬â Talakiriyagama, Galewela D/S Division, Matale District (24/1088)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-46)
 - 🚨 [2025-04-12] [Land Title Settlement Department Ã¢â¬â Henawatta,Mihintale D/S/ Division, Anuradhapura District (24-14-4-00027)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-45)
 - ✍️ [2025-04-11] [Foreign Loans (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/580-2025)
-- 🚨 [2025-04-11] [Marine Environment Protection Authority Ã¢â¬â Submission of Approved Amendment to Waste Reception Regulations. The Marine Pollution Prevention Act.No.35 of 2008](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-44)
+- 🚨 [2025-04-11] [Marine Environment Protection Authority Ã¢â¬â Submission of Approved Amendment to Waste Reception Regulations. 
+The Marine Pollution Prevention Act.No.35 of 2008](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-44)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Etamurungagoda, Harispattuwa D/S/ Division, Kandy District (24/0953)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-43)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Maddegama, Dompe D/S/ Division, Gampaha District (24/0991)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-42)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Enamaluwa, Dambulla D/S/ Division, Matale District (24/1042)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-41)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Mabodala, Minuwangoda D/S/ Division, Gampaha District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-40)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Mallawapitiya, Mallawapitiya D/S/ Division, Kurunegala District (24/1004)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-39)
 - 🚨 [2025-04-11] [Land Title Settlement Department Ã¢â¬â Pitipana South, Homagama D/S/ Division, Colombo District (7803)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-38)
-- 🚨 [2025-04-11] [Land Acquisition Ã¢â¬â Udugalkanda, Bulathsinghala D/S/ Division, Kalutara District.Land Acquisition Ã¢â¬â Amendment, Matale District.Land Acquisition Ã¢â¬â Amendment, Negombo District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-37)
+- 🚨 [2025-04-11] [Land Acquisition Ã¢â¬â Udugalkanda, Bulathsinghala D/S/ Division, Kalutara District.
+Land Acquisition Ã¢â¬â Amendment, Matale District.
+Land Acquisition Ã¢â¬â Amendment, Negombo District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-37)
 - 🚨 [2025-04-11] [Land Acquisition Ã¢â¬â Kengalla, Kundasale D/S/ Division, Kandy District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-36)
-- 🚨 [2025-04-11] [Land Acquisition Ã¢â¬â Slave-Island, Colombo D/S/ Division, Colombo District.Land Acquisition Ã¢â¬â Maradana, Panchikawatta, Colombo D/S/ Division, Colombo District. Section Ã¢â¬â 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-35)
+- 🚨 [2025-04-11] [Land Acquisition Ã¢â¬â Slave-Island, Colombo D/S/ Division, Colombo District.
+Land Acquisition Ã¢â¬â Maradana, Panchikawatta, Colombo D/S/ Division, Colombo District. Section Ã¢â¬â 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-35)
 - 📢 [2025-04-11] [List of Jurors](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-11-list-of-jurors)
 - 📢 [2025-04-11] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-11-legal-section)
 - 📢 [2025-04-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-11-land-section)
@@ -613,13 +640,16 @@
 - 📢 [2025-04-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-11-i-general)
 - 🏛️ [2025-04-11] [Value Added Tax (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/04-2025)
 - ✍️ [2025-04-10] [Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/581-2025)
-- 🚨 [2025-04-10] [Department of Archaeology Ã¢â¬â The Antiquities Ordinance (Chapter 188)Notice Under Section 19](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-32)
+- 🚨 [2025-04-10] [Department of Archaeology Ã¢â¬â The Antiquities Ordinance (Chapter 188)
+Notice Under Section 19](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-32)
 - 🚨 [2025-04-10] [Land Title Settlement Department Ã¢â¬â Batuwanhena, Elpitiya D/S/ Division, Galle District (24/1089)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-31)
 - 🚨 [2025-04-10] [Land Title Settlement Department Ã¢â¬â Naththandiya, Nattandiya D/S/ Division, Puttalam District (24/0985)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-30)
 - 🚨 [2025-04-10] [Land Title Settlement Department Ã¢â¬â Halpaniya, Attanagalla D/S/ Division, Gampaha District (24/0989)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-29)
 - 🚨 [2025-04-10] [Land Title Settlement Department  - Mallanda, Kothmale D/S/ Division, Nuwaraeliya District (24/1200)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-28)
 - 🚨 [2025-04-10] [Land Title Settlement Department Ã¢â¬â Niyangama, Godakawela D/S/ Division, Ratnapura District (24/1178)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-27)
-- 🚨 [2025-04-09] [Presidential Secretariat Ã¢â¬â National HonoursSri Lanka Mitra Vibushana Ã¢â¬â His Excellency Shri Narendra Modi](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-26)
+- 🚨 [2025-04-09] [Presidential Secretariat Ã¢â¬â 
+National Honours
+Sri Lanka Mitra Vibushana Ã¢â¬â His Excellency Shri Narendra Modi](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-26)
 - 🚨 [2025-04-09] [Land Title Settlement Department Ã¢â¬â Kotawila North, Weligama D/S/ Division, Matara District (24/0909)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-25)
 - 🚨 [2025-04-09] [Land Title Settlement Department Ã¢â¬â Wepathaira West, Hakmana D/S/ Division, Matara District (24/1064)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-24)
 - 🚨 [2025-04-09] [Land Title Settlement Department  - Tubana, Rideegama D/S/ Division, Kurunegala District (24/1057)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-23)
@@ -629,12 +659,19 @@
 - 🚨 [2025-04-09] [Land Title Settlement Department Ã¢â¬â Nelliya, Ibbagamuwa D/S/ Division, Kurunegala District (24/1170)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-19)
 - 🚨 [2025-04-09] [Land Title Settlement Department Ã¢â¬â Wennappuwa, Wennappuwa D/S/ Division, Puttalam District (24/1164)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-18)
 - 🚨 [2025-04-09] [Land Title Settlement Department Ã¢â¬â Weeravila New Town, Lunugamwehera D/S/ Division, Hambantota District (24/1068)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-17)
-- 🚨 [2025-04-09] [Ministry of Education, Higher Education and Vocational Education Ã¢â¬â Order made under Section 10 of the Assisted Schools and Training Collages Act (Supplementary Provisions) Act.No.08 of 1961)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-16)
-- 🚨 [2025-04-09] [Ministry of Trade, Commerce, Food Security and Co-operative Development Ã¢â¬â The Societies Ordinance1 Ã¢â¬â Matale Hindu National College Old BoysÃ¢â¬â¢ Association2 Ã¢â¬â Philatelic Association of Sri Lanka](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-15)
-- 🚨 [2025-04-09] [Land Acquisition Ã¢â¬â Derangala, Pitabeddara D/S/ Division, Matara District.Land Acquisition Ã¢â¬â Maligaspe, Four Gravets D/S/ Division, Galle District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-14)
+- 🚨 [2025-04-09] [Ministry of Education, Higher Education and Vocational Education Ã¢â¬â 
+Order made under Section 10 of the Assisted Schools and Training Collages Act (Supplementary Provisions) Act.No.08 of 1961)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-16)
+- 🚨 [2025-04-09] [Ministry of Trade, Commerce, Food Security and Co-operative Development Ã¢â¬â 
+The Societies Ordinance
+1 Ã¢â¬â Matale Hindu National College Old BoysÃ¢â¬â¢ Association
+2 Ã¢â¬â Philatelic Association of Sri Lanka](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-15)
+- 🚨 [2025-04-09] [Land Acquisition Ã¢â¬â Derangala, Pitabeddara D/S/ Division, Matara District.
+Land Acquisition Ã¢â¬â Maligaspe, Four Gravets D/S/ Division, Galle District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-14)
 - ✍️ [2025-04-08] [Code of Criminal Procedure (Amendment) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/579-2025)
 - ✍️ [2025-04-08] [Online Safety (Repeal) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/578-2025)
-- 🚨 [2025-04-08] [Ministry of Labour Ã¢â¬â 1 Ã¢â¬â Industrial Dispute between L.I.M.U.B.Jayasundara and R.N.Constructions (pvt) Ltd.2 - Industrial Dispute between Wasantha Wijesekera and Sri Lanka Airlines Limited.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-13)
+- 🚨 [2025-04-08] [Ministry of Labour Ã¢â¬â 
+1 Ã¢â¬â Industrial Dispute between L.I.M.U.B.Jayasundara and R.N.Constructions (pvt) Ltd.
+2 - Industrial Dispute between Wasantha Wijesekera and Sri Lanka Airlines Limited.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-13)
 - 🚨 [2025-04-08] [Election Commission - Filling of a Vacancy under Paragraph 13 (B) Article 99 Electoral District no. 22 - Kegalle](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-11)
 - 🚨 [2025-04-08] [Land Acquisition Ã¢â¬â Pitipana North, Homagama D/S/ Division, Colombo District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-10)
 - 🚨 [2025-04-08] [Land Title Settlement Department Ã¢â¬â Kandhakuli, Kalpitiya D/S/ Division, Puttalam District (24/1002)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2431-09)
@@ -665,7 +702,8 @@
 - 📢 [2025-04-04] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-04-iib-advertising)
 - 📢 [2025-04-04] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-04-iia-advertising)
 - 📢 [2025-04-04] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-04-04-i-general)
-- 🚨 [2025-04-03] [Land Acquisition - Thumpane D/S Ã¢â¬â Galagedara Land Acquisition -  Barandara, Kandy D/S/ Division, Kandy District, Betwarth Estate. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-31)
+- 🚨 [2025-04-03] [Land Acquisition - Thumpane D/S Ã¢â¬â Galagedara 
+Land Acquisition -  Barandara, Kandy D/S/ Division, Kandy District, Betwarth Estate. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-31)
 - 🚨 [2025-04-03] [Land Title Settlement Department Ã¢â¬â Pitipana North, Homagama D/S/ Division, Colombo District (25/55020)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-30)
 - 🚨 [2025-04-03] [Land Title Settlement Department Ã¢â¬â Gorakana, Panadura D/S/ Division, Kalutara District (25/55002)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-29)
 - 🚨 [2025-04-03] [Land Title Settlement Department Ã¢â¬â Puttalama, Puttalama D/S/ Division, Puttalama District (25/5514048)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-28)
@@ -681,7 +719,8 @@
 - 🚨 [2025-04-02] [Land Acquisition Ã¢â¬â Modara Village, Colombo D/S/ Division, Colombo District. Section Ã¢â¬â 39](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-17)
 - 🚨 [2025-04-01] [Department of Fiscal Policy - Tobacco Tax Act, No. 08 of 1999 Imposition of Tobacco Tax on Beedi under the Tobacco Tax Act, No. of of 1999](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-16)
 - 🚨 [2025-04-01] [Consumer Affairs Authority Ã¢â¬â Consumer Affairs Authority Act.No.09 of 2003 (amended) Order Under Section 20(5)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-15)
-- 🚨 [2025-04-01] [Department of Fiscal Policy Ã¢â¬â The Finance Act.No.11 0f 2004Rate of Levy Payable on Incoming and Outgoing International Calls](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-14)
+- 🚨 [2025-04-01] [Department of Fiscal Policy Ã¢â¬â The Finance Act.No.11 0f 2004
+Rate of Levy Payable on Incoming and Outgoing International Calls](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-14)
 - 🚨 [2025-04-01] [Ministry of Urban Development, Construction and Housing Ã¢â¬â Construction Industry Development Act.No.33 of 2014](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-13)
 - 🚨 [2025-04-01] [Land Title Settlement Department Ã¢â¬â Sitinamaluwa, Beliatta D/S/ Division, Hambantota District (24/0941)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-12)
 - 🚨 [2025-04-01] [Land Title Settlement Department Ã¢â¬â Sitinamaluwa, Beliatta D/S/ Division, Hambantota District (24/0941)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2430-11)
@@ -701,7 +740,8 @@
 - 🚨 [2025-03-30] [Land Title Settlement Department Ã¢â¬â Halmillewa, Rasnayakapura D/S/ Division, Kurunegala District. (24/1195)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-83)
 - 🚨 [2025-03-30] [2429/82](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-82)
 - 🚨 [2025-03-30] [Land Title Settlement Department Ã¢â¬â Kuttikulama, Thirappane D/S/ Division, Anuradhapura District (24/1181)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-81)
-- 🚨 [2025-03-29] [Election Commission Ã¢â¬â Local Authorities Elections Ã¢â¬â 2025Notice Under Sub Section of 38(1) (C)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-79)
+- 🚨 [2025-03-29] [Election Commission Ã¢â¬â Local Authorities Elections Ã¢â¬â 2025
+Notice Under Sub Section of 38(1) (C)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-79)
 - 🚨 [2025-03-29] [Land Title Settlement Department Ã¢â¬â Kiribamunegama, Polpithigama D/S/ Division, Kurunegala District (24/1168)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-78)
 - 🚨 [2025-03-29] [Land Title Settlement Department Ã¢â¬â Batuwanhena, Elpitiya D/S/ Division, Galle District (24/440050)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-77)
 - 🚨 [2025-03-29] [Land Title Settlement Department Ã¢â¬â Polommaruwa, Tangalle D/S/ Division, Hambanthota District (24/1162)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-76)
@@ -710,7 +750,8 @@
 - 🚨 [2025-03-29] [Land Title Settlement Department Ã¢â¬â Wattegedara, Mirigama D/S/ Division, Gampaha District (25/5514045)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-73)
 - 🚨 [2025-03-29] [Land Title Settlement Department Ã¢â¬â Watareka, Homagama D/S/ Division, Colombo District (25/5514047)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-72)
 - 🚨 [2025-03-29] [Ministry of Labour Ã¢â¬â Industrial Dispute between Udaya Pushpakumara and Sri Lanka Mahaweli Authority](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-71)
-- 🚨 [2025-03-29] [Land Acquisition Ã¢â¬â Kuda Oya, Wellawaya D/S/ Division, Monaragala District, do, doSection Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-70)
+- 🚨 [2025-03-29] [Land Acquisition Ã¢â¬â Kuda Oya, Wellawaya D/S/ Division, Monaragala District, do, do
+Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-70)
 - ✍️ [2025-03-28] [Code of Criminal Procedure (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/576-2025)
 - 🚨 [2025-03-28] [Land Title Settlement Department Ã¢â¬â Welikanda, Rathmalana D/S/ Division, Colombo District (25/55016)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-69)
 - 🚨 [2025-03-28] [Land Title Settlement Department Ã¢â¬â Suriyapaluwa, Mahara D/S/ Division, Gampaha District (24/0956)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-68)
@@ -728,13 +769,17 @@
 - 🚨 [2025-03-28] [Land Title Settlement Department Ã¢â¬â Ellepola, Balangoda D/S/Division, Rathnapura District (24/1206](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-56)
 - 🚨 [2025-03-28] [Land Title Settlement Department Ã¢â¬â Gemunupura, Siyambalanduwa D/S/ Division, Monaragala District (7799)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-55)
 - 🚨 [2025-03-28] [Land Title Settlement Department Ã¢â¬â Thalammehera, Pannala D/S/ Division, Kurunegala District (25/5514042)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-54)
-- 🚨 [2025-03-28] [Election Commission Ã¢â¬â Local Authorities Election Ã¢â¬â 2025Notice Under Section 66(2)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-53)
-- 🚨 [2025-03-28] [Land Acquisition Ã¢â¬â Iriyagas ulpatha, Wilgamuwa D/S/ Division, Matale DistrictLand Acquisition Ã¢â¬â Thalgaspitiya, Ananayake D/S/ Division, Kegalle District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-52)
+- 🚨 [2025-03-28] [Election Commission Ã¢â¬â Local Authorities Election Ã¢â¬â 2025
+Notice Under Section 66(2)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-53)
+- 🚨 [2025-03-28] [Land Acquisition Ã¢â¬â Iriyagas ulpatha, Wilgamuwa D/S/ Division, Matale District
+Land Acquisition Ã¢â¬â Thalgaspitiya, Ananayake D/S/ Division, Kegalle District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-52)
 - 🚨 [2025-03-28] [Minister of Justice and National Integration -  reciprocal  Recognition Registration and Enforcement of Foreign Judgements Act, No. 49 of 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-51)
 - 🚨 [2025-03-28] [Ministry of Defense Ã¢â¬â Videsha Seva Padakkama and Clasp Sri Lanka Naval Force](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-50)
-- 🚨 [2025-03-28] [Land Acquisition Ã¢â¬â Polwatta, Harispattuwa D/S/ Division, Kandy District.Land Acquisition Ã¢â¬â Amendment, Trincomalee Street, Matale D/S. Section  - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-49)
+- 🚨 [2025-03-28] [Land Acquisition Ã¢â¬â Polwatta, Harispattuwa D/S/ Division, Kandy District.
+Land Acquisition Ã¢â¬â Amendment, Trincomalee Street, Matale D/S. Section  - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-49)
 - 🚨 [2025-03-28] [Ministry of Labour Ã¢â¬â Industrial Dispute between I.G.G.Thushara Abeyratne and Sri Lanka Transport Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-48)
-- 🚨 [2025-03-28] [Election Commission Ã¢â¬â Local Authorities Election Ã¢â¬â 2025Order Under Section 03 of the Regulation of Election Expenditure Act.No. 3 of 2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-47)
+- 🚨 [2025-03-28] [Election Commission Ã¢â¬â Local Authorities Election Ã¢â¬â 2025
+Order Under Section 03 of the Regulation of Election Expenditure Act.No. 3 of 2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-47)
 - 🚨 [2025-03-28] [Ministry of Labour and Foreign Employment Ã¢â¬â Industrial Dispute between Vishaka Kanthi included 16 others and Ceylon Chocolate Limited](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-46)
 - 📢 [2025-03-28] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-03-28-legal-section)
 - 📢 [2025-03-28] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-03-28-land-section)
@@ -770,11 +815,14 @@
 - 🚨 [2025-03-26] [Land Title Settlement Department Ã¢â¬â Kirillawala, Mahara D/S/ Division, Gampaha District (25/5514043)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-22)
 - 🚨 [2025-03-26] [Land Title Settlement Department Ã¢â¬â Mapamadulla, Harispaththuwa D/S/ Division, Kandy District (25/5514041)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-21)
 - 🚨 [2025-03-26] [Land Title Settlement Department - Bambaradeniya, Udunuwara D/S/ Division, Kandy District. (25/5514049)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-20)
-- 🚨 [2025-03-26] [Road Development Authority Ã¢â¬â Land Acquisition Ã¢â¬â Walakanda, Kirinda-Puhulwella D/S/ Division, Matara District.Road Development Authority Ã¢â¬â Land Acquisition Ã¢â¬â Walakanda, Kirinda-Puhulwella D/S/ Division, Matara District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-19)
+- 🚨 [2025-03-26] [Road Development Authority Ã¢â¬â Land Acquisition Ã¢â¬â Walakanda, Kirinda-Puhulwella D/S/ Division, Matara District.
+Road Development Authority Ã¢â¬â Land Acquisition Ã¢â¬â Walakanda, Kirinda-Puhulwella D/S/ Division, Matara District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-19)
 - 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Kadakula Village, Bootawatta North, Pathahewaheta D/S/ Division, Kandy District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-18)
 - 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Parabewila, Polgahawela D/S/ Division, Kurunegala District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-17)
 - 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Warakagoda, Madurawala D/S/ Division, Kalutara District. Section Ã¢â¬â 38](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-16)
-- 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Pitawala, Laggala Pallegama D/S/ Division, Matale District.Land Acquisition Ã¢â¬â Weraniyagoda, Elapatha D/S/ Division , Ratnapura District.Land Acquisition Ã¢â¬â Correction Paper. Section Ã¢â¬â 38](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-15)
+- 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Pitawala, Laggala Pallegama D/S/ Division, Matale District.
+Land Acquisition Ã¢â¬â Weraniyagoda, Elapatha D/S/ Division , Ratnapura District.
+Land Acquisition Ã¢â¬â Correction Paper. Section Ã¢â¬â 38](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-15)
 - 🚨 [2025-03-25] [Land Acquisition Ã¢â¬â Mirissa South, Weligama D/S/ Division, Matara District. Section Ã¢â¬â 38](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-14)
 - 🚨 [2025-03-25] [National Medicines Regulatory  Authority - Medicines (Pricing Mechanism for Medicines) Regulations Under the National Medicines Regulatory Authority Act, No.05 of 2015.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-12)
 - 🚨 [2025-03-24] [Land Title Settlement Department Ã¢â¬â Alakoladeniya, Mallawapitiya D/S/ Division, Kurunegala District. (25/5514027)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-11)
@@ -782,11 +830,16 @@
 - 🚨 [2025-03-24] [Land Title Settlement Department Ã¢â¬â Enamaluwa, Dambulla D/S/ Division, Matale District. (24/0916)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-09)
 - 🚨 [2025-03-24] [Land Title Settlement Department Ã¢â¬â Kalalpitiya, Attanagalla D/S/ Division, Gampaha District. (24/1043)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-08)
 - 🚨 [2025-03-24] [Land Title Settlement Department Ã¢â¬â Welampele Village, Rideemaliyadda D/S/ Division, Badulla District. (24/1159)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-07)
-- 🚨 [2025-03-24] [Ministry of Labour - 1-	Industrial Dispute between P.G.Susantha Pashpakumara and Road Development Authority2-	Industrial Dispute between D.C.Jayasinghe and Ceylon Petroleum Storage Terminals Limited.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-06)
+- 🚨 [2025-03-24] [Ministry of Labour - 
+1-	Industrial Dispute between P.G.Susantha Pashpakumara and Road Development Authority
+2-	Industrial Dispute between D.C.Jayasinghe and Ceylon Petroleum Storage Terminals Limited.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-06)
 - 🚨 [2025-03-24] [Ruwanwella Pradeshiya Sabha Ã¢â¬â Declared Roads and Paths](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-05)
 - 🚨 [2025-03-24] [Land Acquisition Ã¢â¬â Serakkuliya Village, Wanathavilluwa D/S/ Division, Puttalam District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-04)
-- 🚨 [2025-03-24] [Land Acquisition Ã¢â¬â Korathota, Kaduwela D/S/ Division, Colombo DistrictLand Acquisition Ã¢â¬â Bulathwelkandura, Minipe D/S/ Division, Kandy DistrictLand Acquisition Ã¢â¬â Ragama, Ja-ela D/S/ Division, Gampaha District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-03)
-- 🚨 [2025-03-24] [Legal Affairs Department Ã¢â¬â Welfare Benefits Act. No. 24 of 2002.Aswesuma Welfare Benefit Payment Scheme](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-02)
+- 🚨 [2025-03-24] [Land Acquisition Ã¢â¬â Korathota, Kaduwela D/S/ Division, Colombo District
+Land Acquisition Ã¢â¬â Bulathwelkandura, Minipe D/S/ Division, Kandy District
+Land Acquisition Ã¢â¬â Ragama, Ja-ela D/S/ Division, Gampaha District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-03)
+- 🚨 [2025-03-24] [Legal Affairs Department Ã¢â¬â Welfare Benefits Act. No. 24 of 2002.
+Aswesuma Welfare Benefit Payment Scheme](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-02)
 - 🚨 [2025-03-24] [Sri Lanka Customs - Rates of Exchange with effect from 24.03.2025 to 30.03.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2429-01)
 - 🚨 [2025-03-23] [Election Commission - Order under Section 03 of the Regulation of Election Expenditure Act, No. 03 of 2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-72)
 - 🚨 [2025-03-22] [Department of Census and Statistics - National Consumer Price Index - February 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-71)
@@ -830,7 +883,8 @@
 - 🚨 [2025-03-20] [Election Commission - Local Authorities Election - 2025 Notice Under Sub Section of 38(1) (c) Date of Poll in Colombo District on 06th May 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-16)
 - 🚨 [2025-03-20] [Land Title Settlement Department - Insibedda, Moratuwa D/S Division, Colombo District - Cad. Map No. (25/0042)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-15)
 - 🏛️ [2025-03-20] [Inland Revenue (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/02-2025)
-- 🚨 [2025-03-19] [Land Acquisition Ã¢â¬â Kotaweheramankada, Thanamalwila D/S/ Division, Monaragala District.Land Acquisition Ã¢â¬â Corrigenda, Thanamalwila D/S/ Division. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-14)
+- 🚨 [2025-03-19] [Land Acquisition Ã¢â¬â Kotaweheramankada, Thanamalwila D/S/ Division, Monaragala District.
+Land Acquisition Ã¢â¬â Corrigenda, Thanamalwila D/S/ Division. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-14)
 - 🚨 [2025-03-19] [Department of Fisheries and Aquatic Resources - Fishermen's Pension and Social Security Benefit Scheme](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-13)
 - 🚨 [2025-03-19] [Minister of Education - Degree Awarding Institute Order Sri Lanka Institute of Tourism and Hotel Management.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-12)
 - 🚨 [2025-03-19] [Urban Development Area - The Urban Development Authority Law No. 41 of 1978, Declaration and Expansion of The Urban Development Area at Kegalle](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-11)
@@ -839,7 +893,8 @@
 - 🚨 [2025-03-19] [Land Acquisition - Nayaruttanpannai, Thoddaveli, Mana Town D/S Division, Mannar District. Kurusadikani, Mannar Town D/S Division, Mannar District. Makkathithodam, Mannar Town D/S Division, Mannar District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-08)
 - 🚨 [2025-03-19] [Imports and Exports Control Department - Imports and Exports Control Act, No 1 of 1969 - Regulations](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-07)
 - 🚨 [2025-03-18] [Land Reform Commission - Statutory Determination under Section 19 of the Land Reform law No. 01 of 1972](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-06)
-- 🚨 [2025-03-18] [Presidential Secretariat - Appointed Mr. W.P. Senadeera as the Secretary to the  Ministry of Buddhasasana, Religious and Cultural Affairs with effect from 06th March 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-05)
+- 🚨 [2025-03-18] [Presidential Secretariat - Appointed Mr. W.P. Senadeera as the Secretary to the  Ministry of Buddhasasana, Religious and Cultural Affairs with effect from 06th
+ March 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-05)
 - 🚨 [2025-03-18] [Land Acquisition - Ella Divisional Secretariat, Wettipola G.S Division Ella D/S Division Badulla District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-04)
 - 🚨 [2025-03-17] [Minister of Public Administration Provincials Councils and Local Government - Appointment Under the Notaries Ordinance.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-03)
 - 🚨 [2025-03-17] [Election Commission - The Campaign Regulations to be Followed at the Local Authorities Elections to be Held in 06.05.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2428-02)
@@ -938,19 +993,29 @@
 - 🚨 [2025-03-05] [Land Title Settlement Department Ã¢â¬â Gampolawela, Ganga Ihalakorale D/S/ Division, Kandy District (24/1192)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-54)
 - 🚨 [2025-03-05] [Land Title Settlement Department Ã¢â¬â Gampolawela, Ganga Ihalakorale D/S/ Division, Kandy District (24/1092)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-52)
 - 🚨 [2025-03-05] [Land Title Settlement Department Ã¢â¬â Bandhiwewa (Block Ã¢â¬â 07), Thamankaduwa D/S/ Division, Polonnaruwa District (25/120029)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-51)
-- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Katuwawala, Kesbewa D/S/ Division, Colombo District.Weras Ganga Project. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-50)
-- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Egodawatta, Kesbewa D/S/ Division, Colombo District.Land Acquisition Ã¢â¬â Correction PaperWerasganga Project. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-49)
-- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Egodawatta, Kesbewa D/S/ Division, Colombo District.Werasganga Project. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-48)
+- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Katuwawala, Kesbewa D/S/ Division, Colombo District.
+Weras Ganga Project. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-50)
+- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Egodawatta, Kesbewa D/S/ Division, Colombo District.
+Land Acquisition Ã¢â¬â Correction Paper
+Werasganga Project. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-49)
+- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Egodawatta, Kesbewa D/S/ Division, Colombo District.
+Werasganga Project. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-48)
 - 🚨 [2025-03-05] [Land Title Settlement Department Ã¢â¬â Kandawala, Fourkatana D/S/ Division, Gampaha District (25/55012)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-46)
 - 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Matale-Udupihilla Road, Mathale D/S , Matale District. Section Ã¢â¬â 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-45)
-- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Ambana, Mirigama D/S/ Division, Gampaha District.Land Acquisition Ã¢â¬â Veragoda, Mirigama D/S/ Division, Gampaha District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-44)
+- 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Ambana, Mirigama D/S/ Division, Gampaha District.
+Land Acquisition Ã¢â¬â Veragoda, Mirigama D/S/ Division, Gampaha District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-44)
 - 🚨 [2025-03-05] [Land Acquisition Ã¢â¬â Madithiyawala Village, Divulapitiya D/S/ Division, Gampaha District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-43)
 - ✍️ [2025-03-04] [Sri Lanka Optometric Association (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/571-2025)
 - 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Godella Waththa, Poojapitiya D/S/ Division, Kandy District. Section Ã¢â¬â 33](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-42)
-- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Narangoda, Pelmadulla D/S/ Division, Ratnapura District.Land Acquisition Ã¢â¬â Correction Paper. Section - 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-41)
-- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Kendaliyaddapaluwa, Mahara D/S/ Division, Gampaha District.Land Acquisition Ã¢â¬â Correction PaperLand Acquisition Ã¢â¬â Nagoda Village, Kalutara D/S/ Division, Kalutara District. Section Ã¢â¬â 39(1)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-40)
-- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Thennehenewala, Walapane D/S/ Division, Nuwaraeliya District.Land Acquisition Ã¢â¬â Correction Paper.  Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-38)
-- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Mangoda, Medadumbara D/S/ Division, Kandy District.Land Acquisition Ã¢â¬â Correction Paper. Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-37)
+- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Narangoda, Pelmadulla D/S/ Division, Ratnapura District.
+Land Acquisition Ã¢â¬â Correction Paper. Section - 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-41)
+- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Kendaliyaddapaluwa, Mahara D/S/ Division, Gampaha District.
+Land Acquisition Ã¢â¬â Correction Paper
+Land Acquisition Ã¢â¬â Nagoda Village, Kalutara D/S/ Division, Kalutara District. Section Ã¢â¬â 39(1)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-40)
+- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Thennehenewala, Walapane D/S/ Division, Nuwaraeliya District.
+Land Acquisition Ã¢â¬â Correction Paper.  Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-38)
+- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Mangoda, Medadumbara D/S/ Division, Kandy District.
+Land Acquisition Ã¢â¬â Correction Paper. Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-37)
 - 🚨 [2025-03-04] [Land Title Settlement Department Ã¢â¬â Ellepola, Balangoda D/S/ Division, Ratnapura District (24/1020)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-33)
 - 🚨 [2025-03-04] [Land Title Settlement Department Ã¢â¬â Gangodavila, Sri Jayawardanapura Kotte D/S/ Division, Colombo District. (24/0920)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-32)
 - 🚨 [2025-03-04] [Land Title Settlement Department Ã¢â¬â Hiththatiya, Matara D/S/ Division, Matara District (24/0926)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-31)
@@ -958,12 +1023,17 @@
 - 🚨 [2025-03-04] [Land Title Settlement Department Ã¢â¬â Kandumulla, Mahara D/S/ Division, Gampaha District (24/0849)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-29)
 - 🚨 [2025-03-04] [Land Title Settlement Department Ã¢â¬â Kumbuka, Horana D/S/ Division, Kalutara District (24/0797)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-28)
 - 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Pattiyakumbura Village, Ella D/S/ Division, Badulla District. Section -07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-27)
-- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Meddegama, Dompe D/S/ Division, Gampaha District.Land Acquisition Ã¢â¬â Walikamam North D/S/ Division, Jaffna District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-26)
+- 🚨 [2025-03-04] [Land Acquisition Ã¢â¬â Meddegama, Dompe D/S/ Division, Gampaha District.
+Land Acquisition Ã¢â¬â Walikamam North D/S/ Division, Jaffna District. Section Ã¢â¬â 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-26)
 - 🚨 [2025-03-04] [Minister of Public Administration - Service Minute of the Management Service Officer's Service - Revision No - 04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-25)
 - 🚨 [2025-03-03] [Ministry of Labour Ã¢â¬â Industrial Dispute between Dipped Products PLC Plant 2 and Inter Company EmployeesÃ¢â¬â¢ Union](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-24)
-- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  - Industrial Dispute between DPL Premier Gloves Limited and Free Trade Zones and General Services EmployeesÃ¢â¬â¢ Union](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-23)
-- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  - 1 Ã¢â¬â Industrial Dispute between Tai Lanka Hotels PLC and Inter Company Employees Union.2 Ã¢â¬â between Bank of Ceylon and Ceylon Bank EmployeesÃ¢â¬â¢ Union.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-22)
-- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  -Industrial Dispute between Lanka Island Resorts Limited and Employee Council of Lanka Island Resorts Ltd](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-21)
+- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  - 
+Industrial Dispute between DPL Premier Gloves Limited and Free Trade Zones and General Services EmployeesÃ¢â¬â¢ Union](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-23)
+- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  - 
+1 Ã¢â¬â Industrial Dispute between Tai Lanka Hotels PLC and Inter Company Employees Union.
+2 Ã¢â¬â between Bank of Ceylon and Ceylon Bank EmployeesÃ¢â¬â¢ Union.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-22)
+- 🚨 [2025-03-03] [Ministry of Labour and Foreign Employment  -
+Industrial Dispute between Lanka Island Resorts Limited and Employee Council of Lanka Island Resorts Ltd](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-21)
 - 🚨 [2025-03-03] [Land Title Settlement Department Ã¢â¬â Wepathaira, Hakmana D/S/ Division, Matara District (24/1062)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-20)
 - 🚨 [2025-03-03] [Land Title Settlement Department Ã¢â¬â Puttalam, Puttalam D/S/ Division, Puttalam District (24/1080)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-19)
 - 🚨 [2025-03-03] [Land Title Settlement Department Ã¢â¬â Pokunuwita, Horana D/S/ Division, Kalutara District (24/0924)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2426-18)
@@ -1133,7 +1203,8 @@
 - 🚨 [2025-02-18] [Land Title Settlement Department Ã¢â¬â Kumburegoda, Thawalama D/S/ Division, Galle District. Cad map No. 810615 (24/1127)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-29)
 - 🚨 [2025-02-18] [Land Title Settlement Department Ã¢â¬â Mount Lavinia, Ratmalana D/S/ Division, Colombo District. Cad map No. 521004 (24/1103)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-28)
 - 🚨 [2025-02-18] [Land Title Settlement Department Ã¢â¬â Talakolahena, Nikaweratiya D/S/ Division, Kurunegala District. Cad map No. 420042 (24/1212)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-27)
-- 🚨 [2025-02-18] [Department of Local Government  - Eastern ProvinceEastern Provincial Councils Notification Standard by Law.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-26)
+- 🚨 [2025-02-18] [Department of Local Government  - Eastern Province
+Eastern Provincial Councils Notification Standard by Law.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-26)
 - 🚨 [2025-02-18] [Land Acquisition Ã¢â¬â Atanwala, Laggala D/S/ Division, Matale District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-25)
 - 🚨 [2025-02-18] [Land Acquisition Ã¢â¬â Siyambalape, Biyagama D/S/ Division, Gampaha District. Section - 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-24)
 - 🚨 [2025-02-18] [Kolonna Pradeshiya Sabha Ã¢â¬â Kolonna Pradeshiya Sabha List of Names of the  Roads and Lanes](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-23)
@@ -1153,7 +1224,8 @@
 - 🚨 [2025-02-17] [Land Acquisition Ã¢â¬â Massala, Beruwala D/S/ Division, Kalutara District. Section Ã¢â¬â 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-05)
 - 🚨 [2025-02-17] [Land Acquisition - Beruwala D/S Division, Kalutara District, Correction Notice, Kolonna D/S Division, Corrigenda, Passara Puhulwatta Lake](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-04)
 - 🚨 [2025-02-17] [Office of the Governor Uva Province Ã¢â¬â Uva Province Provincial Council Appointments, Dismissals and Resignations](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-03)
-- 🚨 [2025-02-17] [Ministry of Public Administration, P . Councils and Local Government Ã¢â¬â Pradeshiya Sabha Act.No.15 of 1987 by Order Under Section 5 (2) (b)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-02)
+- 🚨 [2025-02-17] [Ministry of Public Administration, P . Councils and Local Government Ã¢â¬â 
+Pradeshiya Sabha Act.No.15 of 1987 by Order Under Section 5 (2) (b)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-02)
 - 🚨 [2025-02-17] [Sri Lanka Customs - Rates of Exchange with effect from 17.02.2025 to 23.02.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2424-01)
 - 🏛️ [2025-02-17] [Local Authorities Elections (Special Provisions)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2025/01-2025)
 - 🚨 [2025-02-15] [Ministry of Defence - Amended the Sri Lanka Air Force Women's Wing (Regular and Regular Reserve) Regulations 1987.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-36)
@@ -1183,7 +1255,8 @@
 - 🚨 [2025-02-13] [Presidential Secretariat - Sri Lanka Air Force Promotion, Retirement and Appointment.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-17)
 - 🚨 [2025-02-13] [Public Utilities Commission of Sri Lanka - The Sri Lanka Electricity Act, No.20of 2009](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-16)
 - 🚨 [2025-02-13] [Election Commission - Parliamentary Election - 2024 Order Under Section 6 (3) of the Regulation of Election Expenditure Act, No.03 of 2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-15)
-- 🚨 [2025-02-11] [Land Acquisition Ã¢â¬â Gampaha Ihalagama, Gampaha D/S/ Division, Gampaha District, Gampaha Medagama, Gampaha D/S/ Division, Gampaha District. Section - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-14)
+- 🚨 [2025-02-11] [Land Acquisition Ã¢â¬â Gampaha Ihalagama, Gampaha D/S/ Division, Gampaha District
+, Gampaha Medagama, Gampaha D/S/ Division, Gampaha District. Section - 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-14)
 - 🚨 [2025-02-10] [Land Title Settlement Department Ã¢â¬â Katiyawa yaya 6,7,8,9,  Thalawa D/S/ Division, Anuradhapura District. Cad map No. 110108 (24/0605)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-13)
 - 🚨 [2025-02-10] [Land Title Settlement Department Ã¢â¬â Sitinamaluwa, Beliatta D/S/ Division, Hambantota District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-12)
 - 🚨 [2025-02-10] [Land Title Settlement Department Ã¢â¬â Sandalankawa, Pannala D/S/ Division, Kurunegala District. Cad map No. 420505 (25/5514019)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2423-11)
@@ -1343,9 +1416,12 @@
 - 🚨 [2025-01-29] [Minister of Lab our - Industrial Dispute Collective Agreement. (English only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-11)
 - 🚨 [2025-01-29] [Land Aquisition - Bellapitiya, Madurawala D/S Devision, Kalutara  District. Warakagoda, Madurawala D/S Devision, Kalutara District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-10)
 - 🚨 [2025-01-29] [Legal Affairs Department - Public Financial Management Act. No.44 of 2024 Order Under Subsection (3) of Section 4.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-09)
-- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Homagama, Homagama D/S/ Division, Colombo DistrictLand Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo District. Section Ã¢â¬â 38(A)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-08)
-- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo DistrictLand Acquisition Ã¢â¬â do, Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-07)
-- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Homagama, Homagama D/S/ Division, Colombo District Order No.03 of 2025Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo District. Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-06)
+- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Homagama, Homagama D/S/ Division, Colombo District
+Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo District. Section Ã¢â¬â 38(A)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-08)
+- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo District
+Land Acquisition Ã¢â¬â do, Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-07)
+- 🚨 [2025-01-27] [Land Acquisition Ã¢â¬â Homagama, Homagama D/S/ Division, Colombo District Order No.03 of 2025
+Land Acquisition Ã¢â¬â Magammana, Homagama D/S/ Division, Colombo District. Section Ã¢â¬â 38(a)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-06)
 - 🚨 [2025-01-27] [Department of Trade and Investment Policy - Revenue Protection Order No. 01/2025 -  Revenue Protection Act, No.19 of1962](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-05)
 - 🚨 [2025-01-27] [Imports and Exports Control Department - Imports and Exports Control Act, No.01 of 1969 Imports and Exports (Control) Regulations No, No 01 of 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-04)
 - 🚨 [2025-01-27] [Department of Trade and Investment Policy Ã¢â¬â Special Commodity Levy Act No. 48 of 2007 Order Under Section 5](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2421-03)

@@ -72,7 +72,8 @@
 - 🚨 [2022-12-27] [Ministry of Labour and Foreign Employment - Industrial Disputes between I. B Feranando, No 85/5, Aluthgama and Other Part Sri Lanka Radio Ceylon Colombo 07 - Industrial Disputes between H. S. L. Perera Molligoda Wadduwa and Other Part Bata Shoes Company of Ceylon Ltd. Ratmalana](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-05)
 - 🚨 [2022-12-27] [Election Commission - Local Authorities Elections - 2022, Display of Electoral Registers](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-04)
 - 🚨 [2022-12-26] [Ministry of Labour and Foreign Employment - Industrial Dispute between G. W. Nandasiri Uduwara Haliela and Other Part Sri Lanka Transport Board Colombo 05 - Industrial Dispute between P. B. Manjula Prasad Sabaragamuwa University and Other Part Sri Lanka Sabaragamuwa University Belihuloya (S Only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-03)
-- 🚨 [2022-12-26] [Land Acquisition - Jayanthiwewa Padavi Sripura D/S Division, Trincomalee DistrictLand Acquisition - Imaiyanan, Vadamaradchchi, South, West Karavddy D/S Division, Jaffna District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-02)
+- 🚨 [2022-12-26] [Land Acquisition - Jayanthiwewa Padavi Sripura D/S Division, Trincomalee District
+Land Acquisition - Imaiyanan, Vadamaradchchi, South, West Karavddy D/S Division, Jaffna District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-02)
 - 🚨 [2022-12-26] [Sri Lanka Customs - Rates of Exchange with effect from 26.12.2022 to 01.01.2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2312-01)
 - 🚨 [2022-12-26] [Ministry of Labour and Foreign Employment - Industrial Dispute between K. Piyathilaka No.14 Kekunaduea and Other Part National James and Juwellery Authority - Industrial Dispute between K. Thiyagaraja and Other Part Tissa Resort (Pvt.) ltd. Thissamaharamaya](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2311-16)
 - 🚨 [2022-12-24] [Department of Local Government - Eastern Province - Held meeting on 23.12.2022 at 10.00 a.m. at the Manmunai South Eruvil Pathu Pradeshiya Sabha Hall, for Elect New Chairman](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2311-60)
@@ -439,7 +440,8 @@
 - 🚨 [2022-11-21] [Anamaduwa Pradeshiya Sabha - Lists for Roads and Thoroughfares for the Anamaduwa Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2307-02)
 - 🚨 [2022-11-21] [Sri Lanka Customs - Rates of Exchange with Effect from 21.11.2022 to 27.11.2022](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2307-01)
 - 🚨 [2022-11-19] [Land Settlement Department - Maduwanwela, Embilipitiya D/S Division, Rathnapura District - Cad. Map No. 620521](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-90)
-- 🚨 [2022-11-19] [Land Aquisition - Maitipe, Galle Four Gravets  D/S Division, Galle District,Land Aquisition - Nachehikuda, Trincomalee Town and Gravets  D/S Division,Trincomalee District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-89)
+- 🚨 [2022-11-19] [Land Aquisition - Maitipe, Galle Four Gravets  D/S Division, Galle District,
+Land Aquisition - Nachehikuda, Trincomalee Town and Gravets  D/S Division,Trincomalee District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-89)
 - 🚨 [2022-11-19] [Ministry of Labour - The Industrial Disputes between H. K. N. S. Herath Palatuwa and Other Part Sri Lanka Transport Board Colombo 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-88)
 - 🚨 [2022-11-19] [Ministry of Labour - Appoint Mr. M. M. I. R. A. Jayathilaka No 32/261 Galle, as the Arbitrator to the Industrial Disputes between R. Y. G. S. Gyan Yapa, Colombo 12 and Sri Lanka State Plantation Corporation Colombo 12](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-87)
 - 🚨 [2022-11-19] [Ministry of Labour - The Industrial Dispute between Mr. N. C. G. S. Peiris No. 8/28, Suwarapola Piliyandala and other Part Macro Tech Heavy Engineering Yagodmulla Kotugoda](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-86)
@@ -456,8 +458,11 @@
 - 🚨 [2022-11-18] [Land Acquisition - Divulapitiya, Kesbewa D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-75)
 - 🚨 [2022-11-18] [Ministry of Tourism and Lands - Land Acquisition - Kohuwala, Dehiwala D/S Division, Colombo District - Bandigantota, Sooriyawewa D/S Division, Hambantota District - Kohuwala, Dehiwala D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-74)
 - 🚨 [2022-11-18] [District Secretariat - Galle - Annual Duruthu Maha Procession of Pilana Purana Sri maha Temple will be held from 07th of December 2022 to 6th of January 2023 Akmeemana D/S/Division,Galle District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-73)
-- 🚨 [2022-11-18] [Land Aquisition - Deiyandara, Mulatiyana D/S Division, Matara District,Land Aquisition - Ransagoda, Mulatiyana D/S Division, Matara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-72)
-- 🚨 [2022-11-18] [Land Aquisition - Thiththakada, Chilaw D/S Division, Puttalam District, Land Aquisition - Millavitiya, Kuruvita D/S Division, Ratnapura District,Land Aquisition - Galahitiyagama, Pallepola D/S Division, Matale District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-71)
+- 🚨 [2022-11-18] [Land Aquisition - Deiyandara, Mulatiyana D/S Division, Matara District,
+Land Aquisition - Ransagoda, Mulatiyana D/S Division, Matara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-72)
+- 🚨 [2022-11-18] [Land Aquisition - Thiththakada, Chilaw D/S Division, Puttalam District, 
+Land Aquisition - Millavitiya, Kuruvita D/S Division, Ratnapura District,
+Land Aquisition - Galahitiyagama, Pallepola D/S Division, Matale District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-71)
 - 🚨 [2022-11-18] [Land Settlement Department - Serana, Rideemaliyadda D/S Division, Badulla District - Cad. Map No. 710025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-70)
 - 🚨 [2022-11-18] [Land Settlement Department - Homagama, Galawilawaththa North, Homagama D/S Division, Colombo District - Cad. Map No. 520001](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-69)
 - 🚨 [2022-11-18] [Land Settlement Department - Siyambalapitiya, Galigamuwa D/S Division, Kegalle District - Cad. Map No. 610010](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2306-68)
@@ -939,7 +944,8 @@
 
 ## 2022-09
 
-- 🚨 [2022-09-30] [Division Secretariat - Mawathagama - Land Acquisition - Wadiyagoda Village, Mawathagama D/S Division, Kurunegala District.Division Secretariat - Galagedara - Land Acquisition - Arambekade Village, Thumpane D/S Division, Kandy District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2299-70)
+- 🚨 [2022-09-30] [Division Secretariat - Mawathagama - Land Acquisition - Wadiyagoda Village, Mawathagama D/S Division, Kurunegala District.
+Division Secretariat - Galagedara - Land Acquisition - Arambekade Village, Thumpane D/S Division, Kandy District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2299-70)
 - 🚨 [2022-09-30] [Ministry of Tourism & Land - Land in Heyyanthuduwa re-alienated to Land Reform Commission](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2299-69)
 - 🚨 [2022-09-30] [Ministry of Tourism and Lands. - Regulation Made by the Ministry of Lands and Tourism under Paragraph (f) of Subsection (2) of Section 63 of the Lands Acquisition Act (Chapter 460)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2299-68)
 - 🚨 [2022-09-30] [Ministry of Education - Order Made under Section 27 Read with Section 21. Sabaragamuwa University Insertion of "Department of Primary Care and Family Medicare."](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2299-67)
@@ -1504,7 +1510,8 @@
 - 🚨 [2022-08-04] [Land Acquisition - Thammannawa, Nuwaragampalatha East D/S Division, Anuradhapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-39)
 - 🚨 [2022-08-04] [Land Acquisition - Galamhegama, Wethalawa, Uvaparanagama D/S Division, Badulla District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-38)
 - 🚨 [2022-08-04] [Presidential Secretariat - Appointment of Hon. Nimal Siripala de Silva member of Parliament as the Minister of Ports, Shipping & Aviation from August 02, 2022](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-37)
-- 🚨 [2022-08-04] [Land Acquisition - Kalapaluwawa Cemetery in Kalapaluwawa, Kaduwela Municipal Council, Colombo District, Land Acquisition - Batapotha Cemetery Batapotha, Kaduwela Municipal Council, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-36)
+- 🚨 [2022-08-04] [Land Acquisition - Kalapaluwawa Cemetery in Kalapaluwawa, Kaduwela Municipal Council, Colombo District, 
+Land Acquisition - Batapotha Cemetery Batapotha, Kaduwela Municipal Council, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-36)
 - 🚨 [2022-08-04] [Land Title Settlement Department - Katakedeniya, Udunuwara D/S Division, Kandy District - Cad. Map No. 320241](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-35)
 - 🚨 [2022-08-04] [Ministry of Education - K/Yatihalagala Pallegama Buddhist Sinhala Mixed School](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-34)
 - 🚨 [2022-08-04] [Land Acquisition - Bowala, Kandy, Kadawathsathura and Gangawata Korale D/S Division, Kandy District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2291-33)
@@ -2561,7 +2568,8 @@
 - 🚨 [2022-03-04] [Ministry of Water Supply - Construction of Access Road to the Water Treatment Plant Under Kuruwita New Water Supply Project Errata Notice to the Extra Gazette No. 2116/30 of 26.03.2019](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-73)
 - 🚨 [2022-03-04] [Department of Labour - Labour Standards Division - Wages Board for the Garment Manufacturing Trade and Ceramic Products Manufacturing Trade](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-72)
 - 🚨 [2022-03-04] [Land Acquisition - Ganemulla, Gampaha D/S Division, Gampaha District and Amendment to the Ex. Gaz. No. 200/54 of 05.01.2017 and other 4 Amendments](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-71)
-- 🚨 [2022-03-04] [Colombo Municipal Council - Standard By-Laws --This Gazette Extraordinary has been Canceled ...........](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-70)
+- 🚨 [2022-03-04] [Colombo Municipal Council - Standard By-Laws --
+This Gazette Extraordinary has been Canceled ...........](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-70)
 - 🚨 [2022-03-04] [Land Acquisition - Ihalagama, Madagama, Gampaha D/S Division, Gampaha District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-65)
 - 🚨 [2022-03-04] [Land Acquisition - Beliattavila, Padukka D/S Division, Colombo District - Malagala, Padukka D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-64)
 - 🚨 [2022-03-04] [Land Acquisition - Udubaddawa, Ihalagama, Udubaddawa D/S Division, Kurunegala District - Ihala Ruwanmaduwa, Ruwanmaduwa, Rasnikawewa D/S Division, Anuradhapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2022/2269-63)

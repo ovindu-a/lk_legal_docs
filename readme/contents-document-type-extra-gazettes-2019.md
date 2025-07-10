@@ -853,7 +853,8 @@
 - 🚨 [2019-09-23] [Land Acquisition - Ataragallawea , Elahera D/S Division, Polonnaruwa District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2142-04)
 - 🚨 [2019-09-23] [Land Acquisition - Gangodawila, Maharagama D/S Division, Colombo  District  - Puwakgahaulpotha, Elahera D/S Division, Polonnaruwa District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2142-03)
 - 🚨 [2019-09-23] [Sri Lanka Customs - Rates of Exchange effective from 29.09.2019](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2142-02)
-- 🚨 [2019-09-23] [Elections Commission - List of Assistant Returning Officers for the Presidential Election - 2019(Received on 2019.10.23)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2142-01)
+- 🚨 [2019-09-23] [Elections Commission - List of Assistant Returning Officers for the Presidential Election - 2019
+(Received on 2019.10.23)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2142-01)
 - 🚨 [2019-09-22] [Presidential  Secretariat - Order of the Public Security Ordinance](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2141-93)
 - 🚨 [2019-09-22] [Election Commission  - The fee should be Deposited by a Presidential Candidate with the Election Commission](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2141-92)
 - 🚨 [2019-09-21] [Land Acquisition - Beddegama, Panwila D/S Division, Kandy](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2141-91)
@@ -1729,7 +1730,8 @@
 - 🚨 [2019-06-12] [Land Acquisition - Kotawella, Rambukkana D/S Division, Kegalle District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-16)
 - 🚨 [2019-06-12] [National Physical Planning Department - Gazetting of the Updated National Physical Planning Policy and the Plan 2050 Approved by the National Physical Planning Council](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-15)
 - 🚨 [2019-06-12] [Department of Fiscal Policy - Declave that Ethanamadala Sahana Elders Home Organisation](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-14)
-- 🚨 [2019-06-11] [Department of Trade and Investment Policy - Revenue Protcetion Order No. 2/2019 (Revenue Protcetion Act No. 19 of 1962(Import Duty on Super Diesel & other w.e.f. 12.06.2019)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-13)
+- 🚨 [2019-06-11] [Department of Trade and Investment Policy - Revenue Protcetion Order No. 2/2019 (Revenue Protcetion Act No. 19 of 1962
+(Import Duty on Super Diesel & other w.e.f. 12.06.2019)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-13)
 - 🚨 [2019-06-11] [Land Acquisition - Wathugedara Easst (FVP 96), Haliela D/S Division, Badulla District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-12)
 - 🚨 [2019-06-11] [Elections Commission - Declare that H. M. Muthubanda as a Member of the Kanthale Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-11)
 - 🚨 [2019-06-11] [Elections Commission - Declare that A. M. Sumanarathna as a Member of the ward No. 12 Dambarawa of Mahiyangana Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2019/2127-10)

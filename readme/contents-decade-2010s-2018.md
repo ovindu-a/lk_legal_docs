@@ -1344,7 +1344,10 @@
 - 📢 [2018-08-03] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-08-03-iib-advertising)
 - 📢 [2018-08-03] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-08-03-iia-advertising)
 - 📢 [2018-08-03] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-08-03-i-general)
-- 🚨 [2018-08-02] [Presidential Secretariat - 08-624/1-Notify the Appointment to the President's staff as Additional  Secretaries to the President w.e.f. 01.05.2018. 624/2-Notify the appointment Mrs. P. H. Colombage as an Acting Director with effect from 02.07.2018. 624/3-Notify the appointment Mr. D. L .P. R. Abhayaratne as an Additional Secretary to the President w.e.f. 12.07.2018624/4-Notify the Appointment Mr. E. G. S. Sisira Kumara as an Accountant to the President Staff w.e.f. 16.07.2018](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2082-57)
+- 🚨 [2018-08-02] [Presidential Secretariat - 08-624/1-Notify the Appointment to the President's staff as Additional  Secretaries to the President w.e.f. 01.05.2018. 
+624/2-Notify the appointment Mrs. P. H. Colombage as an Acting Director with effect from 02.07.2018.
+ 624/3-Notify the appointment Mr. D. L .P. R. Abhayaratne as an Additional Secretary to the President w.e.f. 12.07.2018
+624/4-Notify the Appointment Mr. E. G. S. Sisira Kumara as an Accountant to the President Staff w.e.f. 16.07.2018](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2082-57)
 - 🚨 [2018-08-02] [Land Acquisition - Katukurunda, Kaluthara D/S Division, Kalutara Distirct - Amendment  Gaz. No. 2002/40 of 19.01.20017 Padiyathalwa, Padiyathalawa D/S Division, Amparaa District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2082-56)
 - 🚨 [2018-08-02] [Land Acquisition - Suduwella, Deltota D/S Division, Kandy District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2082-55)
 - 🚨 [2018-08-02] [Ministry of Labour & Trade Union Relatiions - Notify the Industrial Dispute between T. N. A. Fernando and Sri Lanka Transport Board](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2082-54)
@@ -2688,7 +2691,8 @@
 - 🚨 [2018-03-16] [Department of Local Government  - North Central Province - Notify the First Meeting of the Kebitigollewa and 12 other Local Government Bodies in North Central Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2062-38)
 - 🚨 [2018-03-16] [Land Acquisition - Maapalana, Kamburupitiya D/S Division, Matara District and Hokandara-North, Kaduwela D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2062-36)
 - 🚨 [2018-03-16] [Land Acquisition - Pallepamunuwa, Aranayaka D/S Division, Kegalle District and 3 other notices](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2062-35)
-- 🚨 [2018-03-16] [Department of Local Government - North Western Province - Notify convene the First Meeting of the Chilaw UC and 12 other Local Govt. Bodies in North - Western Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2062-34)
+- 🚨 [2018-03-16] [Department of Local Government - North Western Province - Notify convene the First Meeting of the Chilaw UC and 12 other Local Govt. Bodies in North -
+ Western Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2018/2062-34)
 - 📢 [2018-03-16] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-03-16-legal-section)
 - 📢 [2018-03-16] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-03-16-land-section)
 - 📢 [2018-03-16] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2018/2018-03-16-iv-b-local-government)

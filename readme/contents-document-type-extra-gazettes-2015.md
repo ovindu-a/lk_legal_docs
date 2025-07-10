@@ -2175,7 +2175,9 @@
 - 🚨 [2015-02-12] [Land Acquisition - Julangete, Embilipitiya D/S Division, Ratnapura District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-17)
 - 🚨 [2015-02-12] [Land Acquisition - Kothalawala-Kaduwela, Kaduwela D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-16)
 - 🚨 [2015-02-11] [Badalkumbura Pradeshiya Sabha - Imposition of By-Laws](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-15)
-- 🚨 [2015-02-11] [Presidential Secretariat - Duties & Functions assigning to the Minister of DefenceThis Extra Gazette has been amended and the new Extra Gazette No. is 1901/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-14)
+- 🚨 [2015-02-11] [Presidential Secretariat - Duties & Functions assigning to the Minister of Defence
+
+This Extra Gazette has been amended and the new Extra Gazette No. is 1901/27](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-14)
 - 🚨 [2015-02-11] [Eastern Province - Appoint Hon. Ahamed Nazeer Zainulabdeen as the Chief Minister of the Eastern Provincial Council w.e.f. 06.02.2015](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-13)
 - 🚨 [2015-02-11] [Public Utilities Commission of Sri Lanka - Issuance of Certificate exemption to Urban Development Authority for a period effective from 18.12.2014 to 17.12.2019](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-12)
 - 🚨 [2015-02-11] [Ministry of Justice and Labour Relations - Award made to the Industrial Dispute between Mr. W. J. Pathiranarathna and Ceylon Petroleum Storage Terminals Ltd.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2015/1901-11)

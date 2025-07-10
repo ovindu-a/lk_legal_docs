@@ -864,7 +864,8 @@
 - 🚨 [2024-09-24] [Land Settlement Department - Polonnaruwa North, Tangalle D/S Division, Hambantota District - Cad. Map No.830575 (24/0538)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-08)
 - 🚨 [2024-09-24] [Land Settlement Department - Aluthgama - Bogamuwa (North), Gampaha D/S Division, Gampaha District - Cad. Map No. 511800 (7742)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-07)
 - 🚨 [2024-09-24] [Presidential Secretariat - Appointed Dr.Nandika Sanath Kumanayaka as Secretary to the President with effect from September 23, 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-06)
-- 🚨 [2024-09-23] [Presidential Secretariat -Resignation of Hon. Governors have resigned from their office with effect from September 22, 2024.(Six Governors)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-05)
+- 🚨 [2024-09-23] [Presidential Secretariat -Resignation of Hon. Governors have resigned from their office with effect from September 22, 2024.
+(Six Governors)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-05)
 - 🚨 [2024-09-23] [Presidential Secretariat - Hon.Prime Minister Dinesh Chandra Rupasingha Gunawardena has Resigned the office of Prime Minister with Effect from 23rd September, 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-04)
 - 🚨 [2024-09-23] [Presidential Secretariat - Declared Elected as the President Hon. Anura Kumara Dissanayake by the Elections Commission on the 23rd September 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-03)
 - 🚨 [2024-09-23] [Sri Lanka Customs - Rates of Exchange with Effect From 23.09.2024 to 29.09.2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2403-02)
@@ -1052,7 +1053,8 @@
 - 📢 [2024-08-30] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2024/2024-08-30-iib-advertising)
 - 📢 [2024-08-30] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2024/2024-08-30-iia-advertising)
 - 📢 [2024-08-30] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2024/2024-08-30-i-general)
-- 🚨 [2024-08-29] [Presidential Secretariat - appointed Mr. Somarathna Vidanapathirana as the Secretary to the Ministry of Tourism and Lands,with effect from August 24, 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2399-42)
+- 🚨 [2024-08-29] [Presidential Secretariat - appointed Mr. Somarathna Vidanapathirana as the Secretary to the Ministry of Tourism and Lands,
+with effect from August 24, 2024.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2399-42)
 - 🚨 [2024-08-29] [Land Acquisition - Compensation for the Land acquired Wattala D/S Division, Gampaha District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2399-41)
 - 🚨 [2024-08-29] [Election Commission - Appointed Assistant Returning officers for the Galle Administrative District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2399-40)
 - 🚨 [2024-08-29] [Election Commission - Local Authorities Elections Ordinance (Chapter 262), Order Under Section 76A](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2399-39)
@@ -1160,7 +1162,8 @@
 - 🚨 [2024-08-21] [Ministry of Water Supply and Estate Infrastructure Development - Amended Extra Gazette No.2343/28 dated 2nd August 2023, in Respeet of  the Water tariffs with Effect From 01 August 2023.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-19)
 - 🚨 [2024-08-21] [Imports and Exports Control Department - Regulations under the Imports and Exports Control Act, No. 01 of 1969 (The Imports Control Regulations on Payment Terms No. 11 of 2024)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-18)
 - 🚨 [2024-08-21] [Election Commission - Appoint the Officer for Administrative District as the Returning Officer for Electing Members to the Local Authority Elections](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-17)
-- 🚨 [2024-08-21] [Election Commission - Appoint the officer for the Administrative District as the Returning Officer for election members to the electing members to the Local Authority Election](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-16)
+- 🚨 [2024-08-21] [Election Commission - Appoint the officer for the Administrative District as the Returning Officer for election members to the electing members to the Local 
+Authority Election](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-16)
 - 🚨 [2024-08-21] [Election Commission - Appointed Returning Officer and the Assistant Returning Officer to the Administrative District of Galle](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-15)
 - 🚨 [2024-08-21] [Ministry of Water Supply and Estate Infrastructure Development - Amended Extra Gazette No.2343/29, Dated 2nd August 2023, in Respect of the Sewerage Lariff With Effect From 01st August 2023.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-14)
 - 🚨 [2024-08-20] [Ministry of Agriculture and Plantation Industries - The Regulation of Fertilizer Act. No.68 of 1988.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2398-13)
@@ -1651,8 +1654,10 @@
 - 🚨 [2024-07-09] [Land Title Settlement Department - Horagolla, Gampaha D/S Division, Gampaha District - Cad. Map No. 511803 (24/0411)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-19)
 - 🚨 [2024-07-09] [Land Title Settlement Department - Pallama, Pannala D/S Division, Kurunegala District - Cad. Map No. 420516 (24/55021)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-18)
 - 🚨 [2024-07-09] [Land Title Settlement Department - Homagama, Homagama D/S Division, Colombo District - Cad. Map No. 520001 (24/494)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-17)
-- 🚨 [2024-07-08] [Ministry of Lab our and Foreign Employment - The Industrial Disputer between Inter University Sab Waarden Union Moratuwa and  other Part University Grants Commission Colombo-07The Industrial Disputer between D.C.Jayasinhe Battaramulla and Ceylon Petroleum Storage Terminals Limited Kolonnawa. (Sinhala & English Only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-16)
-- 🚨 [2024-07-08] [Ministry of Lab our and Foreign Employment - The Industrial Disputer between A.K. Aska Ranjith, Rathnapura and other Part Lalan Rubber (Pvt) Ltd. Colombo- 06.The  Industrial Disputer between W.A.S. Wettasinha Eheliyagoda and other Part the Ceylon Railway Uniform Staft Benevolent Fund Colombo- 02 (Sinhala Only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-15)
+- 🚨 [2024-07-08] [Ministry of Lab our and Foreign Employment - The Industrial Disputer between Inter University Sab Waarden Union Moratuwa and  other Part University Grants Commission Colombo-07
+The Industrial Disputer between D.C.Jayasinhe Battaramulla and Ceylon Petroleum Storage Terminals Limited Kolonnawa. (Sinhala & English Only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-16)
+- 🚨 [2024-07-08] [Ministry of Lab our and Foreign Employment - The Industrial Disputer between A.K. Aska Ranjith, Rathnapura and other Part Lalan Rubber (Pvt) Ltd. Colombo- 06.
+The  Industrial Disputer between W.A.S. Wettasinha Eheliyagoda and other Part the Ceylon Railway Uniform Staft Benevolent Fund Colombo- 02 (Sinhala Only)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-15)
 - 🚨 [2024-07-08] [Ministry of Labour and Foreign Employment - The Industrial Disputes Between G.C. Jayalath Padukka and Other Part Sri Lanka Electricity Board, Colombo 02. The Industrial Disputes Between T.H.C. Senerath, Bussa and Other Part Sri Lanka Transport Board, Colombo 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-14)
 - 🚨 [2024-07-08] [Land Title Settlement Department - Magammana, Homagama D/S Division, Colombo District - Cad. Map No. 520003 (24/0399)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-13)
 - 🚨 [2024-07-08] [Land Title Settlement Department - Ballapanathenna, Balangoda D/S Division, Rathnapura District - Cad. Map No. 620063 (24/0489)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2392-12)
@@ -1798,7 +1803,8 @@
 - 🚨 [2024-06-18] [Department of Trade and Investment Policy - Foreign Exchange Act,No.12 2017, Order Under Section 22](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-08)
 - 🚨 [2024-06-18] [Department of Trade and Investment Policy - The Customs Ordinance Under Section 19 A.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-07)
 - 🚨 [2024-06-17] [Minister of Lab our and Foreign Employment - The Industrial Disputes Between M.M.Mohan ,Kottegoda E.K.A.Sisira Hungama and W.P. Ariyadasa Thangalla and Other Part Ocean University of Sri Lanka Colombo - 02](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-06)
-- 🚨 [2024-06-17] [Minister of Lab our and Foreign Employment - The Industrial Disputes Between M.J. Chandrasena, Panadura and Pannipitiya and other Part national Housing Development Authority Colombo-02The Industrial Disputes Between K.Kaluarachchi, Kadawatha and other 4 and other Part new Sri Lanka Part Authority Colombo- 01](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-05)
+- 🚨 [2024-06-17] [Minister of Lab our and Foreign Employment - The Industrial Disputes Between M.J. Chandrasena, Panadura and Pannipitiya and other Part national Housing Development Authority Colombo-02
+The Industrial Disputes Between K.Kaluarachchi, Kadawatha and other 4 and other Part new Sri Lanka Part Authority Colombo- 01](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-05)
 - 🚨 [2024-06-17] [Land Title Settlement Dept. - Gurulupitigama,  Giribawa D/S Division, Kurunegala District - Cad. Map No. 420968 (24/0201)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-04)
 - 🚨 [2024-06-17] [Land Title Settlement Dept. - Dobagammana,  Nivithigala D/S Division, Ratnapura District - Cad. Map No. 620393 (23/1015)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-03)
 - 🚨 [2024-06-17] [Land Title Settlement Dept. - Akarawita,  Gampaha D/S Division, Gampaha District - Cad. Map No. 511804(24/0096)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2389-02)
@@ -1994,7 +2000,9 @@
 - 🚨 [2024-05-22] [Land Acquisition - Palai Valikamam North D/S Division, Jaffna District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-15)
 - 🚨 [2024-05-21] [Public Utilities Commission of Sri Lanka - The Name of Person or Category of Person to Whom the Certificate of Exemptions were Granted.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-13)
 - 🚨 [2024-05-21] [National Physical Planning Department - Declare that the Area Gonnawa Sri Vishnu Devalaya as an Urban development Area. Declare that the Area Tangalle Henakaduwa Historic Raja Maha Viharaya as an Urban development Area](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-12)
-- 🚨 [2024-05-21] [Presidential Secretariat - an essential Public Service to the life of the community 1. All services Connected to the supply of Electricity. 2. The supply or Distribution of petroleum Produces and fuel](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-11)
+- 🚨 [2024-05-21] [Presidential Secretariat - an essential Public Service to the life of the community
+ 1. All services Connected to the supply of Electricity.
+ 2. The supply or Distribution of petroleum Produces and fuel](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-11)
 - ✍️ [2024-05-20] [Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2024/489-2024)
 - 🚨 [2024-05-20] [Land Acquisition - Parabevila, Polgahawela  D/S Division, kurunnegala District - Sec 05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-10)
 - 🚨 [2024-05-20] [Land Acquisition - Weragama, Minipe D/S Division, Kandy District - Weragama, MInipe D/S Division, Kandy District.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2385-09)
@@ -2136,7 +2144,8 @@
 - ✍️ [2024-05-03] [Civil Procedure Code (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2024/480-2024)
 - 🏛️ [2024-05-03] [Code of Criminal Procedure (Amendment)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/acts/2024/25-2024)
 - 🚨 [2024-05-03] [Presidential Secretariat - Duities and Functions Amendment to the Gazette Extra Ordinary No.2289/43 of 22.07.2022.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-35)
-- 🚨 [2024-05-03] [Presidential Secretariat - Appointed Mr. K.M.M. Siriwardana as the Secretary to the Ministry of Finance, EconomicStabilization and National Policies, with effect from April 26, 2024, for a period of one year.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-34)
+- 🚨 [2024-05-03] [Presidential Secretariat - Appointed Mr. K.M.M. Siriwardana as the Secretary to the Ministry of Finance, Economic
+Stabilization and National Policies, with effect from April 26, 2024, for a period of one year.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-34)
 - 🚨 [2024-05-03] [Ministry of Investment Promotion - Capacity Expansion Project of Colombo International Containers Terminals Ltd](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-33)
 - 🚨 [2024-05-03] [Ministry of Sports and Youth Affairs - National Associations of Sports Registrations No 01 of 2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-32)
 - 🚨 [2024-05-03] [Land Title Settlement Department - Karamula, Udunuwara D/S Division, Kandy District - Cad. Map No. 320249 (24/0118)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-31)
@@ -2159,8 +2168,11 @@
 - 📢 [2024-05-03] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2024/2024-05-03-i-general)
 - ✍️ [2024-05-02] [Sri Lanka Telecommunications (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2024/479-2024)
 - 🚨 [2024-05-02] [Department of Cooperative development - Central Province - Cancellation of Registration of Cooperative Society](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-23)
-- 🚨 [2024-05-02] [Presidential Secretariat -appointed following persons as Hon. Provincial Governors with effect from May 02, 2024.Mr. Lakshman Yapa Abeywardana,Mr. Ahamed Zenulabdeen Naseer](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-21)
-- 🚨 [2024-05-02] [Presidential Secretariat -Hon. Governors have resigned from their office with effect from May 02, 2024.Dr. William Wijesinghe Gamage,Mr. Lakshman Yapa Abeywardana](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-20)
+- 🚨 [2024-05-02] [Presidential Secretariat -appointed following persons as Hon. Provincial Governors with effect from May 02, 2024.
+Mr. Lakshman Yapa Abeywardana,
+Mr. Ahamed Zenulabdeen Naseer](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-21)
+- 🚨 [2024-05-02] [Presidential Secretariat -Hon. Governors have resigned from their office with effect from May 02, 2024.
+Dr. William Wijesinghe Gamage,Mr. Lakshman Yapa Abeywardana](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-20)
 - 🚨 [2024-05-02] [Land Title Settlement Department - Weligaga, Udapalatha D/S Division, Kandy District - Cad. Map No.  320042 (23/0948)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-19)
 - 🚨 [2024-05-02] [Land Title Settlement Department - Tholabugolla, Galewela D/S Division, Matale District - Cad. Map No. 310085 (24/0063)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-18)
 - 🚨 [2024-05-02] [Land Title Settlement Department - Karavila Paibokka, Sithrakala Hambantota D/S Division, Hambantota District - Cad. Map No. 830190 (24/120032)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2382-17)
@@ -2459,7 +2471,8 @@
 - 🚨 [2024-03-25] [Land Title Settlement Department - Talakolahena, Nikaweratiya D/S Division, Kurunegala District - Cad. Map No. 420042 (23/1094)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-10)
 - 🚨 [2024-03-25] [Land Acquisition - Bulathkohupitiya, Bulathkohupitiya D/S Division, Kegalle District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-09)
 - 🚨 [2024-03-25] [Land Acquisition - Heeralumulla, Udubaddawa D/S Division, Kurunegala District - Wilagama, Akuressa D/S Division, Matara District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-08)
-- 🚨 [2024-03-25] [Presidential Secretariat - Appointed the Lawyer Members and Valuer Members of the Board of Review for the period of three years with effect from 02, 02, 2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-07)
+- 🚨 [2024-03-25] [Presidential Secretariat - Appointed the Lawyer Members and Valuer Members of the Board of Review for the period of three years with effect from 
+02, 02, 2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-07)
 - 🚨 [2024-03-25] [Land Title Settlement Department - Kiribathkumbura, Yatinuwara D/S Division, Kandy District - Cad. Map No. 320552 (23/1007)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-06)
 - 🚨 [2024-03-25] [Land Title Settlement Department - Keppetiwalana, Meerigama D/S Division, Gampaha District - Cad. Map No. 510201 (24/0132)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-05)
 - 🚨 [2024-03-25] [Land Title Settlement Department - Udammita, Aththanagalla D/S Division, Gampaha District - Cad. Map No. 510611 (24/0125)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2377-04)
@@ -2558,7 +2571,8 @@
 - 🚨 [2024-03-12] [Ministry of Labour and Foreign Employment - The Industrial Disputes between N. P. Madarasingha No. 494/E, Halbarawa Road, Malabe and other part Ceylon Petroleum Storage Terminals Ltd. Kolonnawa](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-17)
 - 🚨 [2024-03-12] [Land Acquisition - Rescined the Declaration under Section 05 of the Ext. Gaz. No. 1859/09 dated 22.04.2014](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-16)
 - 🚨 [2024-03-12] [Land Acquisition - Katharagama, Thanamalwila D/S Division, Monaragala District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-15)
-- 🚨 [2024-03-11] [Land Acquisition - Kovana, Mallawapitiya D/S Division, Kurunegala District - Kossinna, Delpitiya, Hippola, Pathahewaheta D/S Division, Kandy District - Tumbowila, Kesbewa D/S Division, Colombo District(Section 38 (4))](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-14)
+- 🚨 [2024-03-11] [Land Acquisition - Kovana, Mallawapitiya D/S Division, Kurunegala District - Kossinna, Delpitiya, Hippola, Pathahewaheta D/S Division, Kandy District - Tumbowila, Kesbewa D/S Division, Colombo District
+(Section 38 (4))](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-14)
 - 🚨 [2024-03-11] [Land Acquisition - Gonawala, Laggala D/S Division, Matale District - Kirigampamunuwa and Kahathduwa, Homagama D/S Division, Colombo District (Section 38 (4))](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-13)
 - 🚨 [2024-03-11] [Ministry of Investment Promotion - Permission for the Importation of One Electric Re- Chargeable Vehicle](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-12)
 - 🚨 [2024-03-11] [Land Acquisition - Walawela, Yatawatta D/S Division, Matale District - Correction Notice Extra - Ordinary Gazette No 2350/18 Dated 19.09.2023](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-11)
@@ -2570,7 +2584,8 @@
 - 🚨 [2024-03-11] [Land Acquisition - Gangahenwala, Laggala D/S Division, Matale District - Gonawala, Laggala, Pallegama D/S Division, Matale District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-05)
 - 🚨 [2024-03-11] [Land Acquisition - Kirindiketiya, Laggala D/S Division, Matale District - Gangahenwala, Laggala D/S Division, Matale District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-04)
 - 🚨 [2024-03-11] [Land Acquisition - Kinalanwatta (Udkumbalwela) Ella D/S Division, Badulla District - Ex. Gaz. No. 2331/11 and dated 08.05.2023 Amended as (order under section 38(a)) - Atenwala, Laggala Pallegama D/S Division, Matale District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-03)
-- 🚨 [2024-03-11] [Land Acquisition - Mampe, kesbewa D/S Division, Colombo DistrictLand Acquisition - Mampe North, Kesbewa D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-02)
+- 🚨 [2024-03-11] [Land Acquisition - Mampe, kesbewa D/S Division, Colombo District
+Land Acquisition - Mampe North, Kesbewa D/S Division, Colombo District](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-02)
 - 🚨 [2024-03-11] [Sri Lanka Customs - Rates of Exchange with effect from 11.03.2024 o 17.03.2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2375-01)
 - 🚨 [2024-03-09] [Land Title Settlement Department - Meddegoda, Ja-Ela D/S Division, Gampaha District - Cad. Map No. 512210 (23/0867)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2374-50)
 - 🚨 [2024-03-09] [Land Title Settlement Department - Barawavila, Divulapitiya D/S Division, Gampaha District - Cad. Map No. 510012](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2374-49)
@@ -2809,9 +2824,12 @@
 - 🚨 [2024-02-12] [Land Title Settlement Department - Nikape, Dehiwala D/S Division, Colombo District - Cad. Map No. 520815 (7674)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2371-03)
 - 🚨 [2024-02-12] [Land Title Settlement Department - Kesbewa D/S Division, Colombo District - Cad. Map No. 521201 (7684)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2371-02)
 - 🚨 [2024-02-12] [Sri Lanka Customs - Rates of Exchange with effect from 12.02.2024 to 18.02.2024](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2371-01)
-- 🚨 [2024-02-10] [Land Acquisition - Nawinna, Maharagama D/S Division, Colombo District - Habalakkawa, Aranayaka D/S Division, Kegalle DistrictSec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-33)
-- 🚨 [2024-02-10] [Land Acquisition - Yodagama, Rambukkana D/S Division, Kegalle District - Amended Ex. Gaz. No. 1990/45 dated 28.10.2016 Maritimepattu D/S Division, Mullaitvu DistrictSec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-32)
-- 🚨 [2024-02-10] [Land Acquisition - Kekiriobada, Walasmulla D/S Division, Hambantota District - Pahala Athuraliya, Athuraliya D/S Division, Matara DistrictSec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-31)
+- 🚨 [2024-02-10] [Land Acquisition - Nawinna, Maharagama D/S Division, Colombo District - Habalakkawa, Aranayaka D/S Division, Kegalle District
+Sec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-33)
+- 🚨 [2024-02-10] [Land Acquisition - Yodagama, Rambukkana D/S Division, Kegalle District - Amended Ex. Gaz. No. 1990/45 dated 28.10.2016 Maritimepattu D/S Division, Mullaitvu District
+Sec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-32)
+- 🚨 [2024-02-10] [Land Acquisition - Kekiriobada, Walasmulla D/S Division, Hambantota District - Pahala Athuraliya, Athuraliya D/S Division, Matara District
+Sec. 07](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-31)
 - 🚨 [2024-02-10] [Governor's Secretariat Sabaragamuwa - Third Supplementary Financial Statement, 2023 of the Sabaragamuwa Provincial Council - 2023 Estimated Advance  Account Activities Authorization - Authorization Advanced Account](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2370-30)
 - ✍️ [2024-02-09] [Mohan Ellawala Social Development Foundation (Incorporation) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2024/457-2024)
 - 🚨 [2024-02-09] [Land Title Settlement Department - Unagalawehera East, Hingurakgoda D/S Division, Polonnaruwa District - Cad. Map No. 120034 (23/0936)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2024/2373-31)
