@@ -15,18 +15,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout lk_legal_docs:main
+      - name: "⬇️ Checkout lk_legal_docs"
         uses: actions/checkout@v4
         with:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      - name: Cache pip dependencies
+      - name: 🐍 Cache pip dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
@@ -34,7 +34,7 @@ jobs:
           restore-keys: |
             pip-${{ runner.os }}-
 
-      - name: Install dependencies
+      - name: 🐍 Install dependencies
         run: |
           sudo apt update
           sudo apt install ghostscript
@@ -43,7 +43,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install build
 
-      - name: Clone lk_legal_docs_data
+      - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
         run: |
           git clone --branch main --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
           ls /tmp/lk_legal_docs_data/
@@ -66,7 +66,7 @@ jobs:
           git pull origin main --rebase
           python workflows/aggregate.py
 
-      - name: "🚀 Push lk_legal_docs"
+      - name: "⬆️ Push lk_legal_docs"
         run: |
           git add .
           if git diff --cached --quiet; then
@@ -77,7 +77,7 @@ jobs:
           git pull origin main --rebase
           git push origin main
 
-      - name: "🚀 Push lk_legal_docs_data 🛢️"
+      - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
           cd /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
