@@ -85,7 +85,7 @@ class PDF:
             reader = PdfReader(self.pdf_path)
         except Exception as e:
             log.error(f"Failed to read PDF {self.pdf_path}: {e}")
-            return
+            return False
 
         sections = []
         for i_page, page in enumerate(reader.pages, start=1):
@@ -96,3 +96,4 @@ class PDF:
         File(txt_path).write(content)
         file_size_k = os.path.getsize(txt_path) / 1_000
         log.debug(f"Wrote {txt_path} ({file_size_k:.0f} KB)")
+        return True

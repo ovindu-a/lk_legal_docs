@@ -42,6 +42,7 @@ class AbstractDocDataDownloader:
 
     def download_all_pdfs(self):
         did_hot_download = False
+
         for lang, url in self.lang_to_source_url.items():
             if not url:
                 continue
@@ -52,6 +53,7 @@ class AbstractDocDataDownloader:
             if AbstractDocDataDownloader.__download__(url, file_path):
                 did_hot_download = True
                 PDF(file_path).compress()
+
         return did_hot_download
 
     def copy_metadata_to_temp_data(self):
@@ -60,11 +62,12 @@ class AbstractDocDataDownloader:
             self.dir_temp_data, "metadata.json"
         )
         if os.path.exists(temp_metadata_file_path):
-            return
+            return False
         if not os.path.exists(self.dir_temp_data):
             os.makedirs(self.dir_temp_data, exist_ok=True)
         shutil.copyfile(metadata_file_path, temp_metadata_file_path)
         log.debug(f"Wrote {temp_metadata_file_path}")
+        return True
 
     @cached_property
     def n_pdfs(self):

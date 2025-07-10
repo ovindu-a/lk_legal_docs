@@ -13,36 +13,40 @@ log = Log("data_scraper")
 N_BATCH = 8
 
 
+def get_worker(doc):
+    def worker(doc=doc):
+        is_hot = False
+        is_hot |= doc.copy_metadata_to_temp_data()
+        is_hot |= doc.download_all_pdfs()
+        is_hot |= doc.extract_text()
+        if is_hot:
+            log.info(f"✅ {doc.id}")
+        return is_hot
+
+    return worker
+
+
 def main(max_delta_t):
     log.debug(f"{max_delta_t=:,.1f}s")
+    log.debug(f"{N_BATCH=}")
 
     assert os.path.exists(AbstractDoc.DIR_TEMP_DATA)
 
     t_start = time.time()
     doc_list = DocFactory.list_all()
     n_doc_list = len(doc_list)
-    log.debug(f"{n_doc_list=}")
+    log.debug(f"{n_doc_list=:,}")
 
     i_doc = 0
 
     while i_doc < n_doc_list:
         workers = []
-        for j in range(N_BATCH):
+        for _ in range(N_BATCH):
             if i_doc >= n_doc_list:
                 break
             doc = doc_list[i_doc]
-
-            def worker(doc):
-                def inner(doc=doc):
-                    doc.copy_metadata_to_temp_data()
-                    doc.download_all_pdfs()
-                    doc.extract_text()
-                    log.debug(f"Processsed {doc.id}")
-                    return True
-
-                return inner
-
-            workers.append(worker(doc=doc))
+            i_doc += 1
+            workers.append(get_worker(doc=doc))
 
         Parallel.run(
             workers,
@@ -50,13 +54,11 @@ def main(max_delta_t):
         )
 
         delta_t = time.time() - t_start
-        log.debug(f"{delta_t=:,.1f}s")
         if delta_t > max_delta_t:
             log.warning(
                 f"⛔️ Stopping. ⏰ {delta_t:.1f}s > {max_delta_t:.1f}s."
             )
             return
-
     log.info("⛔️🛑 Downloaded ALL pdfs.")
     return
 
