@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-10 16:56:42**.*
+*Last Updated **2025-07-10 17:21:52**.*
 
 **43,969** documents (40.9 MB), from 1981-01-22 to 2025-07-08.
 
@@ -17,6 +17,12 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 #Legal #OpenData #GovTech
 
 📄 Currently, 11,123 PDFs (6.2 GB) for **4,008** documents (9.1%) have been downloaded. Final data size is estimated to be ~68 GB.
+
+## 🆕 The Legal Dcouments App
+
+You can browse this dataset using [http://nuuuwan.github.io/lk_legal_docs_app/](http://nuuuwan.github.io/lk_legal_docs_app/).
+
+For best results, use a desktop browser.
 
 ## Summary Statistics
 
@@ -65,20 +71,3 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 - 🚨 [2025-07-03] [Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-53)
 - 🚨 [2025-07-03] [Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-51)
 - 🚨 [2025-07-03] [Election Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-50)
-
-## Contents
-
-### By Document Type
-
-- [✍️ Bills](readme/contents-document-type-bills.md) (1,348 documents)
-- [🚨 Extraordinary Gazettes](readme/contents-document-type-extra-gazettes.md) (34,707 documents)
-- [📢 Gazettes](readme/contents-document-type-gazettes.md) (6,267 documents)
-- [🏛️ Acts](readme/contents-document-type-acts.md) (1,647 documents)
-
-### By Decade
-
-- [2020s](readme/contents-decade-2020s.md) (17,760 documents)
-- [2010s](readme/contents-decade-2010s.md) (24,451 documents)
-- [2000s](readme/contents-decade-2000s.md) (1,015 documents)
-- [1990s](readme/contents-decade-1990s.md) (339 documents)
-- [1980s](readme/contents-decade-1980s.md) (404 documents)
