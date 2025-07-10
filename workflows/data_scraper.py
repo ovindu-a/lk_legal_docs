@@ -15,10 +15,7 @@ N_BATCH = 8
 
 def get_worker(doc):
     def worker(doc=doc):
-        is_hot = False
-        is_hot |= doc.copy_metadata_to_temp_data()
-        is_hot |= doc.download_all_pdfs()
-        is_hot |= doc.extract_text()
+        is_hot = doc.download_all_data()
         if is_hot:
             log.info(f"✅ {doc.id}")
         return is_hot
