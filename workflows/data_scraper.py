@@ -52,10 +52,10 @@ def main(max_delta_t):
         )
         n_hot += sum([1 for r in results if r])
         delta_t = time.time() - t_start
-        speed = n_hot / delta_t
+        time_per_hot = delta_t / n_hot
 
         if prev_n_hot != n_hot:
-            log.debug(f"{n_hot=:,}, {speed=:.2f}/s")
+            log.debug(f"{n_hot=:,}, {time_per_hot=:.1f}s")
             prev_n_hot = n_hot
 
         if delta_t > max_delta_t:
