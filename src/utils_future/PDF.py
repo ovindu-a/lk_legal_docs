@@ -16,6 +16,13 @@ class PDF:
         assert pdf_path.endswith(".pdf")
         self.pdf_path = pdf_path
 
+    def is_valid(self):
+        try:
+            reader = PdfReader(self.pdf_path)
+            return len(reader.pages) > 0
+        except Exception:
+            return False
+
     @staticmethod
     def __compress_with_pymupdf__(input_path, output_path):
         assert input_path != output_path

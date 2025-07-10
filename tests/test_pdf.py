@@ -7,6 +7,16 @@ TEST_PDF_PATH = os.path.join("tests", "test_data", "test.pdf")
 
 
 class TestCase(unittest.TestCase):
+    def test_is_valid(self):
+        pdf = PDF(TEST_PDF_PATH)
+        self.assertTrue(pdf.is_valid())
+
+        invalid_pdf_path = os.path.join(
+            "tests", "test_data", "test-invalid.pdf"
+        )
+        invalid_pdf = PDF(invalid_pdf_path)
+        self.assertFalse(invalid_pdf.is_valid())
+
     def test_compress(self):
         output_path = os.path.join(
             "tests", "test_data", "test-compressed.pdf"
