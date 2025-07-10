@@ -8,7 +8,9 @@ TEST_PDF_PATH = os.path.join("tests", "test_data", "test.pdf")
 
 class TestCase(unittest.TestCase):
     def test_compress(self):
-        output_path = os.path.join("tests", "test_data", "test-compressed.pdf")
+        output_path = os.path.join(
+            "tests", "test_data", "test-compressed.pdf"
+        )
         if os.path.exists(output_path):
             os.remove(output_path)
 
