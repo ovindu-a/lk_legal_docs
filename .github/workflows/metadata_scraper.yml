@@ -15,18 +15,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo branch main
+      - name: "⬇️ Checkout lk_legal_docs"
         uses: actions/checkout@v4
         with:
           ref: "main"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-      - name: Set up Python
+      - name: "🐍 Set up Python"
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      - name: Cache pip dependencies
+      - name: "🐍 Cache pip dependencies"
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
@@ -34,7 +34,7 @@ jobs:
           restore-keys: |
             pip-${{ runner.os }}-
 
-      - name: Install dependencies
+      - name: "🐍 Install dependencies"
         run: |
           sudo apt update
           sudo apt install ghostscript
@@ -43,7 +43,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install build
 
-      - name: "python workflows/metadata_scraper.py"
+      - name: "⚙️ Run metadata_scraper"
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
 
@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
           python workflows/metadata_scraper.py ${{ github.event.inputs.max_delta_t }}
 
-      - name: Push
+      - name: "⬆️ Push lk_legal_docs"
         run: |
           git add .
           if git diff --cached --quiet; then
