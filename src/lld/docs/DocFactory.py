@@ -98,7 +98,7 @@ class DocFactory:
     @staticmethod
     def write_all():
         doc_list = DocFactory.list_all()
-        data_list = [doc.to_dict() for doc in doc_list]
+        data_list = [doc.to_minimal_dict() for doc in doc_list]
 
         for json_file_path, n in [
             (DocFactory.DOCS_ALL_JSON_PATH, len(data_list)),

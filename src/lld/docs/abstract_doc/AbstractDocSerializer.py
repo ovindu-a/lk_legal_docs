@@ -31,6 +31,14 @@ class AbstractDocSerializer:
             dir_data=self.dir_data,
         )
 
+    def to_minimal_dict(self):
+        return dict(
+            doc_type_name=self.get_doc_type_name(),
+            id=self.id,
+            date=self.date,
+            description=self.description,
+        )
+
     @classmethod
     def from_dict(cls, data):
         assert data["doc_type_name"] == cls.get_doc_type_name()
