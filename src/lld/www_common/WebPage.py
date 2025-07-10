@@ -12,7 +12,6 @@ from utils_future import Directory
 
 class WebPage:
     BASE_URL = "https://documents.gov.lk"
-    T_SLEEP = 1
     T_TIMEOUT = 240
     DIR_HTML_CACHE = "html_cache"
 
@@ -23,7 +22,6 @@ class WebPage:
         self.log = Log(f"🌐 {self.url}")
 
     def __get_response__(self):
-        time.sleep(WebPage.T_SLEEP)
         t_start = time.time()
         response = self.__session__.get(self.url, timeout=WebPage.T_TIMEOUT)
         delta_t = (time.time() - t_start) * 1000
