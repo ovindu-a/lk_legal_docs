@@ -3,8 +3,6 @@ from functools import cached_property
 
 from utils import JSONFile, Log
 
-from utils_future import Lang
-
 log = Log("AbstractDocSerializer")
 
 

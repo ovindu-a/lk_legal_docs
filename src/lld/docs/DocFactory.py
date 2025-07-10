@@ -1,7 +1,7 @@
 import os
 from functools import cache
 
-from utils import JSONFile, Log, TSVFile
+from utils import JSONFile, Log
 
 from lld.docs.abstract_doc import AbstractDoc
 from lld.docs.custom_docs import Act, Bill, ExtraGazette, Gazette
@@ -11,10 +11,11 @@ log = Log("DocFactory")
 
 
 class DocFactory:
-    ALL_TSV_PATH = os.path.join(AbstractDoc.DIR_DATA, "all.tsv")
+    DOCS_ALL_JSON_PATH = os.path.join(AbstractDoc.DIR_TEMP_DATA, "all.json")
     N_LATEST = 100
-    LATEST_TSV_PATH = os.path.join(
-        AbstractDoc.DIR_DATA, f"latest-{N_LATEST}.tsv"
+
+    DOCS_LATEST_JSON_PATH = os.path.join(
+        AbstractDoc.DIR_TEMP_DATA, f"latest-{N_LATEST}.json"
     )
 
     @staticmethod
@@ -93,3 +94,19 @@ class DocFactory:
             n_pdfs=sum(d.n_pdfs for d in doc_list),
             total_file_size=Directory(AbstractDoc.DIR_TEMP_DATA).size,
         )
+
+    @staticmethod
+    def write_all():
+        doc_list = DocFactory.list_all()
+        data_list = [doc.to_dict() for doc in doc_list]
+
+        for json_file_path, n in [
+            (DocFactory.DOCS_ALL_JSON_PATH, len(data_list)),
+            (
+                DocFactory.DOCS_LATEST_JSON_PATH,
+                min(DocFactory.N_LATEST, len(data_list)),
+            ),
+        ]:
+            JSONFile(json_file_path).write(data_list[:n])
+            file_size_m = os.path.getsize(json_file_path) / 1000_000
+            log.debug(f"Wrote {json_file_path} ({file_size_m:.1f} MB)")
