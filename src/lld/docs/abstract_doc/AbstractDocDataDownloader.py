@@ -57,6 +57,7 @@ class AbstractDocDataDownloader:
 
         fail_file_path = self.get_fail_pdf_path(lang_code)
         File(fail_file_path).write(self.id)
+        log.debug(f"Wrote {fail_file_path}")
         return False
 
     def download_pdfs(self):

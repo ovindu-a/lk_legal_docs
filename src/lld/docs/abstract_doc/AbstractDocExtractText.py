@@ -48,6 +48,7 @@ class AbstractDocExtractText:
 
         fail_txt_path = self.get_fail_txt_path(lang_code)
         File(fail_txt_path).write(self.id)
+        log.debug(f"Wrote {fail_txt_path}")
         return False
 
     def extract_text(self):
