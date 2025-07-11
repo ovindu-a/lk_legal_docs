@@ -1,4 +1,5 @@
 import os
+import random
 import sys
 import time
 
@@ -31,6 +32,9 @@ def main(max_delta_t):
 
     t_start = time.time()
     doc_list = DocFactory.list_all()
+    if random.random() < 0.5:
+        log.info("🎲 Shuffling the document list.")
+        random.shuffle(doc_list)
     n_doc_list = len(doc_list)
     log.debug(f"{n_doc_list=:,}")
 
