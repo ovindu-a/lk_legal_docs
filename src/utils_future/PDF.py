@@ -97,7 +97,15 @@ class PDF:
         sections = []
         for i_page, page in enumerate(reader.pages, start=1):
             sections.append(f"\n\n<!-- page {i_page} -->\n\n")
-            sections.append(page.extract_text() or "")
+            page_text = None
+            try:
+                page_text = page.extract_text()
+            except Exception as e:
+                log.error(
+                    "Failed to extract text from"
+                    + f" {self.pdf_path} - page {i_page} : {e}"
+                )
+            sections.append(page_text or "")
 
         content = "".join(sections)
         File(txt_path).write(content)
