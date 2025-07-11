@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-11 05:18:52**.*
+*Last Updated **2025-07-11 05:35:34**.*
 
 **43,969** documents (40.9 MB), from 1981-01-22 to 2025-07-08.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 12,552 PDFs (6.7 GB) for **4,504** documents (10.2%) have been downloaded. Final data size is estimated to be ~66 GB.
+📄 Currently, 12,560 PDFs (6.7 GB) for **4,504** documents (10.2%) have been downloaded. Final data size is estimated to be ~66 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**24** Documents
+**19** Documents
 
 - ✍️ [2025-07-08] [Penal Code (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/618-2025)
 - 🚨 [2025-07-07] [Presidential Secretariat - Appointed Secretary to the Ministry Finance Planning and Economic Development](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-09)
@@ -66,8 +66,3 @@ For best results, use a desktop browser.
 - 📢 [2025-07-04] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iib-advertising)
 - 📢 [2025-07-04] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iia-advertising)
 - 📢 [2025-07-04] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-i-general)
-- ✍️ [2025-07-03] [Mediation (Civil and Commercial Disputes) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/616-2025)
-- 🚨 [2025-07-03] [Presidential Secretariat - Removal from BMICH Management Membership](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-56)
-- 🚨 [2025-07-03] [Ministry of Urban Development, Construction and Housing - National Water Supply and Drainage Board Act, No 02 of1974 Order under Section 92](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-53)
-- 🚨 [2025-07-03] [Department of Local Government - UVA Province - Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 12 Local Government Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-51)
-- 🚨 [2025-07-03] [Election Commission - Parliamentary Elections Act. No 01 of 1981 Filling of a Vacancy under Section 64 (5)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-50)
