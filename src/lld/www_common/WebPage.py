@@ -15,6 +15,10 @@ class WebPage:
     BASE_URL = "https://documents.gov.lk"
     T_TIMEOUT = 240
     DIR_HTML_CACHE = "html_cache"
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        + " AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0 Safari/537.36"
+    }
 
     def __init__(self, url):
         assert url.startswith(self.BASE_URL)
@@ -22,7 +26,9 @@ class WebPage:
         self.__session__ = requests.Session()
 
     def __get_response__(self):
-        response = self.__session__.get(self.url, timeout=WebPage.T_TIMEOUT)
+        response = self.__session__.get(
+            self.url, headers=WebPage.HEADERS, timeout=WebPage.T_TIMEOUT
+        )
         response.raise_for_status()
         return response
 
