@@ -15,6 +15,7 @@ N_BATCH = 8
 
 def get_worker(doc):
     def worker(doc=doc):
+        log.debug(f"Working on {doc.id}.")
         is_hot = doc.download_all_data()
         if is_hot:
             log.info(f"✅ {doc.id}")

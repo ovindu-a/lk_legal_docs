@@ -9,6 +9,8 @@ from utils import File, Hash, Log
 
 from utils_future import Directory
 
+log = Log("WebPage")
+
 
 class WebPage:
     BASE_URL = "https://documents.gov.lk"
@@ -19,15 +21,9 @@ class WebPage:
         assert url.startswith(self.BASE_URL)
         self.url = url
         self.__session__ = requests.Session()
-        self.log = Log(f"🌐 {self.url}")
 
     def __get_response__(self):
-        t_start = time.time()
         response = self.__session__.get(self.url, timeout=WebPage.T_TIMEOUT)
-        delta_t = (time.time() - t_start) * 1000
-        self.log.debug(
-            f"{response.status_code} {response.reason}, {delta_t:,.0f}ms"
-        )
         response.raise_for_status()
         return response
 
@@ -56,7 +52,7 @@ class WebPage:
     @staticmethod
     def delete_html_cache():
         shutil.rmtree(WebPage.DIR_HTML_CACHE, ignore_errors=True)
-        Log("WebPage").warning(f"❌ Deleted {WebPage.DIR_HTML_CACHE}")
+        log.warning(f"❌ Deleted {WebPage.DIR_HTML_CACHE}")
 
     @staticmethod
     @cache
@@ -73,4 +69,4 @@ class WebPage:
             for chunk in response.iter_content(chunk_size=8192):
                 file.write(chunk)
         file_size_k = os.path.getsize(file_path) / (1_000)
-        self.log.debug(f"Wrote {file_path} ({file_size_k:.1f} KB)")
+        log.debug(f"Wrote {file_path} ({file_size_k:.1f} KB)")
