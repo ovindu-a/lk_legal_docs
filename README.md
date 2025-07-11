@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-11 18:22:20**.*
+*Last Updated **2025-07-11 18:46:07**.*
 
-**43,976** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
+**43,977** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 14,678 PDFs (7.6 GB) for **5,285** documents (12.0%) have been downloaded. Final data size is estimated to be ~63 GB.
+📄 Currently, 14,854 PDFs (7.7 GB) for **5,340** documents (12.1%) have been downloaded. Final data size is estimated to be ~63 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,271 | 2006-03-03 | 2025-07-11 |
+| 📢 Gazettes | 6,272 | 2006-03-03 | 2025-07-11 |
 | ✍️ Bills | 1,348 | 2010-05-10 | 2025-07-08 |
 | 🚨 Extraordinary Gazettes | 34,710 | 2010-01-01 | 2025-07-08 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
@@ -45,9 +45,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**25** Documents
+**26** Documents
 
 - 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
+- 📢 [2025-07-11] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-b-local-government)
 - 📢 [2025-07-11] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-a-provincial-councils)
 - 📢 [2025-07-11] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iia-advertising)
 - 📢 [2025-07-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-i-general)
