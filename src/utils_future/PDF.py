@@ -8,6 +8,9 @@ from utils import File, Log
 
 log = Log("PDF")
 
+pymupdf.TOOLS.mupdf_display_warnings(False)
+pymupdf.TOOLS.mupdf_display_errors(False)
+
 
 class PDF:
 
@@ -87,6 +90,19 @@ class PDF:
             shutil.copy(input_path, output_path)
             return
 
+    def __extract_text_for_page__(self, i_page, page, sections):
+        sections.append(f"\n\n<!-- page {i_page} -->\n\n")
+        page_text = None
+        try:
+            page_text = page.extract_text()
+        except Exception as e:
+            log.error(
+                "Failed to extract text from"
+                + f" {self.pdf_path} - page {i_page} : {e}"
+            )
+        sections.append(page_text or "")
+        return sections
+
     def extract_text(self, txt_path):
         try:
             reader = PdfReader(self.pdf_path)
@@ -96,16 +112,7 @@ class PDF:
 
         sections = []
         for i_page, page in enumerate(reader.pages, start=1):
-            sections.append(f"\n\n<!-- page {i_page} -->\n\n")
-            page_text = None
-            try:
-                page_text = page.extract_text()
-            except Exception as e:
-                log.error(
-                    "Failed to extract text from"
-                    + f" {self.pdf_path} - page {i_page} : {e}"
-                )
-            sections.append(page_text or "")
+            sections = self.__extract_text_for_page__(i_page, page, sections)
 
         content = "".join(sections)
         File(txt_path).write(content)
