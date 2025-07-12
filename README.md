@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-12 05:20:22**.*
+*Last Updated **2025-07-12 05:39:40**.*
 
 **43,977** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 17,384 PDFs (8.6 GB) for **6,323** documents (14.4%) have been downloaded. Final data size is estimated to be ~60 GB.
+📄 Currently, 17,343 PDFs (8.6 GB) for **6,297** documents (14.3%) have been downloaded. Final data size is estimated to be ~60 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**26** Documents
+**12** Documents
 
 - 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
 - 📢 [2025-07-11] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-b-local-government)
@@ -59,17 +59,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-07] [Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-07)
 - 🚨 [2025-07-07] [Election Commission - Local Authorities Elections Ordinance (Chapter 262) - Notice under Section 66 (2) "Elected to the Members of Akmeemana P.S and Bandarawela P.S](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-02)
 - 🚨 [2025-07-07] [Sri Lanka Customs - Rates of Exchange with effect from 07.07.2025 to 13.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-01)
-- ✍️ [2025-07-04] [Land Development (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/617-2025)
-- 🚨 [2025-07-04] [2443/70](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-70)
-- 🚨 [2025-07-04] [Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-61)
-- 🚨 [2025-07-04] [Election Commission - Local Authorities Elections Ordinance (Chapter 262) Notice under Section 66(2) Elected to the Members of Biyagama, Weraketiya and Thalawa P.S](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-60)
-- 🚨 [2025-07-04] [Department of Local Government - Norther Province - Elected Mayor, Deputy Mayor, Chairman and Vice Chairman in the 1st Meeting of Local Authorities in Norther Province](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-58)
-- 🚨 [2025-07-04] [Central Bank of Sri Lanka - Appointment of an Administrator to Nation Lanka Finance PLC](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2443-57)
-- 📢 [2025-07-04] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-legal-section)
-- 📢 [2025-07-04] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-land-section)
-- 📢 [2025-07-04] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iv-b-local-government)
-- 📢 [2025-07-04] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iv-a-provincial-councils)
-- 📢 [2025-07-04] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iii-trade-marks-and-patent-notices)
-- 📢 [2025-07-04] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iib-advertising)
-- 📢 [2025-07-04] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-iia-advertising)
-- 📢 [2025-07-04] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-04-i-general)
