@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-14 12:25:25**.*
+*Last Updated **2025-07-14 12:43:31**.*
 
-**43,997** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
+**44,002** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 28,055 PDFs (12.6 GB) for **10,227** documents (23.2%) have been downloaded. Final data size is estimated to be ~54 GB.
+📄 Currently, 28,083 PDFs (12.6 GB) for **10,243** documents (23.3%) have been downloaded. Final data size is estimated to be ~54 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,9 +28,9 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| 🚨 Extraordinary Gazettes | 34,734 | 2010-01-01 | 2025-07-11 |
 | 📢 Gazettes | 6,273 | 2006-03-03 | 2025-07-11 |
 | ✍️ Bills | 1,348 | 2010-05-10 | 2025-07-08 |
-| 🚨 Extraordinary Gazettes | 34,729 | 2010-01-01 | 2025-07-08 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
@@ -45,15 +45,19 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**19** Documents
 
+- 🚨 [2025-07-11] [Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-60)
 - 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
 - 📢 [2025-07-11] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-b-local-government)
 - 📢 [2025-07-11] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-a-provincial-councils)
 - 📢 [2025-07-11] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iib-advertising)
 - 📢 [2025-07-11] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iia-advertising)
 - 📢 [2025-07-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-i-general)
+- 🚨 [2025-07-09] [Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 14 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-31)
 - ✍️ [2025-07-08] [Penal Code (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/618-2025)
+- 🚨 [2025-07-08] [Ministry of Education, Higher Education and Vocational Education - Service Minute of the Sri Lanka Teachers' Service 3rd Amendment](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-21)
+- 🚨 [2025-07-08] [Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-16)
 - 🚨 [2025-07-08] [Department of Local Government - Southern Province - Notice Under Section 66 C (4) Appointed Chairman and Vice Chairman for Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-15)
 - 🚨 [2025-07-08] [2444/12](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-12)
 - 🚨 [2025-07-08] [Thirukkovil - District Secretariat - Pilgrimages Ordinance Annual Sri Siththira Velayutha Swami Temple Annual Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-11)
