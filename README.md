@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-15 05:22:47**.*
+*Last Updated **2025-07-15 05:40:31**.*
 
 **44,005** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 31,838 PDFs (13.9 GB) for **11,613** documents (26.4%) have been downloaded. Final data size is estimated to be ~53 GB.
+📄 Currently, 31,833 PDFs (13.9 GB) for **11,609** documents (26.4%) have been downloaded. Final data size is estimated to be ~53 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**19** Documents
+**15** Documents
 
 - 🚨 [2025-07-11] [Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-60)
 - 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
@@ -62,7 +62,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-08] [2444/12](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-12)
 - 🚨 [2025-07-08] [Thirukkovil - District Secretariat - Pilgrimages Ordinance Annual Sri Siththira Velayutha Swami Temple Annual Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-11)
 - 🚨 [2025-07-08] [District Secretariat - Galle - Pilgrimages Ordinance Annual Esala Festival and Procession at the Annual Esala festival and Procession at the Historic Seenigama Sri Devol Maha Devalaya - 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-10)
-- 🚨 [2025-07-07] [Presidential Secretariat - Appointed Secretary to the Ministry Finance Planning and Economic Development](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-09)
-- 🚨 [2025-07-07] [Elections Commission - Declare Elected as a Member of Parliament under Article 99A of the Constitution (Elected Mr. U.D.N. Jayaweera as a Member of the Tenth Parliament)](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-07)
-- 🚨 [2025-07-07] [Election Commission - Local Authorities Elections Ordinance (Chapter 262) - Notice under Section 66 (2) "Elected to the Members of Akmeemana P.S and Bandarawela P.S](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-02)
-- 🚨 [2025-07-07] [Sri Lanka Customs - Rates of Exchange with effect from 07.07.2025 to 13.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-01)
