@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-15 08:52:28**.*
+*Last Updated **2025-07-15 09:39:12**.*
 
 **44,005** documents (40.9 MB), from 1981-01-22 to 2025-07-11.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 32,136 PDFs (14.0 GB) for **11,717** documents (26.6%) have been downloaded. Final data size is estimated to be ~53 GB.
+📄 Currently, 32,178 PDFs (14.1 GB) for **11,732** documents (26.7%) have been downloaded. Final data size is estimated to be ~53 GB.
 
 ## 🆕 The Legal Documents App
 
