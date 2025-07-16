@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-16 05:17:48**.*
+*Last Updated **2025-07-16 05:35:23**.*
 
 **44,012** documents (40.9 MB), from 1981-01-22 to 2025-07-14.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 35,969 PDFs (15.4 GB) for **13,098** documents (29.8%) have been downloaded. Final data size is estimated to be ~52 GB.
+📄 Currently, 36,051 PDFs (15.4 GB) for **13,127** documents (29.8%) have been downloaded. Final data size is estimated to be ~52 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**19** Documents
+**11** Documents
 
 - 🚨 [2025-07-14] [Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-01)
 - 🚨 [2025-07-11] [Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-60)
@@ -58,11 +58,3 @@ For best results, use a desktop browser.
 - 📢 [2025-07-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-i-general)
 - 🚨 [2025-07-09] [Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 14 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-31)
 - 🚨 [2025-07-09] [2444/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-26)
-- ✍️ [2025-07-08] [Penal Code (Amendment) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/618-2025)
-- 🚨 [2025-07-08] [Ministry of Education, Higher Education and Vocational Education - Service Minute of the Sri Lanka Teachers' Service 3rd Amendment](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-21)
-- 🚨 [2025-07-08] [2444/18](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-18)
-- 🚨 [2025-07-08] [Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-16)
-- 🚨 [2025-07-08] [Department of Local Government - Southern Province - Notice Under Section 66 C (4) Appointed Chairman and Vice Chairman for Weligama Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-15)
-- 🚨 [2025-07-08] [2444/12](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-12)
-- 🚨 [2025-07-08] [Thirukkovil - District Secretariat - Pilgrimages Ordinance Annual Sri Siththira Velayutha Swami Temple Annual Festival - 2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-11)
-- 🚨 [2025-07-08] [District Secretariat - Galle - Pilgrimages Ordinance Annual Esala Festival and Procession at the Annual Esala festival and Procession at the Historic Seenigama Sri Devol Maha Devalaya - 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-10)
