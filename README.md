@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-17 05:22:01**.*
+*Last Updated **2025-07-17 05:37:28**.*
 
 **44,017** documents (40.9 MB), from 1981-01-22 to 2025-07-14.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 40,162 PDFs (16.8 GB) for **14,587** documents (33.1%) have been downloaded. Final data size is estimated to be ~51 GB.
+📄 Currently, 40,231 PDFs (16.8 GB) for **14,610** documents (33.2%) have been downloaded. Final data size is estimated to be ~51 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**14** Documents
 
 - 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
 - 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
@@ -61,5 +61,3 @@ For best results, use a desktop browser.
 - 📢 [2025-07-11] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iib-advertising)
 - 📢 [2025-07-11] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iia-advertising)
 - 📢 [2025-07-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-i-general)
-- 🚨 [2025-07-09] [Department of Local Government - Southern Province - Notice Under Section 66 C (1) Appointed Mayor, Deputy Mayor, Chairman and Vice Chairman for 14 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-31)
-- 🚨 [2025-07-09] [2444/26](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-26)
