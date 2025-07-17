@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-17 16:00:15**.*
+*Last Updated **2025-07-17 16:23:23**.*
 
-**44,024** documents (40.9 MB), from 1981-01-22 to 2025-07-14.
+**44,042** documents (40.9 MB), from 1981-01-22 to 2025-07-14.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 41,777 PDFs (17.3 GB) for **15,165** documents (34.4%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 41,975 PDFs (17.4 GB) for **15,240** documents (34.6%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,752 | 2010-01-01 | 2025-07-14 |
+| 🚨 Extraordinary Gazettes | 34,770 | 2010-01-01 | 2025-07-14 |
 | 📢 Gazettes | 6,275 | 2006-03-03 | 2025-07-11 |
 | ✍️ Bills | 1,350 | 2010-05-10 | 2025-07-09 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**15** Documents
 
 - 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
 - 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
@@ -53,6 +53,7 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-14] [2445/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-02)
 - 🚨 [2025-07-14] [Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-01)
 - 🚨 [2025-07-11] [Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-60)
+- 🚨 [2025-07-11] [2444/59](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-59)
 - 📢 [2025-07-11] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-legal-section)
 - 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
 - 📢 [2025-07-11] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-b-local-government)
