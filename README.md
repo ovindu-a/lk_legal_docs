@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-18 16:56:55**.*
+*Last Updated **2025-07-18 17:19:22**.*
 
-**44,050** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
+**44,055** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 46,558 PDFs (19.3 GB) for **16,870** documents (38.3%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 46,764 PDFs (19.3 GB) for **16,945** documents (38.5%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -30,7 +30,7 @@ For best results, use a desktop browser.
 | :-- | --: | :-- | :-- |
 | 📢 Gazettes | 6,281 | 2006-03-03 | 2025-07-18 |
 | ✍️ Bills | 1,352 | 2010-05-10 | 2025-07-17 |
-| 🚨 Extraordinary Gazettes | 34,770 | 2010-01-01 | 2025-07-14 |
+| 🚨 Extraordinary Gazettes | 34,775 | 2010-01-01 | 2025-07-17 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**23** Documents
+**25** Documents
 
 - 📢 [2025-07-18] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-legal-section)
 - 📢 [2025-07-18] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-land-section)
@@ -54,6 +54,8 @@ For best results, use a desktop browser.
 - 📢 [2025-07-18] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iia-advertising)
 - 📢 [2025-07-18] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-i-general)
 - ✍️ [2025-07-17] [National Building Research Institute - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/621-2025)
+- 🚨 [2025-07-17] [Department of Local Government - Western Province - Notice under Section 66C(1) Appointed Chairman and Vice Chairman of 03 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-47)
+- 🚨 [2025-07-16] [2445/32](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-32)
 - 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
 - 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
 - 🚨 [2025-07-14] [2445/03](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-03)
