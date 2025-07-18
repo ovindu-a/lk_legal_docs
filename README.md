@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-18 10:11:59**.*
+*Last Updated **2025-07-18 10:31:28**.*
 
-**44,042** documents (40.9 MB), from 1981-01-22 to 2025-07-14.
+**44,043** documents (40.9 MB), from 1981-01-22 to 2025-07-17.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 45,116 PDFs (18.7 GB) for **16,366** documents (37.2%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 45,109 PDFs (18.7 GB) for **16,366** documents (37.2%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,9 +28,9 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
+| ✍️ Bills | 1,351 | 2010-05-10 | 2025-07-17 |
 | 🚨 Extraordinary Gazettes | 34,770 | 2010-01-01 | 2025-07-14 |
 | 📢 Gazettes | 6,275 | 2006-03-03 | 2025-07-11 |
-| ✍️ Bills | 1,350 | 2010-05-10 | 2025-07-09 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
@@ -45,8 +45,9 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**15** Documents
+**16** Documents
 
+- ✍️ [2025-07-17] [National Building Research Institute - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/621-2025)
 - 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
 - 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
 - 🚨 [2025-07-14] [2445/03](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-03)
