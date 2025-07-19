@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-19 13:00:42**.*
+*Last Updated **2025-07-19 13:20:19**.*
 
-**44,055** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
+**44,057** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 50,081 PDFs (20.5 GB) for **18,111** documents (41.1%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 50,151 PDFs (20.6 GB) for **18,139** documents (41.2%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,8 +28,8 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 📢 Gazettes | 6,281 | 2006-03-03 | 2025-07-18 |
-| ✍️ Bills | 1,352 | 2010-05-10 | 2025-07-17 |
+| ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
+| 📢 Gazettes | 6,282 | 2006-03-03 | 2025-07-18 |
 | 🚨 Extraordinary Gazettes | 34,775 | 2010-01-01 | 2025-07-17 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
@@ -45,11 +45,13 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**14** Documents
+**16** Documents
 
+- ✍️ [2025-07-18] [Institute of Facilities Management Sri Lanka (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/623-2025)
 - 📢 [2025-07-18] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-legal-section)
 - 📢 [2025-07-18] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-land-section)
 - 📢 [2025-07-18] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iv-b-local-government)
+- 📢 [2025-07-18] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iii-trade-marks-and-patent-notices)
 - 📢 [2025-07-18] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iib-advertising)
 - 📢 [2025-07-18] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iia-advertising)
 - 📢 [2025-07-18] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-i-general)
