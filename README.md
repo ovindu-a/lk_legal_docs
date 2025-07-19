@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-19 16:02:08**.*
+*Last Updated **2025-07-19 16:23:47**.*
 
-**44,057** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
+**44,060** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 50,789 PDFs (20.8 GB) for **18,360** documents (41.7%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 50,861 PDFs (20.8 GB) for **18,387** documents (41.7%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -29,8 +29,8 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
+| 🚨 Extraordinary Gazettes | 34,778 | 2010-01-01 | 2025-07-18 |
 | 📢 Gazettes | 6,282 | 2006-03-03 | 2025-07-18 |
-| 🚨 Extraordinary Gazettes | 34,775 | 2010-01-01 | 2025-07-17 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
 ## Summary Charts
@@ -45,9 +45,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**16** Documents
+**17** Documents
 
 - ✍️ [2025-07-18] [Institute of Facilities Management Sri Lanka (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/623-2025)
+- 🚨 [2025-07-18] [2445/21](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-21)
 - 📢 [2025-07-18] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-legal-section)
 - 📢 [2025-07-18] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-land-section)
 - 📢 [2025-07-18] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iv-b-local-government)
