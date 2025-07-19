@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-19 05:21:32**.*
+*Last Updated **2025-07-19 05:38:18**.*
 
 **44,055** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 49,246 PDFs (20.3 GB) for **17,827** documents (40.5%) have been downloaded. Final data size is estimated to be ~50 GB.
+📄 Currently, 49,247 PDFs (20.3 GB) for **17,827** documents (40.5%) have been downloaded. Final data size is estimated to be ~50 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**25** Documents
+**14** Documents
 
 - 📢 [2025-07-18] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-legal-section)
 - 📢 [2025-07-18] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-land-section)
@@ -61,14 +61,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-14] [2445/03](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-03)
 - 🚨 [2025-07-14] [2445/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-02)
 - 🚨 [2025-07-14] [Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-01)
-- ✍️ [2025-07-11] [Mediation (Civil and Commercial Disputes) - Bill](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/622-2025)
-- 🚨 [2025-07-11] [Election Commission - Notice under Section 66 (2) Elected to Members for 08 L.G Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-60)
-- 🚨 [2025-07-11] [2444/59](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2444-59)
-- 📢 [2025-07-11] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-legal-section)
-- 📢 [2025-07-11] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-land-section)
-- 📢 [2025-07-11] [IV (B) - Local Government](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-b-local-government)
-- 📢 [2025-07-11] [IV (A) - Provincial Councils](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iv-a-provincial-councils)
-- 📢 [2025-07-11] [(III) - TRADE MARKS AND PATENT NOTICES](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iii-trade-marks-and-patent-notices)
-- 📢 [2025-07-11] [(IIB) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iib-advertising)
-- 📢 [2025-07-11] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-iia-advertising)
-- 📢 [2025-07-11] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-11-i-general)
