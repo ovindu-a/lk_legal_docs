@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-21 12:01:55**.*
+*Last Updated **2025-07-21 12:27:12**.*
 
-**44,061** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
+**44,065** documents (40.9 MB), from 1981-01-22 to 2025-07-18.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 58,674 PDFs (23.3 GB) for **21,126** documents (47.9%) have been downloaded. Final data size is estimated to be ~49 GB.
+📄 Currently, 58,776 PDFs (23.3 GB) for **21,163** documents (48.0%) have been downloaded. Final data size is estimated to be ~49 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -29,7 +29,7 @@ For best results, use a desktop browser.
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
-| 🚨 Extraordinary Gazettes | 34,778 | 2010-01-01 | 2025-07-18 |
+| 🚨 Extraordinary Gazettes | 34,782 | 2010-01-01 | 2025-07-18 |
 | 📢 Gazettes | 6,283 | 2006-03-03 | 2025-07-18 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
 
@@ -45,9 +45,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**18** Documents
+**21** Documents
 
 - ✍️ [2025-07-18] [Institute of Facilities Management Sri Lanka (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/623-2025)
+- 🚨 [2025-07-18] [Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-58)
 - 🚨 [2025-07-18] [2445/21](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-21)
 - 📢 [2025-07-18] [Legal Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-legal-section)
 - 📢 [2025-07-18] [Land Section](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-land-section)
@@ -58,7 +59,9 @@ For best results, use a desktop browser.
 - 📢 [2025-07-18] [(IIA) - Advertising](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-iia-advertising)
 - 📢 [2025-07-18] [(I) - General](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/gazettes/2025/2025-07-18-i-general)
 - ✍️ [2025-07-17] [National Building Research Institute - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/621-2025)
+- 🚨 [2025-07-17] [Minister of Public Administration Provincial Council and Local Government Appointments Under the Notaries Ordinance.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-48)
 - 🚨 [2025-07-17] [Department of Local Government - Western Province - Notice under Section 66C(1) Appointed Chairman and Vice Chairman of 03 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-47)
+- 🚨 [2025-07-17] [Dept. of Local Government - NWP Notice Under Section 66C (4) Appointed Chairman and Vice Chirman to the 02 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-46)
 - 🚨 [2025-07-16] [2445/32](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-32)
 - 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
 - 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
