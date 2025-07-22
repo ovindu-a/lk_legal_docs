@@ -1,8 +1,8 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-22 11:03:07**.*
+*Last Updated **2025-07-22 11:24:59**.*
 
-**44,067** documents (40.9 MB), from 1981-01-22 to 2025-07-21.
+**44,068** documents (40.9 MB), from 1981-01-22 to 2025-07-21.
 
 A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more,  from [documents.gov.lk](https://documents.gov.lk).
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 62,412 PDFs (24.6 GB) for **22,417** documents (50.9%) have been downloaded. Final data size is estimated to be ~48 GB.
+📄 Currently, 62,447 PDFs (24.6 GB) for **22,429** documents (50.9%) have been downloaded. Final data size is estimated to be ~48 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -28,7 +28,7 @@ For best results, use a desktop browser.
 
 | doc_type | n | min_date | max_date |
 | :-- | --: | :-- | :-- |
-| 🚨 Extraordinary Gazettes | 34,784 | 2010-01-01 | 2025-07-21 |
+| 🚨 Extraordinary Gazettes | 34,785 | 2010-01-01 | 2025-07-21 |
 | ✍️ Bills | 1,353 | 2010-05-10 | 2025-07-18 |
 | 📢 Gazettes | 6,283 | 2006-03-03 | 2025-07-18 |
 | 🏛️ Acts | 1,647 | 1981-01-22 | 2025-06-20 |
@@ -45,9 +45,10 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**17** Documents
+**18** Documents
 
 - 🚨 [2025-07-21] [National Medicines Regulatory Authority - Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-34)
+- 🚨 [2025-07-21] [Sri Lanka Customs - Rates of Exchange with effect from 21.07.2025 to 27.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-01)
 - ✍️ [2025-07-18] [Institute of Facilities Management Sri Lanka (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/623-2025)
 - 🚨 [2025-07-18] [Dept. of Local Government - Eastern Province Notice Under Section 66 (C) Summon the meeting fill the Vacancy for the Post of Lahugala Pradeshiya Sabha](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-58)
 - 🚨 [2025-07-18] [2445/21](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-21)
