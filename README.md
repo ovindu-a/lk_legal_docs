@@ -1,6 +1,6 @@
 # #SriLanka 🇱🇰 - Legal Documents #Dataset
 
-*Last Updated **2025-07-22 05:25:23**.*
+*Last Updated **2025-07-22 05:39:07**.*
 
 **44,067** documents (40.9 MB), from 1981-01-22 to 2025-07-21.
 
@@ -16,7 +16,7 @@ A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️
 
 #Legal #OpenData #GovTech
 
-📄 Currently, 61,604 PDFs (24.3 GB) for **22,138** documents (50.2%) have been downloaded. Final data size is estimated to be ~48 GB.
+📄 Currently, 61,716 PDFs (24.3 GB) for **22,174** documents (50.3%) have been downloaded. Final data size is estimated to be ~48 GB.
 
 ## 🆕 The Legal Documents App
 
@@ -45,7 +45,7 @@ For best results, use a desktop browser.
 
 ## Recent Documents (Published during the last 7 days)
 
-**22** Documents
+**17** Documents
 
 - 🚨 [2025-07-21] [National Medicines Regulatory Authority - Medicines (Pricing Mechanism for Medicines) Regulations No. 02 of 2025.](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2446-34)
 - ✍️ [2025-07-18] [Institute of Facilities Management Sri Lanka (Incorporation) - GS](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/bills/2025/623-2025)
@@ -64,8 +64,3 @@ For best results, use a desktop browser.
 - 🚨 [2025-07-17] [Department of Local Government - Western Province - Notice under Section 66C(1) Appointed Chairman and Vice Chairman of 03 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-47)
 - 🚨 [2025-07-17] [Dept. of Local Government - NWP Notice Under Section 66C (4) Appointed Chairman and Vice Chirman to the 02 L.G. Institutions](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-46)
 - 🚨 [2025-07-16] [2445/32](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-32)
-- 🚨 [2025-07-14] [2445/05](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-05)
-- 🚨 [2025-07-14] [2445/04](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-04)
-- 🚨 [2025-07-14] [2445/03](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-03)
-- 🚨 [2025-07-14] [2445/02](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-02)
-- 🚨 [2025-07-14] [Sri Lanka Customs - Rates of Exchange with effect from 14.07.2025 to 20.07.2025](https://github.com/nuuuwan/lk_legal_docs_data/tree/main/data/extra-gazettes/2025/2445-01)
