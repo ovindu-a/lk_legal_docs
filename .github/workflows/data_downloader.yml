@@ -7,8 +7,8 @@ on:
         description: "max_delta_t"
         required: false
         default: "1"
-  schedule:
-    - cron: "*/20 * * * *"
+  # schedule:
+  #   - cron: "*/20 * * * *"
 
 jobs:
   data_scraper:
@@ -54,7 +54,7 @@ jobs:
 
       - name: "⬇️ Checkout lk_legal_docs_data 🛢️"
         run: |
-          git clone --branch main --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /mnt/lk_legal_docs_data/
+          git clone --branch main --single-branch --depth 1 https://x-access-token:${{ secrets.REPO_DATA_TOKEN }}@github.com/nuuuwan/lk_legal_docs_data /tmp/lk_legal_docs_data/
 
       - name: "⚙️ Run data_scraper"
         run: |
@@ -90,7 +90,7 @@ jobs:
 
       - name: "⬆️ Push lk_legal_docs_data 🛢️"
         run: |
-          cd /mnt/lk_legal_docs_data/
+          cd /tmp/lk_legal_docs_data/
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
 
