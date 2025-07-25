@@ -7,7 +7,7 @@ from utils import Log, Parallel
 
 from lld import AbstractDoc, DocFactory
 
-DEFAULT_MAX_DELTA_T = 15 * 60
+DEFAULT_MAX_DELTA_T = 17 * 60
 
 
 log = Log("data_scraper")
