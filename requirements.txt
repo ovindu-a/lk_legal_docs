@@ -1,6 +1,28 @@
+# Core utilities
 utils-nuuuwan
-bs4
+
+# Web scraping and HTML parsing
+requests
+beautifulsoup4
+
+# PDF processing libraries
 pypdf
+pymupdf
+pypdfium2
+PyPDF2
+
+# OCR and advanced PDF processing
+ocrmypdf
+
+# Data analysis and visualization
 matplotlib
 scipy
-pymupdf
+
+# Development and testing
+flake8
+pytest
+build
+
+google-genai
+httpx
+dotenv
