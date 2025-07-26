@@ -60,6 +60,7 @@ def print_metadata(folder_path):
 def extract_year_data(year_dir_path):
     """
     Extracts data from all subdirectories in a year directory and creates a consolidated data.json file.
+    Updates data.json after each individual file extraction.
     
     Args:
         year_dir_path (str): Path to the year directory
@@ -86,7 +87,18 @@ def extract_year_data(year_dir_path):
         print(f"No document directories found in {year_dir.name}")
         return
     
+    # Load existing data if data.json already exists
+    output_file = year_dir / "data.json"
     extracted_data = []
+    
+    if output_file.exists():
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                extracted_data = json.load(f)
+            print(f"Loaded existing data.json with {len(extracted_data)} entries")
+        except Exception as e:
+            print(f"Warning: Could not load existing data.json: {e}")
+            extracted_data = []
     
     for doc_dir in doc_dirs:
         metadata_file = doc_dir / "metadata.json"
@@ -95,6 +107,14 @@ def extract_year_data(year_dir_path):
             try:
                 with open(metadata_file, 'r', encoding='utf-8') as f:
                     metadata = json.load(f)
+                
+                # Check if this document already exists in extracted_data
+                doc_id = metadata.get("id", doc_dir.name)
+                existing_entry = next((item for item in extracted_data if item.get("name") == doc_id), None)
+                
+                if existing_entry:
+                    print(f"⚠ Skipping {doc_dir.name} - already extracted")
+                    continue
                 
                 url = metadata.get("lang_to_source_url", {}).get("en", "")
                 
@@ -109,7 +129,7 @@ def extract_year_data(year_dir_path):
                 
                 # Extract the required properties
                 entry = {
-                    "name": metadata.get("id", doc_dir.name),
+                    "name": doc_id,
                     "lang_to_source_url": metadata.get("lang_to_source_url", {}),
                     "data": str(result.text),  # Use the extracted text from Gemini
                 }
@@ -119,6 +139,14 @@ def extract_year_data(year_dir_path):
                 extracted_data.append(entry)
                 print(f"✓ Extracted data from {doc_dir.name}")
                 
+                # Update data.json after each successful extraction
+                try:
+                    with open(output_file, 'w', encoding='utf-8') as f:
+                        json.dump(extracted_data, f, indent=2, ensure_ascii=False)
+                    print(f"✓ Updated data.json - Total entries: {len(extracted_data)}")
+                except Exception as e:
+                    print(f"✗ Error updating data.json: {e}")
+                
             except json.JSONDecodeError as e:
                 print(f"✗ Error parsing metadata.json in {doc_dir.name}: {e}")
             except Exception as e:
@@ -126,18 +154,8 @@ def extract_year_data(year_dir_path):
         else:
             print(f"✗ No metadata.json found in {doc_dir.name}")
     
-    # Create the consolidated data.json file in the year directory
-    output_file = year_dir / "data.json"
-    
-    try:
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(extracted_data, f, indent=2, ensure_ascii=False)
-        
-        print(f"\n✓ Successfully created {output_file}")
-        print(f"  Total entries: {len(extracted_data)}")
-        
-    except Exception as e:
-        print(f"✗ Error creating data.json: {e}")
+    print(f"\n✓ Extraction complete for {year_dir.name}")
+    print(f"  Total entries in data.json: {len(extracted_data)}")
 
 
 def traverse_year(year_dir, folder_name):
