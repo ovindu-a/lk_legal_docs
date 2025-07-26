@@ -219,8 +219,12 @@ def traverse_folders(folder_name):
     
     print(f"Found {len(year_dirs)} year directories:")
     
-    for year_dir in year_dirs:
-        extract_year_data(str(year_dir))
+    if folder_name == 'gazettes':
+        for year_dir in year_dirs[12:]:
+            extract_year_data(str(year_dir))
+    else:
+        for year_dir in year_dirs:
+            extract_year_data(str(year_dir))
 
 
 def cleanup_data_files():
@@ -268,7 +272,7 @@ def cleanup_data_files():
 
 def main():
     """Main function to traverse through all specified folders."""
-    folders_to_traverse = ['gazettes']
+    folders_to_traverse = ['gazettes', 'bills', 'acts']
     
     for folder in folders_to_traverse:
         traverse_folders(folder)
