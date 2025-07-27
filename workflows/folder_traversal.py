@@ -272,7 +272,7 @@ def cleanup_data_files():
 
 def main():
     """Main function to traverse through all specified folders."""
-    folders_to_traverse = ['gazettes', 'bills', 'acts']
+    folders_to_traverse = ['acts', 'bills', 'gazettes', 'extra-gazettes']
     
     for folder in folders_to_traverse:
         traverse_folders(folder)
