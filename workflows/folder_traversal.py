@@ -223,7 +223,7 @@ def traverse_folders(folder_name):
         for year_dir in year_dirs[12:]:
             extract_year_data(str(year_dir))
     else:
-        for year_dir in year_dirs[6:]:
+        for year_dir in year_dirs[8:]:
             extract_year_data(str(year_dir))
 
 
